@@ -1,1 +1,330 @@
+#EXTM3U
+
+<------ Australia Temp -------->
+#EXTINF:-1 group-title="Australia - Temp",10 bold
+http://103.125.191.32:9981/stream/channelid/1445499768?profile=cvaceplus
+#EXTINF:-1 group-title="Australia - Temp",10 hd
+http://103.125.191.32:9981/stream/channelid/635165106?profile=cvaceplus
+#EXTINF:-1 group-title="Australia - Temp",7hd
+http://103.125.191.32:9981/stream/channelid/966639205?profile=cvaceplus
+#EXTINF:-1 group-title="Australia - Temp",9hd
+http://103.125.191.32:9981/stream/channelid/30478497?profile=cvaceplus
+#EXTINF:-1 group-title="Australia - Temp",9gem
+http://103.125.191.32:9981/stream/channelid/2035435997?profile=cvaceplus
+#EXTINF:-1 group-title="Australia - Temp",Sbs one hd
+http://103.125.191.32:9981/stream/channelid/49598344?profile=cvaceplus
+
+
+#EXTINF:-1 ,BT Sport (1)
+https://srv.vhls.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
+#EXTINF:-1 ,BT Sport (2)
+https://srv.vhls.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
+#EXTINF:-1 ,BT Sport (3)
+https://srv.vhls.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
+
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="TEN 1 HD" tvg-logo="http://premiumclub.app:80/images/bf5d2fd5134db99bcecff2d8a43d281a.png",TEN 1 HD 
+http://appleiptv.com:80/2514/2514/31162 
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD" tvg-logo="http://premiumclub.app:80/images/849344a514e5cb37daa17e0a9913bea9.png",TEN 2 HD 
+http://appleiptv.com:80/2514/2514/31163 
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="TEN 3 HD" tvg-logo="http://premiumclub.app:80/images/7db2005730bd32e9e3406b0ebd834180.png" ,TEN 3 HD 
+http://appleiptv.com:80/2514/2514/31164 
+#EXTINF:-1 ,Dreamworks English
+http://red.ipfox.org:8080/live/osama2022/osama2023/48435.m3u8
+#EXTINF:-1 ,Phoenix Movies
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+#EXTINF:-1 ,UseeSports.1
+http://pprotv.com/live/asim1234/123456/39554.m3u8
+#EXTINF:-1 ,UseeSports.2
+http://pprotv.com/live/asim1234/123456/39555.m3u8
+
+
+
+
+
+#EXTINF:-1 ,视
+http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
+EXTINF:-1 ,湖北卫视
+http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
+EXTINF:-1 ,黑龙江卫
+http://117.148.179.141/PLTV/88888888/224/3221231967/index.m3u8
+EXTINF:-1 ,安徽卫视
+http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+EXTINF:-1 ,辽宁卫视
+http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8
+EXTINF:-1 ,江西卫
+http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8
+EXTINF:-1 ,四川卫视
+http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
+EXTINF:-1 ,河北卫视
+http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8
+EXTINF:-1 ,贵州卫视
+http://117.148.179.160/PLTV/88888888/224/3221231676/index.m3u8
+EXTINF:-1 ,山西卫视
+http://117.148.179.169/PLTV/88888888/224/3221231444/index.m3u8
+EXTINF:-1 ,东南卫视
+http://117.148.179.160/PLTV/88888888/224/3221231414/index.m3u8
+EXTINF:-1 ,青海卫视
+http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8
+EXTINF:-1 ,云南卫视
+http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8
+EXTINF:-1 ,河南卫视
+http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
+EXTINF:-1 ,陕西卫
+http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
+EXTINF:-1 ,吉林卫视
+http://117.148.179.164/PLTV/88888888/224/3221231472/index.m3u8
+EXTINF:-1 ,广西卫视
+http://117.148.179.164/PLTV/88888888/224/3221231600/index.m3u8
+EXTINF:-1 ,内蒙古卫视
+http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8
+EXTINF:-1 ,宁夏卫视
+http://117.148.179.160/PLTV/88888888/224/3221231441/index.m3u8
+EXTINF:-1 ,甘肃卫视
+http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8
+EXTINF:-1 ,重庆卫视
+http://117.148.179.155/PLTV/88888888/224/3221231508/index.m3u8
+EXTINF:-1 ,新疆卫视
+http://117.148.179.183/PLTV/88888888/224/3221231451/index.m3u8
+EXTINF:-1 ,兵团卫视
+http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8
+EXTINF:-1 ,厦门卫视
+http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
+#EXTINF:-1 ,บอล PP体育
+http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
+#EXTINF:-1 ,ตกปลา 四海钓鱼
+http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
+#EXTINF:-1 ,影视1
+http://117.148.179.163/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 ,影视2
+http://117.148.179.163/PLTV/88888888/224/3221231727/index.m3u8
+#EXTINF:-1 ,影视3
+http://117.148.179.163/PLTV/88888888/224/3221231763/index.m3u8
+#EXTINF:-1 ,影视4
+http://117.148.179.163/PLTV/88888888/224/3221231787/index.m3u8
+#EXTINF:-1 ,电影院
+http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 ,周润发
+http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 ,周星驰
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1 ,成龙
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 ,张国荣
+http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+#EXTINF:-1 ,郭富城
+http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 ,吴京
+http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 ,刘德华
+http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 ,杨幂
+http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+#EXTINF:-1 ,刘亦菲
+http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+#EXTINF:-1 ,古天乐
+http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 ,金庸作品
+http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+#EXTINF:-1 ,古龙作品
+http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+#EXTINF:-1 ,喜剧联盟
+http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 ,高分影院
+http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 ,怀旧老片
+http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+#EXTINF:-1 ,午夜剧场
+http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
+#EXTINF:-1 ,殭尸剧场
+http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+#EXTINF:-1 ,TVB剧场
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1 ,新片放映厅
+http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+#EXTINF:-1 ,盗墓
+http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+#EXTINF:-1 ,试胆大会
+http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1 ,高能烧脑时刻
+http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+#EXTINF:-1 ,4K剧场
+http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+#EXTINF:-1 ,爱情公寓
+http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+#EXTINF:-1 ,军旅剧场
+http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+#EXTINF:-1 ,SNH48剧场公演
+http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+#EXTINF:-1 ,少林剧场
+http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+#EXTINF:-1 ,黄金剧场
+http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
+#EXTINF:-1 ,追剧少女
+http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 ,经典贺岁片
+http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+#EXTINF:-1 ,每日荐影
+http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+#EXTINF:-1 ,侠剧场
+http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+
+
+<------ VSHHD -------->
+
+
+
+
+
+<------ Malaysia Temp -------->
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Ta-Daa!
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Ceria
+https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28JLnl_C9EKslJCeTwbEZBDo
+#EXTINF:-1 group-title="Malaysia - Temp",MY: TVB Classic
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157510
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Fox Family Movies
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157570
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Disney XD
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157544
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png"  group-title="Malaysia - Temp",TV3
+http://ky-iptv.com:80/walter6/walter/1400733.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia - Temp" ,TVBS ASIA
+http://ky-iptv.com:80/walter6/walter/1400737.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia - Temp" ,TVB CLASSIC
+http://ky-iptv.com:80/walter6/walter/1400739.ts
+#EXTINF:-1 group-title="Malaysia - Temp",Jackie Chan 24/7
+http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+#EXTINF:-1 group-title="Malaysia - Temp",MY: UFC_sports
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Arena
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157485
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Arena 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/287793
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 1
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/146068
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157556
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 3
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157557
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 4
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157558
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Sony Ten 1
+http://yashraj-mod-06.in1.bitmana.io//live.php?c=Ten_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_1 HD TH MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_2 HD TH MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_3 HD TH MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_4 HD TH MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
+
+
+
+
+
+<------ INDIA TEMP SPORTS -------->
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIA TEMP SPORTS",Star Sports 1
+http://208.86.19.13:81/710.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS",Star Sports 2
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136615
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports Select 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports select 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136616
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",TEN 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",TEN 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super PK" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",Geo Super PK
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports_1_HD
+http://208.86.19.13:81/710.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports_1 Selected HD
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports_3HD
+http://208.86.19.13:81/732.stream/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDIA TEMP SPORTS",TEN 1 (1)
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="INDIA TEMP SPORTS",Sony_Six_HD 
+http://103.55.144.46/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="INDIA TEMP SPORTS",Sony.Ten.1_HD 
+http://103.55.144.46/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="INDIA TEMP SPORTS",Sony.Ten.2_HD 
+http://103.55.144.46/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="INDIA TEMP SPORTS",Sony.Ten.3_HD 
+http://103.55.144.46/hls/sonyten3.m3u8
+
+
+
+
+
+<--------ADT------------>
+
+#EXTINF:1 group-title="ADT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", Fashion Tv
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:1 group-title="ADT" tvg-logo="https://i.imgur.com/ikorRe8.png", A3BIKINI
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 group-title="ADT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/2560px-Dorcel_TV.svg.png", Dorcel TV HD
+http://185.236.229.31:9981/play/a03c
+#EXTINF:-1 group-title="ADT" , Private HD
+http://185.236.229.31:9981/play/a03p
+#EXTINF:-1 group-title="ADT" , BRAZZERS
+http://185.236.229.31:9981/play/a03d
+#EXTINF:-1 group-title="ADT" ,Hustler HD
+http://185.236.229.31:9981/play/a03n
+#EXTINF:-1 group-title="ADT" tvg-logo="http://totv.org/img/leo.png", Extasy HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 group-title="ADT" tvg-logo="http://totv.org/img/redlight-central.png", REDLIGHT
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="ADT" , REDLIGHT HD
+http://109.200.130.123:7032/play/353
+#EXTINF:-1 group-title="ADT", VIVID RED
+http://109.200.130.123:7032/play/a00g
+#EXTINF:-1 group-title="ADT", Eroxxx HD
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1  group-title="ADT" tvg-logo="https://iptvx.one/icn/barely-legal.png",Barely Legal
+http://46.181.193.122:81/udp/239.255.42.224:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://iptvx.one/icn/blue-hustler.png",Blue Hustler
+http://46.181.193.122:81/udp/239.255.42.222:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://iptvx.one/icn/brazzers.png",Brazzers TV
+http://46.181.193.122:81/udp/239.255.42.220:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://iptvx.one/icn/hustler-hd.png",Hustler HD
+http://46.181.193.122:81/udp/239.255.43.53:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://tvoetv.online/img/ch_icons/o_la_la.png",O-la-la
+http://46.181.193.122:81/udp/239.255.42.219:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://iptvx.one/icn/playboy-tv.png",Playboy TV
+http://46.181.193.122:81/udp/239.255.42.221:1234
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="ADT" ,VSVHD_XXX1(18+)
+http://176.9.17.76:7080/live/stream/8dl627dwai/64.ts?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="ADT" ,VSVHD_XXX2(18+)
+http://176.9.17.76:7080/live/stream/8dl627dwai/65.ts?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="ADT" ,VSVHD_XXX3(18+)
+http://176.9.17.76:7080/live/stream/8dl627dwai/66.ts?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="ADT" ,VSVHD_XXX4(18+)
+http://176.9.17.76:7080/live/stream/8dl627dwai/67.ts?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="ADT" ,VSVHD_XXX5(18+)
+http://176.9.17.76:7080/live/stream/8dl627dwai/71.ts?shareext.ts
+
+
+
 
