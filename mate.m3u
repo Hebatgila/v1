@@ -953,11 +953,17 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 #EXTINF:-1 group-title="SPORTS",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS", ESPN USA 1
-http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+#EXTINF:-1 group-title="SPORTS",US: ESPN HD
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/747
+#EXTINF:-1 group-title="SPORTS",US: ESPN 2 HD
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/41918
+#EXTINF:-1, group-title="SPORTS"US: ESPN 3 HD
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/14816
 
-#EXTINF:-1 group-title="SPORTS", ESPN USA 2
-http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Espn
+http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/19156/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Espn 2
+http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/19155/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SPORTS",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -997,8 +1003,6 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes
 
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",TEN 1 HD IN
@@ -1091,8 +1095,10 @@ http://ky-iptv.com:80/walter6/walter/220453.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"  group-title="SPORTS",WORLD FISHING NETWORK
 http://ky-iptv.com:80/walter6/walter/220454.ts
 
-#EXTINF:-1 group-title="SPORTS" , USEE SPORT 2
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8
+#EXTINF:-1  group-title="SPORTS",UseeSports.1
+http://pprotv.com/live/asim1234/123456/39554.m3u8
+#EXTINF:-1  group-title="SPORTS",UseeSports.2
+http://pprotv.com/live/asim1234/123456/39555.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="RTM SUKAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="SPORTS",RTM SUKAN
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
