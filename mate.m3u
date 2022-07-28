@@ -32,12 +32,6 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157510
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157570
 #EXTINF:-1 group-title="Malaysia - Temp",MY: Disney XD
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157544
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png"  group-title="Malaysia - Temp",TV3
-http://ky-iptv.com:80/walter6/walter/1400733.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia - Temp" ,TVBS ASIA
-http://ky-iptv.com:80/walter6/walter/1400737.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Malaysia - Temp" ,TVB CLASSIC
-http://ky-iptv.com:80/walter6/walter/1400739.ts
 #EXTINF:-1 group-title="Malaysia - Temp",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 #EXTINF:-1 group-title="Malaysia - Temp",MY: UFC_sports
@@ -952,6 +946,11 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 
 #EXTINF:-1 group-title="SPORTS",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-2022  group-title="SPORTS", FOX SPORTS
+http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
+#EXTINF:-2022 group-title="SPORTS", FOX SPORTS 02
+http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS",US: ESPN HD
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/747
