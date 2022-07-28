@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, WION
+http://208.86.19.13:81/714.stream/index.m3u8
 
 #EXTINF:-2022, FOX SPORTS
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
@@ -88,18 +90,11 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIA TEMP SPORTS",Star Sports 1
 http://208.86.19.13:81/710.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS", 711
-http://208.86.19.13:81/711.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS", 712
-http://208.86.19.13:81/712.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS", 713
-http://208.86.19.13:81/713.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS", 714
-http://208.86.19.13:81/714.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS", 715
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS", Star Sports 2
 http://208.86.19.13:81/715.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS", 716
-http://208.86.19.13:81/716.stream/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports 1 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports 2 HD IN
