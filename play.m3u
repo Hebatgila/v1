@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-2022, ESPN (US)
-http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
-#EXTINF:-2022, ESPN 02 (US)
-http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
+
 #EXTINF:-2022, FOX SPORTS
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-2022, FOX SPORTS 02
