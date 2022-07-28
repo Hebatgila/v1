@@ -48,8 +48,7 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157556
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157557
 #EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 4
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157558
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Sony Ten 1
-http://yashraj-mod-06.in1.bitmana.io//live.php?c=Ten_HD&q=1200&e=junk.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_2 HD TH MY
@@ -198,7 +197,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 
-
 <----------------------------------- Trial Channel --------------------------------------->
 #EXTINF:0 group-title="TRIAL CHANNEL", Family Feud
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
@@ -257,8 +255,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae
 #EXTINF:-1 tvg-id="5a66795ef91fef2c7031c599" tvg-chno="70" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="TRIAL CHANNEL",Pluto TV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&FLIX HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b711288c7fbb343d4f4c331/1565809264187/87f589027d5620f2e5853709bde40098.png?dl=1" group-title="TRIAL CHANNEL" ,&FLIX HD
-http://appleiptv.com:80/9242/9242/42961
 
 #EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://i.imgur.com/K8YUMMt.png",Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
@@ -266,30 +262,21 @@ http://103.55.144.46/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png" group-title="TRIAL CHANNEL"  , STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
-#EXTINF:-1 group-title="TRIAL CHANNEL" ,Sony Pix SD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Pix_SD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png",Sony Pix HD(Flixhub)
+#EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png",Sony Pix HD
 http://103.55.144.46/hls/sonypixhd.m3u8
 
 #EXTINF:-1 group-title="TRIAL CHANNEL"  tvg-logo="https://i.imgur.com/kBiWPbB.png",Colors Infinity (IN)
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TRIAL CHANNEL"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Colors-infinity.jpg/revision/latest?cb=20171125165019",Colors Infinity SD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Infinity_SD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" catchup-source="http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8" group-title="TRIAL CHANNEL" ,Star Movies
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=862740&extension=ts
 
 #EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/11511
-#EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD 1
+#EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD (AB)
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/280254
-#EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD 3 (IN)
+#EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png", Dreamworks HD 
-http://red.ipfox.org:8080/live/osama2022/osama2023/48435.m3u8
 
 #EXTINF:-1 group-title="TRIAL CHANNEL" , GUSA Movies
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
@@ -932,20 +919,10 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-name="Pluto TV IMPACT Wrestling" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="SPORTS",Pluto TV IMPACT Wrestling (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="RingofHonorWrestling.us" tvg-name="Ring of Honor Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="SPORTS",Ring of Honor Wrestling (720p)
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS", UK Sport TOnite Live
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
 #EXTINF:-2022  group-title="SPORTS", FOX SPORTS
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
@@ -956,7 +933,7 @@ http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/747
 #EXTINF:-1 group-title="SPORTS",US: ESPN 2 HD
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/41918
-#EXTINF:-1, group-title="SPORTS"US: ESPN 3 HD
+#EXTINF:-1, group-title="SPORTS", US: ESPN 3 HD
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/14816
 
 #EXTINF:-1 group-title="SPORTS", Espn
@@ -1043,6 +1020,14 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://93.152.174.144:4000/play/btsport2/index.m3u8 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS",BT Sport 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS" ,BT Sport (1)
+https://srv.vhls.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="SPORTS" ,BT Sport (2)
+https://srv.vhls.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS" ,BT Sport (3)
+https://srv.vhls.ru.com/cdn/premium33/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , BT SPORT (ESPN)
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
@@ -1079,24 +1064,16 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115302
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , WWE NETWORK 1
 http://93.152.174.144:4000/play/WWE/index.m3u8
 
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="Usa | Sport: WWE Network HD" tvg-logo="http://vod-logo.net/photos/d09f02cb9e44fc2ffc9352930e764838.jpg" group-title="SPORTS",WWE Network HD 2
-http://new-pro.tv:8080/mazen1/123456/70446
 
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="Usa | Sport: WWE Network HD" tvg-logo="http://vod-logo.net/photos/d09f02cb9e44fc2ffc9352930e764838.jpg" group-title="SPORTS",WWE NETWORK HD
-http://ky-iptv.com:80/walter6/walter/220389.ts
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"  group-title="SPORTS",UFC Network
-http://ky-iptv.com:80/walter6/walter/220452.ts
+#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-name="Pluto TV IMPACT Wrestling" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="SPORTS",Pluto TV IMPACT Wrestling (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"  group-title="SPORTS",VSIN HD
-http://ky-iptv.com:80/walter6/walter/220453.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"  group-title="SPORTS",WORLD FISHING NETWORK
-http://ky-iptv.com:80/walter6/walter/220454.ts
-
-#EXTINF:-1  group-title="SPORTS",UseeSports.1
+#EXTINF:-1  group-title="SPORTS",UseeSports 1
 http://pprotv.com/live/asim1234/123456/39554.m3u8
-#EXTINF:-1  group-title="SPORTS",UseeSports.2
+#EXTINF:-1  group-title="SPORTS",UseeSports 2
 http://pprotv.com/live/asim1234/123456/39555.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="RTM SUKAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="SPORTS",RTM SUKAN
