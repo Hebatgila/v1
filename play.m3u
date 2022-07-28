@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1,PlayBoy [playlist-iptv.ru]
+http://46.23.144.153:81/udp/239.1.6.39:1234
+#EXTINF:-1,Barely Legal TV
+http://46.23.144.153:81/udp/239.1.21.71:1234
+#EXTINF:-1,O-la-la
+http://46.23.144.153:81/udp/239.1.6.34:1234
+#EXTINF:-1,Blue Hustler
+http://46.23.144.153:81/udp/239.1.6.36:1234
+#EXTINF:-1,Brazzers TV [playlist-iptv.ru]
+http://46.23.144.153:81/udp/239.1.6.40:1234
+#EXTINF:-1,Candy HD
+http://46.23.144.153:81/udp/239.1.19.143:1234
+#EXTINF:-1,Frenchlover
+http://46.23.144.153:81/udp/239.1.19.140:1234
+
 #EXTINF:-1, WION
 http://208.86.19.13:81/714.stream/index.m3u8
 
