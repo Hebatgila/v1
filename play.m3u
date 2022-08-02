@@ -1,19 +1,66 @@
 #EXTM3U
 
-#EXTINF:-1,PlayBoy [playlist-iptv.ru]
-http://46.23.144.153:81/udp/239.1.6.39:1234
-#EXTINF:-1,Barely Legal TV
-http://46.23.144.153:81/udp/239.1.21.71:1234
-#EXTINF:-1,O-la-la
-http://46.23.144.153:81/udp/239.1.6.34:1234
-#EXTINF:-1,Blue Hustler
-http://46.23.144.153:81/udp/239.1.6.36:1234
-#EXTINF:-1,Brazzers TV [playlist-iptv.ru]
-http://46.23.144.153:81/udp/239.1.6.40:1234
-#EXTINF:-1,Candy HD
-http://46.23.144.153:81/udp/239.1.19.143:1234
-#EXTINF:-1,Frenchlover
-http://46.23.144.153:81/udp/239.1.19.140:1234
+#EXTINF:-1 tvg-id="6581" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6581.png" group-title="Спорт",ESPN 2 HD USA
+http://21929815.rossteleccom.net/iptv/5KMS82SYF6WK54/19155/index.m3u8
+#EXTINF:-1 tvg-id="6582" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6582.png" group-title="Спорт",ESPN USA
+http://21929815.rossteleccom.net/iptv/5KMS82SYF6WK54/19156/index.m3u8
+
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:-1 tvg-id="3151" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3151.png" group-title="Взрослые",Brazzers HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6182/index.m3u8
+#EXTINF:-1 tvg-id="2021" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="Взрослые",Brazzers TV Europe
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/910/index.m3u8
+#EXTINF:-1 tvg-id="3150" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3150.png" group-title="Взрослые",Brazzers eXXtra
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6181/index.m3u8
+#EXTINF:-1 tvg-id="2322" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2322.png" group-title="Взрослые",Hustler HD orig
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/9065/index.m3u8
+#EXTINF:-1 tvg-id="2322" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2322.png" group-title="Взрослые",Hustler HD Europe
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/244/index.m3u8
+#EXTINF:-1 tvg-id="2249" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2249.png" group-title="Взрослые",Blue Hustler
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/1064/index.m3u8
+#EXTINF:-1 tvg-id="2776" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2776.png" group-title="Взрослые",Penthouse Passion HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/1073/index.m3u8
+#EXTINF:-1 tvg-id="2777" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2777.png" group-title="Взрослые",Penthouse Gold HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/5011/index.m3u8
+#EXTINF:-1 tvg-id="2779" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2779.png" group-title="Взрослые",Penthouse Quickies HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/5013/index.m3u8
+#EXTINF:-1 tvg-id="2319" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2319.png" group-title="Взрослые",Passion XXX
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/878/index.m3u8
+#EXTINF:-1 tvg-id="2527" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2527.png" group-title="Взрослые",O-la-la
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/2161/index.m3u8
+#EXTINF:-1 tvg-id="3167" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3167.png" group-title="Взрослые",Dusk
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6198/index.m3u8
+#EXTINF:-1 tvg-id="3168" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3168.png" group-title="Взрослые",Evil Angel HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6199/index.m3u8
+#EXTINF:-1 tvg-id="3169" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3169.png" group-title="Взрослые",Evolved Fights
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6200/index.m3u8
+#EXTINF:-1 tvg-id="3170" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3170.png" group-title="Взрослые",Extasy HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6201/index.m3u8
+#EXTINF:-1 tvg-id="3171" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3171.png" group-title="Взрослые",Fake Taxi HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6202/index.m3u8
+#EXTINF:-1 tvg-id="3164" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3164.png" group-title="Взрослые",Digital Desire HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6195/index.m3u8
+#EXTINF:-1 tvg-id="3165" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3165.png" group-title="Взрослые",Digital Playground HD
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/6196/index.m3u8
+#EXTINF:-1 tvg-id="4991" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4991.png" group-title="Взрослые",GANGBANG CREAMPIE
+http://tduzsfhg.megatv.fun/iptv/QLWDBAN6QY24H4/12184/index.m3u8
+
+#EXTINF:-1 tvg-id="2405" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2405.png" group-title="Кино",Paramount Channel HD
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/5063/index.m3u8
+#EXTINF:-1 tvg-id="2405" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2405.png" group-title="Кино",Paramount Channel HD orig
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/9053/index.m3u8
+#EXTINF:-1 tvg-id="2405" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2405.png" group-title="Кино",Paramount Channel
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/2055/index.m3u8
+#EXTINF:-1 tvg-id="2405" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2405.png" group-title="Кино",Paramount Channel orig
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/9242/index.m3u8
+#EXTINF:-1 tvg-id="920" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино",Paramount Comedy HD
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/6000/index.m3u8
+#EXTINF:-1 tvg-id="920" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино",Paramount Comedy HD orig
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/9052/index.m3u8
+#EXTINF:-1 tvg-id="1031" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",Fox HD
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/219/index.m3u8
+#EXTINF:-1 tvg-id="1031" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX HD orig
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/9018/index.m3u8
 
 #EXTINF:-1, WION
 http://208.86.19.13:81/714.stream/index.m3u8
