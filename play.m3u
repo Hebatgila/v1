@@ -1,9 +1,20 @@
 #EXTM3U
 
-
-
+#EXTINF:-1, VSIN
+https://stream.rcncdn.com/live/vsinproxy.m3u8
+#EXTINF:-1, Wutang Collection
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1, VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1, AMC+
+https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1, Actionable
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
+#EXTINF:-1, Youtv
+https://tv.sikkylab.me/hls/stream.m3u8
 #EXTINF:-1, WION
 http://208.86.19.13:81/714.stream/index.m3u8
+
 
 #EXTINF:-2022, FOX SPORTS
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
