@@ -22,33 +22,8 @@
 
 <------ Malaysia Temp -------->
 
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Ta-Daa!
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Ceria
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28JLnl_C9EKslJCeTwbEZBDo
-#EXTINF:-1 group-title="Malaysia - Temp",MY: TVB Classic
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157510
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Fox Family Movies
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157570
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Disney XD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157544
-#EXTINF:-1 group-title="Malaysia - Temp",Jackie Chan 24/7
-http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-#EXTINF:-1 group-title="Malaysia - Temp",MY: UFC_sports
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Arena
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157485
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Arena 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/287793
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 1
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/146068
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157556
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 3
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157557
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 4
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157558
-
+#EXTINF:-1 group-title="Malaysia - Temp",MY:Astro Arena 2
+http://iptv12k.com:35461/80301070602/456776/965
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_2 HD TH MY
@@ -60,128 +35,7 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
 
 <------ USA Temp -------->
 
-#EXTINF:-1 group-title="USA - Temp",US: Disney Channel
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2303
-#EXTINF:-1 group-title="USA - Temp",US: Disney Junior
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/8608
-#EXTINF:-1 group-title="USA - Temp",US: Disney XD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6395
-#EXTINF:-1 group-title="USA - Temp",US: A&E
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2746
-#EXTINF:-1 group-title="USA - Temp",US: 5 Star max
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2291
-#EXTINF:-1 group-title="USA - Temp",US: ActionMax
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2274
-#EXTINF:-1 group-title="USA - Temp",US: ActionMax 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/16145
-#EXTINF:-1 group-title="USA - Temp",US: AFV Family
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/282273
-#EXTINF:-1 group-title="USA - Temp",US: AMC
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/751
-#EXTINF:-1 group-title="USA - Temp",US: Bravo
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2282
-#EXTINF:-1 group-title="USA - Temp",US: Cinema 2 Rogue
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/286672
-#EXTINF:-1 group-title="USA - Temp",US: CineMax Action
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/56798
-#EXTINF:-1 group-title="USA - Temp",US: Cinemax Action 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/295152
-#EXTINF:-1 group-title="USA - Temp",US: CMC
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/265887
-#EXTINF:-1 group-title="USA - Temp",US: Comedy Central
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/754
-#EXTINF:-1 group-title="USA - Temp",US: COMET
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6497
-#EXTINF:-1 group-title="USA - Temp",US: CON TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/197736
-#EXTINF:-1 group-title="USA - Temp",US: Cooking Channel
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2297
-#EXTINF:-1 group-title="USA - Temp",US: Epix
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15096
-#EXTINF:-1 group-title="USA - Temp",US: Epix 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6372
-#EXTINF:-1 group-title="USA - Temp",US: Epix Drive In
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/35054
-#EXTINF:-1 group-title="USA - Temp",US: Epix Hits
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6357
-#EXTINF:-1 group-title="USA - Temp",US: MovieMax
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15110
-#EXTINF:-1 group-title="USA - Temp",US: MoviePlex
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/75324
-#EXTINF:-1 group-title="USA - Temp",US: Showtime 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/78161
-#EXTINF:-1 group-title="USA - Temp",US: Showtime East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/16137
-#EXTINF:-1 group-title="USA - Temp",US: Showtime Extreme
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12036
-#EXTINF:-1 group-title="USA - Temp",US: Showtime Family Zone
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/16139
-#EXTINF:-1 group-title="USA - Temp",US: Showtime Next
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/13008
-#EXTINF:-1 group-title="USA - Temp",US: Showtime Showcase
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6306
-#EXTINF:-1 group-title="USA - Temp",US: Showtime West
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6380
-#EXTINF:-1 group-title="USA - Temp",US: Showtime Women
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12995
-#EXTINF:-1 group-title="USA - Temp",US: Starz Cinema East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/25811
-#EXTINF:-1 group-title="USA - Temp",US: Starz Comedy East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12040
-#EXTINF:-1 group-title="USA - Temp",US: Starz East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6302
-#EXTINF:-1 group-title="USA - Temp",US: Starz Edge West
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2357
-#EXTINF:-1 group-title="USA - Temp",US: Starz Encore Action East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/30773
-#EXTINF:-1 group-title="USA - Temp",US: Starz Encore Black East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/78155
-#EXTINF:-1 group-title="USA - Temp",US: Starz Encore Classic
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/25816
-#EXTINF:-1 group-title="USA - Temp",US: Starz Encore East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12043
-#EXTINF:-1 group-title="USA - Temp",US: Starz Encore Family East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/13013
-#EXTINF:-1 group-title="USA - Temp",US: Starz Encore Suspense East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/25817
-#EXTINF:-1 group-title="USA - Temp",US: Starz Encore West
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/30778
-#EXTINF:-1 group-title="USA - Temp",US: Starz In Black East
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/166710
-#EXTINF:-1 group-title="USA - Temp",US: Starz Kids & Family West
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15052
-#EXTINF:-1 group-title="USA - Temp",US: Starz West
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12044
-#EXTINF:-1 group-title="USA - Temp",US: TNT
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/769
-#EXTINF:-1 group-title="USA - Temp",US: tru TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6376
-#EXTINF:-1 group-title="USA - Temp",US: SYFY
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2359
-#EXTINF:-1 group-title="USA - Temp",US: Sundance TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2358
-#EXTINF:-1 group-title="USA - Temp",US: TV Land
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2364
-#EXTINF:-1 group-title="USA - Temp",US: Sony Movies
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/5831
-#EXTINF:-1 group-title="USA - Temp",US: FXX
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2330
-#EXTINF:-1 group-title="USA - Temp",US: FX
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/758
-#EXTINF:-1 group-title="USA - Temp",US: Fox Life
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/76866
-#EXTINF:-1 group-title="USA - Temp",US: Freeform
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2329
-#EXTINF:-1 group-title="USA - Temp",US: Lifetime
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/4667
-#EXTINF:-1 group-title="USA - Temp",US: Lifetime Movies
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12992
-#EXTINF:-1 group-title="USA - Temp",US: Hallmark Channel
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/759
-#EXTINF:-1 group-title="USA - Temp",US: Hallmark Drama
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/3387
-#EXTINF:-1 group-title="USA - Temp",US: Hallmark Movies & Mysteries
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/3388
+
 
 <------ KODI OTT ONLY  INDIAN VIP -------->
 
@@ -221,6 +75,37 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 
 
 <----------------------------------- Trial Channel --------------------------------------->
+#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Sbs food
+http://iptv12k.com:35461/live/80301070602/456776/3321.m3u8
+#EXTINF:-1 group-title=""TRIAL CHANNEL",MY: Sbs viceland 
+http://iptv12k.com:35461/live/80301070602/456776/3396.m3u8
+#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Dreamworks English 
+http://iptv12k.com:35461/live/80301070602/456776/9132.m3u8
+#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Cartoon network plus
+http://iptv12k.com:35461/live/80301070602/456776/8916.m3u8
+#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Astro Tadaa
+http://iptv12k.com:35461/live/80301070602/456776/744.m3u8
+#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Astro Ceria 
+http://iptv12k.com:35461/live/80301070602/456776/730.m3u8
+
+
+#EXTINF:-1 group-title="Malaysia - Temp",MY:卫视中文
+http://61.219.170.95:18522/.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY:卫视中文
+http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+
+#EXTINF:-1 group-title="TRIAL CHANNEL", VSIN
+https://stream.rcncdn.com/live/vsinproxy.m3u8
+#EXTINF:-1 group-title="TRIAL CHANNEL", Wutang Collection
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 group-title="TRIAL CHANNEL", VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="TRIAL CHANNEL", AMC+
+https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 group-title="TRIAL CHANNEL", Cheddar news
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
+#EXTINF:-1 group-title="TRIAL CHANNEL", HI-YAh!Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:0 group-title="TRIAL CHANNEL", Family Feud
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
 
@@ -951,13 +836,6 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-2022 group-title="SPORTS", FOX SPORTS 02
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS",US: ESPN HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/747
-#EXTINF:-1 group-title="SPORTS",US: ESPN 2 HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/41918
-#EXTINF:-1, group-title="SPORTS", US: ESPN 3 HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/14816
 
 #EXTINF:-1 group-title="SPORTS", Espn
 http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/19156/index.m3u8
