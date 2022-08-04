@@ -15,21 +15,12 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1, WION
 http://208.86.19.13:81/714.stream/index.m3u8
 
 
-#EXTINF:-2022, FOX SPORTS
-http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-2022, FOX SPORTS 02
-http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,US: ESPN HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/747
-#EXTINF:-1,US: ESPN 2 HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/41918
-#EXTINF:-1,US: ESPN 3 HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/14816
 
 #EXTINF:-1, Espn
 http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/19156/index.m3u8
@@ -60,32 +51,30 @@ http://pprotv.com/live/asim1234/123456/39555.m3u8
 
 
 <------ Malaysia Temp -------->
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Ta-Daa!
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290510
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Ceria
-https://smetv.live:443/play/TaQbJlzWEg0sp8nPWkQ28JLnl_C9EKslJCeTwbEZBDo
-#EXTINF:-1 group-title="Malaysia - Temp",MY: TVB Classic
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157510
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Fox Family Movies
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157570
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Disney XD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157544
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Sbs food
+http://iptv12k.com:35461/live/80301070602/456776/3321.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Sbs viceland 
+http://iptv12k.com:35461/live/80301070602/456776/3396.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Dreamworks English 
+http://iptv12k.com:35461/live/80301070602/456776/9132.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Cartoon network plus
+http://iptv12k.com:35461/live/80301070602/456776/8916.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Tadaa
+http://iptv12k.com:35461/live/80301070602/456776/744.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Ceria 
+http://iptv12k.com:35461/live/80301070602/456776/730.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY:Astro Arena 2
+http://iptv12k.com:35461/80301070602/456776/965
+#EXTINF:-1 group-title="Malaysia - Temp",MY:卫视中文
+http://61.219.170.95:18522/.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY:卫视中文
+http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+
 #EXTINF:-1 group-title="Malaysia - Temp",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 #EXTINF:-1 group-title="Malaysia - Temp",MY: UFC_sports
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Arena
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157485
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Arena 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/287793
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 1
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/146068
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157556
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 3
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157557
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro SuperSport 4
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157558
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_2 HD TH MY
