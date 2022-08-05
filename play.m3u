@@ -1,13 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1,[US]TNT HD
+#EXTINF:-1 group-title="US - Temp",[US]Disney Channel
+http://2mtv.net:8080/mahmoudaswa/26887329/2110
+#EXTINF:-1 group-title="US - Temp",[US]Disney Junior HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2109
+#EXTINF:-1 group-title="US - Temp",[US]Disney XD
+http://2mtv.net:8080/mahmoudaswa/26887329/2108
+#EXTINF:-1 group-title="US - Temp",[US]Nickelodeon_HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2106
+#EXTINF:-1 group-title="US - Temp",[US]Boomerang_HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2105
+#EXTINF:-1 group-title="US - Temp",[US]Cartoon_Network
+http://2mtv.net:8080/mahmoudaswa/26887329/2104
+#EXTINF:-1 group-title="US - Temp",[US]TNT HD
 http://2mtv.net:8080/mahmoudaswa/26887329/2138
-#EXTINF:0,We TV HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26275.m3u8
-#EXTINF:-1,|USA| ESPN 2
-http://txm.flysat.live:80/152004513386895/152049585430977/202998
-#EXTINF:-1,USA | A&E
-http://24rest.online:2082/YERAY2/12345678/143527
+#EXTINF:-1 group-title="US - Temp",[US]HALLMARK
+http://2mtv.net:8080/mahmoudaswa/26887329/2136
+#EXTINF:-1 group-title="US - Temp",[US]Hallmark Drama HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2135
+#EXTINF:-1 group-title="US - Temp",[US]Hallmark Movies & Mysteries HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2134
+#EXTINF:-1 group-title="US - Temp",[US]FX_HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2133
+#EXTINF:-1 group-title="US - Temp",[US]FXX_HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2132
+#EXTINF:-1 group-title="US - Temp",[US]OuterMAX
+http://2mtv.net:8080/mahmoudaswa/26887329/2131
+#EXTINF:-1 group-title="US - Temp",[US]Fox_Life
+http://2mtv.net:8080/mahmoudaswa/26887329/2125
+#EXTINF:-1 group-title="US - Temp",[US]AMC HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2124
+#EXTINF:-1 group-title="US - Temp",[US]CBS_REALITY
+http://2mtv.net:8080/mahmoudaswa/26887329/2123
+#EXTINF:-1 group-title="US - Temp",[US]CBSN
+http://2mtv.net:8080/mahmoudaswa/26887329/2122
+#EXTINF:-1 group-title="US - Temp",[US]Cinemax Action HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2111
+#EXTINF:-1 group-title="US - Temp",[US]Starz Encore Classic
+http://2mtv.net:8080/mahmoudaswa/26887329/2078
+#EXTINF:-1 group-title="US - Temp",[US]MovieMAX
+http://2mtv.net:8080/mahmoudaswa/26887329/2077
+#EXTINF:-1 group-title="US - Temp",[US]Sundance_HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2076
+#EXTINF:-1 group-title="US - Temp",[US]BET_SD
+http://2mtv.net:8080/mahmoudaswa/26887329/2103
+#EXTINF:-1 group-title="US - Temp",[US]BRAVO_HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2102
+#EXTINF:-1 group-title="US - Temp",[US]NBA TV
+http://2mtv.net:8080/mahmoudaswa/26887329/2101
+#EXTINF:-1 group-title="US - Temp",[US]ESPN_1HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2100
+#EXTINF:-1 group-title="US - Temp",[US]ESPN_2HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2099
+#EXTINF:-1 group-title="US - Temp",[US]ESPN_U
+http://2mtv.net:8080/mahmoudaswa/26887329/2098
+#EXTINF:-1 group-title="US - Temp",[US]Espn_News
+http://2mtv.net:8080/mahmoudaswa/26887329/2097
+#EXTINF:-1 group-title="US - Temp",[US]Fox Sports 1
+http://2mtv.net:8080/mahmoudaswa/26887329/2095
+#EXTINF:-1 group-title="US - Temp",[US]Fox Sports 2
+http://2mtv.net:8080/mahmoudaswa/26887329/2094
 
 
 #EXTINF:-1, VSIN
