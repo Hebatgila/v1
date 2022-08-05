@@ -46,6 +46,12 @@ http://2mtv.net:8080/mahmoudaswa/26887329/2106
 http://2mtv.net:8080/mahmoudaswa/26887329/2105
 #EXTINF:-1 group-title="US - Temp",[US]Cartoon_Network
 http://2mtv.net:8080/mahmoudaswa/26887329/2104
+#EXTINF:-1 group-title="US - Temp",[CA]Nickelodeon HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2293
+#EXTINF:-1 group-title="US - Temp",[CA]Treehouse HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2292
+#EXTINF:-1 group-title="US - Temp",[CA]Family Jr HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2295
 #EXTINF:-1 group-title="US - Temp",[US]TNT HD
 http://2mtv.net:8080/mahmoudaswa/26887329/2138
 #EXTINF:-1 group-title="US - Temp",[US]HALLMARK
@@ -80,6 +86,27 @@ http://2mtv.net:8080/mahmoudaswa/26887329/2076
 http://2mtv.net:8080/mahmoudaswa/26887329/2103
 #EXTINF:-1 group-title="US - Temp",[US]BRAVO_HD
 http://2mtv.net:8080/mahmoudaswa/26887329/2102
+#EXTINF:-1 group-title="US - Temp",[CA]Starz 1
+http://2mtv.net:8080/mahmoudaswa/26887329/2282
+#EXTINF:-1 group-title="US - Temp",[CA]Starz 2
+http://2mtv.net:8080/mahmoudaswa/26887329/2329
+#EXTINF:-1 group-title="US - Temp",[CA]Disney La Chaine
+http://2mtv.net:8080/mahmoudaswa/26887329/2281
+#EXTINF:-1 group-title="US - Temp",[CA]HBO 2
+http://2mtv.net:8080/mahmoudaswa/26887329/2280
+#EXTINF:-1 group-title="US - Temp",[CA]HBO 1
+http://2mtv.net:8080/mahmoudaswa/26887329/2279
+#EXTINF:-1 group-title="US - Temp",[CA]MovieTime
+http://2mtv.net:8080/mahmoudaswa/26887329/2269
+#EXTINF:-1 group-title="US - Temp",[CA]Slice HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2307
+#EXTINF:-1 group-title="US - Temp",[CA]PARAMOUNT NETWORK HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2306
+#EXTINF:-1 group-title="US - Temp",[CA]TLC HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2305
+#EXTINF:-1 group-title="US - Temp",[CA]Showcase HD
+http://2mtv.net:8080/mahmoudaswa/26887329/2304
+
 #EXTINF:-1 group-title="US - Temp",[US]NBA TV
 http://2mtv.net:8080/mahmoudaswa/26887329/2101
 #EXTINF:-1 group-title="US - Temp",[US]ESPN_1HD
