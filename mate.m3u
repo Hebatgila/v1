@@ -22,8 +22,6 @@
 
 <------ Malaysia Temp -------->
 
-#EXTINF:-1 group-title="Malaysia - Temp",MY:Astro Arena 2
-http://iptv12k.com:35461/80301070602/456776/965
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="Malaysia - Temp",ASTRO.SUPERSPORTS_2 HD TH MY
@@ -34,6 +32,12 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
 
 <------ USA Temp -------->
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Disney Channel East (A)" tvg-logo="https://logodix.com/logo/619307.png" group-title="US - Temp",US Disney Channel East (A)
+http://fortv.cc:8080/1234/12345/2206
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: Disney XD" tvg-logo="" group-title="US - Temp",US: Disney XD
+http://fortv.cc:8080/1234/12345/75621
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA-Disney Jr" tvg-logo="" group-title="US - Temp",USA-Disney Jr
+http://fortv.cc:8080/1234/12345/41960
 #EXTINF:-1 group-title="US - Temp",[US]Disney Channel
 http://2mtv.net:8080/mahmoudaswa/26887329/2110
 #EXTINF:-1 group-title="US - Temp",[US]Disney Junior HD
@@ -107,6 +111,33 @@ http://2mtv.net:8080/mahmoudaswa/26887329/2305
 #EXTINF:-1 group-title="US - Temp",[CA]Showcase HD
 http://2mtv.net:8080/mahmoudaswa/26887329/2304
 
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="US - Temp",USA: ABC
+http://fortv.cc:8080/1234/12345/22990
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East) (Y)" tvg-logo="" group-title="US - Temp",US ActionMAX (East) (Y)
+http://fortv.cc:8080/1234/12345/21013
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="US - Temp",US 5 StarMax
+http://fortv.cc:8080/1234/12345/13381
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="US - Temp",USA:  Showtime NEXT
+http://fortv.cc:8080/1234/12345/9316
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="US - Temp",USA:  STARZ EDGE 
+http://fortv.cc:8080/1234/12345/16143
+#EXTINF:-1 tvg-id="charge.us" tvg-name="US CHARGE! (S)" tvg-logo="" group-title="US - Temp",US CHARGE! (S)
+http://fortv.cc:8080/1234/12345/79594
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) (SP)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="US - Temp",US EPIX (East) (SP)
+http://fortv.cc:8080/1234/12345/13214
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="US - Temp",US Epix Drive IN (S)
+http://fortv.cc:8080/1234/12345/14193
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="US - Temp",USA: Epix Hits
+http://fortv.cc:8080/1234/12345/12744
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East) (Y)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="US - Temp",US EPIX2 (East) (Y)
+http://fortv.cc:8080/1234/12345/12730
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD (A)" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="US - Temp",US SONY Movies FHD (A)
+http://fortv.cc:8080/1234/12345/2214
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="US - Temp",US Lifetime Movies 
+http://fortv.cc:8080/1234/12345/20863
+
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE NETWORK" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="US - Temp",US: WWE NETWORK
+http://fortv.cc:8080/1234/12345/11645
 #EXTINF:-1 group-title="US - Temp",[US]NBA TV
 http://2mtv.net:8080/mahmoudaswa/26887329/2101
 #EXTINF:-1 group-title="US - Temp",[US]ESPN_1HD
@@ -927,6 +958,13 @@ http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/19156/index.m3u8
 #EXTINF:-1 group-title="SPORTS", Espn 2
 http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/19155/index.m3u8
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2 " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SPORTS",US ESPN 2 
+http://fortv.cc:8080/1234/12345/2210
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SPORTS",US ESPN 1 (HD) 
+http://fortv.cc:8080/1234/12345/14197
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SPORTS",US ESPN 1 (HD) 
+http://fortv.cc:8080/1234/12345/9802
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SPORTS",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
