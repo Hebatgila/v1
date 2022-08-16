@@ -1,19 +1,11 @@
 #EXTM3U
 
-#EXTINF:0,playboy TV Korea
-https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
-#EXTINF:0,Charge!
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0,Comet
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+
 #EXTINF:0,Tastemade Aus
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:0,PBS Kids US Central
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0,FOX Rusia
-https://sc.id-tv.kz/FOX_HD.m3u8
-#EXTINF:0,You TV
-https://tv.sikkylab.me/hls/stream.m3u8
 #EXTINF:0,HiYaH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:0,People Are Awesome
