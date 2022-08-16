@@ -160,19 +160,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 
 
 <----------------------------------- Trial Channel --------------------------------------->
-#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Sbs food
-http://iptv12k.com:35461/live/80301070602/456776/3321.m3u8
-#EXTINF:-1 group-title=""TRIAL CHANNEL",MY: Sbs viceland 
-http://iptv12k.com:35461/live/80301070602/456776/3396.m3u8
-#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Dreamworks English 
-http://iptv12k.com:35461/live/80301070602/456776/9132.m3u8
-#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Cartoon network plus
-http://iptv12k.com:35461/live/80301070602/456776/8916.m3u8
-#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Astro Tadaa
-http://iptv12k.com:35461/live/80301070602/456776/744.m3u8
-#EXTINF:-1 group-title="TRIAL CHANNEL",MY: Astro Ceria 
-http://iptv12k.com:35461/live/80301070602/456776/730.m3u8
-
 
 #EXTINF:-1 group-title="Malaysia - Temp",MY:卫视中文
 http://61.219.170.95:18522/.m3u8
@@ -189,8 +176,6 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 group-title="TRIAL CHANNEL", Cheddar news
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
-#EXTINF:-1 group-title="TRIAL CHANNEL", HI-YAh!Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:0 group-title="TRIAL CHANNEL", Family Feud
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
 
@@ -248,6 +233,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae
 #EXTINF:-1 tvg-id="5a66795ef91fef2c7031c599" tvg-chno="70" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="TRIAL CHANNEL",Pluto TV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:0 group-title="TRIAL CHANNEL" ,Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:0 group-title="TRIAL CHANNEL" ,Filmrise Free movie
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://i.imgur.com/K8YUMMt.png",Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
@@ -442,6 +431,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playli
 
 #EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES",Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-chno="1461" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USBA300017PK_20210609T003448.png" group-title="MOVIES",Pluto TV Fantastic
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="MOVIES" ,AVA Family
 http://51.210.199.5/hls/stream.m3u8
@@ -1159,9 +1151,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="KIDS",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1 tvg-id="KAETDT4.us" tvg-name="PBS Kids Arizona (KAET-DT4)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="KIDS",PBS Kids Arizona (KAET-DT4)
-https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
-
 #EXTINF:-1 tvg-id="HaHaXuanDong.cn" tvg-name="哈哈炫动" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="KIDS",哈哈炫动Toon Max TV (480p)
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
@@ -1207,7 +1196,7 @@ https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
 #EXTINF:-1 tvg-id="PinkfongBabyShark.us" group-title="KIDS",Pinkfong Baby Shark
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS",Kids Pluto2
+#EXTINF:-1 group-title="KIDS",Kids Pluto 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="KIDS",Tiny POP
@@ -1233,6 +1222,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c07
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://rubbyguntara.github.io/src/img/lego.png",Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ3504531A" tvg-id="USAJ3504531A" tvg-chno="1363" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20210525T051610.png" group-title="KIDS",MinecrafTV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="samsung-USBB90000726" tvg-id="USBB90000726" tvg-chno="1376" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/USBB90000726_20220125T050031.png" group-title="KIDS",PBS KIDS
+https://d3afonbm0qxmbc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-elbbbj7vf6xsf-prod/est.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-chno="1379" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/52/USBA3000158L_20220125T050037.png" group-title="KIDS",Nick Pluto TV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&ads.coppa=1
 
 
 <----------------------------------- NEWS --------------------------------------->
