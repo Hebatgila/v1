@@ -1,19 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,EPIX
-http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136644
-#EXTINF:-1,EPIX 2
-http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136645
-#EXTINF:-1,EPIX Hits
-http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136646
-#EXTINF:-1,ESPN
-http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136647
-#EXTINF:-1,ESPN2
-http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136648
-#EXTINF:-1,ESPNews
-http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136649
-#EXTINF:-1,ESPNU
-http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136650
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT FHD" tvg-logo="" group-title="USA",US: TNT FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28620
+#EXTINF:-1 tvg-id="" tvg-name="US: truTV HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/trutv.png" group-title="USA",US: truTV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28621
 
 #EXTINF:-1 group-title="US - Temp",[US]Disney Channel
 http://2mtv.net:8080/mahmoudaswa/26887329/2110
@@ -21,11 +11,11 @@ http://2mtv.net:8080/mahmoudaswa/26887329/2110
 http://2mtv.net:8080/mahmoudaswa/26887329/2109
 #EXTINF:-1 group-title="US - Temp",[US]Disney XD
 http://2mtv.net:8080/mahmoudaswa/26887329/2108
-#EXTINF:-1 group-title="US - Temp",[US]Nickelodeon_HD
+#EXTINF:-1 group-title="US - Temp",[US]Nickelodeon HD
 http://2mtv.net:8080/mahmoudaswa/26887329/2106
-#EXTINF:-1 group-title="US - Temp",[US]Boomerang_HD
+#EXTINF:-1 group-title="US - Temp",[US]Boomerang HD
 http://2mtv.net:8080/mahmoudaswa/26887329/2105
-#EXTINF:-1 group-title="US - Temp",[US]Cartoon_Network
+#EXTINF:-1 group-title="US - Temp",[US]Cartoon Network
 http://2mtv.net:8080/mahmoudaswa/26887329/2104
 #EXTINF:-1 group-title="US - Temp",[CA]Nickelodeon HD
 http://2mtv.net:8080/mahmoudaswa/26887329/2293
