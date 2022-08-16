@@ -1,9 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="US: TNT FHD" tvg-logo="" group-title="USA",US: TNT FHD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28620
-#EXTINF:-1 tvg-id="" tvg-name="US: truTV HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/trutv.png" group-title="USA",US: truTV HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28621
+
+#EXTINF:0,Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0,Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:0,TastyTrade
+https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
+#EXTINF:0,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:0,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0,TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,USA
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:0,3-UK: CARTOONITO
+http://streamxcode.ddns.net:25461/load/desiboyz150/4678.mpegts
+#EXTINF:0,2-UK: SKY MOVIES CRIME/THRILLER
+http://streamxcode.ddns.net:25461/load/desiboyz150/3876.mpegts
+#EXTINF:0,2-UK: SYFY
+http://streamxcode.ddns.net:25461/load/desiboyz150/3888.mpegts
+#EXTINF:0,Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:0,Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:0,Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:0,Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
 
 #EXTINF:-1 group-title="US - Temp",[US]Disney Channel
 http://2mtv.net:8080/mahmoudaswa/26887329/2110
