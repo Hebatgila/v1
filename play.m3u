@@ -1,51 +1,19 @@
 #EXTM3U
 
-#EXTINF:0,Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:0,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:0,Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-#EXTINF:0,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-#EXTINF:0,Tru TV US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18172.m3u8
-#EXTINF:0,TV Land HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18171.m3u8
-#EXTINF:0,HBO 2 HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33945.m3u8
-#EXTINF:0,Starz Comedy HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33947.m3u8
-#EXTINF:0,Starz Encore Classic HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33955.m3u8
-#EXTINF:0,Starz Encore Westerns HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33957.m3u8
-#EXTINF:0,Starz Encore Family HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33958.m3u8
-#EXTINF:0,Starz Encore Suspense HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33959.m3u8
-#EXTINF:0,Epix 2 HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19606.m3u8
-#EXTINF:0,Sundance TV HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19607.m3u8
-#EXTINF:0,Pop TV HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26997.m3u8
-#EXTINF:0,Epix HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/34023.m3u8
-#EXTINF:0,Epix Drive-In HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/34024.m3u8
-#EXTINF:0,TCM HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35216.m3u8
-#EXTINF:0,FOX 9 KMSP Minneapolis HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35217.m3u8
-#EXTINF:0,NBC 9 KUSA Denver HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35343.m3u8
-#EXTINF:0,NBC Sports Northwest HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35525.m3u8
-#EXTINF:0,CW New York WPIX 11 US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35526.m3u8
-#EXTINF:0,Showtime 2 HD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/37838.m3u8
+#EXTINF:-1,EPIX
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136644
+#EXTINF:-1,EPIX 2
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136645
+#EXTINF:-1,EPIX Hits
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136646
+#EXTINF:-1,ESPN
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136647
+#EXTINF:-1,ESPN2
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136648
+#EXTINF:-1,ESPNews
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136649
+#EXTINF:-1,ESPNU
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/136650
 
 #EXTINF:-1 group-title="US - Temp",[US]Disney Channel
 http://2mtv.net:8080/mahmoudaswa/26887329/2110
@@ -120,8 +88,6 @@ http://2mtv.net:8080/mahmoudaswa/26887329/2305
 #EXTINF:-1 group-title="US - Temp",[CA]Showcase HD
 http://2mtv.net:8080/mahmoudaswa/26887329/2304
 
-
-
 #EXTINF:-1 group-title="US - Temp",[US]NBA TV
 http://2mtv.net:8080/mahmoudaswa/26887329/2101
 #EXTINF:-1 group-title="US - Temp",[US]ESPN_1HD
@@ -154,7 +120,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 
 #EXTINF:-1, WION
 http://208.86.19.13:81/714.stream/index.m3u8
-
 #EXTINF:-1, Espn 1
 http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/19156/index.m3u8
 #EXTINF:-1, Espn 2
