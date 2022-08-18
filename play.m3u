@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX" tvg-logo="https://xtream-coders.com/x0/movie/epix.png" group-title="MOVIES",EPIX
-http://011011011.com:8080/vuemedia/587yt65r/10896
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX 2" tvg-logo="https://xtream-coders.com/x0/movie/epix_2.png" group-title="MOVIES",EPIX 2
-http://011011011.com:8080/vuemedia/587yt65r/25218
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS" tvg-logo="https://xtream-coders.com/x0/movie/epix_hits.png" group-title="MOVIES",EPIX HITS
-http://011011011.com:8080/vuemedia/587yt65r/162865
-#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="EPIX DRIVE IN" tvg-logo="https://xtream-coders.com/x0/movie/epix_drive_in.png" group-title="MOVIES",EPIX DRIVE IN
-http://011011011.com:8080/vuemedia/587yt65r/114435
+
 
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ac_samsung.png" group-title="MOVIES",AsianCrush PLEX
