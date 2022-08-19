@@ -597,8 +597,12 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png",Sony Pix HD
 http://hotstarx.herokuapp.com/redbox.php?id=2700&e=.m3u8
 
-#EXTINF:-1 group-title="TRIAL CHANNEL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png",Sony Pix (HD) 
-http://103.127.92.38:81/play/a01s
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IND: SONY PIX FHD [Multi-audio]" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oXcIr1QJQrZscLOZGggU-K.png" group-title="TRIAL CHANNEL",IND: SONY PIX FHD [Multi-audio]
+http://king-tv.online:8080/gisle@/FDPWGufCmY/372982.ts
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IND: SONY PIX FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oXcIr1QJQrZscLOZGggU-K.png" group-title="TRIAL CHANNEL",IND: SONY PIX FHD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/372983.ts
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IND: (TS) SONY PIX HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oXcIr1QJQrZscLOZGggU-K.png" group-title="TRIAL CHANNEL",IND: (TS) SONY PIX HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/372984.ts
 
 #EXTINF:-1 group-title="TRIAL CHANNEL"  tvg-logo="https://i.imgur.com/kBiWPbB.png",Colors Infinity (IN)
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
