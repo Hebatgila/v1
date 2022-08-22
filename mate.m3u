@@ -58,7 +58,6 @@ https://nonton.site:8443/live/mustakim/mustakim/37428.m3u8
 https://nonton.site:8443/live/mustakim/mustakim/37457.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - PrimeTime
 https://nonton.site:8443/live/mustakim/mustakim/37458.m3u8
-
 #EXTINF:-1 group-title="MY-TEMP",MY - MTV Asia
 https://nonton.site:8443/live/mustakim/mustakim/37460.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - ASTRO ARENA HD
@@ -73,198 +72,124 @@ https://nonton.site:8443/live/mustakim/mustakim/3099.m3u8
 https://nonton.site:8443/live/mustakim/mustakim/37435.m3u8
 
 <------ USA Temp -------->
-#EXTINF:-1 tvg-id="FREFMHD" tvg-name="US: FREEFORM HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8XYjfQ-9iEhYR_nX6v9v-kRUUTgkhKqA8DPhA7WPdKcX.png" group-title="USA Movies & Series | LIVE",US: FREEFORM HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117367.ts
-#EXTINF:-1 tvg-id="FRFMHDP" tvg-name="US: FREEFORM HD (WEST)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8XYjfQ-9iEhYR_nX6v9v-kRUUTgkhKqA8DPhA7WPdKcX.png" group-title="USA Movies & Series | LIVE",US: FREEFORM HD (WEST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/118468.ts
 
-#EXTINF:-1 tvg-id="ACMAXHD" tvg-name="US: ACTIONMAX (EAST) FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyt24_sdvlP5jZAiqNSihgvcxAd4EVUAa_eErQ-dIqXj_.png" group-title="USA Movies & Series | LIVE",US: ACTIONMAX (EAST) FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169599.ts
-#EXTINF:-1 tvg-id="MAXHD" tvg-name="US: CINEMAX EAST HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8UZGINcjOWrRTmbPKQ7FuuuJehiHmFxxqunwYCehimCs6KKfB9rEF8xxamCe7SDRqw.png" group-title="USA Movies & Series | LIVE",US: CINEMAX EAST HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169601.ts
-#EXTINF:-1 tvg-id="MOMAXHD" tvg-name="US: MOREMAX (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqqpyviPt7SMXIdkFK2N7w6JL3qh1ZL0X5EviKEzbP05.png" group-title="USA Movies & Series | LIVE",US: MOREMAX (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169603.ts
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US: HBO 1 HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-ViyE08T218eHRedmbvkC7agDVp12k4MkpcKo8uRH5fCqeWJAfOlCnmUDHK5LVI5W2a3OfbIBq3GwEvyakQxdS-s.png" group-title="USA Movies & Series | LIVE",US: HBO 1 HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169610.ts
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US: HBO COMEDY HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8f3azLu7lf2AukwqN_dF2BjIjv3Hrj2MXS1MoCLI8Wzj.png" group-title="USA Movies & Series | LIVE",US: HBO COMEDY HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169614.ts
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US: HBO FAMILY HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vvv7c6xdCNX9h5_02S0MRaxEc0dA8rPR0X9x7LSJdkVpF89_pRfnqQBstfnAtYfCwBUgBRxcRzhrtkgfJg8VBZ0.png" group-title="USA Movies & Series | LIVE",US: HBO FAMILY HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169616.ts
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="US: SHOWTIME FAMILY ZONE EAST HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vr-e47bq63LLAS2pv3bEdVkUn0akII8BPRxrPhvljNMEbkff9InKX089at1aYp5f0H4Kc5g8yX8IE949t3IwUbk.png" group-title="USA Movies & Series | LIVE",US: SHOWTIME FAMILY ZONE EAST HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169630.ts
-#EXTINF:-1 tvg-id="STZEHD" tvg-name="US: STARZ EDGE HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyutLDO_YoufGpBfaXCRbikTFMIEy_Bw0fhpQg7wXARV0.png" group-title="USA Movies & Series | LIVE",US: STARZ EDGE HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169650.ts
-#EXTINF:-1 tvg-id="SZENHP" tvg-name="US: STARZ ENCORE HD (WEST)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymCI5RovEmoijn3UUske4sQomtwxfoMxV3WcjBQKLjv2.png" group-title="USA Movies & Series | LIVE",US: STARZ ENCORE HD (WEST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/169653.ts
-#EXTINF:-1 tvg-id="SZEAHD" tvg-name="US: STARZ ENCORE ACTION HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXynorrxdUN1EXXrwqXWiDXMBoQK6xbXqPWiiIE5aWySLv.png" group-title="USA Movies & Series | LIVE",US: STARZ ENCORE ACTION HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170380.ts
-#EXTINF:-1 tvg-id="SZESUHD" tvg-name="US: STARZ ENCORE SUSPENSE HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuCqNeh0YNFVtk79SihSraTBXKkRVnWf5oHdEYXloYUMXtsavytPLinDgFOXoXPa7A.png" group-title="USA Movies & Series | LIVE",US: STARZ ENCORE SUSPENSE HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170390.ts
-#EXTINF:-1 tvg-id="STRZIBH" tvg-name="US: STARZ IN BLACK HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyonx7TaCb4-OwPM8kPO0WbSrr_F0grla9fWnZmqhWALU.png" group-title="USA Movies & Series | LIVE",US: STARZ IN BLACK HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170394.ts
-#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US: STARZ KIDS & FAMILY HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymrvoubW0SADB6BAB92qBqXCJYw4ciFEEIADvZWLgaa_.png" group-title="USA Movies & Series | LIVE",US: STARZ KIDS & FAMILY HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170396.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="US: AMC HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VsowXRdKu7Q-2zpIPJyO_tW1yF5eZK77aSRyLdXypsQyXvLecD_ER7X_wRpOChX1ww2yiUu2eiixLYYb8CqR2i0.png" group-title="USA Movies & Series | LIVE",US: AMC HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170482.ts
-#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="US: TCM EAST HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vu4al5EETvwP98ecmQ5RR4zMZhK1KkogqhA54BOEOs5b06MihiWGP8imOf8voCwWxElZOva92qaRbik2uGQBRzg.png" group-title="USA Movies & Series | LIVE",US: TCM EAST HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170399.ts
-#EXTINF:-1 tvg-id="EPIXHD" tvg-name="US: EPIX HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykozZNYqyja4w0yM2UsXImnTnf--FaPU_wA59EAHJP8B.png" group-title="USA Movies & Series | LIVE",US: EPIX HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170488.ts
-#EXTINF:-1 tvg-id="EPIX2HD" tvg-name="US: EPIX 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXypezaLhnbMDMf4ZhZ_hUWbQStF54zWLmDaMO-kNar0Ve.png" group-title="USA Movies & Series | LIVE",US: EPIX 2 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170489.ts
-#EXTINF:-1 tvg-id="EPIXHD" tvg-name="US: EPIX EAST HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykozZNYqyja4w0yM2UsXImnTnf--FaPU_wA59EAHJP8B.png" group-title="USA Movies & Series | LIVE",US: EPIX EAST HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/198627.ts
-#EXTINF:-1 tvg-id="EPDVNHD" tvg-name="US: EPIX DRIVE IN HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyt_nyDHKmmLp3hnvXa3gB0xCZSIfnk2PXyNYeZ5EjduA.png" group-title="USA Movies & Series | LIVE",US: EPIX DRIVE IN HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170490.ts
-#EXTINF:-1 tvg-id="EPIXHIT" tvg-name="US: EPIX HITS HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym_LsSAI4PMPVGtOzKy3__PY6J8-_rcqse-mWXdifc65.png" group-title="USA Movies & Series | LIVE",US: EPIX HITS HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170491.ts
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US: HALLMARK CHANNEL FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8dzDEPRMvG5D6EQyJc72LouGNOvaC6SlP1JAqJ80sHFq.png" group-title="USA Movies & Series | LIVE",US: HALLMARK CHANNEL FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170481.ts
-#EXTINF:-1 tvg-id="HALLDR" tvg-name="US: HALLMARK DRAMA FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8dzDEPRMvG5D6EQyJc72Loso9zON74u6LCv7qTIw1n_i.png" group-title="USA Movies & Series | LIVE",US: HALLMARK DRAMA FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170483.ts
-#EXTINF:-1 tvg-id="LMNHD" tvg-name="US: LMN FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Spkg8UoaaERzyQM_osy6V495LjFellQSCX4pTeK9jur.png" group-title="USA Movies & Series | LIVE",US: LMN FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170493.ts
-#EXTINF:-1 tvg-id="SONYMOV" tvg-name="US: SONY MOVIES HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2peRTOnKt5hINsz5SFKuhCK.png" group-title="USA Movies & Series | LIVE",US: SONY MOVIES HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/170487.ts
-#EXTINF:-1 tvg-id="HSMGMSD" tvg-name="US: MGM HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjphaILtDCGqwxWTdXiAapaKNIbWdPzDtH9W-QvIVdIU.png" group-title="USA Movies & Series | LIVE",US: MGM HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117335.ts
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="US: SYFY EAST HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyiIDKLjOMXAtOVJgvZoXL9q6pCd_X1tE7_LrtQWJ7X8h.png" group-title="USA Movies & Series | LIVE",US: SYFY EAST HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117546.ts
-#EXTINF:-1 tvg-id="shoxbetpacific.us" tvg-name="US: SHO×BET (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VhLiUHn_nafarqYCCzPOxUIA1yXzAr7iuNygtiLA5K8QTYS7L_XYKy4CkzMtxpsbYMR9Oqoq30yQ-BKx5Ie_qhk.png" group-title="USA Movies & Series | LIVE",US: SHO×BET (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/173428.ts
-#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="US: SHO×BET (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VhLiUHn_nafarqYCCzPOxUIA1yXzAr7iuNygtiLA5K8QTYS7L_XYKy4CkzMtxpsbYMR9Oqoq30yQ-BKx5Ie_qhk.png" group-title="USA Movies & Series | LIVE",US: SHO×BET (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/173429.ts
-#EXTINF:-1 tvg-id="TMCHD" tvg-name="US: THE MOVIE CHANNEL HD (EAST)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykeMOWFojb-QQf5t4JrSokGvnsG1iGh7rYZH7GrlN4lC.png" group-title="USA Movies & Series | LIVE",US: THE MOVIE CHANNEL HD (EAST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/173371.ts
-#EXTINF:-1 tvg-id="MVIEPHD" tvg-name="US: MOVIEMAX HD (WEST)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykpuC5rgy66GfhfmQcasdMlEkVqsqsB-Tk-TQkuENmIm.png" group-title="USA Movies & Series | LIVE",US: MOVIEMAX HD (WEST)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/173382.ts
-#EXTINF:-1 tvg-id="RushbyAMC.us" tvg-name="US: RUSH BY AMC" tvg-logo="http://mydmtn.tv:8080/images/426cabba4baed652a833275e9f568016.png" group-title="USA Movies & Series | LIVE",US: RUSH BY AMC
-http://king-tv.online:8080/gisle@/FDPWGufCmY/211302.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: FUBO MOVIES NETWORK (F)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyt1P3BbSQNoWiMUufnhsdDf4O60h43kQZ8ktH7PIVMvm.png" group-title="USA Movies & Series | LIVE",US: FUBO MOVIES NETWORK (F)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340297.ts
-#EXTINF:-1 tvg-id="AMCPRES" tvg-name="US: AMC PRESENTS HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VgLKvvNU0AYNBBHe0qOXokN4s0nlEPcvvs1SUujNVuejgo_dyB4N7N_-G0nunfVlON98KkLG0eBTBfVLGMR-VRA.png" group-title="USA Movies & Series | LIVE",US: AMC PRESENTS HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340298.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW 2000S MOVIES" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyubE-I1gF0L-zxtlNSiiyQJL39fBURRf2QuojgnhnvRP.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW 2000S MOVIES
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340300.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW 2010S MOVIES" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykbKdznVzFoTcTW9zamjoulFDu1Glm6PdcbwVWGqCcfa.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW 2010S MOVIES
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340301.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW 2020S MOVIES" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhKsQhscvcmQAo5PuWJ5-QfUQWqNOfLjqj08tgVpjjH9.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW 2020S MOVIES
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340302.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW MOVIES OF THE '30S & '40S" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyg3Sp9t5ZiaW91MXkNEOqXE9TiPuomfZDcbffib9LaMW.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW MOVIES OF THE '30S & '40S
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340303.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW MOVIES OF THE '50S & '60S" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXysF8-7s7ZpT6HXDs_FVdSQh-RBuMcge7JiqlZInftxKg.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW MOVIES OF THE '50S & '60S
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340304.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW MOVIES OF THE '70S" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym0y8v-fiKPNl-QHgKdYDbptl5pwljuX_ajetXvRNWG6.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW MOVIES OF THE '70S
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340305.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW MOVIES OF THE '80S" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyltyYRxzsEkmgVp0nRIZnq5XF4PYGfkTOH0e48z9XgDz.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW MOVIES OF THE '80S
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340306.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW MOVIES OF THE '90S" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyldE5PQcGO898cFcCc8TJcXFD7xk21mmJBvUknJG5Xd_.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW MOVIES OF THE '90S
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340307.ts
-#EXTINF:-1 tvg-id="LOCNOW" tvg-name="US: LOCAL NOW MOVIES OF THE WEEK" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyrW-fvAibE3rduMaUUm2aZbNZAOLAkSFZaWD5VM-HXzl.png" group-title="USA Movies & Series | LIVE",US: LOCAL NOW MOVIES OF THE WEEK
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340308.ts
+#EXTINF:-1 group-title="US-TEMP",Disney XD HD US
+http://showflix.art:5890/TONTON/TONTON/66644
+#EXTINF:-1 group-title="US-TEMP",Cartoon Network US
+http://showflix.art:5890/TONTON/TONTON/66624
+#EXTINF:-1 group-title="US-TEMP",Boomerang US
+http://showflix.art:5890/TONTON/TONTON/66610
+#EXTINF:-1 group-title="US-TEMP",AMC HD US
+http://showflix.art:5890/TONTON/TONTON/66601
+#EXTINF:-1 group-title="US-TEMP",A&E HD US
+http://showflix.art:5890/TONTON/TONTON/66594
+#EXTINF:-1 group-title="US-TEMP",ABC HD US
+http://showflix.art:5890/TONTON/TONTON/66597
+#EXTINF:-1 group-title="US-TEMP",Bravo HD US
+http://showflix.art:5890/TONTON/TONTON/66611
+#EXTINF:-1 group-title="US-TEMP",E! Entertainment HD US
+http://showflix.art:5890/TONTON/TONTON/66645
+#EXTINF:-1 group-title="US-TEMP",CineMax 5 StarMax US
+http://showflix.art:5890/TONTON/TONTON/66625
+#EXTINF:-1 group-title="US-TEMP",CineMax Action HD US
+http://showflix.art:5890/TONTON/TONTON/66626
+#EXTINF:-1 group-title="US-TEMP",CineMax ActionMax East US
+http://showflix.art:5890/TONTON/TONTON/66627
+#EXTINF:-1 group-title="US-TEMP",CineMax East US
+http://showflix.art:5890/TONTON/TONTON/66628
+#EXTINF:-1 group-title="US-TEMP",CineMax MoreMax US
+http://showflix.art:5890/TONTON/TONTON/66629
+#EXTINF:-1 group-title="US-TEMP",Cinemax Action US
+http://showflix.art:5890/TONTON/TONTON/66630
+#EXTINF:-1 group-title="US-TEMP",Cinemax More HD US
+http://showflix.art:5890/TONTON/TONTON/66631
+#EXTINF:-1 group-title="US-TEMP",Comedy Central FHD US
+http://showflix.art:5890/TONTON/TONTON/66632
+#EXTINF:-1 group-title="US-TEMP",Comedy Central US
+http://showflix.art:5890/TONTON/TONTON/66633
+#EXTINF:-1 group-title="US-TEMP",CW HD US
+http://showflix.art:5890/TONTON/TONTON/66620
+#EXTINF:-1 group-title="US-TEMP",FX HD US
+http://showflix.art:5890/TONTON/TONTON/66653
+#EXTINF:-1 group-title="US-TEMP",Food Network HD US
+http://showflix.art:5890/TONTON/TONTON/66659
+#EXTINF:-1 group-title="US-TEMP",Food Network US
+http://showflix.art:5890/TONTON/TONTON/66660
+#EXTINF:-1 group-title="US-TEMP",Fox HD US
+http://showflix.art:5890/TONTON/TONTON/66661
+#EXTINF:-1 group-title="US-TEMP",Free Form HD US
+http://showflix.art:5890/TONTON/TONTON/66673
+#EXTINF:-1 group-title="US-TEMP",FreeForm HD US
+http://showflix.art:5890/TONTON/TONTON/66674
+#EXTINF:-1 group-title="US-TEMP",H2 US
+http://showflix.art:5890/TONTON/TONTON/66676
+#EXTINF:-1 group-title="US-TEMP",HBO Comedy HD US
+http://showflix.art:5890/TONTON/TONTON/66677
+#EXTINF:-1 group-title="US-TEMP",HBO East US
+http://showflix.art:5890/TONTON/TONTON/66678
+#EXTINF:-1 group-title="US-TEMP",HBO Family HD US
+http://showflix.art:5890/TONTON/TONTON/66679
+#EXTINF:-1 group-title="US-TEMP",HBO HD US
+http://showflix.art:5890/TONTON/TONTON/66680
+#EXTINF:-1 group-title="US-TEMP",HBO Signature HD US
+http://showflix.art:5890/TONTON/TONTON/66681
+#EXTINF:-1 group-title="US-TEMP",HBO Zone HD US
+http://showflix.art:5890/TONTON/TONTON/66684
+#EXTINF:-1 group-title="US-TEMP",Hallmark Channel HD US
+http://showflix.art:5890/TONTON/TONTON/66687
+#EXTINF:-1 group-title="US-TEMP",Hallmark Movies & Mysteries HD US
+http://showflix.art:5890/TONTON/TONTON/66689
+#EXTINF:-1 group-title="US-TEMP",Lifetime HD US
+http://showflix.art:5890/TONTON/TONTON/66694
+#EXTINF:-1 group-title="US-TEMP",NBC US
+http://showflix.art:5890/TONTON/TONTON/66707
+#EXTINF:-1 group-title="US-TEMP",NHL Network US
+http://showflix.art:5890/TONTON/TONTON/66715
+#EXTINF:-1 group-title="US-TEMP",Oprah Winfrey Network HD US
+http://showflix.art:5890/TONTON/TONTON/66719
+#EXTINF:-1 group-title="US-TEMP",Reelz HD US
+http://showflix.art:5890/TONTON/TONTON/66726
+#EXTINF:-1 group-title="US-TEMP",SEC Network HD US
+http://showflix.art:5890/TONTON/TONTON/66727
+#EXTINF:-1 group-title="US-TEMP",Science HD US
+http://showflix.art:5890/TONTON/TONTON/66728
+#EXTINF:-1 group-title="US-TEMP",Showtime 2 HD US
+http://showflix.art:5890/TONTON/TONTON/66729
+#EXTINF:-1 group-title="US-TEMP",Showtime East HD US
+http://showflix.art:5890/TONTON/TONTON/66731
+#EXTINF:-1 group-title="US-TEMP",Showtime FHD US
+http://showflix.art:5890/TONTON/TONTON/66732
+#EXTINF:-1 group-title="US-TEMP",Showtime Showcase HD US
+http://showflix.art:5890/TONTON/TONTON/66733
+#EXTINF:-1 group-title="US-TEMP",Showtime West US
+http://showflix.art:5890/TONTON/TONTON/66734
+#EXTINF:-1 group-title="US-TEMP",Paramount Network HD US
+http://showflix.art:5890/TONTON/TONTON/66736
+#EXTINF:-1 group-title="US-TEMP",Starz Cinema US
+http://showflix.art:5890/TONTON/TONTON/66738
+#EXTINF:-1 group-title="US-TEMP",Starz Comedy US
+http://showflix.art:5890/TONTON/TONTON/66739
+#EXTINF:-1 group-title="US-TEMP",Starz Edge HD US
+http://showflix.art:5890/TONTON/TONTON/66740
+#EXTINF:-1 group-title="US-TEMP",Starz Encore HD US
+http://showflix.art:5890/TONTON/TONTON/66742
+#EXTINF:-1 group-title="US-TEMP",SyFy HD US
+http://showflix.art:5890/TONTON/TONTON/66744
+#EXTINF:-1 group-title="US-TEMP",TBS HD US
+http://showflix.art:5890/TONTON/TONTON/66746
+#EXTINF:-1 group-title="US-TEMP",TNT HD US
+http://showflix.art:5890/TONTON/TONTON/66747
+#EXTINF:-1,Travel Channel HD US
+http://showflix.art:5890/TONTON/TONTON/66748
+#EXTINF:-1 group-title="US-TEMP",truTV HD US
+http://showflix.art:5890/TONTON/TONTON/66749
+#EXTINF:-1 group-title="US-TEMP",US Network HD US
+http://showflix.art:5890/TONTON/TONTON/66751
+#EXTINF:-1 group-title="US-TEMP",USA HD US
+http://showflix.art:5890/TONTON/TONTON/66752
+#EXTINF:-1 group-title="US-TEMP",USA Network HD US
+http://showflix.art:5890/TONTON/TONTON/66753
 
-#EXTINF:-1 tvg-id="ASPREHD" tvg-name="US: ASPIRE TV HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqeguhab4MaojjHV4nlZrZF2FUQeOuREze0Jo8BdR4xR.png" group-title="USA Entertainment",US: ASPIRE TV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117375.ts
-#EXTINF:-1 tvg-id="audiencenetwork.us" tvg-name="US: AUDIENCE NETWORK HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjIpL1C1_0dlyacDKScGSCHHo-A6ZWlgsujhUvhq0AYC.png" group-title="USA Entertainment",US: AUDIENCE NETWORK HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117372.ts
-#EXTINF:-1 tvg-id="AXSTV" tvg-name="US: AXS TV HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqMfVb1fdHUS1F68COZfPDimcpmUGMe09PjD4k2bz1T6.png" group-title="USA Entertainment",US: AXS TV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117334.ts
-#EXTINF:-1 tvg-id="BBCAHD" tvg-name="US: BBC AMERICA (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymMP147oL6ka08Ca5WGY_wydaOwQwTXmjE-_QMW34TOA.png" group-title="USA Entertainment",US: BBC AMERICA (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117271.ts
-#EXTINF:-1 tvg-id="bet.us" tvg-name="US: BET (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyivhpgedrXnJW2Fqj3QvhWE51iR47dGSXEusGnc9Ti_S.png" group-title="USA Entertainment",US: BET (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117273.ts
-#EXTINF:-1 tvg-id="BETHDP" tvg-name="US: BET (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyivhpgedrXnJW2Fqj3QvhWE51iR47dGSXEusGnc9Ti_S.png" group-title="USA Entertainment",US: BET (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117351.ts
-#EXTINF:-1 tvg-id="betsoul.us" tvg-name="US: BET SOUL HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjOAK7F3sRhgwvBOeyjmoBNRn8kCAzk5IFqOFFYFhMKa.png" group-title="USA Entertainment",US: BET SOUL HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117274.ts
-#EXTINF:-1 tvg-id="BHERPHD" tvg-name="US: BET HER (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytSFOvQx1XOygJxgGTm1h6YKzLNF2PHjc44QbluxbKyL.png" group-title="USA Entertainment",US: BET HER (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117275.ts
-
-#EXTINF:-1 tvg-id="BRAVOHD" tvg-name="US: BRAVO (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuxM_68AZhDT2wCjTeZn4YtvjrDaR6gD7XmyFoMkXrOc.png" group-title="USA Entertainment",US: BRAVO (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117282.ts
-#EXTINF:-1 tvg-id="BRAVOHP" tvg-name="US: BRAVO (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuxM_68AZhDT2wCjTeZn4YtvjrDaR6gD7XmyFoMkXrOc.png" group-title="USA Entertainment",US: BRAVO (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117323.ts
-#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="US: COMEDY TV HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykzN_7DEUXGV5HewYpioaTjAARPGgTLJQVla-fwbwCzJ.png" group-title="USA Entertainment",US: COMEDY TV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117253.ts
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US: COMEDY CENTRAL (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXypBZzGj79CnscfH1gk62NdkJQGqGllY3Hn75ky2WYikt.png" group-title="USA Entertainment",US: COMEDY CENTRAL (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117312.ts
-#EXTINF:-1 tvg-id="CCHDP" tvg-name="US: COMEDY CENTRAL (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXypBZzGj79CnscfH1gk62NdkJQGqGllY3Hn75ky2WYikt.png" group-title="USA Entertainment",US: COMEDY CENTRAL (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117325.ts
-#EXTINF:-1 tvg-id="LAFFHD" tvg-name="US: LAFF TV FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyiN6c6xxkc8hj98Lig0mSpNUXaB3CkYuif0qnyXoQYAk.png" group-title="USA Entertainment",US: LAFF TV FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/198293.ts
-#EXTINF:-1 tvg-id="COZIHD" tvg-name="US: COZI TV HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyiU3VT5_jV2mcfBmWM2H2grN8TcTNhQgVVeS9zm7NGBr.png" group-title="USA Entertainment",US: COZI TV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117320.ts
-#EXTINF:-1 tvg-id="FLK" tvg-name="US: FOLK TV" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymB3QHgGOtP2cIDVzw59A8GQM1CGa8a8XbHf4oq-ZLvL.png" group-title="USA Entertainment",US: FOLK TV
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117460.ts
-#EXTINF:-1 tvg-id="FUSEHD" tvg-name="US: FUSE FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyofhQUvnppJXQgm0Zp4i4UUwnp_uJQAnK1DYf3AUJkRl.png" group-title="USA Entertainment",US: FUSE FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117370.ts
-#EXTINF:-1 tvg-id="fyi.us" tvg-name="US: FYI FHD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VtFB0foW1skv5OOLq4Yjvaotkm9xZIgxz4HmrwrZ3JD9c0IO7lf-ksUO2riLlGcyfmO5V8goBEw9NyyCJQBr8Es.png" group-title="USA Entertainment",US: FYI FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117587.ts
-#EXTINF:-1 tvg-id="GSNHD" tvg-name="US: GAME SHOW NETWORK HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymOmKLvRrpjZ162nqZ8mm_QWkwl1DOsCnOxqnKnd10bT.png" group-title="USA Entertainment",US: GAME SHOW NETWORK HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/150570.ts
-#EXTINF:-1 tvg-id="HERICNH" tvg-name="US: HEROES & ICONS HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyrI0oDFOyIpOookWwI0H3FY.png" group-title="USA Entertainment",US: HEROES & ICONS HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/118499.ts
-
-#EXTINF:-1 tvg-id="LIFEHD" tvg-name="US: LIFETIME HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VlHTPu8n3NHPhS98rwoHOIgEpYz0pOkjaNmHjRHMo9dvXKzzkcQf-Wsnew4-gHCVTROMk3CQaKlG9sWlR1X4Lzg.png" group-title="USA Entertainment",US: LIFETIME HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117443.ts
-
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="US: MTV HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8dLV78MaOkCRiDaKJkrvMMqvRx9VDF11J_SzCnnUetiN.png" group-title="USA Entertainment",US: MTV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117454.ts
-#EXTINF:-1 tvg-id="OWNHD" tvg-name="US: OWN HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyoB3kLv_rj5d0RYRZIIDG5TpLbFApnixDAsdKxLnmK6j.png" group-title="USA Entertainment",US: OWN HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117474.ts
-#EXTINF:-1 tvg-id="OVATNHD" tvg-name="US: OVATION HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyk4lmg5Iz-pDSub-JaiazrGHgITqgGPDCmVAPjgwoI5F.png" group-title="USA Entertainment",US: OVATION HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117252.ts
-#EXTINF:-1 tvg-id="OXYGNHD" tvg-name="US: OXYGEN (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjGHkc32HEUsJKzRHQWlgrPK8kAqPfndLOAJDrCxfdH9.png" group-title="USA Entertainment",US: OXYGEN (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117476.ts
-#EXTINF:-1 tvg-id="OXYGNHP" tvg-name="US: OXYGEN (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjGHkc32HEUsJKzRHQWlgrPK8kAqPfndLOAJDrCxfdH9.png" group-title="USA Entertainment",US: OXYGEN (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117362.ts
-
-#EXTINF:-1 tvg-id="PEOPL" tvg-name="US: PEOPLE TV HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8S8On6zA8OYrEuYR2TMZarIM7ncYOEQEe_qv2x79mYB6.png" group-title="USA Entertainment",US: PEOPLE TV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117548.ts
-#EXTINF:-1 tvg-id="POPHD" tvg-name="US: POP (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyheAzvmhbJtuYw9WoQyubnkb3Jhj0CaMZvSyPwBjCB6p.png" group-title="USA Entertainment",US: POP (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117480.ts
-#EXTINF:-1 tvg-id="POPHDP" tvg-name="US: POP (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyheAzvmhbJtuYw9WoQyubnkb3Jhj0CaMZvSyPwBjCB6p.png" group-title="USA Entertainment",US: POP (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/151251.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="US: ROOSTER TEETH TV HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvxh_W9_T-lR-3Tj19sG8mOxxqc2A60EOLUrfbqk9vm6.png" group-title="USA Entertainment",US: ROOSTER TEETH TV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117574.ts
-#EXTINF:-1 tvg-id="ShineTV.nz" tvg-name="US: SHE TV HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuKnfgIzA2-tw4CvU-LILPoOwQ6snKMJsXzR2NoHN6cI.png" group-title="USA Entertainment",US: SHE TV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117576.ts
-
-#EXTINF:-1 tvg-id="TBD" tvg-name="US: TBD TV HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXysbfORNXVkrYz7K3T1QSivcOPx2QMDXgc6F3-TlzlGp_.png" group-title="USA Entertainment",US: TBD TV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117810.ts
-#EXTINF:-1 tvg-id="TBSHD" tvg-name="US: TBS (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vr3jCP_9A9h8ARBtDVaG_-poop1K5w30abOsrm4Uty0M_pg_YeJSHQfuY3BNZEfIyu5AHna7D68NymoD_S3YNns.png" group-title="USA Entertainment",US: TBS (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117552.ts
-#EXTINF:-1 tvg-id="TBSHDP" tvg-name="US: TBS (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vr3jCP_9A9h8ARBtDVaG_-poop1K5w30abOsrm4Uty0M_pg_YeJSHQfuY3BNZEfIyu5AHna7D68NymoD_S3YNns.png" group-title="USA Entertainment",US: TBS (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117551.ts
-#EXTINF:-1 tvg-id="RTM.cz" tvg-name="US: TMZ HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXysZzWik4PDNaLT2WidxnkTi2mJ8ZI-GiceVxS7sm225k.png" group-title="USA Entertainment",US: TMZ HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/151109.ts
-#EXTINF:-1 tvg-id="TNTHD" tvg-name="US: TNT FHD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vi-9OYlzWEgxErmdW8BOZTfnXW5vyEXyEV-NJ5dRkZZQDodYoVx2SadGNSZ65HLCaSJM0BXQ5RcUOdpW-0us5iM.png" group-title="USA Entertainment",US: TNT FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117386.ts
-#EXTINF:-1 tvg-id="TNTPHD" tvg-name="US: TNT (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vi-9OYlzWEgxErmdW8BOZTfnXW5vyEXyEV-NJ5dRkZZQDodYoVx2SadGNSZ65HLCaSJM0BXQ5RcUOdpW-0us5iM.png" group-title="USA Entertainment",US: TNT (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117554.ts
-#EXTINF:-1 tvg-id="TRUTVHD" tvg-name="US: TRUTV (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytqdhPHURjrDGCge0iOqVKqO0EPT8ptqsQdeuDs28npi.png" group-title="USA Entertainment",US: TRUTV (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117570.ts
-#EXTINF:-1 tvg-id="TRUTVHP" tvg-name="US: TRUTV (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytqdhPHURjrDGCge0iOqVKqO0EPT8ptqsQdeuDs28npi.png" group-title="USA Entertainment",US: TRUTV (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117365.ts
-#EXTINF:-1 tvg-id="TVLNDHD" tvg-name="US: TV LAND (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymWo_UVmrjjnEqMmxGlysT3Up55jvTHP_SqgLEkjhMyk.png" group-title="USA Entertainment",US: TV LAND (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117571.ts
-#EXTINF:-1 tvg-id="TVLDPHD" tvg-name="US: TV LAND (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymWo_UVmrjjnEqMmxGlysT3Up55jvTHP_SqgLEkjhMyk.png" group-title="USA Entertainment",US: TV LAND (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117366.ts
-#EXTINF:-1 tvg-id="TVONEHD" tvg-name="US: TV ONE HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXypMBUDFYUL8vAQnkEKFrJJqpH-5RYIIMCnaWZ9gGJVKQ.png" group-title="USA Entertainment",US: TV ONE HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/70874.ts
-#EXTINF:-1 tvg-id="USAHD" tvg-name="US: USA NETWORK (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VgpMX74vzBcSfKYk_eNSG1NNoQ7aKpGCCCmzgZmWXuOroy9j3uYIh2TnfwVYHxDB6Ri-t6DlSkrQreFt2FPvQQo.png" group-title="USA Entertainment",US: USA NETWORK (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/117577.ts
-#EXTINF:-1 tvg-id="FXHD" tvg-name="US: FX (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VrjvD4SsaBwuPwVbbtiaRx7IIHXgH0X0bHV7QitpQgzRV2WR_IbscvUgKUSmegsXnwukT6QxRIresQjdsq7Bp4M.png" group-title="USA Entertainment",US: FX (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/211104.ts
-#EXTINF:-1 tvg-id="FXPHD" tvg-name="US: FX (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VrjvD4SsaBwuPwVbbtiaRx7IIHXgH0X0bHV7QitpQgzRV2WR_IbscvUgKUSmegsXnwukT6QxRIresQjdsq7Bp4M.png" group-title="USA Entertainment",US: FX (WEST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/211105.ts
-#EXTINF:-1 tvg-id="FXXHD" tvg-name="US: FXX (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VrJc5umVDJTFSEu1U_AJ_aZU-mIQGyiJ34D8EyHyt5McN-CTgmcNJoTX-RlHaOBP6y37p0m5NIz_anfpEyREXiM.png" group-title="USA Entertainment",US: FXX (EAST) HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/211106.ts
-#EXTINF:-1 tvg-id="FXXP" tvg-name="US: FXX (WEST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VrJc5umVDJTFSEu1U_AJ_aZU-mIQGyiJ34D8EyHyt5McN-CTgmcNJoTX-RlHaOBP6y37p0m5NIz_anfpEyREXiM.png" group-title="USA 
-#EXTINF:-1 tvg-id="FLIXHD" tvg-name="US: FLIX HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyn3yHRVGx-Lx3ZsY7WaegvhdHSyb0U_nJaMgXo0HHDUt.png" group-title="USA Entertainment",US: FLIX HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/340202.ts
 
 #EXTINF:-1 tvg-id="babytv.us" tvg-name="US: BABY TV" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytpUjc0852ej9dU9xLjd0CjT6TEk3B2Ltrs2qsmTl1O6.png" group-title="USA Kids | LIVE",US: BABY TV
 http://king-tv.online:8080/gisle@/FDPWGufCmY/117267.ts
@@ -294,7 +219,6 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/117467.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/117356.ts
 #EXTINF:-1 tvg-id="UKIDSH" tvg-name="US: UNIVERSAL KIDS EAST HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygDMBYiOpKOCYC6clfdCWk2u_9UC9cxcxgiJmRv-B2nH.png" group-title="USA Kids | LIVE",US: UNIVERSAL KIDS EAST HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/117507.ts
-
 
 
 #EXTINF:-1 tvg-id="MASNHD" tvg-name="US: MASN FHD" tvg-logo="http://dmtn.tv:8080/images/sCLlyf_T5fr5AkvPufk0WeV3xDeNrBVCMID5_AfmWXQgcU8Xqfyu0QOwynmdCZqCAeB_hD7pKBSTsbz5MwaxPw.png" group-title="USA SPORT | LIVE",US: MASN FHD
