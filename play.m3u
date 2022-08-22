@@ -23,10 +23,7 @@ https://nonton.site:8443/live/mustakim/mustakim/381.m3u8
 https://nonton.site:8443/live/mustakim/mustakim/37349.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - XIAO TAI YANG HD
 https://nonton.site:8443/live/mustakim/mustakim/37351.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - AEC HD
-https://nonton.site:8443/live/mustakim/mustakim/37352.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - SHUANG XING HD
-https://nonton.site:8443/live/mustakim/mustakim/37353.m3u8
+
 #EXTINF:-1 group-title="MY-TEMP",MY - QUAN JIA HD
 https://nonton.site:8443/live/mustakim/mustakim/37354.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - TVB JADE
@@ -38,12 +35,6 @@ https://nonton.site:8443/live/mustakim/mustakim/37457.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - PrimeTime
 https://nonton.site:8443/live/mustakim/mustakim/37458.m3u8
 
-#EXTINF:-1 group-title="MY-TEMP",MY - Tv3
-https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEM7ZsjpbWM8o12nZJfGSAar4
-#EXTINF:-1 group-title="MY-TEMP",MY - Didik tv
-https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEMwjpL2yTngk6svMxYsb19hY
-#EXTINF:-1 group-title="MY-TEMP",MY - Tv9
-https://smetv.ml:443/play/NkmAq3gXObo1bORTZDGEM2XdWUJgNqMkPKHXl3BZWJI
 #EXTINF:-1 group-title="MY-TEMP",MY - Tv8
 http://198.16.64.10:8278/TV8/playlist.m3u8?tid=m10d07a0c1af6&ct=19199&tsum=b60d75956fc9bf6276a3b7efadba36dd
 
