@@ -130,93 +130,200 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 #EXTINF:0,Filmrise Free movie
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="US - Temp",[US]Disney Channel
-http://2mtv.net:8080/mahmoudaswa/26887329/2110
-#EXTINF:-1 group-title="US - Temp",[US]Disney Junior HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2109
-#EXTINF:-1 group-title="US - Temp",[US]Disney XD
-http://2mtv.net:8080/mahmoudaswa/26887329/2108
-#EXTINF:-1 group-title="US - Temp",[US]Nickelodeon HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2106
-#EXTINF:-1 group-title="US - Temp",[US]Boomerang HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2105
-#EXTINF:-1 group-title="US - Temp",[US]Cartoon Network
-http://2mtv.net:8080/mahmoudaswa/26887329/2104
-#EXTINF:-1 group-title="US - Temp",[CA]Nickelodeon HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2293
-#EXTINF:-1 group-title="US - Temp",[CA]Treehouse HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2292
-#EXTINF:-1 group-title="US - Temp",[CA]Family Jr HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2295
-#EXTINF:-1 group-title="US - Temp",[US]TNT HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2138
-#EXTINF:-1 group-title="US - Temp",[US]HALLMARK
-http://2mtv.net:8080/mahmoudaswa/26887329/2136
-#EXTINF:-1 group-title="US - Temp",[US]Hallmark Drama HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2135
-#EXTINF:-1 group-title="US - Temp",[US]Hallmark Movies & Mysteries HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2134
-#EXTINF:-1 group-title="US - Temp",[US]FX_HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2133
-#EXTINF:-1 group-title="US - Temp",[US]FXX_HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2132
-#EXTINF:-1 group-title="US - Temp",[US]OuterMAX
-http://2mtv.net:8080/mahmoudaswa/26887329/2131
-#EXTINF:-1 group-title="US - Temp",[US]Fox_Life
-http://2mtv.net:8080/mahmoudaswa/26887329/2125
-#EXTINF:-1 group-title="US - Temp",[US]AMC HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2124
-#EXTINF:-1 group-title="US - Temp",[US]CBS_REALITY
-http://2mtv.net:8080/mahmoudaswa/26887329/2123
-#EXTINF:-1 group-title="US - Temp",[US]CBSN
-http://2mtv.net:8080/mahmoudaswa/26887329/2122
-#EXTINF:-1 group-title="US - Temp",[US]Cinemax Action HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2111
-#EXTINF:-1 group-title="US - Temp",[US]Starz Encore Classic
-http://2mtv.net:8080/mahmoudaswa/26887329/2078
-#EXTINF:-1 group-title="US - Temp",[US]MovieMAX
-http://2mtv.net:8080/mahmoudaswa/26887329/2077
-#EXTINF:-1 group-title="US - Temp",[US]Sundance_HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2076
-#EXTINF:-1 group-title="US - Temp",[US]BET_SD
-http://2mtv.net:8080/mahmoudaswa/26887329/2103
-#EXTINF:-1 group-title="US - Temp",[US]BRAVO_HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2102
-#EXTINF:-1 group-title="US - Temp",[CA]Starz 1
-http://2mtv.net:8080/mahmoudaswa/26887329/2282
-#EXTINF:-1 group-title="US - Temp",[CA]Starz 2
-http://2mtv.net:8080/mahmoudaswa/26887329/2329
-#EXTINF:-1 group-title="US - Temp",[CA]Disney La Chaine
-http://2mtv.net:8080/mahmoudaswa/26887329/2281
-#EXTINF:-1 group-title="US - Temp",[CA]HBO 2
-http://2mtv.net:8080/mahmoudaswa/26887329/2280
-#EXTINF:-1 group-title="US - Temp",[CA]HBO 1
-http://2mtv.net:8080/mahmoudaswa/26887329/2279
-#EXTINF:-1 group-title="US - Temp",[CA]MovieTime
-http://2mtv.net:8080/mahmoudaswa/26887329/2269
-#EXTINF:-1 group-title="US - Temp",[CA]Slice HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2307
-#EXTINF:-1 group-title="US - Temp",[CA]PARAMOUNT NETWORK HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2306
-#EXTINF:-1 group-title="US - Temp",[CA]TLC HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2305
-#EXTINF:-1 group-title="US - Temp",[CA]Showcase HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2304
+#EXTINF:-1,USA: Baby First
+http://showflix.art:5890/TONTON/TONTON/142757
+#EXTINF:-1,USA: Baby TV HD
+http://showflix.art:5890/TONTON/TONTON/142758
+#EXTINF:-1,USA: Boomerang
+http://showflix.art:5890/TONTON/TONTON/142759
+#EXTINF:-1,USA: Cartoon Network HD
+http://showflix.art:5890/TONTON/TONTON/142760
+#EXTINF:-1,USA: DABL HD
+http://showflix.art:5890/TONTON/TONTON/142761
+#EXTINF:-1,USA: Disney Channel
+http://showflix.art:5890/TONTON/TONTON/142762
+#EXTINF:-1,USA: Disney Junior HD
+http://showflix.art:5890/TONTON/TONTON/142763
+#EXTINF:-1,USA: Disney XD
+http://showflix.art:5890/TONTON/TONTON/142764
+#EXTINF:-1,USA: Duck TV
+http://showflix.art:5890/TONTON/TONTON/142765
+#EXTINF:-1,USA: Nickelodeon HD
+http://showflix.art:5890/TONTON/TONTON/142766
+#EXTINF:-1,USA: NickToons HD
+http://showflix.art:5890/TONTON/TONTON/142767
+#EXTINF:-1,USA: TeenNick HD
+http://showflix.art:5890/TONTON/TONTON/142768
+#EXTINF:-1,USA: Universal Kids
+http://showflix.art:5890/TONTON/TONTON/142769
+#EXTINF:-1,Usa: Nick JR
+http://showflix.art:5890/TONTON/TONTON/142448
 
-#EXTINF:-1 group-title="US - Temp",[US]NBA TV
-http://2mtv.net:8080/mahmoudaswa/26887329/2101
-#EXTINF:-1 group-title="US - Temp",[US]ESPN_1HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2100
-#EXTINF:-1 group-title="US - Temp",[US]ESPN_2HD
-http://2mtv.net:8080/mahmoudaswa/26887329/2099
-#EXTINF:-1 group-title="US - Temp",[US]ESPN_U
-http://2mtv.net:8080/mahmoudaswa/26887329/2098
-#EXTINF:-1 group-title="US - Temp",[US]Espn_News
-http://2mtv.net:8080/mahmoudaswa/26887329/2097
-#EXTINF:-1 group-title="US - Temp",[US]Fox Sports 1
-http://2mtv.net:8080/mahmoudaswa/26887329/2095
-#EXTINF:-1 group-title="US - Temp",[US]Fox Sports 2
-http://2mtv.net:8080/mahmoudaswa/26887329/2094
+
+#EXTINF:-1,Usa: Bravo HD
+http://showflix.art:5890/TONTON/TONTON/142391
+#EXTINF:-1,Usa: Comedy Central HD
+http://showflix.art:5890/TONTON/TONTON/142392
+#EXTINF:-1,Usa: Sundance HD
+http://showflix.art:5890/TONTON/TONTON/142395
+#EXTINF:-1,Usa: CW HD
+http://showflix.art:5890/TONTON/TONTON/142397
+#EXTINF:-1,USA: MoreMax HD
+http://showflix.art:5890/TONTON/TONTON/142398
+#EXTINF:-1,USA: TNT HD
+http://showflix.art:5890/TONTON/TONTON/142399
+#EXTINF:-1,Usa: TRU TV HD
+http://showflix.art:5890/TONTON/TONTON/142400
+#EXTINF:-1,USA: Viceland TV
+http://showflix.art:5890/TONTON/TONTON/142401
+#EXTINF:-1,USA: E! Entertainment HD
+http://showflix.art:5890/TONTON/TONTON/142404
+#EXTINF:-1,Usa: Cinemax Action HD
+http://showflix.art:5890/TONTON/TONTON/142405
+#EXTINF:-1,Usa: CNN HD
+http://showflix.art:5890/TONTON/TONTON/142406
+#EXTINF:-1,USA: TLC HD
+http://showflix.art:5890/TONTON/TONTON/142407
+#EXTINF:-1,USA: NHL Network HD
+http://showflix.art:5890/TONTON/TONTON/142408
+#EXTINF:-1,Usa: EPIX Drive-In HD
+http://showflix.art:5890/TONTON/TONTON/142409
+#EXTINF:-1,Usa: EPIX HD
+http://showflix.art:5890/TONTON/TONTON/142410
+#EXTINF:-1,Usa:  EPIX 2 HD
+http://showflix.art:5890/TONTON/TONTON/142393
+#EXTINF:-1,Usa: EPIX Hits
+http://showflix.art:5890/TONTON/TONTON/142394
+#EXTINF:-1,Usa: WE HD
+http://showflix.art:5890/TONTON/TONTON/142411
+#EXTINF:-1,Usa: FreeRom HD
+http://showflix.art:5890/TONTON/TONTON/142412
+#EXTINF:-1,Usa: Fuse HD
+http://showflix.art:5890/TONTON/TONTON/142413
+#EXTINF:-1,Usa: Fusion HD
+http://showflix.art:5890/TONTON/TONTON/142414
+#EXTINF:-1,Usa: FX HD
+http://showflix.art:5890/TONTON/TONTON/142415
+#EXTINF:-1,Usa: FXX HD
+http://showflix.art:5890/TONTON/TONTON/142416
+#EXTINF:-1,USA: LifeTime HD
+http://showflix.art:5890/TONTON/TONTON/142417
+#EXTINF:-1,Us: 5 USA HD
+http://showflix.art:5890/TONTON/TONTON/142418
+#EXTINF:-1,Usa: Hallmark HD
+http://showflix.art:5890/TONTON/TONTON/142385
+#EXTINF:-1,Usa: Hallmark Drama HD
+http://showflix.art:5890/TONTON/TONTON/142386
+#EXTINF:-1,Usa: Hallmark Movies & Mysteries HD
+http://showflix.art:5890/TONTON/TONTON/142387
+#EXTINF:-1,Usa: AMC HD
+http://showflix.art:5890/TONTON/TONTON/142433
+#EXTINF:-1,Usa: USA Network HD
+http://showflix.art:5890/TONTON/TONTON/142434
+#EXTINF:-1,Usa: SHOxBET
+http://showflix.art:5890/TONTON/TONTON/142449
+#EXTINF:-1,Usa: ThrillerMAX
+http://showflix.art:5890/TONTON/TONTON/142450
+#EXTINF:-1,Usa: RetroPlex
+http://showflix.art:5890/TONTON/TONTON/142451
+#EXTINF:-1,Usa: Starz Encore Classic
+http://showflix.art:5890/TONTON/TONTON/142452
+#EXTINF:-1,USA: MovieMAX
+http://showflix.art:5890/TONTON/TONTON/142453
+#EXTINF:-1,USA: OuterMAX
+http://showflix.art:5890/TONTON/TONTON/142454
+#EXTINF:-1,Usa: 5 StarMAX
+http://showflix.art:5890/TONTON/TONTON/142455
+#EXTINF:-1,USA: Lifetime Movies
+http://showflix.art:5890/TONTON/TONTON/142456
+#EXTINF:-1,USA: Showtime
+http://showflix.art:5890/TONTON/TONTON/142338
+#EXTINF:-1,USA: Showtime 2
+http://showflix.art:5890/TONTON/TONTON/142339
+#EXTINF:-1,USA: Showtime Beyond  / SHO + BET HD
+http://showflix.art:5890/TONTON/TONTON/142340
+#EXTINF:-1,USA: Showtime Extreme
+http://showflix.art:5890/TONTON/TONTON/142341
+#EXTINF:-1,USA: Showtime Family Zone
+http://showflix.art:5890/TONTON/TONTON/142342
+#EXTINF:-1,USA: Showtime Next
+http://showflix.art:5890/TONTON/TONTON/142343
+#EXTINF:-1,USA: Showtime Showcase
+http://showflix.art:5890/TONTON/TONTON/142344
+#EXTINF:-1,USA: Showtime Women
+http://showflix.art:5890/TONTON/TONTON/142345
+#EXTINF:-1,USA: Starz Cinema
+http://showflix.art:5890/TONTON/TONTON/142346
+#EXTINF:-1,USA: Starz Comedy
+http://showflix.art:5890/TONTON/TONTON/142347
+#EXTINF:-1,USA: Starz Edge
+http://showflix.art:5890/TONTON/TONTON/142348
+#EXTINF:-1,USA : Starz Encore
+http://showflix.art:5890/TONTON/TONTON/142349
+#EXTINF:-1,USA: Starz Encore Action
+http://showflix.art:5890/TONTON/TONTON/142350
+#EXTINF:-1,USA: Starz Encore Black
+http://showflix.art:5890/TONTON/TONTON/142351
+#EXTINF:-1,USA: Starz Encore Family
+http://showflix.art:5890/TONTON/TONTON/142352
+#EXTINF:-1,USA: Starz Encore Suspense
+http://showflix.art:5890/TONTON/TONTON/142353
+#EXTINF:-1,USA: Starz Encore Westerns
+http://showflix.art:5890/TONTON/TONTON/142354
+#EXTINF:-1,USA: Starz HD
+http://showflix.art:5890/TONTON/TONTON/142355
+#EXTINF:-1,USA: Starz in Black
+http://showflix.art:5890/TONTON/TONTON/142356
+#EXTINF:-1,USA: Starz Kids & Family
+http://showflix.art:5890/TONTON/TONTON/142357
+#EXTINF:-1,USA: HBO HD
+http://showflix.art:5890/TONTON/TONTON/142358
+#EXTINF:-1,USA: HBO 2
+http://showflix.art:5890/TONTON/TONTON/142359
+#EXTINF:-1,USA: HBO Comedy
+http://showflix.art:5890/TONTON/TONTON/142360
+#EXTINF:-1,USA: HBO Family
+http://showflix.art:5890/TONTON/TONTON/142361
+#EXTINF:-1,USA: HBO Latin
+http://showflix.art:5890/TONTON/TONTON/142362
+#EXTINF:-1,USA: HBO Signature
+http://showflix.art:5890/TONTON/TONTON/142363
+#EXTINF:-1,USA: HBO Zone
+http://showflix.art:5890/TONTON/TONTON/142364
+#EXTINF:-1,USA: MoviePlex
+http://showflix.art:5890/TONTON/TONTON/142365
+#EXTINF:-1,USA: ActionMAX
+http://showflix.art:5890/TONTON/TONTON/142366
+#EXTINF:-1,USA: AMC Plus
+http://showflix.art:5890/TONTON/TONTON/142367
+#EXTINF:-1,USA: BET Her HD
+http://showflix.art:5890/TONTON/TONTON/142368
+#EXTINF:-1,USA: CineMAX HD
+http://showflix.art:5890/TONTON/TONTON/142369
+#EXTINF:-1,USA: CineMax OuterMax FHD
+http://showflix.art:5890/TONTON/TONTON/142371
+#EXTINF:-1,USA: Cinemax ThrillerMax FHD
+http://showflix.art:5890/TONTON/TONTON/142372
+#EXTINF:-1,TNT HD US
+http://showflix.art:5890/TONTON/TONTON/66747
+#EXTINF:-1,Usa: FXM
+http://showflix.art:5890/TONTON/TONTON/142457
+#EXTINF:-1,Usa: TV Land HD
+http://showflix.art:5890/TONTON/TONTON/142376
+#EXTINF:-1,USA: Freeform HD
+http://showflix.art:5890/TONTON/TONTON/142618
+#EXTINF:-1,USA: Oprah Winfrey Network HD
+http://showflix.art:5890/TONTON/TONTON/142638
+#EXTINF:-1,USA: OXYGEN HD
+http://showflix.art:5890/TONTON/TONTON/142639
+#EXTINF:-1,USA: Paramount Network HD
+http://showflix.art:5890/TONTON/TONTON/142640
+#EXTINF:-1,USA: People TV HD
+http://showflix.art:5890/TONTON/TONTON/142642
+#EXTINF:-1,USA: PixL FHD
+http://showflix.art:5890/TONTON/TONTON/142643
+#EXTINF:-1,USA: SYFY FHD
+http://showflix.art:5890/TONTON/TONTON/142649
 
 
 #EXTINF:-1, VSIN
