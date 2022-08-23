@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,ComedyDynamics
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
-#EXTINF:-1,MovieDome
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8
-#EXTINF:-1,MovieDome Family
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8
-#EXTINF:-1,Action Hollywood Movies
-https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MY-TEMP",MY - RAKUTEN VIKI 
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -21,8 +13,6 @@ https://nonton.site:8443/live/mustakim/mustakim/32529.m3u8
 https://nonton.site:8443/live/mustakim/mustakim/98.m3u8
 #EXTINF:-1 group-title="MY-TEMP",K Drama
 https://nonton.site:8443/live/mustakim/mustakim/35769.m3u8
-#EXTINF:-1group-title="MOVIES",MY - Oh!K HD
-https://nonton.site:8443/live/mustakim/mustakim/37371.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Chinese Drama
 https://nonton.site:8443/live/mustakim/mustakim/36733.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Star Chinese Movies HD
@@ -453,24 +443,7 @@ http://pprotv.com/live/asim1234/123456/39555.m3u8
 
 
 <------ Malaysia Temp -------->
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Sbs food
-http://iptv12k.com:35461/live/80301070602/456776/3321.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Sbs viceland 
-http://iptv12k.com:35461/live/80301070602/456776/3396.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Dreamworks English 
-http://iptv12k.com:35461/live/80301070602/456776/9132.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Cartoon network plus
-http://iptv12k.com:35461/live/80301070602/456776/8916.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Tadaa
-http://iptv12k.com:35461/live/80301070602/456776/744.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY: Astro Ceria 
-http://iptv12k.com:35461/live/80301070602/456776/730.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY:Astro Arena 2
-http://iptv12k.com:35461/80301070602/456776/965
-#EXTINF:-1 group-title="Malaysia - Temp",MY:卫视中文
-http://61.219.170.95:18522/.m3u8
-#EXTINF:-1 group-title="Malaysia - Temp",MY:卫视中文
-http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+
 
 #EXTINF:-1 group-title="Malaysia - Temp",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
