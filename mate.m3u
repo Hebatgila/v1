@@ -70,14 +70,16 @@ https://nonton.site:8443/live/mustakim/mustakim/3099.m3u8
 https://nonton.site:8443/live/mustakim/mustakim/37435.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-#EXTINF:-1 group-title="MY-TEMP",Astro supersports 1
-http://172.96.140.34:9138/stream/live/c20414.m3u8
-#EXTINF:-1 group-title="MY-TEMP",Astro supersports 2
-http://172.96.140.34:9138/stream/live/c20415.m3u8
-#EXTINF:-1 group-title="MY-TEMP",Astro Supersports 3
-http://172.96.140.34:9138/stream/live/c20416.m3u8
-#EXTINF:-1 group-title="MY-TEMP",Astro Supersports 4
-http://172.96.140.34:9138/stream/live/c20417.m3u8
+
+
+#EXTINF:-1 group-title="MY-TEMP",MY | ASTRO SUPERSPORTS 1 FHD
+http://showflix.art:5890/TONTON/TONTON/68974
+#EXTINF:-1 group-title="MY-TEMP",MY | ASTRO SUPERSPORTS 2 FHD
+http://showflix.art:5890/TONTON/TONTON/68975
+#EXTINF:-1 group-title="MY-TEMP",MY | ASTRO SUPERSPORTS 3 FHD
+http://showflix.art:5890/TONTON/TONTON/68976
+#EXTINF:-1 group-title="MY-TEMP",MY | ASTRO SUPERSPORTS 4 FHD
+http://showflix.art:5890/TONTON/TONTON/68977
 
 
 <------ USA Temp -------->
