@@ -72,14 +72,21 @@ https://nonton.site:8443/live/mustakim/mustakim/37435.m3u8
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 
 
-#EXTINF:-1 group-title="MY-TEMP",MY | ASTRO SUPERSPORTS 1 FHD
-http://showflix.art:5890/TONTON/TONTON/68974
-#EXTINF:-1 group-title="MY-TEMP",MY | ASTRO SUPERSPORTS 2 FHD
-http://showflix.art:5890/TONTON/TONTON/68975
-#EXTINF:-1 group-title="MY-TEMP",MY | ASTRO SUPERSPORTS 3 FHD
-http://showflix.art:5890/TONTON/TONTON/68976
-#EXTINF:-1 group-title="MY-TEMP",MY | ASTRO SUPERSPORTS 4 FHD
-http://showflix.art:5890/TONTON/TONTON/68977
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym1o1wSSPNer0zIdGtyovVCO.png" group-title="MY-TEMP",MY| ASTRO SUPERSPORT 1 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379979.ts
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2uH9udpsT80xD7hOQMq4FFx73p77TcFJ-seUvw33eeCA.png" group-title="MY-TEMP",MY| ASTRO SUPERSPORT 2 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379981.ts
+
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2um05eA0_1JeNYm776sPjq.png" group-title="MY-TEMP",MY| ASTRO SUPERSPORT 3 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379983.ts
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY| ASTRO SUPERSPORT 4 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2K4DHlaaoLzq6UK2ygI6r9.png" group-title="MY-TEMPE",MY| ASTRO SUPERSPORT 4 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379985.ts
+#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="MY| ASTRO SUPERSPORT 5 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="MY-TEMP",MY| ASTRO SUPERSPORT 5 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379987.ts
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2veMCc7pEfeOWlAKTUm3OR.png" group-title="MY-TEMP",MY| ASTRO ARENA HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379989.ts
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="MY| ASTRO ARENA 2 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3H1TWgsNFL3tFgEeFsiXTa.png" group-title="MY-TEMP",MY| ASTRO ARENA 2 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379991.ts
 
 
 <------ USA Temp -------->
