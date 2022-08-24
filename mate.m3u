@@ -74,18 +74,6 @@ https://nonton.site:8443/live/mustakim/mustakim/37435.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 
-#EXTINF:-1 group-title="MY-TEMP", TrueSportHd_1
-https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym1o1wSSPNer0zIdGtyovVCO.png" group-title="MY-TEMP",MY| ASTRO SUPERSPORT 1 HD
-https://www.vhls.ru.com/cdn/premium123/playlist.m3u8
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2uH9udpsT80xD7hOQMq4FFx73p77TcFJ-seUvw33eeCA.png" group-title="MY-TEMP",MY| ASTRO SUPERSPORT 2 HD
-https://www.vhls.ru.com/cdn/premium124/playlist.m3u8
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2um05eA0_1JeNYm776sPjq.png" group-title="MY-TEMP",MY| ASTRO SUPERSPORT 3 HD
-https://www.vhls.ru.com/cdn/premium125/playlist.m3u8
-#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY| ASTRO SUPERSPORT 4 HD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2K4DHlaaoLzq6UK2ygI6r9.png" group-title="MY-TEMP",MY| ASTRO SUPERSPORT 4 HD
-https://www.vhls.ru.com/cdn/premium126/playlist.m3u8
-
-
 
 <------ USA Temp -------->
 
@@ -652,7 +640,8 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="TVNAsia.hk" tvg-name="tvN" tvg-logo="http://dusktill.masuk.web.id/img/tvn.png" group-title="MOVIES",tvN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
+#EXTINF:-1 group-title="MOVIES", SBS KOREAN (EU/USA)
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ac_samsung.png" group-title="MOVIES",AsianCrush PLEX
 https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=5eea605474085f0040ddc767&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="MOVIES",Rakuten Viki PLEX
