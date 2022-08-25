@@ -26,7 +26,8 @@
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MY-TEMP", SBS KOREAN (EU/USA)
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 group-title="MY-TEMP",MY - ASTRO CERIA 2 HD
+http://185.135.157.237:8080/live/geniptvservice/4EYQYcwMU6/92030.m3u8?token=QhNcUUpYElsXAVIHXVkCXFsEUVUIA1cHAgVVAwJSUQYIBwJVWAQIVAMbH0QXTEEBAgttXVQTDwlTVgUCGxJFF1xDa1ldEgpDBA0HVkYUERAKC1cWCgEZEhEPUhANEgNcDQYHEhUSVRlBXEEIBVRsAAYQW1dVEw9eFApaHhVfXjtdVFlRV1QSWxcIEUpGUUAUQVxcQVxdGRIDD0JAVkRVRgMTBQYMARJNF1pcEwpMQR1BXBB5aRMZEgQeQldZQ1kLVxMOElQDRVkXFREPF2dBARASQFFRXFBCQ1wUAxUcEglYSWtTVl5eBFZNWgkKSxFeQVcCBAATGRIMCVhbQ19CO0lYUBIDEglUDBtO
 #EXTINF:-1 group-title="MY-TEMP",MY - ASTRO CERIA HD
 https://nonton.site:8443/live/mustakim/mustakim/37399.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - TA-DAA
@@ -71,6 +72,10 @@ https://nonton.site:8443/live/mustakim/mustakim/299.m3u8
 https://nonton.site:8443/live/mustakim/mustakim/3099.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - WWE NETWORK
 https://nonton.site:8443/live/mustakim/mustakim/37435.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - SUKAN
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 
