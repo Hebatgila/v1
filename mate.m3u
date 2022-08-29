@@ -1,20 +1,20 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz"
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz"
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz"
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz"
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,username=epg&password=epg" refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz" refresh="3600"
 #EXTM3U x-tvg-url="http://botallen.live/epg.xml.gz"
 
 <----------------------------------- TEMP COUNTRY --------------------------------------->
@@ -145,123 +145,6 @@ http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-30
 
 
 <------ USA Temp -------->
-
-#EXTINF:-1 group-title="US-TEMP",Disney XD HD US
-http://showflix.art:5890/TONTON/TONTON/66644
-#EXTINF:-1 group-title="US-TEMP",Cartoon Network US
-http://showflix.art:5890/TONTON/TONTON/66624
-#EXTINF:-1 group-title="US-TEMP",Boomerang US
-http://showflix.art:5890/TONTON/TONTON/66610
-#EXTINF:-1 group-title="US-TEMP",AMC HD US
-http://showflix.art:5890/TONTON/TONTON/66601
-#EXTINF:-1 group-title="US-TEMP",A&E HD US
-http://showflix.art:5890/TONTON/TONTON/66594
-#EXTINF:-1 group-title="US-TEMP",ABC HD US
-http://showflix.art:5890/TONTON/TONTON/66597
-#EXTINF:-1 group-title="US-TEMP",Bravo HD US
-http://showflix.art:5890/TONTON/TONTON/66611
-#EXTINF:-1 group-title="US-TEMP",E! Entertainment HD US
-http://showflix.art:5890/TONTON/TONTON/66645
-#EXTINF:-1 group-title="US-TEMP",CineMax 5 StarMax US
-http://showflix.art:5890/TONTON/TONTON/66625
-#EXTINF:-1 group-title="US-TEMP",CineMax Action HD US
-http://showflix.art:5890/TONTON/TONTON/66626
-#EXTINF:-1 group-title="US-TEMP",CineMax ActionMax East US
-http://showflix.art:5890/TONTON/TONTON/66627
-#EXTINF:-1 group-title="US-TEMP",CineMax East US
-http://showflix.art:5890/TONTON/TONTON/66628
-#EXTINF:-1 group-title="US-TEMP",CineMax MoreMax US
-http://showflix.art:5890/TONTON/TONTON/66629
-#EXTINF:-1 group-title="US-TEMP",Cinemax Action US
-http://showflix.art:5890/TONTON/TONTON/66630
-#EXTINF:-1 group-title="US-TEMP",Cinemax More HD US
-http://showflix.art:5890/TONTON/TONTON/66631
-#EXTINF:-1 group-title="US-TEMP",Comedy Central FHD US
-http://showflix.art:5890/TONTON/TONTON/66632
-#EXTINF:-1 group-title="US-TEMP",Comedy Central US
-http://showflix.art:5890/TONTON/TONTON/66633
-#EXTINF:-1 group-title="US-TEMP",CW HD US
-http://showflix.art:5890/TONTON/TONTON/66620
-#EXTINF:-1 group-title="US-TEMP",FX HD US
-http://showflix.art:5890/TONTON/TONTON/66653
-#EXTINF:-1 group-title="US-TEMP",Food Network HD US
-http://showflix.art:5890/TONTON/TONTON/66659
-#EXTINF:-1 group-title="US-TEMP",Food Network US
-http://showflix.art:5890/TONTON/TONTON/66660
-#EXTINF:-1 group-title="US-TEMP",Fox HD US
-http://showflix.art:5890/TONTON/TONTON/66661
-#EXTINF:-1 group-title="US-TEMP",Free Form HD US
-http://showflix.art:5890/TONTON/TONTON/66673
-#EXTINF:-1 group-title="US-TEMP",FreeForm HD US
-http://showflix.art:5890/TONTON/TONTON/66674
-#EXTINF:-1 group-title="US-TEMP",H2 US
-http://showflix.art:5890/TONTON/TONTON/66676
-#EXTINF:-1 group-title="US-TEMP",HBO Comedy HD US
-http://showflix.art:5890/TONTON/TONTON/66677
-#EXTINF:-1 group-title="US-TEMP",HBO East US
-http://showflix.art:5890/TONTON/TONTON/66678
-#EXTINF:-1 group-title="US-TEMP",HBO Family HD US
-http://showflix.art:5890/TONTON/TONTON/66679
-#EXTINF:-1 group-title="US-TEMP",HBO HD US
-http://showflix.art:5890/TONTON/TONTON/66680
-#EXTINF:-1 group-title="US-TEMP",HBO Signature HD US
-http://showflix.art:5890/TONTON/TONTON/66681
-#EXTINF:-1 group-title="US-TEMP",HBO Zone HD US
-http://showflix.art:5890/TONTON/TONTON/66684
-#EXTINF:-1 group-title="US-TEMP",Hallmark Channel HD US
-http://showflix.art:5890/TONTON/TONTON/66687
-#EXTINF:-1 group-title="US-TEMP",Hallmark Movies & Mysteries HD US
-http://showflix.art:5890/TONTON/TONTON/66689
-#EXTINF:-1 group-title="US-TEMP",Lifetime HD US
-http://showflix.art:5890/TONTON/TONTON/66694
-#EXTINF:-1 group-title="US-TEMP",NBC US
-http://showflix.art:5890/TONTON/TONTON/66707
-#EXTINF:-1 group-title="US-TEMP",NHL Network US
-http://showflix.art:5890/TONTON/TONTON/66715
-#EXTINF:-1 group-title="US-TEMP",Oprah Winfrey Network HD US
-http://showflix.art:5890/TONTON/TONTON/66719
-#EXTINF:-1 group-title="US-TEMP",Reelz HD US
-http://showflix.art:5890/TONTON/TONTON/66726
-#EXTINF:-1 group-title="US-TEMP",SEC Network HD US
-http://showflix.art:5890/TONTON/TONTON/66727
-#EXTINF:-1 group-title="US-TEMP",Science HD US
-http://showflix.art:5890/TONTON/TONTON/66728
-#EXTINF:-1 group-title="US-TEMP",Showtime 2 HD US
-http://showflix.art:5890/TONTON/TONTON/66729
-#EXTINF:-1 group-title="US-TEMP",Showtime East HD US
-http://showflix.art:5890/TONTON/TONTON/66731
-#EXTINF:-1 group-title="US-TEMP",Showtime FHD US
-http://showflix.art:5890/TONTON/TONTON/66732
-#EXTINF:-1 group-title="US-TEMP",Showtime Showcase HD US
-http://showflix.art:5890/TONTON/TONTON/66733
-#EXTINF:-1 group-title="US-TEMP",Showtime West US
-http://showflix.art:5890/TONTON/TONTON/66734
-#EXTINF:-1 group-title="US-TEMP",Paramount Network HD US
-http://showflix.art:5890/TONTON/TONTON/66736
-#EXTINF:-1 group-title="US-TEMP",Starz Cinema US
-http://showflix.art:5890/TONTON/TONTON/66738
-#EXTINF:-1 group-title="US-TEMP",Starz Comedy US
-http://showflix.art:5890/TONTON/TONTON/66739
-#EXTINF:-1 group-title="US-TEMP",Starz Edge HD US
-http://showflix.art:5890/TONTON/TONTON/66740
-#EXTINF:-1 group-title="US-TEMP",Starz Encore HD US
-http://showflix.art:5890/TONTON/TONTON/66742
-#EXTINF:-1 group-title="US-TEMP",SyFy HD US
-http://showflix.art:5890/TONTON/TONTON/66744
-#EXTINF:-1 group-title="US-TEMP",TBS HD US
-http://showflix.art:5890/TONTON/TONTON/66746
-#EXTINF:-1 group-title="US-TEMP",TNT HD US
-http://showflix.art:5890/TONTON/TONTON/66747
-#EXTINF:-1,Travel Channel HD US
-http://showflix.art:5890/TONTON/TONTON/66748
-#EXTINF:-1 group-title="US-TEMP",truTV HD US
-http://showflix.art:5890/TONTON/TONTON/66749
-#EXTINF:-1 group-title="US-TEMP",US Network HD US
-http://showflix.art:5890/TONTON/TONTON/66751
-#EXTINF:-1 group-title="US-TEMP",USA HD US
-http://showflix.art:5890/TONTON/TONTON/66752
-#EXTINF:-1 group-title="US-TEMP",USA Network HD US
-http://showflix.art:5890/TONTON/TONTON/66753
 
 
 #EXTINF:-1 tvg-id="babytv.us" tvg-name="US: BABY TV" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytpUjc0852ej9dU9xLjd0CjT6TEk3B2Ltrs2qsmTl1O6.png" group-title="USA Kids | LIVE",US: BABY TV
