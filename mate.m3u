@@ -51,8 +51,7 @@ https://2749-20-198-104-136.in.ngrok.io/JioxRanaPk/autoq.php?c=Colors_Infinity_S
 #EXTINF:-1 tvg-id="762" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
 https://2749-20-198-104-136.in.ngrok.io/JioxRanaPk/autoq.php?c=Sony_Pix_HD
 
-#EXTINF:-1 tvg-id="1530" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",Sony Pix SD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
 
 #EXTINF:-1 tvg-id="889" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
 https://2749-20-198-104-136.in.ngrok.io/JioxRanaPk/autoq.php?c=Jio_Sports
@@ -66,21 +65,11 @@ https://2749-20-198-104-136.in.ngrok.io/JioxRanaPk/autoq.php?c=Dsports
 #EXTINF:-1 tvg-id="162" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
 https://2749-20-198-104-136.in.ngrok.io/JioxRanaPk/autoq.php?c=Ten_HD
 
-#EXTINF:-1 tvg-id="514" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
- https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-
 #EXTINF:-1 tvg-id="891" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
 https://2749-20-198-104-136.in.ngrok.io/JioxRanaPk/autoq.php?c=Ten2_HD
 
-#EXTINF:-1 tvg-id="523" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
- https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-
 #EXTINF:-1 tvg-id="155" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
 https://2749-20-198-104-136.in.ngrok.io/JioxRanaPk/autoq.php?c=Six_HD
-
-#EXTINF:-1 tvg-id="525" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
-https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-
 
 
 <------ Malaysia Temp -------->
