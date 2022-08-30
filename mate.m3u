@@ -452,11 +452,6 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CNN Indonesia HD" tvg-name="CNN Indonesia HD" tvg-url"http://www.transvision.co.id" tvg-logo="https://2.bp.blogspot.com/-oosV39Fczxs/XDAlx0XLyQI/AAAAAAAARQU/Q2YyyMAjRhkUfbB59t5bPbZ9CrFv1fJTQCLcBGAs/s320/CNN%2BIndonesia.png" group-title="Indonesia Channel",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/b5gcteI.png" group-title="Indonesia Channel",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
@@ -495,10 +490,9 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:0 tvg-id="BERITA SATU WORLD" tvg-name="BERITA SATU WORLD" tvg-url="http://www.firstmedia.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" group-title="Indonesia Channel",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
 #EXTINF:0 tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel" tvg-url="http://www.theindonesiachannel.com" tvg-logo="https://www.theindonesiachannel.com/uploads/news/thb_LogoTICClean_1440X812.png" group-title="Indonesia Channel",THE INDONESIA CHANNEL
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -515,32 +509,32 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
 #EXTINF:0 tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/seatoday.png" group-title="Indonesia Channel",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel" tvg-url="http://www.theindonesiachannel.com" tvg-logo="https://www.theindonesiachannel.com/uploads/news/thb_LogoTICClean_1440X812.png" group-title="Indonesia Channel",THE INDONESIA CHANNEL
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-url="http://www.useetv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png" group-title="Indonesia Channel",Nusantara TV
-https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+http://203.77.246.50:5000/udp/239.1.1.14:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Magna Channel" tvg-name="Magna Channel" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channel",Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="JAKARTA GLOBE NEWS CHANNEL" tvg-name="JAKARTA GLOBE NEWS CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="Indonesia Channel",Jakarta Globe News Channel
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Indonesia Channel" tvg-logo="", O Channel
+http://rr3.dens.tv/s/s73/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel_Trial-
 
-#EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Indonesia Channel",O Channel
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Indonesia Channel" tvg-logo="", MYTV
+http://rr3.dens.tv/s/s88/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=MYTV
 
-
-#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-url="http://www.dens.tv" tvg-logo="https://i.pinimg.com/originals/e6/d6/4c/e6d64c019581df3d7ecd8b7111798e8f.png" group-title="Indonesia Channel",My tv
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Indonesia Channel" tvg-logo="", Elshinta TV
+http://rr2.dens.tv/s/s10/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -561,8 +555,8 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="Bali TV" tvg-name="Bali TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/balitv.png" group-title="Indonesia Channel",BALI TV
 https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1  tvg-id="JITV.id" group-title="Indonesia Channel" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
-http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
+#EXTINF:-1 tv-name="JITV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGyMWTHZuSVuSDxoHE6OOZO_TuLqvkp_UFk-0Q=s88-c-k-c0x00ffffff-no-rj" group-title=Indonesia Channel", JITV HD
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -585,43 +579,22 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 
-#EXTINF:-1  tvg-id="TATV.id" group-title="Indonesia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png",TATV SOLO
-http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-
-#EXTINF:-1  tvg-id="JAKTV.id" group-title="Indonesia Channel" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png",JakTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
-
 
 #EXTINF:-1  tvg-id="" group-title="Indonesia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png",Banten Raya TV
 https://v2.siar.us/barayatv/live/chunks.m3u8
 
 
-#EXTINF:-1  tvg-id="ADITV.id" group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",ADiTV
+#EXTINF:-1  tvg-id="ADITV.id" group-title="Indonesia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-id="TVKU.id" group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
+#EXTINF:-1  tvg-id="TVKU.id" group-title="Indonesia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1  tvg-id="ATV.id" group-title="Indonesia Channel" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/a/af/ATV_Malang_Logo_%282011%29.png/revision/latest/scale-to-width-down/250?cb=20210305150408",ATV Malang
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1  tvg-id="BMSTV.id" group-title="Indonesia Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 
-#EXTINF:-1  tvg-id="CahayaBantenTV.id" group-title="Indonesia Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CTV_Banten_logo.png/revision/latest?cb=20180920052628",CTV Banten 
-http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
-
-#EXTINF:-1  tvg-id="PrimaTV.id" group-title="Indonesia Channel" tvg-logo="https://i.imgur.com/RRu0wKR.png",PRIMA TV
-http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
-
-#EXTINF:-1  tvg-id="TVDesa.id" group-title="Indonesia Channel" tvg-logo="http://desavision.id/wp-content/uploads/2021/01/Komunitas-TV-Desa.png",TV DESA
-http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
-
-#EXTINF:-1  tvg-id="Sakti.id" group-title="Indonesia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",SAKTI TV
-http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="Indonesia Channel", Duta TV
-https://v2.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tv-name="Duta TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOO1ygyFkEuIz7RgvZKgiQO92nZz--MtggqQ&usqp=CAU" group-title="Indonesia Channel", Duta TV-siar.us
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 
 <----------------------------------- Movie --------------------------------------->
