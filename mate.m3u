@@ -369,27 +369,27 @@ https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/pla
 
 
 <----------------------------------- Indonesia Channel --------------------------------------->
-
-
-#EXTINF:-1  tvg-id="SCTV.id" group-title="Indonesia Channel"  tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png",SCTV 2
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" group-title="Indonesia Channel" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png",INDOSIAR 2
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" group-title="Indonesia Channel" tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png",TRANSTV 2
-http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-
-#EXTINF:-1 tvg-id="="Trans7.id" group-title="Indonesia Channel" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png",TRANS7 2
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia Channel"tvg-logo="https://i.postimg.cc/W1vRngmd/download-2021-09-06-T024529-000.jpg",SCTV 1
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
+#EXTINF:-1  tvg-id="SCTV.id" group-title="Indonesia Channel"  tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png",SCTV 2
+http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Indonesia Channel" tvg-logo="https://i.postimg.cc/Jh7zp93H/download-82.png",INDOSIAR 1
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Indonesia Channel" tvg-logo="https://i.postimg.cc/Jh7zp93H/download-82.png",INDOSIAR 2
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="Indonesia Channel" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png",INDOSIAR 3
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" group-title="Indonesia Channel" tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png",TRANSTV 2
+http://210.210.155.35/qwr9ew/s/s05/index.m3u8
+
+#EXTINF:-1 tvg-id="="Trans7.id" group-title="Indonesia Channel" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png",TRANS7 2
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -406,6 +406,11 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="Indonesia Channel",MNC TV HD
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="INews.id" tvg-name="iNews" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="News",iNews
+https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_hls/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -430,12 +435,12 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="TVOne.id" tvg-name="tvOne" tvg-url="http://www.mncvision.id.E" tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="Indonesia Channel",tvOne
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-url="http://www.mncvision.id.E" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="Indonesia Channel",Metro TV
-https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1347,7 +1352,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="INews.id" tvg-name="iNews" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="News",iNews
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_hls/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
