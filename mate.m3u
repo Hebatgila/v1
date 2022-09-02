@@ -77,7 +77,10 @@ https://2700-20-198-104-136.in.ngrok.io/JioxPlus/autoq.php?id=525
 
 <------ Malaysia Temp -------->
 
-
+#EXTINF:-1 group-title="MY-TEMP",AU: TEN
+http://quality-restream.com:8080/live/Millenium/61f8930b/295042.m3u8
+#EXTINF:-1 group-title="MY-TEMP",AU: 10 Bold
+http://quality-restream.com:8080/live/Millenium/61f8930b/81782.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - RAKUTEN VIKI 
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MY-TEMP", SBS KOREAN (EU/USA)
@@ -92,9 +95,16 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://quality-restream.com:8080/live/Millenium/61f8930b/451.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - ASTRO CERIA HD
 http://185.135.157.237:8080/live/geniptvservice/4EYQYcwMU6/92030.m3u8?token=QhNcUUpYElsXAVIHXVkCXFsEUVUIA1cHAgVVAwJSUQYIBwJVWAQIVAMbH0QXTEEBAgttXVQTDwlTVgUCGxJFF1xDa1ldEgpDBA0HVkYUERAKC1cWCgEZEhEPUhANEgNcDQYHEhUSVRlBXEEIBVRsAAYQW1dVEw9eFApaHhVfXjtdVFlRV1QSWxcIEUpGUUAUQVxcQVxdGRIDD0JAVkRVRgMTBQYMARJNF1pcEwpMQR1BXBB5aRMZEgQeQldZQ1kLVxMOElQDRVkXFREPF2dBARASQFFRXFBCQ1wUAxUcEglYSWtTVl5eBFZNWgkKSxFeQVcCBAATGRIMCVhbQ19CO0lYUBIDEglUDBtO
-
+#EXTINF:-1 group-title="MY-TEMP",MY - ASTRO CERIA 2 HD 
+http://quality-restream.com:8080/live/Millenium/61f8930b/157481.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - Disney XD
+http://quality-restream.com:8080/live/Millenium/61f8930b/157544.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - TA-DAA
 http://quality-restream.com:8080/live/Millenium/61f8930b/290510.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - TV 3
+http://quality-restream.com:8080/live/Millenium/61f8930b/158360.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - TV 9
+http://quality-restream.com:8080/live/Millenium/61f8930b/171953.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Dream Works HD
 https://nonton.site:8443/live/mustakim/mustakim/32529.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Paramount Network
@@ -110,7 +120,7 @@ https://nonton.site:8443/live/mustakim/mustakim/381.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - iQIYI HD
 https://nonton.site:8443/live/mustakim/mustakim/37349.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - XIAO TAI YANG HD
-https://nonton.site:8443/live/mustakim/mustakim/37351.m3u8
+http://quality-restream.com:8080/live/Millenium/61f8930b/201164.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - TVB Classic
 http://quality-restream.com:8080/live/Millenium/61f8930b/157510.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - Tv8
@@ -133,6 +143,14 @@ http://quality-restream.com:8080/live/Millenium/61f8930b/157485.m3u8
 http://quality-restream.com:8080/live/Millenium/61f8930b/287793.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - Astro Supersports 
 http://quality-restream.com:8080/live/Millenium/61f8930b/146068.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - Astro SuperSport 1
+http://quality-restream.com:8080/live/Millenium/61f8930b/146068.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - Astro SuperSport 2
+http://quality-restream.com:8080/live/Millenium/61f8930b/157556.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - Astro SuperSport 3
+http://quality-restream.com:8080/live/Millenium/61f8930b/157557.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - Astro SuperSport 4
+http://quality-restream.com:8080/live/Millenium/61f8930b/157558.m3u8
 #EXTINF:-1 group-title="MY-TEMP",ESPN
 https://nonton.site:8443/live/mustakim/mustakim/499.m3u8
 #EXTINF:-1 group-title="MY-TEMP",ESPN2
