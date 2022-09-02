@@ -88,17 +88,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 #EXTINF:-1 group-title="MY-TEMP", USA NETWORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
-#EXTINF:-1 group-title="MY-TEMP", FREEFORM
-http://172.96.160.37:9138/stream/live/c20741.m3u8
 #EXTINF:-1 group-title="MY-TEMP", Paramount Network Canada
 http://quality-restream.com:8080/live/Millenium/61f8930b/451.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - ASTRO CERIA HD
 http://185.135.157.237:8080/live/geniptvservice/4EYQYcwMU6/92030.m3u8?token=QhNcUUpYElsXAVIHXVkCXFsEUVUIA1cHAgVVAwJSUQYIBwJVWAQIVAMbH0QXTEEBAgttXVQTDwlTVgUCGxJFF1xDa1ldEgpDBA0HVkYUERAKC1cWCgEZEhEPUhANEgNcDQYHEhUSVRlBXEEIBVRsAAYQW1dVEw9eFApaHhVfXjtdVFlRV1QSWxcIEUpGUUAUQVxcQVxdGRIDD0JAVkRVRgMTBQYMARJNF1pcEwpMQR1BXBB5aRMZEgQeQldZQ1kLVxMOElQDRVkXFREPF2dBARASQFFRXFBCQ1wUAxUcEglYSWtTVl5eBFZNWgkKSxFeQVcCBAATGRIMCVhbQ19CO0lYUBIDEglUDBtO
-#EXTINF:-1 group-title="MY-TEMP",MY - ASTRO CERIA HD 2
-http://172.96.160.37:9138/stream/live/c20635.m3u8
 
 #EXTINF:-1 group-title="MY-TEMP",MY - TA-DAA
-https://nonton.site:8443/live/mustakim/mustakim/37445.m3u8
+http://quality-restream.com:8080/live/Millenium/61f8930b/290510.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Dream Works HD
 https://nonton.site:8443/live/mustakim/mustakim/32529.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Paramount Network
@@ -128,7 +124,7 @@ https://nonton.site:8443/live/mustakim/mustakim/37428.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - BOO
 https://nonton.site:8443/live/mustakim/mustakim/37457.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - PrimeTime
-http://172.96.160.37:9138/stream/live/c20522.m3u8
+https://nonton.site:8443/live/mustakim/mustakim/37458.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - MTV Asia
 https://nonton.site:8443/live/mustakim/mustakim/37460.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - ASTRO ARENA HD
@@ -136,13 +132,7 @@ http://quality-restream.com:8080/live/Millenium/61f8930b/157485.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - ASTRO ARENA 2 HD
 http://quality-restream.com:8080/live/Millenium/61f8930b/287793.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - Astro Supersports 
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
-#EXTINF:-1 group-title="MY-TEMP",MY - Astro supersports 2
-http://172.96.140.34:9138/stream/live/c20415.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - Astro Supersports 3
-http://172.96.140.34:9138/stream/live/c20416.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - Astro Supersports 4
-http://172.96.140.34:9138/stream/live/c20417.m3u8
+http://quality-restream.com:8080/live/Millenium/61f8930b/146068.m3u8
 #EXTINF:-1 group-title="MY-TEMP",ESPN
 https://nonton.site:8443/live/mustakim/mustakim/499.m3u8
 #EXTINF:-1 group-title="MY-TEMP",ESPN2
