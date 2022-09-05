@@ -18,62 +18,109 @@
 #EXTM3U x-tvg-url="http://botallen.live/epg.xml.gz"
 
 <----------------------------------- TEMP COUNTRY --------------------------------------->
-#EXTINF:-1 tvg-id="1872" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png",DreamWorks
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1872
 
-#EXTINF:-1 tvg-id="547" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=547
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 10 Bold Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 10 Bold Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375633.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 10 Peach Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 10 Peach Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375641.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 10 Shake Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 10 Shake Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375649.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7flix Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 7flix Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375658.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7mate Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 7mate Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375667.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7TWO Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 7TWO Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375675.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 9Gem Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 9Gem Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375683.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 9Go Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 9Go Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375691.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 9Life Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 9Life Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375700.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 9Rush Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 9Rush Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375708.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: ABC Kids Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: ABC Kids Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375721.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: ABC ME Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: ABC ME Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375731.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: ABC News Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: ABC News Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375741.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: ABC Plus Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: ABC Plus Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375750.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: C31 Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: C31 Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375758.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Channel 9 Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Channel 9 Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375764.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Fox Sports News Sydney HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Fox Sports News Sydney HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375767.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Fuel TV Sydney HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Fuel TV Sydney HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375768.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: NITV Sydney HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: NITV Sydney HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375769.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Olympics Channel" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Olympics Channel
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375770.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Olympics Channel Sydney HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Olympics Channel Sydney HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375771.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: OUTDOOR CHANNEL SYDNEY HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuMMn9yykR0X7j0tTVT7TIe_Q_RCj6scqJZ0VdEwEKIj.png" group-title="AUSTRALIA | LIVE",AUS: OUTDOOR CHANNEL SYDNEY HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375772.ts
+#EXTINF:-1 tvg-id="pac12network.us" tvg-name="AUS: PAC-12 NATIONAL HD" tvg-logo="http://dmtn.tv:8080/images/3MLIud8m5vRPxA2j4f15tVsxMrQDzwcR2i-5l0bdq-oF3DbK-Vu2l11K59ctjyLL.png" group-title="AUSTRALIA | LIVE",AUS: PAC-12 NATIONAL HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375773.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: PAC-12 PERTH" tvg-logo="http://dmtn.tv:8080/images/3MLIud8m5vRPxA2j4f15tVsxMrQDzwcR2i-5l0bdq-oF3DbK-Vu2l11K59ctjyLL.png" group-title="AUSTRALIA | LIVE",AUS: PAC-12 PERTH
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375774.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: RACING.COM Melbourne" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: RACING.COM Melbourne
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375776.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Redbull TV Melbourne" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Redbull TV Melbourne
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375780.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: SBS Food Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: SBS Food Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375794.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: SBS Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: SBS Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375799.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: SBS Viceland Melbourne" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: SBS Viceland Melbourne
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375802.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: SBS World Movies Perth" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: SBS World Movies Perth
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375807.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Seven Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Seven Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375814.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Sky Throughbred Central" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Sky Throughbred Central
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375817.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: Snowy Mountains Television Sydney HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: Snowy Mountains Television Sydney HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375818.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUS: TEN Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: TEN Melbourne HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/375824.ts
 
-#EXTINF:-1 tvg-id="548" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png",Nickelodeon Jr.
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=548
 
-#EXTINF:-1 tvg-id="1226" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1226
-
-#EXTINF:-1 tvg-id="1079" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1079
-
-#EXTINF:-1 tvg-id="866" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png",Jio Exclusive HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=866
-
-#EXTINF:-1 tvg-id="1157" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1157
-#EXTINF:-1 tvg-id="1327" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",Comedy Central SD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1327
-
-#EXTINF:-1 tvg-id="1158" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1158
-#EXTINF:-1 tvg-id="1325" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity SD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1325
-
-#EXTINF:-1 tvg-id="762" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=762
-#EXTINF:-1 tvg-id="762" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png", Sony Pix SD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1530
-
-#EXTINF:-1 tvg-id="889" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=889
-
-#EXTINF:-1 tvg-id="875" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=875
-#EXTINF:-1 tvg-id="1294" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",Eurosport
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=1294
-
-#EXTINF:-1 tvg-id="162" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=162
-#EXTINF:-1 tvg-id="162" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 SD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=514
-
-#EXTINF:-1 tvg-id="891" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=891
-#EXTINF:-1 tvg-id="891" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 SD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=523
-
-#EXTINF:-1 tvg-id="155" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=155
-#EXTINF:-1 tvg-id="155" group-title="Temp-India" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png", Sony Six SD
-https://2700-20-198-104-136.in.ngrok.io/JioxPlusx/autoq.php?id=525
-
+#EXTINF:-1 tvg-id="espnhd.au" tvg-name="F-AU: ESPN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyph8vZnJ2dwm3489enjDFxwSgICg6jzRJQRsbXM2OQKB.png" group-title="AUSTRALIA | LIVE",F-AU: ESPN 1 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/191810.ts
+#EXTINF:-1 tvg-id="espn2hd.au" tvg-name="F-AU: ESPN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhdd7qzHqpMHsde9S_1J5DR6897TR-QRy-7ZAZRKweAB.png" group-title="AUSTRALIA | LIVE",F-AU: ESPN 2 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/191811.ts
+#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-name="AU: FOX SPORTS 506 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyv50ZPIqhmZpLInBugbLqgJb-VJhwBaGOc-RiD02imOc.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 506 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202381.ts
+#EXTINF:-1 tvg-id="foxsportsmorehd.au" tvg-name="AU: FOX SPORTS 507 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuP8qeuuvPPs7JzVUSUD-J5qu5TfNBrPlf8FVY8lC0lh.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 507 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202382.ts
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX SPORTS 501 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyokSURi7hvVu31jDsYDB3reHCo4xxiDy1UlO6w-anL8K.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 501 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202376.ts
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="AU: FOX SPORTS 502 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyi5yYyFrwIQAq135GAmJsSerM50254PxyBwUrNfv6ris.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 502 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202377.ts
+#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="AU: FOX SPORTS 503 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvIym-dXQAujMuNgDnTGJk1s2ej5P2cmkxT4oJ3MNCxe.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 503 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202378.ts
+#EXTINF:-1 tvg-id="foxsports504hd.au" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykiu8y_e7qBjam4K66zFJVUm0kTdeD-a9-jZ8hE2F8k_.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 504 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202379.ts
+#EXTINF:-1 tvg-id="foxsports505hd.au" tvg-name="AU: FOX SPORTS 505 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytTK0q-5tPGwtCaWn5OqSmzE7u4kpQ0Mbq8JrQB5mrIo.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 505 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202380.ts
+#EXTINF:-1 tvg-id="foxsportsnews.au" tvg-name="AU: FOX SPORTS NEWS HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytQMZZ40E7SyrZaTvhlfMnlREbHhCbzCM4UCrByBS8h-.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS NEWS HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202383.ts
+#EXTINF:-1 tvg-id="skynewshd.au" tvg-name="AU: SKY NEWS HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuAx57XEMu1__LLCRIfsOFcoYIX_xFUuyK9Ys9IG8qvd.png" group-title="AUSTRALIA | LIVE",AU: SKY NEWS HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202387.ts
+#EXTINF:-1 tvg-id="skynewshd.au" tvg-name="AU: SKY NEWS SD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuAx57XEMu1__LLCRIfsOFcoYIX_xFUuyK9Ys9IG8qvd.png" group-title="AUSTRALIA | LIVE",AU: SKY NEWS SD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202388.ts
+#EXTINF:-1 tvg-id="beinsports1hd.au" tvg-name="AU: beIN SPORTS 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="AUSTRALIA | LIVE",AU: beIN SPORTS 1 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202389.ts
+#EXTINF:-1 tvg-id="skynewsextra.au" tvg-name="AU: beIN SPORTS 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="AUSTRALIA | LIVE",AU: beIN SPORTS 2 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202390.ts
+#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="AU: beIN SPORTS 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" group-title="AUSTRALIA | LIVE",AU: beIN SPORTS 3 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202391.ts
+#EXTINF:-1 tvg-id="racing.com.au" tvg-name="AU: RACING HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyiOBb_6XCa18CDYVXaAA5ozR3v-D8rCWnhX9KpTjz9ls.png" group-title="AUSTRALIA | LIVE",AU: RACING HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/202386.ts
 <------ Malaysia Temp -------->
 
 #EXTINF:-1 group-title="MY-TEMP",AU: 10 Bold
