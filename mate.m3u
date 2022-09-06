@@ -265,18 +265,46 @@ http://quality-restream.com:8080/live/Millenium/61f8930b/2373.m3u8
 <------ USA Temp -------->
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Nick East HD US" tvg-logo="https://picon-13398.kxcdn.com/nickus.jpg" group-title="Live: USA & Canada",Nick East HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/101881
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network US" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: USA & Canada",Cartoon Network US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13103
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD US" tvg-logo="https://picon-13398.kxcdn.com/nickus.jpg" group-title="Live: USA & Canada",Nick HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9012
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior US" tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Live: USA & Canada",Disney Junior US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18065
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Disney Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: USA & Canada",Disney Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/22823
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="Game Show Network FHD US" tvg-logo="https://picon-13398.kxcdn.com/gameshownetworkus.jpg" group-title="Live: USA & Canada",Game Show Network FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18069
+#EXTINF:-1 tvg-id="" tvg-name="Nick East HD US" tvg-logo="https://picon-13398.kxcdn.com/nickus.jpg" group-title="Live: USA & Canada",Nick East HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/101881
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr. US" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: USA & Canada",Nick Jr. US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27456
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons US" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: USA & Canada",NickToons US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27457
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick HD US" tvg-logo="https://picon-13398.kxcdn.com/teennick.jpg" group-title="Live: USA & Canada",TeenNick HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27459
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang HD US" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: USA & Canada",Boomerang HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27466
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="Universal Kids HD US" tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Live: USA & Canada",Universal Kids HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26273
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET HD US" tvg-logo="https://picon-13398.kxcdn.com/bet.jpg" group-title="Live: USA & Canada",BET HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29042
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV HD US" tvg-logo="https://picon-13398.kxcdn.com/axstvru.jpg" group-title="Live: USA & Canada",AXS TV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29037
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="Reelz HD US" tvg-logo="https://picon-13398.kxcdn.com/reelzus.jpg" group-title="Live: USA & Canada",Reelz HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18074
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC HD US" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: USA & Canada",TLC HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18079
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="Viceland FHD US" tvg-logo="https://picon-13398.kxcdn.com/viceland.jpg" group-title="Live: USA & Canada",Viceland FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18077
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax East HD US" tvg-logo="https://picon-13398.kxcdn.com/cinemax.jpg" group-title="Live: USA & Canada",Cinemax East HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13680
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East HD US" tvg-logo="https://picon-13398.kxcdn.com/hbohd.jpg" group-title="Live: USA & Canada",HBO East HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13685
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV HD US" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Live: USA & Canada",HGTV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13835
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel US" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg" group-title="Live: USA & Canada",Golf Channel US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13687
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD US" tvg-logo="https://picon-13398.kxcdn.com/msnbchdus.jpg" group-title="Live: USA & Canada",MSNBC HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16841
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network US" tvg-logo="https://picon-13398.kxcdn.com/nhlnetworkus.jpg" group-title="Live: USA & Canada",NHL Network US
@@ -287,42 +315,14 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13666
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13677
 #EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge HD US" tvg-logo="https://picon-13398.kxcdn.com/starzedgeus.jpg" group-title="Live: USA & Canada",Starz Edge HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13678
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow Cricket US" tvg-logo="https://picon-13398.kxcdn.com/willowus.jpg" group-title="Live: USA & Canada",Willow Cricket US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13689
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E HD US" tvg-logo="https://picon-13398.kxcdn.com/ae.jpg" group-title="Live: USA & Canada",A&E HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10350
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Live: USA & Canada",Tennis Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18386
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC HD US" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Live: USA & Canada",AMC HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13104
 #EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo HD US" tvg-logo="https://picon-13398.kxcdn.com/bravous.jpg" group-title="Live: USA & Canada",Bravo HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10704
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN US" tvg-logo="https://picon-13398.kxcdn.com/cspanus.jpg" group-title="Live: USA & Canada",C-SPAN US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10701
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network US" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: USA & Canada",Cartoon Network US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13103
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network HD US" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg" group-title="Live: USA & Canada",CBS Sports Network HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10347
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD US" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg" group-title="Live: USA & Canada",CNBC FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9028
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN FHD US" tvg-logo="https://picon-13398.kxcdn.com/cnn.jpg" group-title="Live: USA & Canada",CNN FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9029
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central HD US" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: USA & Canada",Comedy Central HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13102
-#EXTINF:-1 tvg-id="" tvg-name="DIY Network HD US" tvg-logo="https://picon-13398.kxcdn.com/diynetworkus.jpg" group-title="Live: USA & Canada",DIY Network HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13101
-#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="E! HD US" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: USA & Canada",E! HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9021
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD US" tvg-logo="https://picon-13398.kxcdn.com/espnhd.jpg" group-title="Live: USA & Canada",ESPN HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9023
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg" group-title="Live: USA & Canada",ESPN 2 US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9022
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="FOX News HD US" tvg-logo="https://picon-13398.kxcdn.com/foxnews.jpg" group-title="Live: USA & Canada",FOX News HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13100
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports 1 HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsports1hd.jpg" group-title="Live: USA & Canada",FOX Sports 1 HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9031
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX Sports 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="Live: USA & Canada",FOX Sports 2 HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9030
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX HD US" tvg-logo="https://picon-13398.kxcdn.com/fxhdus.jpg" group-title="Live: USA & Canada",FX HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13098
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX HD US" tvg-logo="https://picon-13398.kxcdn.com/fxxhdus.jpg" group-title="Live: USA & Canada",FXX HD US
@@ -333,16 +333,10 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9025
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9017
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature US" tvg-logo="https://picon-13398.kxcdn.com/hbosignatureus.jpg" group-title="Live: USA & Canada",HBO Signature US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9016
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="Lifetime HD US" tvg-logo="https://picon-13398.kxcdn.com/lifetimehd.jpg" group-title="Live: USA & Canada",Lifetime HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18072
 #EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies HD US" tvg-logo="https://picon-13398.kxcdn.com/lfetimemoviesus.jpg" group-title="Live: USA & Canada",Lifetime Movies HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9078
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="Live: USA & Canada",MLB Network HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10699
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD US" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: USA & Canada",NBA TV HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9010
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="NBC WRC HD US" tvg-logo="https://picon-13398.kxcdn.com/nbctvus.jpg" group-title="Live: USA & Canada",NBC WRC HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9009
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD US" tvg-logo="https://picon-13398.kxcdn.com/nickus.jpg" group-title="Live: USA & Canada",Nick HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9012
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network US" tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Live: USA & Canada",Paramount Network US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13107
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="Syfy HD US" tvg-logo="https://picon-13398.kxcdn.com/syfyhd.jpg" group-title="Live: USA & Canada",Syfy HD US
@@ -351,205 +345,70 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13095
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13106
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network HD US" tvg-logo="https://picon-13398.kxcdn.com/usanetworkhdus.jpg" group-title="Live: USA & Canada",USA Network HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13105
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 US" tvg-logo="https://picon-13398.kxcdn.com/vh1.jpg" group-title="Live: USA & Canada",VH1 US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/12058
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet HD US" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: USA & Canada",Animal Planet HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/12060
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Live: USA & Canada",Discovery Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15717
-#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History HD US" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: USA & Canada",History HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15712
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic HD US" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: USA & Canada",National Geographic HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15714
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central HD US" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: USA & Canada",Comedy Central HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13102
+#EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-name="IFC FHD US" tvg-logo="https://picon-13398.kxcdn.com/ifcus.jpg" group-title="Live: USA & Canada",IFC FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18070
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT FHD US" tvg-logo="https://picon-13398.kxcdn.com/tnt.jpg" group-title="Live: USA & Canada",TNT FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15366
 #EXTINF:-1 tvg-id="" tvg-name="PBS US" tvg-logo="https://picon-13398.kxcdn.com/pbs.jpg" group-title="Live: USA & Canada",PBS US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15715
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="FreeForm HD US" tvg-logo="https://picon-13398.kxcdn.com/freeformus.jpg" group-title="Live: USA & Canada",FreeForm HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/14294
 #EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network US" tvg-logo="https://picon-13398.kxcdn.com/ownus.jpg" group-title="Live: USA & Canada",Oprah Winfrey Network US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16295
-#EXTINF:-1 tvg-id="" tvg-name="NASA Live HD US" tvg-logo="https://picon-13398.kxcdn.com/nasalivetv.jpg" group-title="Live: USA & Canada",NASA Live HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16585
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT FHD US" tvg-logo="https://picon-13398.kxcdn.com/tnt.jpg" group-title="Live: USA & Canada",TNT FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15366
-#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="The Weather Channel US" tvg-logo="https://picon-13398.kxcdn.com/theweatherchannelus.jpg" group-title="Live: USA & Canada",The Weather Channel US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/17427
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="Fight Sports US" tvg-logo="https://picon-13398.kxcdn.com/fightsportsus.jpg" group-title="Live: USA & Canada",Fight Sports US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/17883
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel US" tvg-logo="https://picon-13398.kxcdn.com/americanheroesus.jpg" group-title="Live: USA & Canada",American Heroes Channel US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18064
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="CBS 9 WUSA Washington HD US" tvg-logo="https://picon-13398.kxcdn.com/cbs9us.jpg" group-title="Live: USA & Canada",CBS 9 WUSA Washington HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18075
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior US" tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Live: USA & Canada",Disney Junior US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18065
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="Game Show Network FHD US" tvg-logo="https://picon-13398.kxcdn.com/gameshownetworkus.jpg" group-title="Live: USA & Canada",Game Show Network FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18069
-#EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-name="IFC FHD US" tvg-logo="https://picon-13398.kxcdn.com/ifcus.jpg" group-title="Live: USA & Canada",IFC FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18070
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery HD US" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Live: USA & Canada",Investigation Discovery HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18071
-#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="Lifetime HD US" tvg-logo="https://picon-13398.kxcdn.com/lifetimehd.jpg" group-title="Live: USA & Canada",Lifetime HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18072
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV HD US" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Live: USA & Canada",MTV HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18076
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="Reelz HD US" tvg-logo="https://picon-13398.kxcdn.com/reelzus.jpg" group-title="Live: USA & Canada",Reelz HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18074
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC HD US" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: USA & Canada",TLC HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18079
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="Viceland FHD US" tvg-logo="https://picon-13398.kxcdn.com/viceland.jpg" group-title="Live: USA & Canada",Viceland FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18077
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="ABC KTNV Las Vegas HD US" tvg-logo="https://picon-13398.kxcdn.com/abc13ktvus.jpg" group-title="Live: USA & Canada",ABC KTNV Las Vegas HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18179
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America US" tvg-logo="https://picon-13398.kxcdn.com/bbcamericaus.jpg" group-title="Live: USA & Canada",BBC America US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18181
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network US" tvg-logo="https://picon-13398.kxcdn.com/btnus.jpg" group-title="Live: USA & Canada",Big Ten Network US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18182
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV US" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="Live: USA & Canada",Bloomberg TV US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18183
-#EXTINF:-1 tvg-id="" tvg-name="CBSN HD US" tvg-logo="https://picon-13398.kxcdn.com/cbsnus.jpg" group-title="Live: USA & Canada",CBSN HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18184
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD US" tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Live: USA & Canada",Destination America HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18189
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U US" tvg-logo="https://picon-13398.kxcdn.com/espnuus.jpg" group-title="Live: USA & Canada",ESPN U US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18190
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network US" tvg-logo="https://picon-13398.kxcdn.com/foodnetwork.jpg" group-title="Live: USA & Canada",Food Network US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18191
-#EXTINF:-1 tvg-id="" tvg-name="FXM HD US" tvg-logo="https://picon-13398.kxcdn.com/fxmus.jpg" group-title="Live: USA & Canada",FXM HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18166
-#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkmoviesmysteriesus.jpg" group-title="Live: USA & Canada",Hallmark Movies & Mysteries HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18198
+#EXTINF:-1 tvg-id="" tvg-name="DIY Network HD US" tvg-logo="https://picon-13398.kxcdn.com/diynetworkus.jpg" group-title="Live: USA & Canada",DIY Network HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13101
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="E! HD US" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: USA & Canada",E! HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9021
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN US" tvg-logo="https://picon-13398.kxcdn.com/hlnus.jpg" group-title="Live: USA & Canada",HLN US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18199
 #EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen HD US" tvg-logo="https://picon-13398.kxcdn.com/oxygenus.jpg" group-title="Live: USA & Canada",Oxygen HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18176
-#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo 20 HD US" tvg-logo="https://picon-13398.kxcdn.com/telemundous.jpg" group-title="Live: USA & Canada",Telemundo 20 HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18174
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/travelchannelhd.jpg" group-title="Live: USA & Canada",Travel Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18173
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="Tru TV US" tvg-logo="https://picon-13398.kxcdn.com/trutv.jpg" group-title="Live: USA & Canada",Tru TV US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18172
 #EXTINF:-1 tvg-id="" tvg-name="TV Land HD US" tvg-logo="https://picon-13398.kxcdn.com/tvlandus.jpg" group-title="Live: USA & Canada",TV Land HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18171
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="UFC Fight Pass HD US" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg" group-title="Live: USA & Canada",UFC Fight Pass HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18170
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMás Este HD US" tvg-logo="https://picon-13398.kxcdn.com/unimasus.jpg" group-title="Live: USA & Canada",UniMás Este HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18169
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network HD US" tvg-logo="https://picon-13398.kxcdn.com/secnetworkus.jpg" group-title="Live: USA & Canada",SEC Network HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18175
-#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="FOX Soccer Plus HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsoccerplusus.jpg" group-title="Live: USA & Canada",FOX Soccer Plus HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18675
-#EXTINF:-1 tvg-id="TheFightNetwork.us" tvg-name="Fight Network US" tvg-logo="https://picon-13398.kxcdn.com/fightnetworkus.jpg" group-title="Live: USA & Canada",Fight Network US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19654
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="ESPN News HD US" tvg-logo="https://picon-13398.kxcdn.com/espnnewsus.jpg" group-title="Live: USA & Canada",ESPN News HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19637
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Disney Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: USA & Canada",Disney Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/22823
 #EXTINF:-1 tvg-id="" tvg-name="OAN TV HD US" tvg-logo="https://picon-13398.kxcdn.com/oantvus.jpg" group-title="Live: USA & Canada",OAN TV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/23152
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="Fuse HD US" tvg-logo="https://picon-13398.kxcdn.com/fuseus.jpg" group-title="Live: USA & Canada",Fuse HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/23262
-#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family HD US" tvg-logo="https://picon-13398.kxcdn.com/discoveryfamilyarb.jpg" group-title="Live: USA & Canada",Discovery Family HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/23424
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="CW KVCW FHD US" tvg-logo="https://picon-13398.kxcdn.com/cwkvcwus.jpg" group-title="Live: USA & Canada",CW KVCW FHD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/23660
-#EXTINF:-1 tvg-id="WWE.us" tvg-name="WWE Network US" tvg-logo="https://picon-13398.kxcdn.com/wweus.jpg" group-title="Live: USA & Canada",WWE Network US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16572
-
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV HD US" tvg-logo="https://picon-13398.kxcdn.com/wetvus.jpg" group-title="Live: USA & Canada",We TV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26275
-
-#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="Universal Kids HD US" tvg-logo="https://picon-13398.kxcdn.com/universalkidsus.jpg" group-title="Live: USA & Canada",Universal Kids HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26273
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="SportsNet New York HD US" tvg-logo="https://picon-13398.kxcdn.com/sportsnetnewyorkus.jpg" group-title="Live: USA & Canada",SportsNet New York HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26271
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD US" tvg-logo="https://picon-13398.kxcdn.com/bbcnewshd.jpg" group-title="Live: USA & Canada",BBC World News HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26270
-#EXTINF:-1 tvg-id="NewEnglandCableNews.us" tvg-name="NESN HD US" tvg-logo="https://picon-13398.kxcdn.com/nesnus.jpg" group-title="Live: USA & Canada",NESN HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26269
-#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkdramaus.jpg" group-title="Live: USA & Canada",Hallmark Drama HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26268
-#EXTINF:-1 tvg-id="" tvg-name="Ginx eSports TV HD US" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: USA & Canada",Ginx eSports TV HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26267
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="FOX Deportes HD US" tvg-logo="https://picon-13398.kxcdn.com/foxdeportesus.jpg" group-title="Live: USA & Canada",FOX Deportes HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26266
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area FHD US" tvg-logo="https://picon-13398.kxcdn.com/nbcsportsbayarea.jpg" group-title="Live: USA & Canada",NBC Sports Bay Area FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/23221
-#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life HD US" tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Live: USA & Canada",Discovery Life HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27036
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV US" tvg-logo="https://picon-13398.kxcdn.com/ufcppv.jpg" group-title="Live: USA & Canada",UFC TV US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27221
-#EXTINF:-1 tvg-id="MTVU.us" tvg-name="MTV U HD US" tvg-logo="https://picon-13398.kxcdn.com/mtvu.jpg" group-title="Live: USA & Canada",MTV U HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27305
+#EXTINF:-1 tvg-id="" tvg-name="Up TV HD US" tvg-logo="" group-title="Live: USA & Canada",Up TV HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88717
 #EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="MSG HD US" tvg-logo="https://picon-13398.kxcdn.com/msgus.jpg" group-title="Live: USA & Canada",MSG HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27453
 #EXTINF:-1 tvg-id="MadisonSquareGardenPlus.us" tvg-name="MSG+ HD US" tvg-logo="https://picon-13398.kxcdn.com/msgplusus.jpg" group-title="Live: USA & Canada",MSG+ HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27452
-#EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Live: USA & Canada",World Fishing Network HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27454
-#EXTINF:-1 tvg-id="GolTVEnglish.us" tvg-name="Gol TV HD US" tvg-logo="https://picon-13398.kxcdn.com/goltvus.jpg" group-title="Live: USA & Canada",Gol TV HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27455
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr. US" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: USA & Canada",Nick Jr. US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27456
-#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons US" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: USA & Canada",NickToons US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27457
-#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick HD US" tvg-logo="https://picon-13398.kxcdn.com/teennick.jpg" group-title="Live: USA & Canada",TeenNick HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27459
 #EXTINF:-1 tvg-id="TVG.us" tvg-name="TVG HD US" tvg-logo="https://picon-13398.kxcdn.com/tvgus.jpg" group-title="Live: USA & Canada",TVG HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27461
-#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="NBC Universo Este HD US" tvg-logo="https://picon-13398.kxcdn.com/nbcuniverso.jpg" group-title="Live: USA & Canada",NBC Universo Este HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27462
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/sonymoviechannelus.jpg" group-title="Live: USA & Canada",Sony Movie Channel HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27463
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Mundo HD US" tvg-logo="https://picon-13398.kxcdn.com/natgeomundo.jpg" group-title="Live: USA & Canada",National Geographic Mundo HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27464
-#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="National Geographic Wild HD US" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: USA & Canada",National Geographic Wild HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27465
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang HD US" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: USA & Canada",Boomerang HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27466
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sony HD US" tvg-logo="https://picon-13398.kxcdn.com/ciensonyus.jpg" group-title="Live: USA & Canada",Cine Sony HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27467
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic HD US" tvg-logo="https://picon-13398.kxcdn.com/mtvclassic.jpg" group-title="Live: USA & Canada",MTV Classic HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27468
 #EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV US" tvg-logo="https://picon-13398.kxcdn.com/cozitvus.jpg" group-title="Live: USA & Canada",Cozi TV US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27470
 #EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI HD US" tvg-logo="https://picon-13398.kxcdn.com/fyius.jpg" group-title="Live: USA & Canada",FYI HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27472
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/outdoorchannelhd.jpg" group-title="Live: USA & Canada",Outdoor Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28161
-
-#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/mtv2.jpg" group-title="Live: USA & Canada",MTV 2 HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28185
-#EXTINF:-1 tvg-id="" tvg-name="VOA US" tvg-logo="https://picon-13398.kxcdn.com/voaus.jpg" group-title="Live: USA & Canada",VOA US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28224
-#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network HD US" tvg-logo="https://picon-13398.kxcdn.com/longhornnetworkus.jpg" group-title="Live: USA & Canada",Longhorn Network HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28223
-#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="Motor Trend HD US" tvg-logo="https://picon-13398.kxcdn.com/motortrendit.jpg" group-title="Live: USA & Canada",Motor Trend HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28222
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live HD US" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Live: USA & Canada",MTV Live HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28235
-#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="Sportsman Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/sportsmanchannelus.jpg" group-title="Live: USA & Canada",Sportsman Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28391
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD US" tvg-logo="https://picon-13398.kxcdn.com/espnplusus.jpg" group-title="Live: USA & Canada",ESPN Extra HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28741
-
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkdramaus.jpg" group-title="Live: USA & Canada",Hallmark Drama HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26268
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkmoviesmysteriesus.jpg" group-title="Live: USA & Canada",Hallmark Movies & Mysteries HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18198
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network HD US" tvg-logo="https://picon-13398.kxcdn.com/accnnetworkus.jpg" group-title="Live: USA & Canada",ACC Network HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29493
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="NBC 11 KARE Minneapolis HD US" tvg-logo="https://picon-13398.kxcdn.com/nbc11kare.jpg" group-title="Live: USA & Canada",NBC 11 KARE Minneapolis HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29494
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="CBS 4 WCCO Minneapolis HD US" tvg-logo="https://picon-13398.kxcdn.com/cbs4wccous.jpg" group-title="Live: USA & Canada",CBS 4 WCCO Minneapolis HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29495
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="ABC 5 KSTP Minneapolis HD US" tvg-logo="https://picon-13398.kxcdn.com/abcchus.jpg" group-title="Live: USA & Canada",ABC 5 KSTP Minneapolis HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29496
-#EXTINF:-1 tvg-id="WILLX.us" tvg-name="Willow Xtra HD US" tvg-logo="https://picon-13398.kxcdn.com/willowus.jpg" group-title="Live: USA & Canada",Willow Xtra HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10167
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="Telemundo 51 WSCV (Miami) HD US" tvg-logo="https://picon-13398.kxcdn.com/telemundous.jpg" group-title="Live: USA & Canada",Telemundo 51 WSCV (Miami) HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/32688
-#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="BabyFirst TV US" tvg-logo="https://picon-13398.kxcdn.com/babyfirstus.jpg" group-title="Live: USA & Canada",BabyFirst TV US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/33944
-#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel US" tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Live: USA & Canada",Smithsonian Channel US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/25559
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD US" tvg-logo="https://picon-13398.kxcdn.com/hbocomedyus.jpg" group-title="Live: USA & Canada",HBO Comedy HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88710
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone HD US" tvg-logo="https://picon-13398.kxcdn.com/hbozoneus.jpg" group-title="Live: USA & Canada",HBO Zone HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88711
+#EXTINF:-1 tvg-id="" tvg-name="The Movie Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/themoviechannelus.jpg" group-title="Live: USA & Canada",The Movie Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88716
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Live: USA & Canada",HBO 2 HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/33945
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/showtime2us.jpg" group-title="Live: USA & Canada",Showtime 2 HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/37838
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="Starz In Black HD US" tvg-logo="https://picon-13398.kxcdn.com/starzinblackus.jpg" group-title="Live: USA & Canada",Starz In Black HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/33946
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy HD US" tvg-logo="https://picon-13398.kxcdn.com/starzcomedyus.jpg" group-title="Live: USA & Canada",Starz Comedy HD US
@@ -576,74 +435,26 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/33957
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/33958
 #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="Starz Encore Suspense HD US" tvg-logo="https://picon-13398.kxcdn.com/starzencoresuspenseus.jpg" group-title="Live: USA & Canada",Starz Encore Suspense HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/33959
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sports HD US" tvg-logo="https://picon-13398.kxcdn.com/flowsportsus.jpg" group-title="Live: USA & Canada",Flow Sports HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26261
+#EXTINF:-1 tvg-id="EPIX.us" tvg-name="Epix HD US" tvg-logo="https://picon-13398.kxcdn.com/epixtvus.jpg" group-title="Live: USA & Canada",Epix HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/34023
 #EXTINF:-1 tvg-id="EPIX2.us" tvg-name="Epix 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/epix2us.jpg" group-title="Live: USA & Canada",Epix 2 HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19606
 #EXTINF:-1 tvg-id="EPIXHits.us" tvg-name="Epix Hits HD US" tvg-logo="https://picon-13398.kxcdn.com/epixhitsus.jpg" group-title="Live: USA & Canada",Epix Hits HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19605
+#EXTINF:-1 tvg-id="EpixDriveIn.us" tvg-name="Epix Drive-In HD US" tvg-logo="https://picon-13398.kxcdn.com/expixdriveus.jpg" group-title="Live: USA & Canada",Epix Drive-In HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/34024
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV HD US" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Live: USA & Canada",Sundance TV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19607
 #EXTINF:-1 tvg-id="PopTV.us" tvg-name="Pop TV HD US" tvg-logo="https://picon-13398.kxcdn.com/afnmovie.jpg" group-title="Live: USA & Canada",Pop TV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26997
-#EXTINF:-1 tvg-id="EPIX.us" tvg-name="Epix HD US" tvg-logo="https://picon-13398.kxcdn.com/epixtvus.jpg" group-title="Live: USA & Canada",Epix HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/34023
-#EXTINF:-1 tvg-id="EpixDriveIn.us" tvg-name="Epix Drive-In HD US" tvg-logo="https://picon-13398.kxcdn.com/expixdriveus.jpg" group-title="Live: USA & Canada",Epix Drive-In HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/34024
-#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="Live: USA & Canada",Yes Network HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/35215
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD US" tvg-logo="https://picon-13398.kxcdn.com/tcmhd.jpg" group-title="Live: USA & Canada",TCM HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/35216
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sports Premier (RUSH) HD US" tvg-logo="https://picon-13398.kxcdn.com/flowsportsus.jpg" group-title="Live: USA & Canada",Flow Sports Premier (RUSH) HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26263
-#EXTINF:-1 tvg-id="" tvg-name="ABC News US" tvg-logo="https://picon-13398.kxcdn.com/abcus.jpg" group-title="Live: USA & Canada",ABC News US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/37143
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/showtime2us.jpg" group-title="Live: USA & Canada",Showtime 2 HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/37838
-#EXTINF:-1 tvg-id="" tvg-name="Fox Business HD US" tvg-logo="https://picon-13398.kxcdn.com/foxbusinessus.jpg" group-title="Live: USA & Canada",Fox Business HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/44161
-#EXTINF:-1 tvg-id="" tvg-name="MLB Strikezone HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbstrikezone.jpg" group-title="Live: USA & Canada",MLB Strikezone HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/51291
-#EXTINF:-1 tvg-id="" tvg-name="Root Sports Northwest HD US" tvg-logo="https://picon-13398.kxcdn.com/rootsportsus.jpg" group-title="Live: USA & Canada",Root Sports Northwest HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/51292
-#EXTINF:-1 tvg-id="" tvg-name="MASN FHD US" tvg-logo="https://picon-13398.kxcdn.com/masnus.jpg" group-title="Live: USA & Canada",MASN FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/51296
-#EXTINF:-1 tvg-id="" tvg-name="MASN 2 FHD US" tvg-logo="https://picon-13398.kxcdn.com/masn2us.jpg" group-title="Live: USA & Canada",MASN 2 FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/51297
-#EXTINF:-1 tvg-id="" tvg-name="Science HD US" tvg-logo="https://picon-13398.kxcdn.com/scienceus.jpg" group-title="Live: USA & Canada",Science HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/70828
 #EXTINF:-1 tvg-id="" tvg-name="CMT HD US" tvg-logo="https://picon-13398.kxcdn.com/cmtus.jpg" group-title="Live: USA & Canada",CMT HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/81432
-#EXTINF:-1 tvg-id="" tvg-name="Cowboy Channel US" tvg-logo="https://picon-13398.kxcdn.com/cowboychannelus.jpg" group-title="Live: USA & Canada",Cowboy Channel US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/81433
-
-#EXTINF:-1 tvg-id="" tvg-name="Altitude Sports HD US" tvg-logo="https://picon-13398.kxcdn.com/altitudesportsus.jpg" group-title="Live: USA & Canada",Altitude Sports HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/87127
-#EXTINF:-1 tvg-id="" tvg-name="NBC News Now HD US" tvg-logo="https://picon-13398.kxcdn.com/nbcnewsnowus.jpg" group-title="Live: USA & Canada",NBC News Now HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/87136
-#EXTINF:-1 tvg-id="" tvg-name="MC 90's US" tvg-logo="https://picon-13398.kxcdn.com/musicchoice.jpg" group-title="Live: USA & Canada",MC 90's US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/87143
-
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD US" tvg-logo="https://picon-13398.kxcdn.com/hbocomedyus.jpg" group-title="Live: USA & Canada",HBO Comedy HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88710
-#EXTINF:-1 tvg-id="" tvg-name="HBO Zone HD US" tvg-logo="https://picon-13398.kxcdn.com/hbozoneus.jpg" group-title="Live: USA & Canada",HBO Zone HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88711
-#EXTINF:-1 tvg-id="" tvg-name="The Movie Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/themoviechannelus.jpg" group-title="Live: USA & Canada",The Movie Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88716
-#EXTINF:-1 tvg-id="" tvg-name="Up TV HD US" tvg-logo="" group-title="Live: USA & Canada",Up TV HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88717
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsportsxtra1.jpg" group-title="Live: USA & Canada",beIN SPORTS XTRA 1 HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/93391
 #EXTINF:-1 tvg-id="" tvg-name="WGN TV US" tvg-logo="https://picon-13398.kxcdn.com/wgntvchicagous.jpg" group-title="Live: USA & Canada",WGN TV US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99408
 #EXTINF:-1 tvg-id="" tvg-name="Newsmax TV HD US" tvg-logo="https://picon-13398.kxcdn.com/newsmaxtvus.jpg" group-title="Live: USA & Canada",Newsmax TV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99583
 #EXTINF:-1 tvg-id="" tvg-name="NewsNation HD US" tvg-logo="https://picon-13398.kxcdn.com/newsnationus.jpg" group-title="Live: USA & Canada",NewsNation HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99584
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TV FHD US" tvg-logo="https://picon-13398.kxcdn.com/redbulltv.jpg" group-title="Live: USA & Canada",RedBull TV FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99873
 #EXTINF:-1 tvg-id="" tvg-name="ActionMax  HD US" tvg-logo="https://picon-13398.kxcdn.com/actionmaxus.jpg" group-title="Live: USA & Canada",ActionMax  HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99899
 #EXTINF:-1 tvg-id="" tvg-name="MoreMax HD US" tvg-logo="https://picon-13398.kxcdn.com/moremaxus.jpg" group-title="Live: USA & Canada",MoreMax HD US
@@ -660,16 +471,153 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99908
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99909
 #EXTINF:-1 tvg-id="" tvg-name="Logo HD US" tvg-logo="https://picon-13398.kxcdn.com/logous.jpg" group-title="Live: USA & Canada",Logo HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99910
-
-#EXTINF:-1 tvg-id="" tvg-name="Bally Sports Kansas City HD US" tvg-logo="https://picon-13398.kxcdn.com/ballysportsus.jpg" group-title="Live: USA & Canada",Bally Sports Kansas City HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99937
-#EXTINF:-1 tvg-id="" tvg-name="Bally Sports Midwest (Missouri) HD US" tvg-logo="https://picon-13398.kxcdn.com/ballysportsus.jpg" group-title="Live: USA & Canada",Bally Sports Midwest (Missouri) HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99939
-#EXTINF:-1 tvg-id="" tvg-name="Nick East HD US" tvg-logo="https://picon-13398.kxcdn.com/nickus.jpg" group-title="Live: USA & Canada",Nick East HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/101881
 #EXTINF:-1 tvg-id="" tvg-name="AFV Family HD US" tvg-logo="https://picon-13398.kxcdn.com/afvtvusjpeg.jpg" group-title="Live: USA & Canada",AFV Family HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/102803
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD US" tvg-logo="https://picon-13398.kxcdn.com/bbcnewshd.jpg" group-title="Live: USA & Canada",BBC World News HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26270
+#EXTINF:-1 tvg-id="NewEnglandCableNews.us" tvg-name="NESN HD US" tvg-logo="https://picon-13398.kxcdn.com/nesnus.jpg" group-title="Live: USA & Canada",NESN HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26269
 
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD US" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg" group-title="Live: USA & Canada",CNBC FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9028
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN FHD US" tvg-logo="https://picon-13398.kxcdn.com/cnn.jpg" group-title="Live: USA & Canada",CNN FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9029
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America US" tvg-logo="https://picon-13398.kxcdn.com/bbcamericaus.jpg" group-title="Live: USA & Canada",BBC America US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18181
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network US" tvg-logo="https://picon-13398.kxcdn.com/btnus.jpg" group-title="Live: USA & Canada",Big Ten Network US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18182
+#EXTINF:-1 tvg-id="" tvg-name="CBSN HD US" tvg-logo="https://picon-13398.kxcdn.com/cbsnus.jpg" group-title="Live: USA & Canada",CBSN HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18184
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD US" tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Live: USA & Canada",Destination America HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18189
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery HD US" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Live: USA & Canada",Investigation Discovery HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18071
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family HD US" tvg-logo="https://picon-13398.kxcdn.com/discoveryfamilyarb.jpg" group-title="Live: USA & Canada",Discovery Family HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/23424
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="National Geographic Wild HD US" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: USA & Canada",National Geographic Wild HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27465
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel US" tvg-logo="https://picon-13398.kxcdn.com/smithsonianchanneluk.jpg" group-title="Live: USA & Canada",Smithsonian Channel US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/25559
+#EXTINF:-1 tvg-id="" tvg-name="Science HD US" tvg-logo="https://picon-13398.kxcdn.com/scienceus.jpg" group-title="Live: USA & Canada",Science HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/70828
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network US" tvg-logo="https://picon-13398.kxcdn.com/foodnetwork.jpg" group-title="Live: USA & Canada",Food Network US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18191
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/travelchannelhd.jpg" group-title="Live: USA & Canada",Travel Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18173
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD US" tvg-logo="https://picon-13398.kxcdn.com/fxmus.jpg" group-title="Live: USA & Canada",FXM HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18166
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet HD US" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: USA & Canada",Animal Planet HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/12060
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Live: USA & Canada",Discovery Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15717
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life HD US" tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Live: USA & Canada",Discovery Life HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27036
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History HD US" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: USA & Canada",History HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15712
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic HD US" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: USA & Canada",National Geographic HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15714
+#EXTINF:-1 tvg-id="" tvg-name="NASA Live HD US" tvg-logo="https://picon-13398.kxcdn.com/nasalivetv.jpg" group-title="Live: USA & Canada",NASA Live HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16585
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="The Weather Channel US" tvg-logo="https://picon-13398.kxcdn.com/theweatherchannelus.jpg" group-title="Live: USA & Canada",The Weather Channel US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/17427
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel US" tvg-logo="https://picon-13398.kxcdn.com/americanheroesus.jpg" group-title="Live: USA & Canada",American Heroes Channel US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18064
+
+
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="UFC Fight Pass HD US" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg" group-title="Live: USA & Canada",UFC Fight Pass HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18170
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="Fight Sports US" tvg-logo="https://picon-13398.kxcdn.com/fightsportsus.jpg" group-title="Live: USA & Canada",Fight Sports US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/17883
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel US" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg" group-title="Live: USA & Canada",Golf Channel US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13687
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Live: USA & Canada",Tennis Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18386
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network HD US" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg" group-title="Live: USA & Canada",CBS Sports Network HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10347
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD US" tvg-logo="https://picon-13398.kxcdn.com/espnhd.jpg" group-title="Live: USA & Canada",ESPN HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9023
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg" group-title="Live: USA & Canada",ESPN 2 US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9022
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="FOX News HD US" tvg-logo="https://picon-13398.kxcdn.com/foxnews.jpg" group-title="Live: USA & Canada",FOX News HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13100
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports 1 HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsports1hd.jpg" group-title="Live: USA & Canada",FOX Sports 1 HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9031
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX Sports 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="Live: USA & Canada",FOX Sports 2 HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9030
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD US" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: USA & Canada",NBA TV HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9010
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="NBC WRC HD US" tvg-logo="https://picon-13398.kxcdn.com/nbctvus.jpg" group-title="Live: USA & Canada",NBC WRC HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9009
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network HD US" tvg-logo="https://picon-13398.kxcdn.com/secnetworkus.jpg" group-title="Live: USA & Canada",SEC Network HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18175
+#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="FOX Soccer Plus HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsoccerplusus.jpg" group-title="Live: USA & Canada",FOX Soccer Plus HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18675
+#EXTINF:-1 tvg-id="TheFightNetwork.us" tvg-name="Fight Network US" tvg-logo="https://picon-13398.kxcdn.com/fightnetworkus.jpg" group-title="Live: USA & Canada",Fight Network US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19654
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="ESPN News HD US" tvg-logo="https://picon-13398.kxcdn.com/espnnewsus.jpg" group-title="Live: USA & Canada",ESPN News HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19637
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="WWE Network US" tvg-logo="https://picon-13398.kxcdn.com/wweus.jpg" group-title="Live: USA & Canada",WWE Network US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16572
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsportsxtra1.jpg" group-title="Live: USA & Canada",beIN SPORTS XTRA 1 HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/93391
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/outdoorchannelhd.jpg" group-title="Live: USA & Canada",Outdoor Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28161
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network HD US" tvg-logo="https://picon-13398.kxcdn.com/longhornnetworkus.jpg" group-title="Live: USA & Canada",Longhorn Network HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28223
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="Motor Trend HD US" tvg-logo="https://picon-13398.kxcdn.com/motortrendit.jpg" group-title="Live: USA & Canada",Motor Trend HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28222
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="Sportsman Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/sportsmanchannelus.jpg" group-title="Live: USA & Canada",Sportsman Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28391
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD US" tvg-logo="https://picon-13398.kxcdn.com/espnplusus.jpg" group-title="Live: USA & Canada",ESPN Extra HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28741
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="Live: USA & Canada",Yes Network HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/35215
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD US" tvg-logo="https://picon-13398.kxcdn.com/tcmhd.jpg" group-title="Live: USA & Canada",TCM HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/35216
+#EXTINF:-1 tvg-id="" tvg-name="Flow Sports Premier (RUSH) HD US" tvg-logo="https://picon-13398.kxcdn.com/flowsportsus.jpg" group-title="Live: USA & Canada",Flow Sports Premier (RUSH) HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26263
+#EXTINF:-1 tvg-id="" tvg-name="ABC News US" tvg-logo="https://picon-13398.kxcdn.com/abcus.jpg" group-title="Live: USA & Canada",ABC News US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/37143
+#EXTINF:-1 tvg-id="WILLX.us" tvg-name="Willow Xtra HD US" tvg-logo="https://picon-13398.kxcdn.com/willowus.jpg" group-title="Live: USA & Canada",Willow Xtra HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10167
+#EXTINF:-1 tvg-id="" tvg-name="Flow Sports HD US" tvg-logo="https://picon-13398.kxcdn.com/flowsportsus.jpg" group-title="Live: USA & Canada",Flow Sports HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26261
+#EXTINF:-1 tvg-id="" tvg-name="MASN FHD US" tvg-logo="https://picon-13398.kxcdn.com/masnus.jpg" group-title="Live: USA & Canada",MASN FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/51296
+#EXTINF:-1 tvg-id="" tvg-name="MASN 2 FHD US" tvg-logo="https://picon-13398.kxcdn.com/masn2us.jpg" group-title="Live: USA & Canada",MASN 2 FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/51297
+#EXTINF:-1 tvg-id="" tvg-name="Altitude Sports HD US" tvg-logo="https://picon-13398.kxcdn.com/altitudesportsus.jpg" group-title="Live: USA & Canada",Altitude Sports HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/87127
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV FHD US" tvg-logo="https://picon-13398.kxcdn.com/redbulltv.jpg" group-title="Live: USA & Canada",RedBull TV FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99873
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="SportsNet New York HD US" tvg-logo="https://picon-13398.kxcdn.com/sportsnetnewyorkus.jpg" group-title="Live: USA & Canada",SportsNet New York HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26271
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network HD US" tvg-logo="https://picon-13398.kxcdn.com/worldfishingnetworkus.jpg" group-title="Live: USA & Canada",World Fishing Network HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27454
+#EXTINF:-1 tvg-id="GolTVEnglish.us" tvg-name="Gol TV HD US" tvg-logo="https://picon-13398.kxcdn.com/goltvus.jpg" group-title="Live: USA & Canada",Gol TV HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27455
+#EXTINF:-1 tvg-id="" tvg-name="Ginx eSports TV HD US" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: USA & Canada",Ginx eSports TV HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26267
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV US" tvg-logo="https://picon-13398.kxcdn.com/ufcppv.jpg" group-title="Live: USA & Canada",UFC TV US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27221
+
+
+#EXTINF:-1 tvg-id="MTVU.us" tvg-name="MTV U HD US" tvg-logo="https://picon-13398.kxcdn.com/mtvu.jpg" group-title="Live: USA & Canada",MTV U HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27305
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic HD US" tvg-logo="https://picon-13398.kxcdn.com/mtvclassic.jpg" group-title="Live: USA & Canada",MTV Classic HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27468
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live HD US" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Live: USA & Canada",MTV Live HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28235
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/mtv2.jpg" group-title="Live: USA & Canada",MTV 2 HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28185
+#EXTINF:-1 tvg-id="" tvg-name="VOA US" tvg-logo="https://picon-13398.kxcdn.com/voaus.jpg" group-title="Live: USA & Canada",VOA US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/28224
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 US" tvg-logo="https://picon-13398.kxcdn.com/vh1.jpg" group-title="Live: USA & Canada",VH1 US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/12058
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV HD US" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Live: USA & Canada",MTV HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18076
+#EXTINF:-1 tvg-id="" tvg-name="MC 90's US" tvg-logo="https://picon-13398.kxcdn.com/musicchoice.jpg" group-title="Live: USA & Canada",MC 90's US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/87143
 
 
 
