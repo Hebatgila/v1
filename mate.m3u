@@ -159,6 +159,30 @@ http://198.16.64.10:8278/TV8/playlist.m3u8?tid=m10d07a0c1af6&ct=19199&tsum=b60d7
 http://quality-restream.com:8080/live/Millenium/61f8930b/247427.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - TVB JADE
 https://nonton.site:8443/live/mustakim/mustakim/37356.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - CTI ASIA
+https://nonton.site:8443/live/mustakim/mustakim/37358.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - Formosa
+https://nonton.site:8443/live/mustakim/mustakim/29601.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - AOD 351 HD
+https://nonton.site:8443/live/mustakim/mustakim/37357.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - AEC HD
+https://nonton.site:8443/live/mustakim/mustakim/37352.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - SHUANG XING HD
+https://nonton.site:8443/live/mustakim/mustakim/37353.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - TVB XING HE HD
+https://nonton.site:8443/live/mustakim/mustakim/37360.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - TVBS ASIA HD
+https://nonton.site:8443/live/mustakim/mustakim/37361.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - HUA HEE DAI HD
+https://nonton.site:8443/live/mustakim/mustakim/37363.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - AOD 352 HD
+https://nonton.site:8443/live/mustakim/mustakim/37365.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - AOD 353 HD
+https://nonton.site:8443/live/mustakim/mustakim/37366.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - AOD 354 HD
+https://nonton.site:8443/live/mustakim/mustakim/37367.m3u8
+#EXTINF:-1 group-title="MY-TEMP",MY - AOD 355 HD
+https://nonton.site:8443/live/mustakim/mustakim/37368.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - Showcase Movies
 https://nonton.site:8443/live/mustakim/mustakim/37428.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - BOO
@@ -189,6 +213,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+
+
+
+
+<------ USA Temp -------->
 
 #EXTINF:-1 group-title="USA",US: TOONCAST
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
@@ -226,17 +255,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1 group-title="USA",US: EPIXHITS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
-#EXTINF:-1 group-title="USA",US: Lifetime HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
 #EXTINF:-1 group-title="USA",US: CINEMAX HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
 #EXTINF:-1 group-title="USA",US: Lifetime Movie
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
-
-#EXTINF:-1 group-title="USA",US: PARAMOUNT NETWORK (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
-#EXTINF:-1 group-title="USA",US: Comedy Central HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
 #EXTINF:-1 group-title="USA",US: CW HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
 #EXTINF:-1 group-title="USA",US: E! Entertaiment USA
@@ -249,7 +271,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 #EXTINF:-1 group-title="USA",US: FS2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
-
 #EXTINF:-1 group-title="USA",US: ESPN
 http://quality-restream.com:8080/live/Millenium/61f8930b/747.m3u8
 #EXTINF:-1 group-title="USA",US: ESPN 2
@@ -258,12 +279,6 @@ http://quality-restream.com:8080/live/Millenium/61f8930b/41918.m3u8
 http://quality-restream.com:8080/live/Millenium/61f8930b/14816.m3u8
 #EXTINF:-1 group-title="USA",US: WWE NETWORK
 http://quality-restream.com:8080/live/Millenium/61f8930b/2373.m3u8
-
-
-
-
-<------ USA Temp -------->
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick East HD US" tvg-logo="https://picon-13398.kxcdn.com/nickus.jpg" group-title="Live: USA & Canada",Nick East HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/101881
@@ -299,22 +314,14 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18074
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18079
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="Viceland FHD US" tvg-logo="https://picon-13398.kxcdn.com/viceland.jpg" group-title="Live: USA & Canada",Viceland FHD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18077
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax East HD US" tvg-logo="https://picon-13398.kxcdn.com/cinemax.jpg" group-title="Live: USA & Canada",Cinemax East HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13680
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East HD US" tvg-logo="https://picon-13398.kxcdn.com/hbohd.jpg" group-title="Live: USA & Canada",HBO East HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13685
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV HD US" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Live: USA & Canada",HGTV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13835
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD US" tvg-logo="https://picon-13398.kxcdn.com/msnbchdus.jpg" group-title="Live: USA & Canada",MSNBC HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16841
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network US" tvg-logo="https://picon-13398.kxcdn.com/nhlnetworkus.jpg" group-title="Live: USA & Canada",NHL Network US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13688
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East HD US" tvg-logo="https://picon-13398.kxcdn.com/showtime.jpg" group-title="Live: USA & Canada",Showtime East HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13666
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore East HD US" tvg-logo="https://picon-13398.kxcdn.com/starzencoreus.jpg" group-title="Live: USA & Canada",Starz Encore East HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13677
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge HD US" tvg-logo="https://picon-13398.kxcdn.com/starzedgeus.jpg" group-title="Live: USA & Canada",Starz Edge HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13678
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax East HD US" tvg-logo="https://picon-13398.kxcdn.com/cinemax.jpg" group-title="Live: USA & Canada",Cinemax East HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13680
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E HD US" tvg-logo="https://picon-13398.kxcdn.com/ae.jpg" group-title="Live: USA & Canada",A&E HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10350
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC HD US" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Live: USA & Canada",AMC HD US
@@ -327,16 +334,6 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/10701
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13098
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX HD US" tvg-logo="https://picon-13398.kxcdn.com/fxxhdus.jpg" group-title="Live: USA & Canada",FXX HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13097
-#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkchannelus.jpg" group-title="Live: USA & Canada",Hallmark Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9025
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family FHD US" tvg-logo="https://picon-13398.kxcdn.com/hbofamily.jpg" group-title="Live: USA & Canada",HBO Family FHD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9017
-#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature US" tvg-logo="https://picon-13398.kxcdn.com/hbosignatureus.jpg" group-title="Live: USA & Canada",HBO Signature US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9016
-#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="Lifetime HD US" tvg-logo="https://picon-13398.kxcdn.com/lifetimehd.jpg" group-title="Live: USA & Canada",Lifetime HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18072
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies HD US" tvg-logo="https://picon-13398.kxcdn.com/lfetimemoviesus.jpg" group-title="Live: USA & Canada",Lifetime Movies HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9078
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network US" tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Live: USA & Canada",Paramount Network US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13107
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="Syfy HD US" tvg-logo="https://picon-13398.kxcdn.com/syfyhd.jpg" group-title="Live: USA & Canada",Syfy HD US
@@ -357,6 +354,14 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/15715
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/14294
 #EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network US" tvg-logo="https://picon-13398.kxcdn.com/ownus.jpg" group-title="Live: USA & Canada",Oprah Winfrey Network US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16295
+#EXTINF:-1 tvg-id="" tvg-name="Comet HD US" tvg-logo="https://picon-13398.kxcdn.com/cometus.jpg" group-title="Live: USA & Canada",Comet HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99908
+#EXTINF:-1 tvg-id="" tvg-name="MGM HD US" tvg-logo="https://picon-13398.kxcdn.com/mgmhdus.jpg" group-title="Live: USA & Canada",MGM HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99909
+#EXTINF:-1 tvg-id="" tvg-name="Logo HD US" tvg-logo="https://picon-13398.kxcdn.com/logous.jpg" group-title="Live: USA & Canada",Logo HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99910
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family HD US" tvg-logo="https://picon-13398.kxcdn.com/afvtvusjpeg.jpg" group-title="Live: USA & Canada",AFV Family HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/102803
 #EXTINF:-1 tvg-id="" tvg-name="DIY Network HD US" tvg-logo="https://picon-13398.kxcdn.com/diynetworkus.jpg" group-title="Live: USA & Canada",DIY Network HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13101
 #EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="E! HD US" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: USA & Canada",E! HD US
@@ -385,30 +390,56 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27453
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27452
 #EXTINF:-1 tvg-id="TVG.us" tvg-name="TVG HD US" tvg-logo="https://picon-13398.kxcdn.com/tvgus.jpg" group-title="Live: USA & Canada",TVG HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27461
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/sonymoviechannelus.jpg" group-title="Live: USA & Canada",Sony Movie Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27463
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sony HD US" tvg-logo="https://picon-13398.kxcdn.com/ciensonyus.jpg" group-title="Live: USA & Canada",Cine Sony HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27467
 #EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV US" tvg-logo="https://picon-13398.kxcdn.com/cozitvus.jpg" group-title="Live: USA & Canada",Cozi TV US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27470
 #EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI HD US" tvg-logo="https://picon-13398.kxcdn.com/fyius.jpg" group-title="Live: USA & Canada",FYI HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27472
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network HD US" tvg-logo="https://picon-13398.kxcdn.com/accnnetworkus.jpg" group-title="Live: USA & Canada",ACC Network HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29493
+#EXTINF:-1 tvg-id="PopTV.us" tvg-name="Pop TV HD US" tvg-logo="https://picon-13398.kxcdn.com/afnmovie.jpg" group-title="Live: USA & Canada",Pop TV HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26997
+#EXTINF:-1 tvg-id="" tvg-name="CMT HD US" tvg-logo="https://picon-13398.kxcdn.com/cmtus.jpg" group-title="Live: USA & Canada",CMT HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/81432
+#EXTINF:-1 tvg-id="" tvg-name="WGN TV US" tvg-logo="https://picon-13398.kxcdn.com/wgntvchicagous.jpg" group-title="Live: USA & Canada",WGN TV US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99408
+
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/sonymoviechannelus.jpg" group-title="Live: USA & Canada",Sony Movie Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/27463
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkdramaus.jpg" group-title="Live: USA & Canada",Hallmark Drama HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26268
 #EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkmoviesmysteriesus.jpg" group-title="Live: USA & Canada",Hallmark Movies & Mysteries HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18198
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network HD US" tvg-logo="https://picon-13398.kxcdn.com/accnnetworkus.jpg" group-title="Live: USA & Canada",ACC Network HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29493
-#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD US" tvg-logo="https://picon-13398.kxcdn.com/hbocomedyus.jpg" group-title="Live: USA & Canada",HBO Comedy HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88710
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/hallmarkchannelus.jpg" group-title="Live: USA & Canada",Hallmark Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9025
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East HD US" tvg-logo="https://picon-13398.kxcdn.com/hbohd.jpg" group-title="Live: USA & Canada",HBO East HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13685
 #EXTINF:-1 tvg-id="" tvg-name="HBO Zone HD US" tvg-logo="https://picon-13398.kxcdn.com/hbozoneus.jpg" group-title="Live: USA & Canada",HBO Zone HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88711
-#EXTINF:-1 tvg-id="" tvg-name="The Movie Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/themoviechannelus.jpg" group-title="Live: USA & Canada",The Movie Channel HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88716
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Live: USA & Canada",HBO 2 HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/33945
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family FHD US" tvg-logo="https://picon-13398.kxcdn.com/hbofamily.jpg" group-title="Live: USA & Canada",HBO Family FHD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9017
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature US" tvg-logo="https://picon-13398.kxcdn.com/hbosignatureus.jpg" group-title="Live: USA & Canada",HBO Signature US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9016
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="Lifetime HD US" tvg-logo="https://picon-13398.kxcdn.com/lifetimehd.jpg" group-title="Live: USA & Canada",Lifetime HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18072
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies HD US" tvg-logo="https://picon-13398.kxcdn.com/lfetimemoviesus.jpg" group-title="Live: USA & Canada",Lifetime Movies HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9078
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD US" tvg-logo="https://picon-13398.kxcdn.com/hbocomedyus.jpg" group-title="Live: USA & Canada",HBO Comedy HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88710
+#EXTINF:-1 tvg-id="" tvg-name="The Movie Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/themoviechannelus.jpg" group-title="Live: USA & Canada",The Movie Channel HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88716
+
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East HD US" tvg-logo="https://picon-13398.kxcdn.com/showtime.jpg" group-title="Live: USA & Canada",Showtime East HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13666
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/showtime2us.jpg" group-title="Live: USA & Canada",Showtime 2 HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/37838
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore East HD US" tvg-logo="https://picon-13398.kxcdn.com/starzencoreus.jpg" group-title="Live: USA & Canada",Starz Encore East HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13677
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge HD US" tvg-logo="https://picon-13398.kxcdn.com/starzedgeus.jpg" group-title="Live: USA & Canada",Starz Edge HD US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13678
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="Starz In Black HD US" tvg-logo="https://picon-13398.kxcdn.com/starzinblackus.jpg" group-title="Live: USA & Canada",Starz In Black HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/33946
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy HD US" tvg-logo="https://picon-13398.kxcdn.com/starzcomedyus.jpg" group-title="Live: USA & Canada",Starz Comedy HD US
@@ -445,12 +476,6 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19605
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/34024
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV HD US" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Live: USA & Canada",Sundance TV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/19607
-#EXTINF:-1 tvg-id="PopTV.us" tvg-name="Pop TV HD US" tvg-logo="https://picon-13398.kxcdn.com/afnmovie.jpg" group-title="Live: USA & Canada",Pop TV HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26997
-#EXTINF:-1 tvg-id="" tvg-name="CMT HD US" tvg-logo="https://picon-13398.kxcdn.com/cmtus.jpg" group-title="Live: USA & Canada",CMT HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/81432
-#EXTINF:-1 tvg-id="" tvg-name="WGN TV US" tvg-logo="https://picon-13398.kxcdn.com/wgntvchicagous.jpg" group-title="Live: USA & Canada",WGN TV US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99408
 #EXTINF:-1 tvg-id="" tvg-name="Newsmax TV HD US" tvg-logo="https://picon-13398.kxcdn.com/newsmaxtvus.jpg" group-title="Live: USA & Canada",Newsmax TV HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99583
 #EXTINF:-1 tvg-id="" tvg-name="NewsNation HD US" tvg-logo="https://picon-13398.kxcdn.com/newsnationus.jpg" group-title="Live: USA & Canada",NewsNation HD US
@@ -465,27 +490,17 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99901
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99902
 #EXTINF:-1 tvg-id="" tvg-name="OuterMax HD US" tvg-logo="" group-title="Live: USA & Canada",OuterMax HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99903
-#EXTINF:-1 tvg-id="" tvg-name="Comet HD US" tvg-logo="https://picon-13398.kxcdn.com/cometus.jpg" group-title="Live: USA & Canada",Comet HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99908
-#EXTINF:-1 tvg-id="" tvg-name="MGM HD US" tvg-logo="https://picon-13398.kxcdn.com/mgmhdus.jpg" group-title="Live: USA & Canada",MGM HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99909
-#EXTINF:-1 tvg-id="" tvg-name="Logo HD US" tvg-logo="https://picon-13398.kxcdn.com/logous.jpg" group-title="Live: USA & Canada",Logo HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99910
-#EXTINF:-1 tvg-id="" tvg-name="AFV Family HD US" tvg-logo="https://picon-13398.kxcdn.com/afvtvusjpeg.jpg" group-title="Live: USA & Canada",AFV Family HD US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/102803
+
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News HD US" tvg-logo="https://picon-13398.kxcdn.com/bbcnewshd.jpg" group-title="Live: USA & Canada",BBC World News HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26270
 #EXTINF:-1 tvg-id="NewEnglandCableNews.us" tvg-name="NESN HD US" tvg-logo="https://picon-13398.kxcdn.com/nesnus.jpg" group-title="Live: USA & Canada",NESN HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26269
-
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD US" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg" group-title="Live: USA & Canada",CNBC FHD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9028
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN FHD US" tvg-logo="https://picon-13398.kxcdn.com/cnn.jpg" group-title="Live: USA & Canada",CNN FHD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9029
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America US" tvg-logo="https://picon-13398.kxcdn.com/bbcamericaus.jpg" group-title="Live: USA & Canada",BBC America US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18181
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network US" tvg-logo="https://picon-13398.kxcdn.com/btnus.jpg" group-title="Live: USA & Canada",Big Ten Network US
-http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18182
 #EXTINF:-1 tvg-id="" tvg-name="CBSN HD US" tvg-logo="https://picon-13398.kxcdn.com/cbsnus.jpg" group-title="Live: USA & Canada",CBSN HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18184
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD US" tvg-logo="https://picon-13398.kxcdn.com/destionationamericaus.jpg" group-title="Live: USA & Canada",Destination America HD US
@@ -523,7 +538,8 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/17427
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel US" tvg-logo="https://picon-13398.kxcdn.com/americanheroesus.jpg" group-title="Live: USA & Canada",American Heroes Channel US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18064
 
-
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network US" tvg-logo="https://picon-13398.kxcdn.com/btnus.jpg" group-title="Live: USA & Canada",Big Ten Network US
+http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18182
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="UFC Fight Pass HD US" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg" group-title="Live: USA & Canada",UFC Fight Pass HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18170
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="Fight Sports US" tvg-logo="https://picon-13398.kxcdn.com/fightsportsus.jpg" group-title="Live: USA & Canada",Fight Sports US
