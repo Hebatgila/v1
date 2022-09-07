@@ -1464,6 +1464,18 @@ http://109.200.130.123:7032/play/353
 http://109.200.130.123:7032/play/a00g
 #EXTINF:-1 group-title="ADT", Eroxxx HD
 http://94.229.250.73:8008/play/a002
+#EXTINF:-1  group-title="ADT" tvg-logo="https://iptvx.one/icn/barely-legal.png",Barely Legal
+http://46.181.193.122:81/udp/239.255.42.224:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://iptvx.one/icn/blue-hustler.png",Blue Hustler
+http://46.181.193.122:81/udp/239.255.42.222:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://iptvx.one/icn/brazzers.png",Brazzers TV
+http://46.181.193.122:81/udp/239.255.42.220:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://iptvx.one/icn/hustler-hd.png",Hustler HD
+http://46.181.193.122:81/udp/239.255.43.53:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://tvoetv.online/img/ch_icons/o_la_la.png",O-la-la
+http://46.181.193.122:81/udp/239.255.42.219:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://iptvx.one/icn/playboy-tv.png",Playboy TV
+http://46.181.193.122:81/udp/239.255.42.221:1234
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="ADT" ,VSVHD_XXX1(18+)
