@@ -1454,6 +1454,10 @@ http://185.236.229.31:9981/play/a03p
 http://185.236.229.31:9981/play/a03d
 #EXTINF:-1 group-title="ADT" ,Hustler HD
 http://185.236.229.31:9981/play/a03n
+#EXTINF:-1 group-title="ADT" ,PLAYBOY TV HD
+http://185.236.229.31:9981/play/a02w
+#EXTINF:-1 group-title="ADT" ,Blue Hustler
+http://185.236.229.31:9981/play/a03o
 #EXTINF:-1 group-title="ADT" tvg-logo="http://totv.org/img/leo.png", Extasy HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 group-title="ADT" tvg-logo="http://totv.org/img/redlight-central.png", REDLIGHT
