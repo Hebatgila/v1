@@ -5,10 +5,34 @@
 http://93.152.174.144:4000/play/Redlight/index.m3u8
 #EXTINF:-1,Penthouse Gold
 http://93.152.174.144:4000/play/Penthouse/index.m3u8
-#EXTINF:-1,VIP Serial
-http://94.229.250.73:8008/play/a003
-#EXTINF:-1,Vostok-TV_nkh
-http://94.229.250.73:8008/play/a001
+#EXTINF:-1,Brazzers HD
+http://212.18.115.191:3169/play/a00a/index.m3u8
+#EXTINF:-1,Dorcel TV HD
+http://212.18.115.191:3169/play/dorcel/index.m3u8
+#EXTINF:-1,Evil Angel
+http://212.18.115.191:3169/play/a007/index.m3u8
+#EXTINF:-1,HOT
+http://212.18.115.191:3169/play/a00d/index.m3u8
+#EXTINF:-1,Hustler HD
+http://212.18.115.191:3169/play/a001/index.m3u8
+#EXTINF:-1,Nuart
+http://212.18.115.191:3169/play/nuart/index.m3u8
+#EXTINF:-1,Passion XXX2
+http://212.18.115.191:3169/play/a009/index.m3u8
+#EXTINF:-1,Penthouse Gold HD
+http://212.18.115.191:3169/play/a005/index.m3u8
+#EXTINF:-1,Penthouse Quickies HD
+http://212.18.115.191:3169/play/a006/index.m3u8
+#EXTINF:-1,Pink O TV
+http://212.18.115.191:3169/play/a00b/index.m3u8
+#EXTINF:-1,Private TV HD
+http://212.18.115.191:3169/play/private/index.m3u8
+#EXTINF:-1,Redlight HD
+http://212.18.115.191:3169/play/a004/index.m3u8
+#EXTINF:-1,Vivid
+http://212.18.115.191:3169/play/vivid/index.m3u8
+#EXTINF:-1,XY Plus
+http://212.18.115.191:3169/play/a00c/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBC Sports Washington HD US" tvg-logo="https://picon-13398.kxcdn.com/nbcsportswashington.jpg" group-title="Live: USA & Canada",NBC Sports Washington HD US
