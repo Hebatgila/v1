@@ -1,12 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 , privatetv2
-http://93.152.174.144:4000/play/privatetv2/index.m3u8
-#EXTINF:-1 , privatetv3
-http://93.152.174.144:4000/play/privatetv3/index.m3u8
-#EXTINF:-1 , privatetv4
-http://93.152.174.144:4000/play/privatetv4/index.m3u8
+#EXTINF:-1,Redlight
+http://93.152.174.144:4000/play/Redlight/index.m3u8
+#EXTINF:-1,Penthouse Gold
+http://93.152.174.144:4000/play/Penthouse/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NBC Sports Washington HD US" tvg-logo="https://picon-13398.kxcdn.com/nbcsportswashington.jpg" group-title="Live: USA & Canada",NBC Sports Washington HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/29044
