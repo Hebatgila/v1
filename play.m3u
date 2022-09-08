@@ -6,6 +6,8 @@
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40761
 #EXTINF:-1 tvg-id="" tvg-name="TV9 MY" tvg-logo="" group-title="Malaysia",TV9 MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40765
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD IN" tvg-logo="" group-title="India",Colors Infinity HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136618
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="India",Sony Pix HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136688
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="India",Star Movies HD IN
@@ -18,8 +20,6 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136615
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="" group-title="India",Star Sports select 2 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136616
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="Sony Six HD IN" tvg-logo="" group-title="India",Sony Six HD IN
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136701
 #EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="" group-title="India",TEN 1 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="" group-title="India",TEN 2 HD IN
@@ -28,6 +28,7 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136667
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="" group-title="India",Zee Cafe IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136588
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
