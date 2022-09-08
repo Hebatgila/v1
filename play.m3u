@@ -1,26 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,tic 1
-http://54.36.123.36:8080/PinkErotic1/index.m3u8
-#EXTINF:-1,tic 2
-http://54.36.123.36:8080/PinkErotic2/index.m3u8
-#EXTINF:-1,tic 3
-http://54.36.123.36:8080/PinkErotic3/index.m3u8
-#EXTINF:-1,tic 4
-http://54.36.123.36:8080/PinkErotic4/index.m3u8
-#EXTINF:-1,tic 5
-http://54.36.123.36:8080/PinkErotic5/index.m3u8
-#EXTINF:-1,tic 6
-http://54.36.123.36:8080/PinkErotic6/index.m3u8
-#EXTINF:-1,tic 7
-http://54.36.123.36:8080/PinkErotic7/index.m3u8
-#EXTINF:-1,tic 8
-http://54.36.123.36:8080/PinkErotic8/index.m3u8
  
 #EXTINF:-1,ME1
 http://92.242.176.83:8096
 #EXTINF:-1,ME2
-http://92.242.176.83:8095
+http://92.242.176.83:8099
 #EXTINF:-1,ME3
 http://92.242.176.83:8097
 #EXTINF:-1,ME4
