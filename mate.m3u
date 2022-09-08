@@ -122,6 +122,30 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/202386.ts
 
 <------ Malaysia Temp -------->
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD IN" tvg-logo="" group-title="India",Colors Infinity HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136618
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="India",Sony Pix HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136688
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="India",Star Movies HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136629
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="" group-title="India",Star Sports 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="" group-title="India",Star Sports 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136615
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD IN" tvg-logo="" group-title="India",Star Sports Select 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="" group-title="India",Star Sports select 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136616
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="" group-title="India",TEN 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="" group-title="India",TEN 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports IN" tvg-logo="" group-title="India",Ten Sports IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136667
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="" group-title="India",Zee Cafe IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136588
+
 #EXTINF:-1 group-title="MY-TEMP",MY - RAKUTEN VIKI 
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MY-TEMP", SBS KOREAN (EU/USA)
@@ -131,9 +155,9 @@ https://nonton.site:8443/live/mustakim/mustakim/37399.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - TA-DAA
 https://nonton.site:8443/live/mustakim/mustakim/37445.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - TV 3
-http://quality-restream.com:8080/live/Millenium/61f8930b/158360.m3u8
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40761
 #EXTINF:-1 group-title="MY-TEMP",MY - TV 9
-http://quality-restream.com:8080/live/Millenium/61f8930b/171953.m3u8
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40765
 #EXTINF:-1 group-title="MY-TEMP",Dream Works HD
 https://nonton.site:8443/live/mustakim/mustakim/32529.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Paramount Network
