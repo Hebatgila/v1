@@ -1,38 +1,7 @@
 #EXTM3U
 
  
-#EXTINF:-1 group-title="ADT" ,ME1
-http://92.242.176.83:8096
-#EXTINF:-1 group-title="ADT" ,ME3
-http://92.242.176.83:8097
-#EXTINF:-1 group-title="ADT" ,ME4
-http://92.242.176.83:8098
 
-
-#EXTINF:-1 group-title="ADT" ,Hustler HD 
-http://85.11.144.9:7766/HustlerHD?token=test
-#EXTINF:-1 group-title="ADT" ,Hustler HD 
-http://193.33.240.8/hustler_hd/index.m3u8
-#EXTINF:-1 group-title="ADT" ,Hustler HD 
-http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/178768
-#EXTINF:-1, group-title="ADT" HOT ONE
-http://85.11.144.9:7766/SuperOneHD?token=test
-#EXTINF:-1 group-title="ADT" ,Eroxxx
-http://85.11.144.9:7766/EroxxxHD?token=test
-#EXTINF:-1 group-title="ADT" ,Eroxxx
-http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/195728
-#EXTINF:-1 group-title="ADT" ,Private HD 
-http://85.11.144.9:7766/Private?token=test
-#EXTINF:-1 group-title="ADT" ,Penthouse GOLD
-http://80.24.75.92:5555/udp/239.111.4.1:1234
-#EXTINF:-1 group-title="ADT" ,Penthouse QUICKED
-http://80.24.75.92:5555/udp/239.111.4.2:1234
-#EXTINF:-1 group-title="ADT" ,Evil angel
-http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/367569
-#EXTINF:-1 group-title="ADT" ,Czech casting
-http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/367568
-#EXTINF:-1 group-title="ADT" ,Czech Fantssy
-http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/367574
 
 
 
@@ -814,6 +783,39 @@ http://103.55.144.46/hls/sonyten3.m3u8
 
 
 <--------ADT------------>
+
+#EXTINF:-1 group-title="ADT" ,ME1
+http://92.242.176.83:8096
+#EXTINF:-1 group-title="ADT" ,ME3
+http://92.242.176.83:8097
+#EXTINF:-1 group-title="ADT" ,ME4
+http://92.242.176.83:8098
+
+
+#EXTINF:-1 group-title="ADT" ,Hustler HD 
+http://85.11.144.9:7766/HustlerHD?token=test
+#EXTINF:-1 group-title="ADT" ,Hustler HD 
+http://193.33.240.8/hustler_hd/index.m3u8
+#EXTINF:-1 group-title="ADT" ,Hustler HD 
+http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/178768
+#EXTINF:-1, group-title="ADT" HOT ONE
+http://85.11.144.9:7766/SuperOneHD?token=test
+#EXTINF:-1 group-title="ADT" ,Eroxxx
+http://85.11.144.9:7766/EroxxxHD?token=test
+#EXTINF:-1 group-title="ADT" ,Eroxxx
+http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/195728
+#EXTINF:-1 group-title="ADT" ,Private HD 
+http://85.11.144.9:7766/Private?token=test
+#EXTINF:-1 group-title="ADT" ,Penthouse GOLD
+http://80.24.75.92:5555/udp/239.111.4.1:1234
+#EXTINF:-1 group-title="ADT" ,Penthouse QUICKED
+http://80.24.75.92:5555/udp/239.111.4.2:1234
+#EXTINF:-1 group-title="ADT" ,Evil angel
+http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/367569
+#EXTINF:-1 group-title="ADT" ,Czech casting
+http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/367568
+#EXTINF:-1 group-title="ADT" ,Czech Fantssy
+http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/367574
 
 #EXTINF:1 group-title="ADT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", Fashion Tv
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
