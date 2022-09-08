@@ -5,6 +5,10 @@
 http://93.152.174.144:4000/play/Redlight/index.m3u8
 #EXTINF:-1,Penthouse Gold
 http://93.152.174.144:4000/play/Penthouse/index.m3u8
+#EXTINF:-1,VIP Serial
+http://94.229.250.73:8008/play/a003
+#EXTINF:-1,Vostok-TV_nkh
+http://94.229.250.73:8008/play/a001
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBC Sports Washington HD US" tvg-logo="https://picon-13398.kxcdn.com/nbcsportswashington.jpg" group-title="Live: USA & Canada",NBC Sports Washington HD US
@@ -1282,10 +1286,7 @@ http://185.236.229.31:9981/play/a03n
 http://185.236.229.31:9981/play/a03o
 #EXTINF:-1 group-title="ADT" tvg-logo="http://totv.org/img/redlight-central.png", REDLIGHT
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:-1 group-title="ADT" , REDLIGHT HD
-http://109.200.130.123:7032/play/353
-#EXTINF:-1 group-title="ADT", VIVID RED
-http://109.200.130.123:7032/play/a00g
+
 #EXTINF:-1 group-title="ADT", Eroxxx HD
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1  group-title="ADT" tvg-logo="https://iptvx.one/icn/barely-legal.png",Barely Legal
