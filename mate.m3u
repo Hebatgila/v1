@@ -21,6 +21,35 @@
 
 <----------------------------------- TEMP COUNTRY --------------------------------------->
 
+#EXTINF:-1 group-title="INDIA NEW",PIX HD - Rs 15
+http://103.179.246.243:8000/play/a016
+#EXTINF:-1 group-title="INDIA NEW",colors INFIN HD-Rs9
+http://103.179.246.243:8000/play/a01b
+#EXTINF:-1 group-title="INDIA NEW",nick HD+- Rs 10
+http://103.179.246.243:8000/play/a01c
+#EXTINF:-1 group-title="INDIA NEW" ,Star Movies HD
+http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
+#EXTINF:-1 group-title="INDIA NEW",Star Movies HD-Rs 19
+http://103.179.246.243:8000/play/a00v
+#EXTINF:-1 group-title="INDIA NEW",Star Movies HD-Rs 10
+http://103.179.246.243:8000/play/a00w
+#EXTINF:-1 group-title="INDIA NEW",STAR WORLD HD-Rs9
+http://103.179.246.243:8000/play/a00b
+#EXTINF:-1 group-title="INDIA NEW",Star Sport 1 HD-Rs19
+http://103.179.246.243:8000/play/a00c
+#EXTINF:-1 group-title="INDIA NEW",Star Sport 2 HD- Rs19
+http://103.179.246.243:8000/play/a00d
+#EXTINF:-1 group-title="INDIA NEW",Sony Ten 1 HD- Rs 19
+http://103.179.246.243:8000/play/a00e
+#EXTINF:-1 group-title="INDIA NEW",Sony Ten 2 HD- Rs 17
+http://103.179.246.243:8000/play/a01a
+#EXTINF:-1 group-title="INDIA NEW",SIX HD - Rs 19
+http://103.179.246.243:8000/play/a00f
+#EXTINF:-1 group-title="INDIA NEW",Star Sports S 1 HD-Rs19
+http://103.179.246.243:8000/play/a018
+#EXTINF:-1 group-title="INDIA NEW",Star Sports S 2 HD-Rs10
+http://103.179.246.243:8000/play/a019
+
 #EXTINF:-1 tvg-id="" tvg-name="AUS: 10 Bold Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 10 Bold Melbourne HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/375633.ts
 #EXTINF:-1 tvg-id="" tvg-name="AUS: 10 Peach Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 10 Peach Melbourne HD
