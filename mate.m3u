@@ -21,6 +21,15 @@
 
 <----------------------------------- TEMP COUNTRY --------------------------------------->
 
+#EXTINF:-1 group-title="ASIA_INDONESIA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png",Bioskop Indonesia
+https://delivery.macan.network/stream/bioskopindonesia/playlist.m3u8?token=0t348&v=20200807
+#EXTINF:-1 group-title="ASIA_INDONESIA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png",DreamWorks
+https://delivery.macan.network/stream/dreamworks_en/playlist.m3u8?token=0t348&v=20200807
+#EXTINF:-1 group-title="ASIA_INDONESIA" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13",Flik
+https://delivery.macan.network/stream/flik/playlist.m3u8?token=0t348&v=20200807
+#EXTINF:-1 group-title="ASIA_INDONESIA" tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png?v=1",Paramount
+https://delivery.macan.network/stream/paramount/playlist.m3u8?token=0t348&v=20200807
+
 #EXTINF:-1 group-title="INDIA NEW",PIX HD - Rs 15
 http://103.179.246.243:8000/play/a016
 #EXTINF:-1 group-title="INDIA NEW",colors INFIN HD-Rs9
