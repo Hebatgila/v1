@@ -21,14 +21,11 @@
 
 <----------------------------------- TEMP COUNTRY --------------------------------------->
 
-#EXTINF:-1 group-title="ASIA_INDONESIA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png",Bioskop Indonesia
-https://delivery.macan.network/stream/bioskopindonesia/playlist.m3u8?token=0t348&v=20200807
-#EXTINF:-1 group-title="ASIA_INDONESIA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png",DreamWorks
-https://delivery.macan.network/stream/dreamworks_en/playlist.m3u8?token=0t348&v=20200807
-#EXTINF:-1 group-title="ASIA_INDONESIA" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13",Flik
-https://delivery.macan.network/stream/flik/playlist.m3u8?token=0t348&v=20200807
-#EXTINF:-1 group-title="ASIA_INDONESIA" tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png?v=1",Paramount
-https://delivery.macan.network/stream/paramount/playlist.m3u8?token=0t348&v=20200807
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT
+http://iptvid.my.id/hmm/paramount.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT CHANNEL
+http://5gfksa.ltd:2052/991155/551199/192596
 
 #EXTINF:-1 group-title="INDIA NEW",PIX HD - Rs 15
 http://103.179.246.243:8000/play/a016
@@ -240,10 +237,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
 #EXTINF:-1 group-title="MY-TEMP",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="TRIAL CHANNEL",PARAMOUNT
-http://iptvid.my.id/hmm/paramount.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT CHANNEL
-http://5gfksa.ltd:2052/991155/551199/192596
+
 
 
 
@@ -1692,7 +1686,7 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="BoomerangSoutheastAsia.hk"group-title="KIDS" tvg-logo="https://i.imgur.com/shYYVk8.png",Boomerang
+#EXTINF:0 tvg-id="BoomerangSoutheastAsia.hk" group-title="KIDS" tvg-logo="https://i.imgur.com/shYYVk8.png",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
