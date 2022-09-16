@@ -28,7 +28,8 @@ http://iptvid.my.id/hmm/paramount.m3u8
 
 #EXTINF:-1 group-title="INDIA NEW",Sony Pix hd
 http://103.16.24.54:8080/channel2/index.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="INDIA NEW",Sony PIX
+http://103.162.136.235:4500/play/a00m/index.m3u8
 #EXTINF:-1 group-title="INDIA NEW",Color Infinity HD-Rs9
 http://103.179.246.243:8000/play/a01b
 #EXTINF:-1 group-title="INDIA NEW",Nick HD+-Rs10
