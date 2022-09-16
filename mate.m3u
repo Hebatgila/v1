@@ -24,32 +24,37 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT
 http://iptvid.my.id/hmm/paramount.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT CHANNEL
-http://5gfksa.ltd:2052/991155/551199/192596
 
-#EXTINF:-1 group-title="INDIA NEW",PIX HD - Rs 15
-http://103.179.246.243:8000/play/a016
-#EXTINF:-1 group-title="INDIA NEW",colors INFIN HD-Rs9
+
+#EXTINF:-1 group-title="INDIA NEW",Sony Pix hd
+http://103.16.24.54:8080/channel2/index.m3u8
+#EXTINF:-1 group-title="INDIA NEW",Sony Pix hd
+http://103.213.238.194:8080/SonyPix/index.m3u8
+#EXTINF:-1 group-title="INDIA NEW",Color Infinity HD-Rs9
 http://103.179.246.243:8000/play/a01b
-#EXTINF:-1 group-title="INDIA NEW",nick HD+- Rs 10
+#EXTINF:-1 group-title="INDIA NEW",Nick HD+-Rs10
 http://103.179.246.243:8000/play/a01c
 #EXTINF:-1 group-title="INDIA NEW" ,Star Movies HD
 http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
-#EXTINF:-1 group-title="INDIA NEW",Star Movies HD-Rs 19
+#EXTINF:-1 group-title="INDIA NEW",Star Movies HD-Rs19
 http://103.179.246.243:8000/play/a00v
-#EXTINF:-1 group-title="INDIA NEW",Star Movies HD-Rs 10
+#EXTINF:-1 group-title="INDIA NEW",Star Movies Selected HD-Rs10
 http://103.179.246.243:8000/play/a00w
 #EXTINF:-1 group-title="INDIA NEW",STAR WORLD HD-Rs9
 http://103.179.246.243:8000/play/a00b
+#EXTINF:-1 group-title="INDIA NEW",Comedy Central-Rs5
+http://103.179.246.243:8000/play/a01g
+#EXTINF:-1 group-title="INDIA NEW",EuroSports HD-Rs6
+http://103.179.246.243:8000/play/a00r
 #EXTINF:-1 group-title="INDIA NEW",Star Sport 1 HD-Rs19
 http://103.179.246.243:8000/play/a00c
-#EXTINF:-1 group-title="INDIA NEW",Star Sport 2 HD- Rs19
+#EXTINF:-1 group-title="INDIA NEW",Star Sport 2 HD-Rs19
 http://103.179.246.243:8000/play/a00d
-#EXTINF:-1 group-title="INDIA NEW",Sony Ten 1 HD- Rs 19
+#EXTINF:-1 group-title="INDIA NEW",Sony Ten 1 HD-Rs19
 http://103.179.246.243:8000/play/a00e
-#EXTINF:-1 group-title="INDIA NEW",Sony Ten 2 HD- Rs 17
+#EXTINF:-1 group-title="INDIA NEW",Sony Ten 2 HD-Rs17
 http://103.179.246.243:8000/play/a01a
-#EXTINF:-1 group-title="INDIA NEW",SIX HD - Rs 19
+#EXTINF:-1 group-title="INDIA NEW",SIX HD-Rs19
 http://103.179.246.243:8000/play/a00f
 #EXTINF:-1 group-title="INDIA NEW",Star Sports S 1 HD-Rs19
 http://103.179.246.243:8000/play/a018
