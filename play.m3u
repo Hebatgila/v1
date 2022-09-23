@@ -896,7 +896,7 @@ http://85.11.144.9:7766/HustlerHD?token=test
 http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="ADT" ,Hustler HD 
 http://maxhd.org:8080/UAv55DrjYE/WyDZ2DunDY/178768
-#EXTINF:-1, group-title="ADT" HOT ONE
+#EXTINF:-1, group-title="ADT", HOT ONE
 http://85.11.144.9:7766/SuperOneHD?token=test
 #EXTINF:-1 group-title="ADT" ,Eroxxx
 http://85.11.144.9:7766/EroxxxHD?token=test
