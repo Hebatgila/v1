@@ -25,18 +25,35 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT
 http://iptvid.my.id/hmm/paramount.m3u8 
 
-#EXTINF:-1 group-title="INDIA NEW",Sony Pix hd
-http://103.16.24.54:8080/channel2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDIA NEW",Sony PIX
-http://103.162.136.235:4500/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png"  group-title="INDIA NEW", STAR WORLD HD (IN)
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+
+#EXTINF:-1  group-title="INDIA NEW" tvg-logo="https://i.imgur.com/kBiWPbB.png",Colors Infinity (IN)
+http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD IN" tvg-logo="" group-title="INDIA NEW",Colors Infinity HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136618
 #EXTINF:-1 group-title="INDIA NEW",Color Infinity HD-Rs9
 http://103.179.246.243:8000/play/a01b
-#EXTINF:-1 group-title="INDIA NEW",Nick HD+-Rs10
-http://103.179.246.243:8000/play/a01c
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" catchup-source="http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8"  group-title="INDIA NEW" ,Star Movies
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=862740&extension=ts
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="INDIA NEW",Star Movies HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136629
 #EXTINF:-1 group-title="INDIA NEW" ,Star Movies HD
 http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
 #EXTINF:-1 group-title="INDIA NEW",Star Movies HD-Rs19
 http://103.179.246.243:8000/play/a00v
+
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="INDIA NEW",Sony Pix HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136688
+#EXTINF:-1 group-title="INDIA NEW",Sony Pix hd (IN)
+http://103.16.24.54:8080/channel2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDIA NEW",Sony PIX (IN)
+http://103.162.136.235:4500/play/a00m/index.m3u8
+
+
+#EXTINF:-1 group-title="INDIA NEW",Nick HD+-Rs10
+http://103.179.246.243:8000/play/a01c
 #EXTINF:-1 group-title="INDIA NEW",Star Movies Selected HD-Rs10
 http://103.179.246.243:8000/play/a00w
 #EXTINF:-1 group-title="INDIA NEW",STAR WORLD HD-Rs9
@@ -132,34 +149,7 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/375824.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/191810.ts
 #EXTINF:-1 tvg-id="espn2hd.au" tvg-name="F-AU: ESPN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhdd7qzHqpMHsde9S_1J5DR6897TR-QRy-7ZAZRKweAB.png" group-title="AUSTRALIA | LIVE",F-AU: ESPN 2 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/191811.ts
-#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-name="AU: FOX SPORTS 506 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyv50ZPIqhmZpLInBugbLqgJb-VJhwBaGOc-RiD02imOc.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 506 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202381.ts
-#EXTINF:-1 tvg-id="foxsportsmorehd.au" tvg-name="AU: FOX SPORTS 507 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuP8qeuuvPPs7JzVUSUD-J5qu5TfNBrPlf8FVY8lC0lh.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 507 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202382.ts
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX SPORTS 501 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyokSURi7hvVu31jDsYDB3reHCo4xxiDy1UlO6w-anL8K.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 501 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202376.ts
-#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="AU: FOX SPORTS 502 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyi5yYyFrwIQAq135GAmJsSerM50254PxyBwUrNfv6ris.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 502 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202377.ts
-#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="AU: FOX SPORTS 503 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvIym-dXQAujMuNgDnTGJk1s2ej5P2cmkxT4oJ3MNCxe.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 503 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202378.ts
-#EXTINF:-1 tvg-id="foxsports504hd.au" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykiu8y_e7qBjam4K66zFJVUm0kTdeD-a9-jZ8hE2F8k_.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 504 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202379.ts
-#EXTINF:-1 tvg-id="foxsports505hd.au" tvg-name="AU: FOX SPORTS 505 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytTK0q-5tPGwtCaWn5OqSmzE7u4kpQ0Mbq8JrQB5mrIo.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS 505 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202380.ts
-#EXTINF:-1 tvg-id="foxsportsnews.au" tvg-name="AU: FOX SPORTS NEWS HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXytQMZZ40E7SyrZaTvhlfMnlREbHhCbzCM4UCrByBS8h-.png" group-title="AUSTRALIA | LIVE",AU: FOX SPORTS NEWS HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202383.ts
-#EXTINF:-1 tvg-id="skynewshd.au" tvg-name="AU: SKY NEWS HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuAx57XEMu1__LLCRIfsOFcoYIX_xFUuyK9Ys9IG8qvd.png" group-title="AUSTRALIA | LIVE",AU: SKY NEWS HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202387.ts
-#EXTINF:-1 tvg-id="skynewshd.au" tvg-name="AU: SKY NEWS SD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyuAx57XEMu1__LLCRIfsOFcoYIX_xFUuyK9Ys9IG8qvd.png" group-title="AUSTRALIA | LIVE",AU: SKY NEWS SD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202388.ts
-#EXTINF:-1 tvg-id="beinsports1hd.au" tvg-name="AU: beIN SPORTS 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="AUSTRALIA | LIVE",AU: beIN SPORTS 1 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202389.ts
-#EXTINF:-1 tvg-id="skynewsextra.au" tvg-name="AU: beIN SPORTS 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="AUSTRALIA | LIVE",AU: beIN SPORTS 2 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202390.ts
-#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="AU: beIN SPORTS 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" group-title="AUSTRALIA | LIVE",AU: beIN SPORTS 3 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202391.ts
-#EXTINF:-1 tvg-id="racing.com.au" tvg-name="AU: RACING HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyiOBb_6XCa18CDYVXaAA5ozR3v-D8rCWnhX9KpTjz9ls.png" group-title="AUSTRALIA | LIVE",AU: RACING HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/202386.ts
+
 
 <------ Malaysia Temp -------->
 
@@ -707,24 +697,6 @@ https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="TRIAL CHANNEL",Filmrise 
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png" group-title="TRIAL CHANNEL", STAR WORLD HD (IN)
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
-
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IND: SONY PIX FHD [Multi-audio]" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oXcIr1QJQrZscLOZGggU-K.png" group-title="TRIAL CHANNEL",IND: SONY PIX FHD [Multi-audio]
-http://king-tv.online:8080/gisle@/FDPWGufCmY/372982.ts
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IND: SONY PIX FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oXcIr1QJQrZscLOZGggU-K.png" group-title="TRIAL CHANNEL",IND: SONY PIX FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/372983.ts
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IND: (TS) SONY PIX HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oXcIr1QJQrZscLOZGggU-K.png" group-title="TRIAL CHANNEL",IND: (TS) SONY PIX HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/372984.ts
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IND: (TS) SONY PIX HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oXcIr1QJQrZscLOZGggU-K.png" group-title="TRIAL CHANNEL",IND: (TS) SONY PIX SD
-http://linkme.team:80/live/juzer/juzer2021/241140.m3u8
-
-#EXTINF:-1 group-title="TRIAL CHANNEL"  tvg-logo="https://i.imgur.com/kBiWPbB.png",Colors Infinity (IN)
-http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" catchup-source="http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8" group-title="TRIAL CHANNEL" ,Star Movies
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=862740&extension=ts
 
 #EXTINF:-1 group-title="TRIAL CHANNEL" , GUSA Movies
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
@@ -1613,12 +1585,6 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS",BT Sport 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS" ,BT Sport (1)
-https://srv.vhls.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="SPORTS" ,BT Sport (2)
-https://srv.vhls.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS" ,BT Sport (3)
-https://srv.vhls.ru.com/cdn/premium33/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , BT SPORT (ESPN)
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
