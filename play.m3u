@@ -125,6 +125,13 @@ http://208.86.19.13:81/714.stream/index.m3u8
 
 
 <------ Malaysia Temp -------->
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Astro Ceria HD
+http://platinumxmedia.xyz:8080/@masontv/p2vGKn3G3f/92030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Astro Arena HD
+http://platinumxmedia.xyz:8080/@masontv/p2vGKn3G3f/92004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Cartoon Network Malaysia
+http://platinumxmedia.xyz:8080/@masontv/p2vGKn3G3f/92051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Ceria
 http://172.96.160.37:9138/stream/live/c20635.m3u8
 
