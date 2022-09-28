@@ -39,18 +39,10 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount TH" tvg-logo="" group-title="Thailand",Paramount TH
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115498
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="" group-title="Thailand",Fox Sports 1 HD TH  [ENG]
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115427
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 TH  [ENG]" tvg-logo="" group-title="Thailand",Fox Sports 2  HD TH  [ENG]
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115433
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 TH  [ENG]" tvg-logo="" group-title="Thailand", NTD [ENG]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Thailand", NTD [ENG]
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115689
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TV3 MY" tvg-logo="" group-title="MY-TEMP",TV3 MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40761
-#EXTINF:-1 tvg-id="" tvg-name="TV9 MY" tvg-logo="" group-title="MY-TEMP",TV9 MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40765
 #EXTINF:-1 group-title="MY-TEMP",MY - RAKUTEN VIKI 
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - ASTRO CERIA HD
@@ -125,25 +117,12 @@ http://208.86.19.13:81/714.stream/index.m3u8
 
 
 <------ Malaysia Temp -------->
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Ceria
-http://172.96.160.37:9138/stream/live/c20635.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Primetime
-http://172.96.160.37:9138/stream/live/c20522.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Astro Supersports 5
-http://172.96.160.37:9138/stream/live/c20541.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Astro Supersports 
-http://172.96.160.37:9138/stream/live/c20414.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", FREEFORM 
-http://172.96.160.37:9138/stream/live/c20741.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", WWE
-http://172.96.160.37:9138/stream/live/c20629.m3u8
+#EXTINF:-1 group-title="Malaysia - Temp",MY - Tv8
+http://198.16.64.10:8278/TV8/playlist.m3u8?tid=m10d07a0c1af6&ct=19199&tsum=b60d75956fc9bf6276a3b7efadba36dd
+#EXTINF:-1 tvg-id="" tvg-name="TV3 MY" tvg-logo="" group-title="Malaysia - Temp",TV3 MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40761
+#EXTINF:-1 tvg-id="" tvg-name="TV9 MY" tvg-logo="" group-title="Malaysia - Temp",TV9 MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40765
 
 #EXTINF:-1 group-title="Malaysia - Temp",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
@@ -151,13 +130,6 @@ http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-30
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 <------ INDIA TEMP SPORTS -------->
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIA TEMP SPORTS",Star Sports 1
-http://208.86.19.13:81/710.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIA TEMP SPORTS", Star Sports 2
-http://208.86.19.13:81/715.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports 1 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
@@ -169,25 +141,8 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136616
 #EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",TEN 1 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",TEN 3 HD IN
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",TEN 2 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
-#EXTINF:-1 tvg-id="" tvg-name="Geo Super PK" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",Geo Super PK
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports_1_HD
-http://208.86.19.13:81/710.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports_1 Selected HD
-http://208.86.19.13:81/715.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports_3HD
-http://208.86.19.13:81/732.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="INDIA TEMP SPORTS",Sony_Six_HD 
-http://103.55.144.46/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="INDIA TEMP SPORTS",Sony.Ten.1_HD 
-http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="INDIA TEMP SPORTS",Sony.Ten.2_HD 
-http://103.55.144.46/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="INDIA TEMP SPORTS",Sony.Ten.3_HD 
-http://103.55.144.46/hls/sonyten3.m3u8
-
 
 
 
@@ -245,7 +200,7 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/12043
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/71554
 #EXTINF:-1 tvg-id="" tvg-name="iFlixGroup TV HD (18+)" tvg-logo="" group-title="ADT",Private HD (18+)
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72296
-#EXTINF:-1 tvg-id="" tvg-name="Nubiles TV (18+)" tvg-logo="" group-title=ADT",Fake Taxi (18+)
+#EXTINF:-1 tvg-id="" tvg-name="Nubiles TV (18+)" tvg-logo="" group-title="ADT",Fake Taxi (18+)
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/142430
 #EXTINF:-1 tvg-id="" tvg-name="OH-AH (18+)" tvg-logo="" group-title="ADT",OH-AH (18+)
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/15553
