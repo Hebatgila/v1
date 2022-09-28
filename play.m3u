@@ -125,7 +125,23 @@ http://208.86.19.13:81/714.stream/index.m3u8
 
 
 <------ Malaysia Temp -------->
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Ceria
+http://172.96.160.37:9138/stream/live/c20635.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Primetime
+http://172.96.160.37:9138/stream/live/c20522.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Astro Supersports 5
+http://172.96.160.37:9138/stream/live/c20541.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", Astro Supersports 
+http://172.96.160.37:9138/stream/live/c20414.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", FREEFORM 
+http://172.96.160.37:9138/stream/live/c20741.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia - Temp", WWE
+http://172.96.160.37:9138/stream/live/c20629.m3u8
 
 #EXTINF:-1 group-title="Malaysia - Temp",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
