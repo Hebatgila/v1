@@ -604,8 +604,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c11b3af68000702c3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT
 http://iptvid.my.id/hmm/paramount.m3u8 
 
@@ -614,8 +612,10 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
 #EXTINF:-1  group-title="INDIA NEW" tvg-logo="https://i.imgur.com/kBiWPbB.png",Colors Infinity (IN)
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD IN" tvg-logo="" group-title="INDIA NEW",Colors Infinity HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136618
+
 #EXTINF:-1 group-title="INDIA NEW",Color Infinity HD-Rs9
 http://103.179.246.243:8000/play/a01b
 
@@ -737,77 +737,13 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/191811.ts
 
 <------ Malaysia Temp -------->
 
-#EXTINF:-1 group-title="MY-TEMP",MY - ASTRO CERIA HD
-https://nonton.site:8443/live/mustakim/mustakim/37399.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - TA-DAA
-https://nonton.site:8443/live/mustakim/mustakim/37445.m3u8
+
 #EXTINF:-1 group-title="MY-TEMP",MY - TV 3
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40761
 #EXTINF:-1 group-title="MY-TEMP",MY - TV 9
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40765
-#EXTINF:-1 group-title="MY-TEMP",Dream Works HD
-https://nonton.site:8443/live/mustakim/mustakim/32529.m3u8
-#EXTINF:-1 group-title="MY-TEMP",Paramount Network
-https://nonton.site:8443/live/mustakim/mustakim/98.m3u8
-#EXTINF:-1 group-title="MY-TEMP",K Drama
-https://nonton.site:8443/live/mustakim/mustakim/35769.m3u8
-#EXTINF:-1 group-title="MY-TEMP",Chinese Drama
-https://nonton.site:8443/live/mustakim/mustakim/36733.m3u8
-#EXTINF:-1 group-title="MY-TEMP",Star Chinese Movies HD
-https://nonton.site:8443/live/mustakim/mustakim/780.m3u8
-#EXTINF:-1 group-title="MY-TEMP",Star World
-https://nonton.site:8443/live/mustakim/mustakim/381.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - iQIYI HD
-https://nonton.site:8443/live/mustakim/mustakim/37349.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - XIAO TAI YANG HD
-https://nonton.site:8443/live/mustakim/mustakim/37351.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - Tv8
 http://198.16.64.10:8278/TV8/playlist.m3u8?tid=m10d07a0c1af6&ct=19199&tsum=b60d75956fc9bf6276a3b7efadba36dd
-#EXTINF:-1 group-title="MY-TEMP",MY - QUAN JIA HD
-https://nonton.site:8443/live/mustakim/mustakim/37354.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - TVB JADE
-https://nonton.site:8443/live/mustakim/mustakim/37356.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - CTI ASIA
-https://nonton.site:8443/live/mustakim/mustakim/37358.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - Formosa
-https://nonton.site:8443/live/mustakim/mustakim/29601.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - AOD 351 HD
-https://nonton.site:8443/live/mustakim/mustakim/37357.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - AEC HD
-https://nonton.site:8443/live/mustakim/mustakim/37352.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - SHUANG XING HD
-https://nonton.site:8443/live/mustakim/mustakim/37353.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - TVB XING HE HD
-https://nonton.site:8443/live/mustakim/mustakim/37360.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - TVBS ASIA HD
-https://nonton.site:8443/live/mustakim/mustakim/37361.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - HUA HEE DAI HD
-https://nonton.site:8443/live/mustakim/mustakim/37363.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - AOD 352 HD
-https://nonton.site:8443/live/mustakim/mustakim/37365.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - AOD 353 HD
-https://nonton.site:8443/live/mustakim/mustakim/37366.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - AOD 354 HD
-https://nonton.site:8443/live/mustakim/mustakim/37367.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - AOD 355 HD
-https://nonton.site:8443/live/mustakim/mustakim/37368.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - Showcase Movies
-https://nonton.site:8443/live/mustakim/mustakim/37428.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - BOO
-https://nonton.site:8443/live/mustakim/mustakim/37457.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - PrimeTime
-https://nonton.site:8443/live/mustakim/mustakim/37458.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - MTV Asia
-https://nonton.site:8443/live/mustakim/mustakim/37460.m3u8
-#EXTINF:-1 group-title="MY-TEMP",MY - ASTRO ARENA HD
-https://nonton.site:8443/live/mustakim/mustakim/37422.m3u8
-#EXTINF:-1 group-title="MY-TEMP",ESPN
-https://nonton.site:8443/live/mustakim/mustakim/499.m3u8
-#EXTINF:-1 group-title="MY-TEMP",ESPN2
-https://nonton.site:8443/live/mustakim/mustakim/299.m3u8
-#EXTINF:-1 group-title="MY-TEMP",NBA TV HD
-https://nonton.site:8443/live/mustakim/mustakim/3099.m3u8
-
 #EXTINF:-1 group-title="MY-TEMP",MY - SUKAN
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - OKEY
