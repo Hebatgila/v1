@@ -737,7 +737,8 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/191811.ts
 
 <------ Malaysia Temp -------->
 
-
+#EXTINF:-1 group-title="MY-TEMP" tvg-id="008" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" tvg-url="",TV8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 group-title="MY-TEMP",MY - TV 3
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40761
 #EXTINF:-1 group-title="MY-TEMP",MY - TV 9
@@ -2537,20 +2538,7 @@ http://seb.sason.top/ptv/ftv.php?id=ly
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8 
 #EXTINF:-1 group-title="Taiwan|China",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="Taiwan|China",Guandong tv 
-http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",Shandong tv
-http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",Zhejiang tv
-http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",Henan Tv
-http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",Ningbo tv
-http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",Xztv Tibet tv
-http://117.148.179.162/PLTV/88888888/224/3221231558/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",Tvb j1
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
 
 #EXTINF:-1 group-title="Taiwan|China",中天美食旅游
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
@@ -2612,28 +2600,6 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 #EXTINF:-1 group-title="Taiwan|China",SBN全球财经台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-#EXTINF:-1 group-title="Taiwan|China",VOA美国之音
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-#EXTINF:-1 group-title="Taiwan|China",翡翠台
-http://radius.8866.org:880/hls/80/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",明珠台
-http://radius.8866.org:880/hls/84/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",TVB剧场
-http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",龙华日韩
-http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 group-title="Taiwan|China",龙华戏剧
-http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 group-title="Taiwan|China",龙华电影
-http://61.221.81.93:8597/hls/cstv14.m3u8
-#EXTINF:-1 group-title="Taiwan|China",龙华洋片台
-http://50.7.218.42:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
-#EXTINF:-1 group-title="Taiwan|China",龙华影剧台
-http://50.7.218.42:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
-#EXTINF:-1 group-title="Taiwan|China",龙华偶像
-http://61.221.81.93:8591/hls/cstv12.m3u8
-#EXTINF:-1 group-title="Taiwan|China",龙华卡通
-http://61.221.81.93:8594/hls/cstv13.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
