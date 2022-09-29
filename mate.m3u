@@ -607,139 +607,42 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT
 http://iptvid.my.id/hmm/paramount.m3u8 
 
-#EXTM3U
-#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="155" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Six_HD&q=600&e=.m3u8
 
 
-#EXTINF:-1 tvg-id="525" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Sony_Six_SD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="889" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Jio_Sports&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="875" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Dsports_HD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1294" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",Eurosport
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Dsports&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="162" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Ten_HD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="514" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Ten_1&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="523" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Ten_2&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="891" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Ten2_HD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1157" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Comedy_Central_HD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1327" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",Comedy Central SD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Comedy_Central_SD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1325" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity SD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Colors_Infinity_SD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1158" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Colors_Infinity_HD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="762" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Sony_Pix_HD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1530" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",Sony Pix SD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Sony_Pix_SD&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1079" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=CN_HD_English&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="1226" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Nick_HD_Plus&q=600&e=.m3u8
-
-#EXTINF:-1 tvg-id="866" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png",Jio Exclusive HD
-#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
-https://tvstream.fun/jtv/mhd_world_tv.php?c=Jio_Exclusive&q=600&e=.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png"  group-title="INDIA NEW", STAR WORLD HD (IN)
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
-
-#EXTINF:-1  group-title="INDIA NEW" tvg-logo="https://i.imgur.com/kBiWPbB.png",Colors Infinity (IN)
-http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD IN" tvg-logo="" group-title="INDIA NEW",Colors Infinity HD IN
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD IN" tvg-logo="" group-title="India",Colors Infinity HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136618
 
-#EXTINF:-1 group-title="INDIA NEW",Color Infinity HD-Rs9
-http://103.179.246.243:8000/play/a01b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" catchup-source="http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8"  group-title="INDIA NEW" ,Star Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" catchup-source="http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8"  group-title="India" ,Star Movies
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=862740&extension=ts
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="INDIA NEW",Star Movies HD IN
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="India",Star Movies HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136629
-#EXTINF:-1 group-title="INDIA NEW" ,Star Movies HD
-http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
-#EXTINF:-1 group-title="INDIA NEW",Star Movies HD-Rs19
-http://103.179.246.243:8000/play/a00v
 
-#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="INDIA NEW",Sony Pix HD IN
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="India",Sony Pix HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136688
-#EXTINF:-1 group-title="INDIA NEW",Sony Pix hd (IN)
-http://103.16.24.54:8080/channel2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDIA NEW",Sony PIX (IN)
+
+#EXTINF:-1 tvg-logo="" group-title="India",Sony PIX (IN)
 http://103.162.136.235:4500/play/a00m/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="" group-title="India",Star Sports 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="" group-title="India",Star Sports 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136615
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD IN" tvg-logo="" group-title="India",Star Sports Select 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="" group-title="India",Star Sports select 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136616
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="" group-title="India",Sony Ten 1 HD
+http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="" group-title="India",TEN 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="" group-title="India",TEN 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports IN" tvg-logo="" group-title="India",Ten Sports IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136667
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="" group-title="India",Zee Cafe IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136588
 
-#EXTINF:-1 group-title="INDIA NEW",Nick HD+-Rs10
-http://103.179.246.243:8000/play/a01c
-#EXTINF:-1 group-title="INDIA NEW",Star Movies Selected HD-Rs10
-http://103.179.246.243:8000/play/a00w
-#EXTINF:-1 group-title="INDIA NEW",STAR WORLD HD-Rs9
-http://103.179.246.243:8000/play/a00b
-#EXTINF:-1 group-title="INDIA NEW",Comedy Central-Rs5
-http://103.179.246.243:8000/play/a01g
-#EXTINF:-1 group-title="INDIA NEW",EuroSports HD-Rs6
-http://103.179.246.243:8000/play/a00r
-#EXTINF:-1 group-title="INDIA NEW",Star Sport 1 HD-Rs19
-http://103.179.246.243:8000/play/a00c
-#EXTINF:-1 group-title="INDIA NEW",Star Sport 2 HD-Rs19
-http://103.179.246.243:8000/play/a00d
-#EXTINF:-1 group-title="INDIA NEW",Sony Ten 1 HD-Rs19
-http://103.179.246.243:8000/play/a00e
-#EXTINF:-1 group-title="INDIA NEW",Sony Ten 2 HD-Rs17
-http://103.179.246.243:8000/play/a01a
-#EXTINF:-1 group-title="INDIA NEW",SIX HD-Rs19
-http://103.179.246.243:8000/play/a00f
-#EXTINF:-1 group-title="INDIA NEW",Star Sports S 1 HD-Rs19
-http://103.179.246.243:8000/play/a018
-#EXTINF:-1 group-title="INDIA NEW",Star Sports S 2 HD-Rs10
-http://103.179.246.243:8000/play/a019
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AUS: 10 Bold Melbourne HD" tvg-logo="" group-title="AUSTRALIA | LIVE",AUS: 10 Bold Melbourne HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/375633.ts
@@ -1041,7 +944,6 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9078
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88710
 #EXTINF:-1 tvg-id="" tvg-name="The Movie Channel HD US" tvg-logo="https://picon-13398.kxcdn.com/themoviechannelus.jpg" group-title="Live: USA & Canada",The Movie Channel HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/88716
-
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East HD US" tvg-logo="https://picon-13398.kxcdn.com/showtime.jpg" group-title="Live: USA & Canada",Showtime East HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13666
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/showtime2us.jpg" group-title="Live: USA & Canada",Showtime 2 HD US
@@ -1100,7 +1002,6 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99901
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99902
 #EXTINF:-1 tvg-id="" tvg-name="OuterMax HD US" tvg-logo="" group-title="Live: USA & Canada",OuterMax HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/99903
-
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News HD US" tvg-logo="https://picon-13398.kxcdn.com/bbcnewshd.jpg" group-title="Live: USA & Canada",BBC World News HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/26270
 #EXTINF:-1 tvg-id="NewEnglandCableNews.us" tvg-name="NESN HD US" tvg-logo="https://picon-13398.kxcdn.com/nesnus.jpg" group-title="Live: USA & Canada",NESN HD US
@@ -1147,7 +1048,6 @@ http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/16585
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/17427
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel US" tvg-logo="https://picon-13398.kxcdn.com/americanheroesus.jpg" group-title="Live: USA & Canada",American Heroes Channel US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18064
-
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network US" tvg-logo="https://picon-13398.kxcdn.com/btnus.jpg" group-title="Live: USA & Canada",Big Ten Network US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/18182
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="UFC Fight Pass HD US" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg" group-title="Live: USA & Canada",UFC Fight Pass HD US
@@ -2151,25 +2051,13 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",TEN 2 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="SPORTS",Star Sports 1
-http://208.86.19.13:81/710.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="SPORTS",Star Sports 2
-http://208.86.19.13:81/715.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",StarSports 1 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",StarSports 2 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136615
 
-#EXTINF:-1 group-title="SPORTS",Star Sports Select 1 HD
-http://103.55.144.46:80/hls/Star_Sport_Select1HD.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Star Sports Select 2 HD
-http://103.55.144.46/hls/select2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",StarSports Select 1 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
-
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",StarSports select 2 HD IN
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136616
 
@@ -2186,10 +2074,6 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS",BT Sport 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , BT SPORT (ESPN)
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SPORTS",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SPORTS",ASTRO.SUPERSPORTS_2 HD TH MY
@@ -2204,9 +2088,6 @@ http://103.22.181.150:8095/nbatv/mpegts
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="" group-title="SPORTS" tvg-logo="https://cdn.macan.tv/img/nbatv.png", NBA TV 2
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115302
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , WWE NETWORK 1
-http://93.152.174.144:4000/play/WWE/index.m3u8
 
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
