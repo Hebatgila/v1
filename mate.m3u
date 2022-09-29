@@ -607,6 +607,86 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="TRIAL CHANNEL",PARAMOUNT
 http://iptvid.my.id/hmm/paramount.m3u8 
 
+#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="155" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Six_HD&q=600&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="525" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Sony_Six_SD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="889" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Jio_Sports&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="875" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Dsports_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="1294" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",Eurosport
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Dsports&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="162" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Ten_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="514" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Ten_1&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="523" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Ten_2&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="891" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Ten2_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="1157" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Comedy_Central_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="1327" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",Comedy Central SD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Comedy_Central_SD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="1325" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity SD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Colors_Infinity_SD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="1158" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Colors_Infinity_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="762" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Sony_Pix_HD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="1530" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",Sony Pix SD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Sony_Pix_SD&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="1079" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=CN_HD_English&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="1226" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Nick_HD_Plus&q=600&e=.m3u8
+
+#EXTINF:-1 tvg-id="866" group-title="RaNa Pk" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png",Jio Exclusive HD
+#EXTVLCOPT:http-referer=https://tvstream.fun/?=RanaPk
+https://tvstream.fun/jtv/mhd_world_tv.php?c=Jio_Exclusive&q=600&e=.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png"  group-title="INDIA NEW", STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
