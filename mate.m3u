@@ -1272,7 +1272,7 @@ http://203.77.246.50:5000/udp/239.1.1.76:5000
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1  tvg-id="Gem.in" tvg-logo="https://i.imgur.com/rGTHbAM.png" group-title="MOVIES",Sony GEM 1
-http://210.210.155.37/session/0386e8c0-167c-11ed-941b-b5cfb5ff1af3/dr9445/h/h37/02.m3u8
+http://210.210.155.37/session/ed7036ae-167b-11ed-a5c4-bd89be75a5ff/uq2663/h/h19/02.m3u8
 
 #EXTINF:-1  tvg-id="Gem.in" tvg-logo="https://i.imgur.com/rGTHbAM.png" group-title="MOVIES",Sony GEM 2
 http://210.210.155.37/uq2663/h/h19/index.m3u8
@@ -1284,7 +1284,7 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-id="Kplus.sg" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="MOVIES",KPlus
-http://210.210.155.37/session/c474e7ea-167b-11ed-bd16-95b5a35d97ed/dr9445/h/h02/02.m3u8
+http://210.210.155.37/session/9af57718-167b-11ed-ba60-8e66997260e4/uq2663/h/h08/02.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
