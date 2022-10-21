@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 xui-id="3336533" tvg-id="" tvg-name="PH: BE In Sports 1" tvg-logo="" group-title="PHILIPPINES",PH: BE In Sports 1
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8Ew2QX5g8UIziT3ZUC2vjzAM
+#EXTINF:-1 xui-id="3336532" tvg-id="" tvg-name="PH: BE In Sports 2" tvg-logo="" group-title="PHILIPPINES",PH: BE In Sports 2
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E463Xos7gghfccxK_h_Q3H0
+#EXTINF:-1 xui-id="3336478" tvg-id="" tvg-name="PH: NBA PREMIUM FHD" tvg-logo="" group-title="PHILIPPINES",PH: NBA PREMIUM FHD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8ExdAEhqOspFMi4HcPNyInjQ
+#EXTINF:-1 xui-id="3336600" tvg-id="" tvg-name="PH: ONE Sport" tvg-logo="" group-title="PHILIPPINES",PH: ONE Sport
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E7BsTPWyedE7JSYrcpqVrXY 
+#EXTINF:-1 xui-id="3336569" tvg-id="" tvg-name="PH: ONE SPORTS" tvg-logo="" group-title="PHILIPPINES",PH: ONE SPORTS
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E50gnCoBcYMZbRacVf_I-EM 
+#EXTINF:-1 xui-id="3336497" tvg-id="" tvg-name="PH: One Sports Plus Hyper HD" tvg-logo="" group-title="PHILIPPINES",PH: One Sports Plus Hyper HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E90oKTdNsddiFZ2pMl1pf0Y
+#EXTINF:-1 xui-id="3336493" tvg-id="" tvg-name="PH: Premier Football HD" tvg-logo="" group-title="PHILIPPINES",PH: Premier Football HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8Exm_oPyna92Sp1s5XbeCSWc 
+#EXTINF:-1 xui-id="3336492" tvg-id="" tvg-name="PH: Premier Sports HD" tvg-logo="" group-title="PHILIPPINES",PH: Premier Sports HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E8COZ1dS1TkCF7x0fLJ0S2k 
+#EXTINF:-1 xui-id="3336491" tvg-id="" tvg-name="PH: Premier Tennis HD" tvg-logo="" group-title="PHILIPPINES",PH: Premier Tennis HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E0CViQZl4u7YuhKJkXKvfGk
+
 #EXTINF:-1 xui-id="3334178" tvg-id="ABOMoviesTayanganHebat.my" tvg-name="MY: ABO Movies Tayangan Hebat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/ABO_Tayangan_Hebat.png/revision/latest?cb=20201206122201" group-title="MALAYSIA",MY: ABO Movies Tayangan Hebat
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E1ejZTvQ5wuMm1BGNJ-OXEQ 
 #EXTINF:-1 xui-id="3334188" tvg-id="Adithya.my" tvg-name="MY: Adithya" tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="MALAYSIA",MY: Adithya
@@ -32,8 +51,6 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8ExQ8LdHfz_U4OFnG5UWMvoI
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E_MQ16QODV3xwbgLDegIB4w 
 #EXTINF:-1 xui-id="3334179" tvg-id="AstroCitra.my" tvg-name="MY: Astro Citra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest?cb=20201215114818" group-title="MALAYSIA",MY: Astro Citra
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E2O8pi_GIrEsK0a_CQwWYvY 
-#EXTINF:-1 xui-id="2599216" tvg-id="" tvg-name="MY: ASTRO Colors Tamil" tvg-logo="" group-title="TAMIL",MY: ASTRO Colors Tamil
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E8YjOVZuxr0RJVLmtv1YBcE
 #EXTINF:-1 xui-id="3334298" tvg-id="AstroCricket.my" tvg-name="MY: ASTRO Cricket" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-cricket-my.png?raw=true" group-title="MALAYSIA",MY: ASTRO Cricket
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E8O454E-vfWhOWNY1ahGPBA 
 #EXTINF:-1 xui-id="3334253" tvg-id="AstroOasis.my" tvg-name="MY: Astro Oasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png/revision/latest?cb=20201202120819" group-title="MALAYSIA",MY: Astro Oasis
@@ -149,7 +166,45 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E01qiCPz_q2QHABRT41QGJc
 #EXTINF:-1 xui-id="3334216" tvg-id="WarnerTV.my" tvg-name="MY: Warner TV" tvg-logo="" group-title="MALAYSIA",MY: Warner TV
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E6Ss8GNGlFpNwKxXphLJejM 
 #EXTINF:-1 xui-id="3334304" tvg-id="WWENetwork.my" tvg-name="MY: WWE Network 50fps" tvg-logo="" group-title="MALAYSIA",MY: WWE Network 50fps
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E_Xhn2aDls0LNqwWsAlcUqc 
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E_Xhn2aDls0LNqwWsAlcUqc
+
+
+#EXTINF:-1 xui-id="3334293" tvg-id="AstroArena.my" tvg-name="MY: Arena HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-arena-my.png?raw=true" group-title="MALAYSIA",MY: Arena HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E8heXNBVC1r6HEQ5sa9Lb_E 
+#EXTINF:-1 xui-id="3334163" tvg-id="AstroArena2.my" tvg-name="MY: Astro Arena 2" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-arena-my.png?raw=true" group-title="MALAYSIA",MY: Astro Arena 2
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E2hlUeHDh1u50uQexCKac98
+#EXTINF:-1 xui-id="3334297" tvg-id="AstroSuperSport.my" tvg-name="MY: Astro Supersport" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-hd-my.png?raw=true" group-title="MALAYSIA",MY: Astro Supersport
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E_gBYoqTXHg_4Z-JDGl5ga4 
+#EXTINF:-1 xui-id="3334161" tvg-id="AstroSuperSportUHD1.my" tvg-name="MY: Astro Supersport 1" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-hd-my.png?raw=true" group-title="MALAYSIA",MY: Astro Supersport 1
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-AwLfm1kvQGBCYhkTt3iMQ 
+#EXTINF:-1 xui-id="3334294" tvg-id="AstroSuperSport2.my" tvg-name="MY: Astro Supersport 2" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-2-hd-my.png?raw=true" group-title="MALAYSIA",MY: Astro Supersport 2
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E6J8AFt85yygd-VM5_hEO3E 
+#EXTINF:-1 xui-id="3334295" tvg-id="AstroSuperSport3.my" tvg-name="MY: Astro Supersport 3" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-3-hd-my.png?raw=true" group-title="MALAYSIA",MY: Astro Supersport 3
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E82-pE3T7ZTGq5ibLemeCpw 
+#EXTINF:-1 xui-id="3334296" tvg-id="AstroSuperSport4.my" tvg-name="MY: Astro Supersport 4" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-4-hd-my.png?raw=true" group-title="MALAYSIA",MY: Astro Supersport 4
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E7GnyhqWbrAZQKWN60qv1uE
+#EXTINF:-1 xui-id="3334166" tvg-id="AstroSupersport5.my" tvg-name="MY: Astro Supersport 5 50fps" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-5-hd-my.png?raw=true" group-title="MALAYSIA",MY: Astro Supersport 5 50fps
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-g7CSX-p-EhpK0fmrHOwP0 
+#EXTINF:-1 xui-id="3334231" tvg-id="" tvg-name="MY: Astro SuperSport Events 6" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-hd-my.png?raw=true" group-title="MALAYSIA",MY: Astro SuperSport Events 6
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E1OxD0Tgi0P8rsMuw7pM-q0 
+#EXTINF:-1 xui-id="3334148" tvg-id="" tvg-name="MY: Astro Supersport Feed 1 (FHD)" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-hd-my.png?raw=true" group-title="MALAYSIA",MY: Astro Supersport Feed 1 (FHD)
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E8HnY-mlBpl-9Ul1d2rR8D4
+#EXTINF:-1 xui-id="3334300" tvg-id="beINSports.my" tvg-name="MY: beIN Sports" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/international/beinsports/stacked/bein-sports-1-int.png?raw=true" group-title="MALAYSIA",MY: beIN Sports
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E4r_K_7Fqgu3louNQhw43WY 
+#EXTINF:-1 xui-id="3334156" tvg-id="beINSports2.my" tvg-name="MY: beIN Sports 2" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/international/beinsports/stacked/bein-sports-2-int.png?raw=true" group-title="MALAYSIA",MY: beIN Sports 2
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E06v9Ww5ojlydtz5sJ3VKZI 
+#EXTINF:-1 xui-id="3334299" tvg-id="bEINSPORTS3.my" tvg-name="MY: beIN Sports 3" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/international/beinsports/stacked/bein-sports-3-int.png?raw=true" group-title="MALAYSIA",MY: beIN Sports 3
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E2VQZpCcuH_uQZw_rJdYrG4
+#EXTINF:-1 xui-id="3334277" tvg-id="AstroSuperSportUHD1.my" tvg-name="MY: LIVE Astro SuperSport Events 1 HD" tvg-logo="" group-title="MALAYSIA",MY: LIVE Astro SuperSport Events 1 HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E4RDA9DNS7NjnzQQLfZIaG4 
+#EXTINF:-1 xui-id="3334276" tvg-id="AstroSuperSport2.my" tvg-name="MY: LIVE Astro SuperSport Events 2 HD" tvg-logo="" group-title="MALAYSIA",MY: LIVE Astro SuperSport Events 2 HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8ExrHRTPg128Eru5wnLyN2Qc 
+#EXTINF:-1 xui-id="3334275" tvg-id="AstroSuperSport3.my" tvg-name="MY: LIVE Astro SuperSport Events 3 HD" tvg-logo="" group-title="MALAYSIA",MY: LIVE Astro SuperSport Events 3 HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-Kw49BXjygskE-aCEbrBNs
+#EXTINF:-1 xui-id="3334305" tvg-id="AstroSuperSport4.my" tvg-name="MY: LIVE Astro SuperSport Events 4 HD" tvg-logo="" group-title="MALAYSIA",MY: LIVE Astro SuperSport Events 4 HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8EwB3zc4-rglvNEuQkrUbPXQ 
+#EXTINF:-1 xui-id="3334301" tvg-id="AstroSupersport5.my" tvg-name="MY: LIVE Astro SuperSport Events 5 HD" tvg-logo="" group-title="MALAYSIA",MY: LIVE Astro SuperSport Events 5 HD
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8EzUXmK-1BEW2YZnwnGfERv0
 
 
 #EXTINF:-1 group-title="DENSTV",ANIPLUS
