@@ -808,7 +808,11 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-Fli7Pc6TChmTFVKhLX89w
 #EXTINF:-1 xui-id="3334167" tvg-id="" tvg-name="MY: Sports SPO TV" tvg-logo="" group-title="MALAYSIA",MY: Sports SPO TV
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E57rOBDrqYTzrCX_cdvPEPA 
 #EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="MALAYSIA",MY: SPOTV
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8ExdY11Vg_5y5G8jFZk2SWKk 
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8ExdY11Vg_5y5G8jFZk2SWKk
+#EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="MALAYSIA",MY: SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+
+
 #EXTINF:-1 xui-id="3334293" tvg-id="AstroArena.my" tvg-name="MY: Arena HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-arena-my.png?raw=true" group-title="MALAYSIA",MY: Arena HD
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E8heXNBVC1r6HEQ5sa9Lb_E 
 #EXTINF:-1 xui-id="3334163" tvg-id="AstroArena2.my" tvg-name="MY: Astro Arena 2" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-arena-my.png?raw=true" group-title="MALAYSIA",MY: Astro Arena 2
