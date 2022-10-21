@@ -713,8 +713,7 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8EwsOHBglAukN2H_cMJBlfDY
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8Eykw41wELwyG03zhyjcuOEU 
 #EXTINF:-1 xui-id="3334213" tvg-id="" tvg-name="MY: CCM" tvg-logo="" group-title="MALAYSIA",MY: CCM
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8ExsKrWOk1_WCmaPGCiH7CFA 
-#EXTINF:-1 xui-id="3334214" tvg-id="CCTV4.my" tvg-name="MY: CCTV4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/CCTV-4_logo_2016.svg/revision/latest/scale-to-width-down/150?cb=20220121005330" group-title="MALAYSIA",MY: CCTV4
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-Fli7Pc6TChmTFVKhLX89w 
+
 #EXTINF:-1 xui-id="3334215" tvg-id="" tvg-name="MY: Celestial" tvg-logo="" group-title="MALAYSIA",MY: Celestial
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E_yK6utQAgc7zBNN5GOrXo4
 #EXTINF:-1 xui-id="3334220" tvg-id="CINEMAX.my" tvg-name="MY: Cinemax" tvg-logo="" group-title="MALAYSIA",MY: Cinemax
@@ -802,6 +801,9 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E01qiCPz_q2QHABRT41QGJc
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E6Ss8GNGlFpNwKxXphLJejM 
 #EXTINF:-1 xui-id="3334304" tvg-id="WWENetwork.my" tvg-name="MY: WWE Network 50fps" tvg-logo="" group-title="MALAYSIA",MY: WWE Network 50fps
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E_Xhn2aDls0LNqwWsAlcUqc
+
+#EXTINF:-1 xui-id="3334214" tvg-id="CCTV4.my" tvg-name="MY: CCTV4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/CCTV-4_logo_2016.svg/revision/latest/scale-to-width-down/150?cb=20220121005330" group-title="MALAYSIA",MY: CCTV4
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-Fli7Pc6TChmTFVKhLX89w 
 
 #EXTINF:-1 xui-id="3334167" tvg-id="" tvg-name="MY: Sports SPO TV" tvg-logo="" group-title="MALAYSIA",MY: Sports SPO TV
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E57rOBDrqYTzrCX_cdvPEPA 
