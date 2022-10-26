@@ -808,7 +808,7 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-Fli7Pc6TChmTFVKhLX89w
 #EXTINF:-1 xui-id="3334167" tvg-id="" tvg-name="MY: Sports SPO TV" tvg-logo="" group-title="MALAYSIA",MY: Sports SPO TV
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E57rOBDrqYTzrCX_cdvPEPA 
 #EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="MALAYSIA",MY: SPOTV
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8ExdY11Vg_5y5G8jFZk2SWKk
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="MALAYSIA",MY: SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
@@ -1877,6 +1877,11 @@ https://stream-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="SPOTV2.kr" tvg-name="SPOTV2" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png" group-title="SPORTS", SpoTV 2 
 https://stream-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="SPORTS", SPOTV Backup
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPOTV2" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png" group-title="SPORTS", SPOTV2 Backup
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1  tvg-id="ext" group-title="SPORTS" tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png",Red Bull TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
