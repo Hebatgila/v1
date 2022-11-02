@@ -23,7 +23,35 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="India MPD", Comedy Central  
+https://cdn-01.toffeelive.com/origin-03/live-origin/smil:comedy_central_hd.smil/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="India MPD", Colors Infinity 
+https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" group-title="India MPD", Sony Pix 
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lZfiSU5.png" group-title="India MPD", Sony Ten 1
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oPiGF4.png" group-title="India MPD", Sony Ten 2
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aI5VvPq.png" group-title="India MPD", Sony Ten 3
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 
 
