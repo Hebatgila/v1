@@ -11,6 +11,14 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png",PARAMOUNT NETWORK 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png",Sony Ten 1
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten1_hd_720&user=ec2ecbd2dcb21b4340ae9704d00007fe
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/115x115/mobile_logo_995268001567842888.png" ,Sony Ten 2
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten2_hd_720&user=ec2ecbd2dcb21b4340ae9704d00007fe
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" ,Sony Ten 3
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten3_hd_720&user=ec2ecbd2dcb21b4340ae9704d00007fe
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png",Sony Six
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_six_hd_720&user=ec2ecbd2dcb21b4340ae9704d00007fe
  
  
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="Malaysia",Animax
