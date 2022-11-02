@@ -3,12 +3,12 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png", Comedy Central  
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:comedy_central_hd.smil/manifest.mpd
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:comedy_central_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png", Colors Infinity 
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
@@ -30,13 +30,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aI5VvPq.png", Sony Ten 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" ,Sony Pix HD
-https://streamer-1.toffeelive.com/?bitrate=512000&channel=sony_pix_720&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" ,Colors Infinity HD
-https://streamer-1.toffeelive.com/?bitrate=512000&channel=colors_infinity_hd_720&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" ,Comedy Central HD
-https://streamer-1.toffeelive.com/?bitrate=512000&channel=comedy_central_hd_720&user=748e920475c8167decb7565f975b6468
 
 
  
