@@ -6,6 +6,11 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png", Sony Pix 
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png",PARAMOUNT NETWORK 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
+
  
  
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="Malaysia",Animax
