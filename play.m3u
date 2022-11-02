@@ -23,10 +23,9 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png",PARAMOUNT NETWORK 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO HD 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd 
 
 
 
