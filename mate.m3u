@@ -1720,6 +1720,24 @@ http://103.22.181.150:8095/nbatv/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="" group-title="SPORTS" tvg-logo="https://cdn.macan.tv/img/nbatv.png", NBA TV 2
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115302
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="AnimalPlanet.id" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" ,ESPN
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/499.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="US: AE" tvg-logo="https://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" ,ESPN2
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/299.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="ABC.au" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" ,Tennis Channel HD
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/102.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ABC.au" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" ,Golf Channel FHD
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/561.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="ABC.au" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" ,NBA TV HD
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/3099.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="ABC.au" tvg-logo="https://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" ,NBA TV HD US
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/243.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - WWE NETWORK
+https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/37435.m3u8
+
+
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
