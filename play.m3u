@@ -8,6 +8,13 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136629
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png",STAR MOVIES SELECT
 http://humiptv.live:8080//live/500757885/3356646354/98843.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/sonypixhd.jpg" group-title="",SONY PIX HD
+http://103.55.144.46/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/movies-now.jpg" group-title="",MOVIES NOW
+http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/starmovies.jpg" group-title="",STAR MOVIES
+http://103.55.144.46/hls/starmovies.m3u8
+
 
 #EXTINF:-1  ,民視第一台
 http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab	
