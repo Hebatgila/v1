@@ -676,24 +676,134 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136588
 
 <------ Malaysia Temp -------->
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="008" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" tvg-url="",TV8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1 group-title="MALAYSIA",MY - TV 3
+#EXTINF:-1 group-title="Malaysia",MY - TV 3
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40761
-#EXTINF:-1 group-title="MALAYSIA",MY - TV 9
+#EXTINF:-1 group-title="Malaysia",MY - TV 9
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40765
-#EXTINF:-1 group-title="MALAYSIA",MY - Tv8
+#EXTINF:-1 group-title="Malaysia",MY - Tv8
 http://198.16.64.10:8278/TV8/playlist.m3u8?tid=m10d07a0c1af6&ct=19199&tsum=b60d75956fc9bf6276a3b7efadba36dd
-#EXTINF:-1 group-title="MALAYSIA",MY - SUKAN
+#EXTINF:-1 group-title="Malaysia",MY - SUKAN
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",MY - OKEY
+#EXTINF:-1 group-title="Malaysia",MY - OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Jackie Chan 24/7
+#EXTINF:-1 group-title="Malaysia",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-#EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="MALAYSIA",MY: SPOTV
+#EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="Malaysia",MY: SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="MALAYSIA",MY: SPOTV2
+#EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="Malaysia",MY: SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="Malaysia",Animax
+http://iptvtree.net:8080/F11682/82ca5fbd/157486
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 352" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/155c7f6218bc961655043e2ca0266354.png" group-title="Malaysia",Astro AOD 352
+http://iptvtree.net:8080/F11682/82ca5fbd/247411
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 354" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/bc43d98ee1b43a6639c118d61bbbd5a8.png" group-title="Malaysia",Astro AOD 354
+http://iptvtree.net:8080/F11682/82ca5fbd/247413
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="Malaysia",Astro Arena
+http://iptvtree.net:8080/F11682/82ca5fbd/157485
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="Malaysia",Astro Arena 2
+http://iptvtree.net:8080/F11682/82ca5fbd/287793
+#EXTINF:-1 tvg-id="" tvg-name="Astro Aura" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/8a7da6b01b1d3530bd1b1d4d4bcc8a4e.png" group-title="Malaysia",Astro Aura
+http://iptvtree.net:8080/F11682/82ca5fbd/171986
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="Malaysia",Astro Awani
+http://iptvtree.net:8080/F11682/82ca5fbd/157478
+#EXTINF:-1 tvg-id="" tvg-name="Astro BollyOne" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3308bb950dc48a11355c53f0fa70d852.jpg" group-title="Malaysia",Astro BollyOne
+http://iptvtree.net:8080/F11682/82ca5fbd/264513
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a52767c0cbab7a73d4554f002abe4b31.png" group-title="Malaysia",Astro Ceria
+http://iptvtree.net:8080/F11682/82ca5fbd/157481
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="Malaysia",Astro Cricket
+http://iptvtree.net:8080/F11682/82ca5fbd/157565
+#EXTINF:-1 tvg-id="" tvg-name="Astro Oasis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="Malaysia",Astro Oasis
+http://iptvtree.net:8080/F11682/82ca5fbd/157489
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="Malaysia",Astro Prima
+http://iptvtree.net:8080/F11682/82ca5fbd/157467
+#EXTINF:-1 tvg-id="" tvg-name="Astro Quan Jia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f2e0dcb85160dffc09ab3900def518ec.jpg" group-title="Malaysia",Astro Quan Jia
+http://iptvtree.net:8080/F11682/82ca5fbd/247427
+#EXTINF:-1 tvg-id="" tvg-name="Astro Rania" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d01eb638b6f5a8c629f379e314e1b39f.png" group-title="Malaysia",Astro Rania
+http://iptvtree.net:8080/F11682/82ca5fbd/171984
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",Astro SuperSport 1
+http://iptvtree.net:8080/F11682/82ca5fbd/146068
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Malaysia",Astro SuperSport 2
+http://iptvtree.net:8080/F11682/82ca5fbd/157556
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia",Astro SuperSport 3
+http://iptvtree.net:8080/F11682/82ca5fbd/157557
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia",Astro SuperSport 4
+http://iptvtree.net:8080/F11682/82ca5fbd/157558
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vaanavil" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="Malaysia",Astro Vaanavil
+http://iptvtree.net:8080/F11682/82ca5fbd/201163
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a299dfa8e82be635478b91adb6e042ac.png" group-title="Malaysia",Astro Warna
+http://iptvtree.net:8080/F11682/82ca5fbd/157492
+#EXTINF:-1 tvg-id="" tvg-name="Astro Xiao Tai Yang" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fa7dae21ca0a660204573e4d010232ab.png" group-title="Malaysia",Astro Xiao Tai Yang
+http://iptvtree.net:8080/F11682/82ca5fbd/201164
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="Malaysia",AXN
+http://iptvtree.net:8080/F11682/82ca5fbd/157542
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="Malaysia",BBC Earth
+http://iptvtree.net:8080/F11682/82ca5fbd/171979
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Malaysia",beIN Sports
+http://iptvtree.net:8080/F11682/82ca5fbd/157561
+#EXTINF:-1 tvg-id="" tvg-name="Bernama TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5e74e05594b34f529cc9a9d9fbabaf80.png" group-title="Malaysia",Bernama TV
+http://iptvtree.net:8080/F11682/82ca5fbd/264517
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/602e805f1abfd464565db600ffd3f028.png" group-title="Malaysia",Bloomberg
+http://iptvtree.net:8080/F11682/82ca5fbd/157533
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="Malaysia",Boomerang
+http://iptvtree.net:8080/F11682/82ca5fbd/171955
+#EXTINF:-1 tvg-id="" tvg-name="BWF TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/59c3aa965b09e05fcc607180a2f6fb6b.jpeg" group-title="Malaysia",BWF TV
+http://iptvtree.net:8080/F11682/82ca5fbd/296415
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a7cade7a3700c5c7d88753cb096305ae.png" group-title="Malaysia",Cartoon Network
+http://iptvtree.net:8080/F11682/82ca5fbd/174684
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="Malaysia",Celestial Movies
+http://iptvtree.net:8080/F11682/82ca5fbd/174687
+#EXTINF:-1 tvg-id="" tvg-name="Chutti TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/1c9b69fbcb7cd3e547ae2cda56ae5d61.png" group-title="Malaysia",Chutti TV
+http://iptvtree.net:8080/F11682/82ca5fbd/157495
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c6d817ea4450f1c8bd16fcea4bcf4002.png" group-title="Malaysia",Cinema World
+http://iptvtree.net:8080/F11682/82ca5fbd/171956
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/723d09a6f3136564ee96557231a747bb.png" group-title="Malaysia",Cinemax
+http://iptvtree.net:8080/F11682/82ca5fbd/157519
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/1251197f98fec5c3ed880cccc9e71137.png" group-title="Malaysia",CNBC Asia
+http://iptvtree.net:8080/F11682/82ca5fbd/157529
+#EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="Malaysia",Crime+ Investigation
+http://iptvtree.net:8080/F11682/82ca5fbd/157554
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="Malaysia",Discovery Science
+http://iptvtree.net:8080/F11682/82ca5fbd/157530
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/451dbdd3fbdd722d2ca3c1b4ba7ada36.png" group-title="Malaysia",Disney XD
+http://iptvtree.net:8080/F11682/82ca5fbd/157544
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/2f04ded06f1bd6b096bd29a4cb899750.png" group-title="Malaysia",DMAX
+http://iptvtree.net:8080/F11682/82ca5fbd/158351
+#EXTINF:-1 tvg-id="" tvg-name="Egg Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/4ffb0c9edc5497748d07145b50118c10.png" group-title="Malaysia",Egg Network
+http://iptvtree.net:8080/F11682/82ca5fbd/157484
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6ca471ab3849dccf46c8cf9be5e74478.png" group-title="Malaysia",Food Network
+http://iptvtree.net:8080/F11682/82ca5fbd/196454
+#EXTINF:-1 tvg-id="" tvg-name="GO SHOP" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2e10818ae32a06e6561f9dd7d5f6b12d.png" group-title="Malaysia",GO SHOP
+http://iptvtree.net:8080/F11682/82ca5fbd/264511
+#EXTINF:-1 tvg-id="" tvg-name="HGTV Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png" group-title="Malaysia",HGTV Asia
+http://iptvtree.net:8080/F11682/82ca5fbd/157553
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="Malaysia",Hits
+http://iptvtree.net:8080/F11682/82ca5fbd/157545
+#EXTINF:-1 tvg-id="" tvg-name="HITS Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="Malaysia",HITS Movies
+http://iptvtree.net:8080/F11682/82ca5fbd/157477
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/96d8df7f3f6a3d31fe225eab91595305.png" group-title="Malaysia",NAT GEO Wild
+http://iptvtree.net:8080/F11682/82ca5fbd/174724
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="Malaysia",Nick Junior
+http://iptvtree.net:8080/F11682/82ca5fbd/157546
+#EXTINF:-1 tvg-id="" tvg-name="NTV 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png" group-title="Malaysia",NTV 7
+http://iptvtree.net:8080/F11682/82ca5fbd/174695
+#EXTINF:-1 tvg-id="" tvg-name="ONE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/0197f691d3ea49bd01cf9f65fec92ec5.png" group-title="Malaysia",ONE
+http://iptvtree.net:8080/F11682/82ca5fbd/158349
+#EXTINF:-1 tvg-id="" tvg-name="RTM TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" group-title="Malaysia",RTM TV 1
+http://iptvtree.net:8080/F11682/82ca5fbd/158357
+#EXTINF:-1 tvg-id="" tvg-name="RTM TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="Malaysia",RTM TV 2
+http://iptvtree.net:8080/F11682/82ca5fbd/158355
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/fe3bd16f91a47fe0d146bc0bd778dcd3.jpg" group-title="Malaysia",TLC
+http://iptvtree.net:8080/F11682/82ca5fbd/157483
+#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="Malaysia",TV 3
+http://iptvtree.net:8080/F11682/82ca5fbd/158360
+#EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" group-title="Malaysia",TV 9
+http://iptvtree.net:8080/F11682/82ca5fbd/171953
+#EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6565f78da7926feade32fc9651446d1e.png" group-title="Malaysia",TV Alhijrah
+http://iptvtree.net:8080/F11682/82ca5fbd/157491
+#EXTINF:-1 tvg-id="" tvg-name="TVB Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4c189d4037c8e205aa5ef38b968cbf69.png" group-title="Malaysia",TVB Classic
+http://iptvtree.net:8080/F11682/82ca5fbd/157510
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="Malaysia",Warner TV
+http://iptvtree.net:8080/F11682/82ca5fbd/157550
 
 
 
