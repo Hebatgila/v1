@@ -1,20 +1,13 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Sony Pix" tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/XvZArCU.png",Sony Pix
-http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
 
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="https://i.imgur.com/AJbFTSr.png",Star Movies HD IN
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136629
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="LIVE MOVIES", Star Movies 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142744
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png",STAR MOVIES SELECT
-http://humiptv.live:8080//live/500757885/3356646354/98843.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png" group-title="LIVE MOVIES", Star Movies Select 
+https://tinyurl.com/5yuck29y
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/sonypixhd.jpg" group-title="",SONY PIX HD
-http://103.55.144.46/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/movies-now.jpg" group-title="",MOVIES NOW
-http://103.55.144.46/hls/movies-now.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/starmovies.jpg" group-title="",STAR MOVIES
-http://103.55.144.46/hls/starmovies.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" group-title="LIVE MOVIES", Sony Pix 
+http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1  ,民視第一台
 http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab	
