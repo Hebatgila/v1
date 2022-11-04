@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1  ,民視第一台
+http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab	
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
