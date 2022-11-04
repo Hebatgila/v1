@@ -1117,6 +1117,31 @@ https://live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 https://live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png" group-title="MOVIES",HBO (BKP)
+https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png" group-title="MOVIES",HBO FAMILY (BKP)
+https://anevia114.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png" group-title="MOVIES",HBO SIGNATURE (BKP)
+https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png" group-title="MOVIES",HBO HITS (BKP)
+https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png" group-title="MOVIES",CINEMAX (BKP)
+https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://www.useetv.com/pimages/logo_galaxy_small.png" group-title="MOVIES",Galaxy HD
 https://live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
@@ -2088,85 +2113,6 @@ https://live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mp
 #EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/ccm.png" group-title="Taiwan|China",Celestial Classic Movies
 https://live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 group-title="Taiwan|China" tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" ,民視FTVHD
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 group-title="Taiwan|China" tvg-logo="https://img.itver.cc/tv/FMTV.jpg" ,民視FTVOneHD
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 group-title="Taiwan|China" tvg-logo="https://www.ftv.com.tw/technology-x/images/ch_logo_one.png" ,民視FTVTwnHD
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 group-title="Taiwan|China" tvg-logo="http://masmiri.50webs.com/FTVshows.jpg" ,民視FTVShows
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 group-title="Taiwan|China" tvg-logo="http://masmiri.50webs.com/FTVmovies.jpg" ,民視FTVMovies
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 group-title="Taiwan|China" tvg-logo="http://masmiri.50webs.com/FTV Travel.jpg" ,民視旅遊Travel
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 group-title="Taiwan|China",大爱一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8 
-#EXTINF:-1 group-title="Taiwan|China",大爱二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-
-
-#EXTINF:-1 group-title="Taiwan|China",中天美食旅游
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-#EXTINF:-1 group-title="Taiwan|China",中天全民最大党
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-#EXTINF:-1 group-title="Taiwan|China",亚洲旅游台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-#EXTINF:-1 group-title="Taiwan|China",人间卫视
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-#EXTINF:-1 group-title="Taiwan|China",公视戏剧
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-#EXTINF:-1 group-title="Taiwan|China",华语戏剧台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-#EXTINF:-1 group-title="Taiwan|China",华语综艺台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-#EXTINF:-1 group-title="Taiwan|China",客家电视台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-#EXTINF:-1 group-title="Taiwan|China",寰宇新闻台
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-#EXTINF:-1 group-title="Taiwan|China",新唐人亚太台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-#EXTINF:-1 group-title="Taiwan|China",时尚运动X
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-#EXTINF:-1 group-title="Taiwan|China",智林体育台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
-#EXTINF:-1 group-title="Taiwan|China",民视
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-#EXTINF:-1 group-title="Taiwan|China",民视台湾台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-#EXTINF:-1 group-title="Taiwan|China",民视影剧台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-#EXTINF:-1 group-title="Taiwan|China",民视旅游台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-#EXTINF:-1 group-title="Taiwan|China",民视第一台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-#EXTINF:-1 group-title="Taiwan|China",民视综艺台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-#EXTINF:-1 group-title="Taiwan|China",滚动力rollor
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-#EXTINF:-1 group-title="Taiwan|China",爱尔达生活旅游台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
-#EXTINF:-1 group-title="Taiwan|China",猪哥亮歌厅秀
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-#EXTINF:-1 group-title="Taiwan|China",精选动漫台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-#EXTINF:-1 group-title="Taiwan|China",经典卡通台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-#EXTINF:-1 group-title="Taiwan|China",经典电影台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-#EXTINF:-1 group-title="Taiwan|China",金光布袋戏
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-#EXTINF:-1 group-title="Taiwan|China",ELTV生活英语台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-#EXTINF:-1 group-title="Taiwan|China",LUXE TV
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-#EXTINF:-1 group-title="Taiwan|China",LiveABC互动英语
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-#EXTINF:-1 group-title="Taiwan|China",MOMO亲子台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-#EXTINF:-1 group-title="Taiwan|China",SBN全球财经台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Kix.hk" tvg-name="KIX" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/kix.png" group-title="Taiwan|China",KIX
@@ -2177,24 +2123,20 @@ https://live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/anhuitv.png" group-title="Taiwan|China",Anhui TV
 https://live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/hunantv.png" group-title="Taiwan|China",Hunan TV
 https://live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/dragontv.png" group-title="Taiwan|China",Dragon TV
 https://live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jiangsutv.png" group-title="Taiwan|China",Jiangsu TV
 https://live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -2202,10 +2144,17 @@ https://live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 https://live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTINF:-1 group-title="Taiwan|China",Phoenix
-http://rr2.dens.tv/s/s21/index.m3u8
+http://210.210.155.35/qwr9ew/s/s21/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="Taiwan|China",TDM Macau
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png" group-title="Taiwan|China" ,民視第一台
+http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab	
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png" group-title="Taiwan|China",民視第一台 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsdy_BzIPTV_4K
 
 #EXTINF:-1 group-title="Taiwan|China" ,  爆笑虫子
 http://txtest-xp2p.p2p.huya.com/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
@@ -2278,211 +2227,7 @@ http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=1
 #EXTINF:-1 group-title="Taiwan|China",LS TIME(龙祥时代)
 http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 
-#EXTINF:-1 group-title="Taiwan|China",金鹰纪实HD
-http://117.148.179.157/PLTV/88888888/224/3221231582/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",南方卫视(省内)
-http://117.148.179.147/PLTV/88888888/224/3221231661/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",CHC家庭影院
-http://117.148.179.157/PLTV/88888888/224/3221231799/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",CHC动作电影
-http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",CETV-3
-http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",CETV-1
-http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",CETV-2
-http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",CETV-4
-http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",MIGU刘德华影院
-http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",MIGU试胆大会
-http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",MIGU葛优作品集
-http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",MIGU僵尸剧场
-http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",MIGU成龙作品集
-http://117.148.179.134/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",风云剧场
-http://117.148.179.162/TVOD/88888888/224/3221231604/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",CHC动作电影
-http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",四川卫视
-http://117.148.179.142/TVOD/88888888/224/3221231885/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",山东卫视
-http://117.148.179.137/TVOD/88888888/224/3221227909/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",江苏卫视
-http://117.148.179.175/TVOD/88888888/224/3221231447/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",黑龙江卫视
-http://117.148.179.162/TVOD/88888888/224/3221231520/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",广东卫视
-http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",TVB
-http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",港片国语720p
-http://117.148.179.163/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",神探狄仁杰
-http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",追剧少女
-http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",KiD影院4
-http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",KiD影院5
-http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",KiD影院7
-http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",古天乐影院
-http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",周润发影院
-http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",张国荣影院
-http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",成龙作品集
-http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",湖北卫视
-http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China",天津卫视
-http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
 
-#EXTINF:-1 group-title="Taiwan|China" ,视
-http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,江苏卫视
-http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,浙江卫视
-http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,广东卫视
-http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,北京卫视
-http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,天津卫视
-http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,山东卫视
-http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,湖北卫视
-http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,黑龙江卫
-http://117.148.179.141/PLTV/88888888/224/3221231967/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,安徽卫视
-http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,辽宁卫视
-http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,江西卫
-http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,四川卫视
-http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,河北卫视
-http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,贵州卫视
-http://117.148.179.160/PLTV/88888888/224/3221231676/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,山西卫视
-http://117.148.179.169/PLTV/88888888/224/3221231444/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,东南卫视
-http://117.148.179.160/PLTV/88888888/224/3221231414/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,青海卫视
-http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,云南卫视
-http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,河南卫视
-http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,陕西卫
-http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,吉林卫视
-http://117.148.179.164/PLTV/88888888/224/3221231472/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,广西卫视
-http://117.148.179.164/PLTV/88888888/224/3221231600/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,内蒙古卫视
-http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,宁夏卫视
-http://117.148.179.160/PLTV/88888888/224/3221231441/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,甘肃卫视
-http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,重庆卫视
-http://117.148.179.155/PLTV/88888888/224/3221231508/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,新疆卫视
-http://117.148.179.183/PLTV/88888888/224/3221231451/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,兵团卫视
-http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8
-EXTINF:-1 group-title="Taiwan|China" ,厦门卫视
-http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,บอล PP体育
-http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,ตกปลา 四海钓鱼
-http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,影视1
-http://117.148.179.163/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,影视2
-http://117.148.179.163/PLTV/88888888/224/3221231727/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,影视3
-http://117.148.179.163/PLTV/88888888/224/3221231763/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,影视4
-http://117.148.179.163/PLTV/88888888/224/3221231787/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,电影院
-http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,周润发
-http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,周星驰
-http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,成龙
-http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,张国荣
-http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,郭富城
-http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,吴京
-http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,刘德华
-http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,杨幂
-http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,刘亦菲
-http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,古天乐
-http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,金庸作品
-http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,古龙作品
-http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,喜剧联盟
-http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,高分影院
-http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,怀旧老片
-http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,午夜剧场
-http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,殭尸剧场
-http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,TVB剧场
-http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,新片放映厅
-http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,盗墓
-http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,试胆大会
-http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,高能烧脑时刻
-http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,4K剧场
-http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,爱情公寓
-http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,军旅剧场
-http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,SNH48剧场公演
-http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,少林剧场
-http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,黄金剧场
-http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,追剧少女
-http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,经典贺岁片
-http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,每日荐影
-http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
-#EXTINF:-1 group-title="Taiwan|China" ,侠剧场
-http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 
 <------ VSHHD -------->
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="VSHHD ROMANIA",VSVHD_DeepMusic
