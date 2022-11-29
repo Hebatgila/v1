@@ -2564,29 +2564,9 @@ http://176.9.17.76:7080/live/stream/8dl627dwai/41.ts?shareext.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN:Sony Pix" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="SHAREEXT@馃摵India",Sony Pix
-http://185.71.66.45:88/220263509778434/220263509778434/1926
-#EXTINF:-1 tvg-id="" tvg-name="IN:Star Movies" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="SHAREEXT@馃摵India",StarMovies
-http://185.71.66.45:88/220263509778434/220263509778434/1955
-#EXTINF:-1 tvg-id="" tvg-name="IN:Zee Cafe" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="SHAREEXT@馃摵India",Zee Cafe
-http://185.71.66.45:88/220263509778434/220263509778434/1940
-#EXTINF:-1 tvg-id="" tvg-name="IN:Colores Infinity" tvg-logo="http://logo.ndasat.com/iptv/images/63353_Discovery2.jpg" group-title="SHAREEXT@馃摵India",Colores Infinity
-http://185.71.66.45:88/220263509778434/220263509778434/1949
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV_5
 http://60.10.167.88:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV_5+
 http://60.10.167.88:808/hls/17/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",MBC_korea
-http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",VTV5_vietnam
-http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",VTV6_vietnam
-http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",SCTV
-https://02ip.ru/sctv?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ASTRO_LIVE
-https://02ip.ru/astro?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",INDOSIAR
-https://02ip.ru/indosiar?shareext.ts
