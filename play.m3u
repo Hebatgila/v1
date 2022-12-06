@@ -17,12 +17,15 @@ https://live.astradamy.com/viutv/index.m3u8
 #EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/200px-ViuTVsix-logo.svg.png",Viu TV 6
 https://live.astradamy.com/viutv6/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" tvg-logo="https://daai.tv/images/logo.png",Daai TV 1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TVB_logo.svg/revision/latest/scale-to-width-down/250?cb=20220217023951",TVB Fc
+https://live.astradamy.com/tvbfc/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" tvg-logo="https://daai.tv/images/logo.png",Daai TV 2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-https://skyios.sky4k.top/DAT_002/playlist.m3u8?auth=Astra&Time=0422022
+#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/B55FD111-11A0-47A5-8E29-B160EC5C26DA.png/revision/latest/scale-to-width-down/184?cb=20200416054524",TVB J2
+https://live.astradamy.com/tvbj2/index.m3u8
+
+#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png/revision/latest/scale-to-width-down/299?cb=20171102192504",TVB Pearl
+https://live.astradamy.com/tvbpearl/index.m3u8
+
 
 #EXTINF:-1 group-title="🇨🇳",亞洲旅遊台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
