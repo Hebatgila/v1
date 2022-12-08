@@ -650,9 +650,33 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40761
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40765
 #EXTINF:-1 group-title="Malaysia",MY - Tv8
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40766
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="Malaysia",Astro Ceria
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142672
+#EXTINF:-1,MY: Astro AOD 352
+http://iptvtree.net:8080/adastream/8289548ca0/247411
+#EXTINF:-1,MY: Astro AOD 354
+http://iptvtree.net:8080/adastream/8289548ca0/247413
 
+#EXTINF:-1,MY: Astro Ta-Daa!
+http://iptvtree.net:8080/adastream/8289548ca0/290510
+#EXTINF:-1,MY: Astro Ceria
+http://iptvtree.net:8080/adastream/8289548ca0/157481
+#EXTINF:-1,MY: Astro Xiao Tai Yang
+http://iptvtree.net:8080/adastream/8289548ca0/201164
+#EXTINF:-1,MY: Astro CTI Asia
+http://iptvtree.net:8080/adastream/8289548ca0/264515
+#EXTINF:-1,MY: ASTRO iQIYI
+http://iptvtree.net:8080/adastream/8289548ca0/290508
+
+#EXTINF:-1,MY: Astro Prima
+http://iptvtree.net:8080/adastream/8289548ca0/157467
+#EXTINF:-1,MY: Astro Quanjia
+http://iptvtree.net:8080/adastream/8289548ca0/247427
+#EXTINF:-1,MY: Astro Rania
+http://iptvtree.net:8080/adastream/8289548ca0/171984
+
+#EXTINF:-1,MY: Astro Arena
+http://iptvtree.net:8080/adastream/8289548ca0/157485
+#EXTINF:-1,MY: Astro Arena 2
+http://iptvtree.net:8080/adastream/8289548ca0/287793
 #EXTINF:-1 group-title="Malaysia",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 #EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="Malaysia", MY - SPOTV
@@ -676,39 +700,29 @@ http://iptvtree.net:8080/ace2524d/773dbded1a/157557
 #EXTINF:-1 group-title="Malaysia",MY - Astro SuperSport 4
 http://iptvtree.net:8080/ace2524d/773dbded1a/157558
 
-
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/d19kCGyG/download-5.png",Colors Infinity HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/98879.ts
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/d0ZHS7Hx/download.png",COMEDY CENTRAL HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/186.ts
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/hPzJb7LM/wynEFca.jpg",Sony Pix HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/98846.ts
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/98842.ts
-
-#EXTINF:-1 group-title="WCCUP SPORTS", Bein Sport MAX 1  HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/128225.ts
-#EXTINF:-1 group-title="WCCUP SPORTS",Bein Sport MAX 2  HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/128228.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", BEIN SPORTS MAX 3 (ENG)
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/129499.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", BEIN SPORTS MAX 4 (ENG)
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/129500.ts
-
-
-#EXTINF:-1 group-title="WCCUP SPORTS",|CA| TSN 1 | HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1565.ts
-#EXTINF:-1 group-title="WCCUP SPORTS",|CA| TSN 2 | HD
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1566.ts
 #EXTINF:-1 group-title="WCCUP SPORTS",CA: TSN 1 iptvree
 http://iptvtree.net:8080/ace2524d/773dbded1a/770
 #EXTINF:-1 group-title="WCCUP SPORTS",CA: TSN 2 iptvree
 http://iptvtree.net:8080/ace2524d/773dbded1a/771
 
-#EXTINF:-1 group-title="WCCUP SPORTS", USA: Fox Sport 1 HD (FS1)
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/54.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", USA: Fox Sport 2 HD (FS2)
-http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 1 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 2 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 3 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 4 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
+
+#EXTINF:-1 group-title="WCCUP SPORTS",QA: beIN Sports Max 1
+http://iptvtree.net:8080/adastream/8289548ca0/296991
+#EXTINF:-1 group-title="WCCUP SPORTS",QA: beIN Sports Max 2
+http://iptvtree.net:8080/adastream/8289548ca0/199001
+#EXTINF:-1 group-title="WCCUP SPORTS",QA: beIN Sports Max 3
+http://iptvtree.net:8080/adastream/8289548ca0/296992
+#EXTINF:-1 group-title="WCCUP SPORTS",QA: beIN Sports Max 4
+http://iptvtree.net:8080/adastream/8289548ca0/13813
+
 
 
 
