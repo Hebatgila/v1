@@ -53,9 +53,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVERSAL KIDS HD**" tvg-logo="https://i.picasion.com/pic92/345e925ab8352a56c797896c3443766b.gif" group-title="DIRECTV USA (HD)",USA| UNIVERSAL KIDS HD**
-http://iptvglobal.site:25461/LionTv/r1942G22hz/87960
 #EXTINF:-1 tvg-id="" tvg-name="USA| PBS KIDS HD" tvg-logo="http://iptvglobal.site:25461/images/4a9adc3ecdbc4a60e0cc33a7ec4dfc1a.png" group-title="DIRECTV USA (HD)",USA| PBS KIDS HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87961
 #EXTINF:-1 tvg-id="" tvg-name="USA| NICKELODEON HD" tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif" group-title="DIRECTV USA (HD)",USA| NICKELODEON HD
@@ -77,6 +74,53 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/87972
 
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="https://i.picasion.com/pic92/c97ddae425bdcb2b1a69d1a8ee87da4a.gif" group-title="DIRECTV USA (HD)",USA | USA Network
 http://iptvglobal.site:25461/LionTv/r1942G22hz/96384
+#EXTINF:-1 tvg-id="" tvg-name="USA| SYFY HD" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="DIRECTV USA (HD)",USA| SYFY HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87925
+#EXTINF:-1 tvg-id="" tvg-name="USA| TRUTV HD" tvg-logo="https://i.picasion.com/pic92/30179d683077a217f550e144c8124a52.gif" group-title="DIRECTV USA (HD)",USA| TRUTV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87926
+#EXTINF:-1 tvg-id="" tvg-name="USA| FYI HD" tvg-logo="http://iptvglobal.site:25461/images/825e283b29409a5493f1905ce2f20afa.png" group-title="DIRECTV USA (HD)",USA| FYI HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87929
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOOD NETWORK HD" tvg-logo="https://i.picasion.com/pic92/3a27cefe3209fd0821b566cb299be0ea.gif" group-title="DIRECTV USA (HD)",USA| FOOD NETWORK HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87931
+#EXTINF:-1 tvg-id="" tvg-name="USA| DIY PREMIUN HD" tvg-logo="https://i.picasion.com/pic92/91313ae2d5fb0dfc1c96a71fe1af41c5.gif" group-title="DIRECTV USA (HD)",USA| DIY PREMIUN HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87932
+#EXTINF:-1 tvg-id="" tvg-name="USA| OWN CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/bf5d38b0f57dd11a4771eb0803677f36.gif" group-title="DIRECTV USA (HD)",USA| OWN CHANNEL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87933
+#EXTINF:-1 tvg-id="" tvg-name="USA| MAVTV HD" tvg-logo="https://i.picasion.com/pic92/03cbcf6811cda4962f9e7f5b560b0058.gif" group-title="DIRECTV USA (HD)",USA| MAVTV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87937
+#EXTINF:-1 tvg-id="" tvg-name="USA| FREEFORM HD" tvg-logo="https://i.picasion.com/pic92/0ea7e43a12b1fbfb2f2b4d455faae55c.gif" group-title="DIRECTV USA (HD)",USA| FREEFORM HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87938
+#EXTINF:-1 tvg-id="" tvg-name="USA| PARAMOUNT CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/d2ad21dfb131192cce0fc5ec487d5a28.gif" group-title="DIRECTV USA (HD)",USA| PARAMOUNT CHANNEL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87942
+#EXTINF:-1 tvg-id="" tvg-name="USA| FXX HD" tvg-logo="https://i.picasion.com/pic92/adede37edc0c7aafc43d02d7f2fe19d5.gif" group-title="DIRECTV USA (HD)",USA| FXX HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87943
+#EXTINF:-1 tvg-id="" tvg-name="USA| FXM HD" tvg-logo="https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif" group-title="DIRECTV USA (HD)",USA| FXM HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87944
+#EXTINF:-1 tvg-id="" tvg-name="USA| TNT HD" tvg-logo="https://i.picasion.com/pic92/480962e456395c08a01e4a365746dd7b.gif" group-title="DIRECTV USA (HD)",USA| TNT HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87945
+#EXTINF:-1 tvg-id="" tvg-name="USA| TNT HD *" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="DIRECTV USA (HD)",USA| TNT HD *
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87946
+#EXTINF:-1 tvg-id="" tvg-name="USA| PBS HD" tvg-logo="https://i.picasion.com/pic92/20defe0d40e7a803399be0ace16989d2.gif" group-title="DIRECTV USA (HD)",USA| PBS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87947
+#EXTINF:-1 tvg-id="" tvg-name="USA| CW HD" tvg-logo="http://iptvglobal.site:25461/images/1ef7283976a7a9660048dbc7ccf64d09.png" group-title="DIRECTV USA (HD)",USA| CW HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87948
+#EXTINF:-1 tvg-id="" tvg-name="USA| THE BLAZE HD" tvg-logo="http://iptvglobal.site:25461/images/1db0872350cde56eac93f837e1d29ab8.png" group-title="DIRECTV USA (HD)",USA| THE BLAZE HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87951
+
+#EXTINF:-1 tvg-id="" tvg-name="USA| HALMMAR  HD" tvg-logo="https://www.netclipart.com/pp/m/206-2061729_hallmark-logo-png-hallmark-christmas-movies-svg.png" group-title="DIRECTV USA (HD)",USA| HALLMARK  HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87953
+#EXTINF:-1 tvg-id="" tvg-name="USA| TBS HD" tvg-logo="https://i.picasion.com/pic92/217a8e21effcbbe222bea68403185347.gif" group-title="DIRECTV USA (HD)",USA| TBS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87954
+#EXTINF:-1 tvg-id="" tvg-name="USA| SUNDANCE HD" tvg-logo="http://iptvglobal.site:25461/images/e633489f5fd2e12c6de496e5f9ffa75a.png"group-title="DIRECTV USA (HD)",USA| SUNDANCE HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87955
+#EXTINF:-1 tvg-id="" tvg-name="USA| BRAVO TV HD" tvg-logo="http://iptvglobal.site:25461/images/3ff76bf8f5b46a8b0165b89ca48631a5.png" group-title="DIRECTV USA (HD)",USA| BRAVO TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87959
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="https://i.picasion.com/pic92/c97ddae425bdcb2b1a69d1a8ee87da4a.gif" group-title="DIRECTV USA (HD)",USA | USA Network
+http://iptvglobal.site:25461/LionTv/r1942G22hz/96384
+#EXTINF:-1 tvg-id="" tvg-name="USA| SYFY WEST HD**" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="DIRECTV USA (HD)",USA| SYFY WEST HD**
+http://iptvglobal.site:25461/LionTv/r1942G22hz/103983
+#EXTINF:-1 tvg-id="" tvg-name="USA| OXIGEN HD**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="DIRECTV USA (HD)",USA| OXIGEN HD**
+http://iptvglobal.site:25461/LionTv/r1942G22hz/103984
 
 #EXTINF:-1 tvg-id="" tvg-name="SKYUS:BRAVO (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:BRAVO (W)
 http://iptvglobal.site:25461/LionTv/r1942G22hz/129590
@@ -94,18 +138,11 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/129599
 http://iptvglobal.site:25461/LionTv/r1942G22hz/129605
 #EXTINF:-1 tvg-id="" tvg-name="SKYUS:BRAVO WEST" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:BRAVO WEST
 http://iptvglobal.site:25461/LionTv/r1942G22hz/129606
-#EXTINF:-1 tvg-id="" tvg-name="SKYUS:CARTOON NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:CARTOON NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:ADULTSWIM
 http://iptvglobal.site:25461/LionTv/r1942G22hz/129607
 #EXTINF:-1 tvg-id="" tvg-name="SKYUS:COMEDY CENTRAL EAST" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:COMEDY CENTRAL EAST
 http://iptvglobal.site:25461/LionTv/r1942G22hz/129608
-#EXTINF:-1 tvg-id="" tvg-name="SKYUS:COMEDY CENTRAL | HD*" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:COMEDY CENTRAL | HD*
-http://iptvglobal.site:25461/LionTv/r1942G22hz/129609
-#EXTINF:-1 tvg-id="" tvg-name="SKYUS:DISCOVERY FAMILY | HD*" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:DISCOVERY FAMILY | HD*
-http://iptvglobal.site:25461/LionTv/r1942G22hz/129611
-#EXTINF:-1 tvg-id="" tvg-name="SKYUS:DISCOVERY SCIENCE | HD" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:DISCOVERY SCIENCE | HD
-http://iptvglobal.site:25461/LionTv/r1942G22hz/129612
-#EXTINF:-1 tvg-id="" tvg-name="SKYUS:DISCOVERY LIFE" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:DISCOVERY LIFE
-http://iptvglobal.site:25461/LionTv/r1942G22hz/129614
+
 #EXTINF:-1 tvg-id="" tvg-name="SKYUS:E! ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:E! ENTERTAINMENT
 http://iptvglobal.site:25461/LionTv/r1942G22hz/129618
 #EXTINF:-1 tvg-id="" tvg-name="SKYUS:FOOD NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FOOD NETWORK
@@ -165,38 +202,9 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/129651
 #EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE STARZ KIDS & FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1200px-Starz_Kids_%26_Family_logo.svg.png" group-title="ENGLISH CINEMA (FHD)",USA| VIP MOVIE STARZ KIDS & FAMILY HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/119963
 
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : AMC" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : AMC
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131016
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : EPIX HITS" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : EPIX HITS
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131017
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : CINEMAX WEST" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : CINEMAX WEST
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131018
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : SHOTIME WOMAN" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : SHOTIME WOMAN
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131019
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : SHOTIME SHOWCASE" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : SHOTIME SHOWCASE
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131020
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : SHOTIME 2" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : SHOTIME 2
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131021
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : HBO MAX" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : HBO MAX
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131022
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : HBO FAMILY" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : HBO FAMILY
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131023
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : HBO ZONE" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : HBO ZONE
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131024
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : VIP STARZ" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : VIP STARZ
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131025
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : STARZ KIDS & FAMILY" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : STARZ KIDS & FAMILY
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131026
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : STARZ ENCORE BLACK" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : STARZ ENCORE BLACK
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131027
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : STARZ COMEDY" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : STARZ COMEDY
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131028
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : STARZ ENCORE WESTERN" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : STARZ ENCORE WESTERN
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131029
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : STARZ CINEMA" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : STARZ CINEMA
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131030
-#EXTINF:-1 tvg-id="" tvg-name="SD_USA : USA NETWORK" tvg-logo="http://127.0.0.1/" group-title="DIRECTV USA (HD)",SD_USA : USA NETWORK
-http://iptvglobal.site:25461/LionTv/r1942G22hz/131031
+
+
+
 
 
 
