@@ -1611,13 +1611,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",FOX Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="SPORTS", UK Sport TOnite Live
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-
-#EXTINF:-2022  group-title="SPORTS", FOX SPORTS
-http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-2022 group-title="SPORTS", FOX SPORTS 02
-http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SPORTS",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -1658,6 +1651,23 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN 2 HD" tvg-logo="https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif" group-title="SPORTS", USA|ESPN 2 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/86729
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN HD" tvg-logo="https://i.picasion.com/pic92/93bd3253b3569e17d13701625f271013.gif"  group-title="SPORTS", USA|ESPN HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/86730
+
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 1" tvg-logo="https://i.picasion.com/pic92/6b76912db928c5dcb12bde0ed5c42647.gif"  group-title="SPORTS", USA:FOX SPORTS 1
+http://iptvglobal.site:25461/LionTv/r1942G22hz/86814
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 2" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title="SPORTS", USA:FOX SPORTS 2
+http://iptvglobal.site:25461/LionTv/r1942G22hz/86815
+
+#EXTINF:-1 tvg-id="" tvg-name="PPVV| NBA TV HD" tvg-logo="https://i.picasion.com/pic92/fb98d559e010ac2eef54d69cc0001638.gif" group-title="SPORTS", NBA TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/86299
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BT SPORT 1" tvg-logo="http://iptvglobal.site:25461/images/c31c54a6d1e57319a81e48388fd5107e.png" group-title="SPORTS",BT.SPORT 1
+http://iptvglobal.site:25461/LionTv/r1942G22hz/156529
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BT SPORT 3" tvg-logo="http://iptvglobal.site:25461/images/0c48c0c166574ae4b10e94c96612cdda.png" group-title="SPORTS",BT.SPORT 3
+http://iptvglobal.site:25461/LionTv/r1942G22hz/156531
 
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
