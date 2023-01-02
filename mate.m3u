@@ -53,12 +53,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.ibb.co/PFpZHbS/6-Rbm-Dfm-modified.png" group-title="🎥 MOVIES",Star Movies
-http://line.premiumpowers.net:80/Manuel/1234567/282639
-
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-logo="https://i.ibb.co/2jh4NGh/starmovirs-modified-1.png" group-title="🎥 MOVIES",Star Movies Select
-http://line.premiumpowers.net:80/Manuel/1234567/155729
-
 
 <----------------------------------- TEMP COUNTRY --------------------------------------->
 
@@ -1676,6 +1670,8 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/86815
 
 #EXTINF:-1 tvg-id="" tvg-name="PPVV| NBA TV HD" tvg-logo="https://i.picasion.com/pic92/fb98d559e010ac2eef54d69cc0001638.gif" group-title="SPORTS", NBA TV HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/86299
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-symbol-png-10.png" group-title="SPORTS",WWE Network
+http://iptvglobal.site:25461/LionTv/r1942G22hz/88732
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: BT SPORT 1" tvg-logo="http://iptvglobal.site:25461/images/c31c54a6d1e57319a81e48388fd5107e.png" group-title="SPORTS",BT.SPORT 1
 http://iptvglobal.site:25461/LionTv/r1942G22hz/156529
