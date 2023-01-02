@@ -651,41 +651,7 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40765
 #EXTINF:-1 group-title="Malaysia",MY - Tv8
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/40766
 
-#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="Malaysia",Star Movies
-http://iptvtree.net:8080/ace2524d/15a571c413/11511
 
-#EXTINF:-1 group-title="Malaysia",MY: Astro Ceria 2
-http://iptvtree.net:8080/ace2524d/15a571c413/157481
-
-
-#EXTINF:-1,MY: Astro AOD 352
-http://iptvtree.net:8080/adastream/8289548ca0/247411
-#EXTINF:-1,MY: Astro AOD 354
-http://iptvtree.net:8080/adastream/8289548ca0/247413
-
-#EXTINF:-1,MY: Astro Ta-Daa!
-http://iptvtree.net:8080/adastream/8289548ca0/290510
-#EXTINF:-1,MY: Astro Ceria
-http://iptvtree.net:8080/adastream/8289548ca0/157481
-
-#EXTINF:-1,MY: Astro Xiao Tai Yang
-http://iptvtree.net:8080/adastream/8289548ca0/201164
-#EXTINF:-1,MY: Astro CTI Asia
-http://iptvtree.net:8080/adastream/8289548ca0/264515
-#EXTINF:-1,MY: ASTRO iQIYI
-http://iptvtree.net:8080/adastream/8289548ca0/290508
-
-#EXTINF:-1,MY: Astro Prima
-http://iptvtree.net:8080/adastream/8289548ca0/157467
-#EXTINF:-1,MY: Astro Quanjia
-http://iptvtree.net:8080/adastream/8289548ca0/247427
-#EXTINF:-1,MY: Astro Rania
-http://iptvtree.net:8080/adastream/8289548ca0/171984
-
-#EXTINF:-1,MY: Astro Arena
-http://iptvtree.net:8080/adastream/8289548ca0/157485
-#EXTINF:-1,MY: Astro Arena 2
-http://iptvtree.net:8080/adastream/8289548ca0/287793
 #EXTINF:-1 group-title="Malaysia",Jackie Chan 24/7
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 #EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="Malaysia", MY - SPOTV
@@ -700,21 +666,12 @@ http://quality-restream.com:8080/asiantv/f2ba3832f4/157556
 http://quality-restream.com:8080/asiantv/f2ba3832f4/157557
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia",MY - Astro SuperSport 4 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/157558
-#EXTINF:-1 group-title="Malaysia",MY - Astro SuperSport 1
-http://iptvtree.net:8080/ace2524d/773dbded1a/146068
-#EXTINF:-1 group-title="Malaysia",MY - Astro SuperSport 2
-http://iptvtree.net:8080/ace2524d/773dbded1a/157556
-#EXTINF:-1 group-title="Malaysia",MY - Astro SuperSport 3
-http://iptvtree.net:8080/ace2524d/773dbded1a/157557
-#EXTINF:-1 group-title="Malaysia",MY - Astro SuperSport 4
-http://iptvtree.net:8080/ace2524d/773dbded1a/157558
+
 
 #EXTINF:-1 group-title="WCCUP SPORTS",CA: TSN 1 iptvree
 http://iptvtree.net:8080/ace2524d/773dbded1a/770
 #EXTINF:-1 group-title="WCCUP SPORTS",CA: TSN 2 iptvree
 http://iptvtree.net:8080/ace2524d/773dbded1a/771
-
-
 #EXTINF:-1 group-title="WCCUP SPORTS",QA: beIN Sports Max 1
 http://iptvtree.net:8080/adastream/8289548ca0/296991
 #EXTINF:-1 group-title="WCCUP SPORTS",QA: beIN Sports Max 2
