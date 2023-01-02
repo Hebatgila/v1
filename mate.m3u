@@ -1659,54 +1659,6 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",TEN 1 HD IN
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",TEN 2 HD IN
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",StarSports 1 HD IN
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",StarSports 2 HD IN
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136615
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",StarSports Select 1 HD IN
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",StarSports select 2 HD IN
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136616
-
-#EXTINF:-1 group-title="SPORTS",PTV Sports
-http://103.55.144.46/hls/ptv.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/qB1iDYF.png",Ten Sports
-http://103.55.144.46/hls/ten.m3u8
-
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS",BT Sport 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="SPORTS",BT Sport 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8 
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS",BT Sport 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SPORTS",ASTRO.SUPERSPORTS_1 HD TH MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SPORTS",ASTRO.SUPERSPORTS_2 HD TH MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SPORTS",ASTRO.SUPERSPORTS_3 HD TH MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SPORTS",ASTRO.SUPERSPORTS_4 HD TH MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="" group-title="SPORTS" tvg-logo="https://cdn.macan.tv/img/nbatv.png", NBA TV
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115738
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="" group-title="SPORTS" tvg-logo="https://cdn.macan.tv/img/nbatv.png", NBA TV 2
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115302
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="" group-title="SPORTS" tvg-logo="https://cdn.macan.tv/img/nbatv.png", NBA TV 3
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/281638
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
-http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE US
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/2373
-
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
