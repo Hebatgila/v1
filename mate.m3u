@@ -53,7 +53,11 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.ibb.co/PFpZHbS/6-Rbm-Dfm-modified.png" group-title="🎥 MOVIES",Star Movies
+http://line.premiumpowers.net:80/Manuel/1234567/282639
 
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-logo="https://i.ibb.co/2jh4NGh/starmovirs-modified-1.png" group-title="🎥 MOVIES",Star Movies Select
+http://line.premiumpowers.net:80/Manuel/1234567/155729
 
 
 <----------------------------------- TEMP COUNTRY --------------------------------------->
@@ -1650,6 +1654,15 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes
 
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SPORTS",AstroSuperSport_1
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SPORTS",AstroSuperSport_2
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="SPORTS",AstroSuperSport_3
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SPORTS",AstroSuperSport_4
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157558
 
 #EXTINF:-1 tvg-id="" tvg-name="USA| ESPN 2 HD" tvg-logo="https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif" group-title="SPORTS", USA|ESPN 2 HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/86729
