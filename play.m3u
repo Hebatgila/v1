@@ -3,11 +3,7 @@
 #EXTINF:-1 Group-title="Testing",NBA TV
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 #EXTINF:-1 tvg-id="nba-tv-04192021" tvg-logo="http://10.23.252.44:6464/logos/nba-tv-04192021.png" Group-title="Testing",NBA TV 3
-http://live94today.com/play/nba-tv-04192021/chunks.m3u8
-#EXTINF:-1 Group-title="Testing" tvg-id="32281" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV 1 
-https://123tv.live/watch/nba-tv-04192021/chunks.m3u8
-#EXTINF:-1 Group-title="Testing" tvg-id="32281" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV 2
-https://123tv.live/play/nba-tv-04192021/chunks.m3u8
+http://live94today.com/watch/nba-tv-04192021/|weballdig
 
 
 #EXTINF:0 type="stream" channelId="-1" Group-title="Testing" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLU PLAY 1 HD
@@ -24,7 +20,7 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/87962
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87963
 #EXTINF:-1 tvg-id="" tvg-name="USA| NICK JR HD" tvg-logo="https://i.picasion.com/pic92/c3364e42434767a688074346bb66d31a.gif" group-title="DIRECTV USA (HD)",USA| NICK JR HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87964
-#EXTINF:-1 tvg-id="" tvg-name="USA| TEEN NICK HD**" tvg-logo="https://i.picasion.com/pic92/7643767d6d3e5938afcace7ee52876d6.gif" ggroup-title="DIRECTV USA (HD)",USA| TEEN NICK HD**
+#EXTINF:-1 tvg-id="" tvg-name="USA| TEEN NICK HD**" tvg-logo="https://i.picasion.com/pic92/7643767d6d3e5938afcace7ee52876d6.gif" group-title="DIRECTV USA (HD)",USA| TEEN NICK HD**
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87965
 #EXTINF:-1 tvg-id="" tvg-name="USA| DISNEY CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="DIRECTV USA (HD)",USA| DISNEY CHANNEL HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87969
@@ -74,7 +70,7 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/87951
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87953
 #EXTINF:-1 tvg-id="" tvg-name="USA| TBS HD" tvg-logo="https://i.picasion.com/pic92/217a8e21effcbbe222bea68403185347.gif" group-title="DIRECTV USA (HD)",USA| TBS HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87954
-#EXTINF:-1 tvg-id="" tvg-name="USA| SUNDANCE HD" tvg-logo="http://iptvglobal.site:25461/images/e633489f5fd2e12c6de496e5f9ffa75a.png"group-title="DIRECTV USA (HD)",USA| SUNDANCE HD
+#EXTINF:-1 tvg-id="" tvg-name="USA| SUNDANCE HD" tvg-logo="http://iptvglobal.site:25461/images/e633489f5fd2e12c6de496e5f9ffa75a.png "group-title="DIRECTV USA (HD)",USA| SUNDANCE HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87955
 #EXTINF:-1 tvg-id="" tvg-name="USA| BRAVO TV HD" tvg-logo="http://iptvglobal.site:25461/images/3ff76bf8f5b46a8b0165b89ca48631a5.png" group-title="DIRECTV USA (HD)",USA| BRAVO TV HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87959
@@ -162,7 +158,7 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/129649
 http://iptvglobal.site:25461/LionTv/r1942G22hz/129650
 #EXTINF:-1 tvg-id="" tvg-name="SKYUS: OUTERMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: OUTERMAX (US)
 http://iptvglobal.site:25461/LionTv/r1942G22hz/129651
-#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE STARZ KIDS & FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1200px-Starz_Kids_%26_Family_logo.svg.png" group-title="ENGLISH CINEMA (FHD)",USA| VIP MOVIE STARZ KIDS & FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE STARZ KIDS & FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1200px-Starz_Kids_%26_Family_logo.svg.png" group-title="DIRECTV USA (HD)",USA| VIP MOVIE STARZ KIDS & FAMILY HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/119963
 
 
