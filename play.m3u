@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="testing", QA: beIN Sports NBA
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/15962
+#EXTINF:-1 group-title="testing",NBA TV
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/237165?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1 group-title="testing",NBA TV SD
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/367120?username=Legend&password=QmdhPq6Sb9&type=m3u
+
 
 #EXTINF:-1 tvg-id="" tvg-name="USA| PBS KIDS HD" tvg-logo="http://iptvglobal.site:25461/images/4a9adc3ecdbc4a60e0cc33a7ec4dfc1a.png" group-title="DIRECTV USA (HD)",USA| PBS KIDS HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87961
