@@ -12,6 +12,8 @@ http://123tv.live/watch/nba-tv-04192021/chunks.m3u8|https://123tv.live/watch/nba
 https://123tv.live/watch/amc/|webdelayalldig$$delay=1
 #EXTINF:-1 Group-title="Testing"  tvg-id="12131" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/cartoon-network-269x151.png" ,Cartoon Network [Option-2]
 https://123tv.live/watch/cartoon-network/|webdelayalldig$$delay=1
+#EXTINF:-1 Group-title="Testing" tvg-id="10171" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/disney-269x151.png" ,Disney Channel [Option-2]
+https://123tv.live/watch/disney-channel/|webdelayalldig$$delay=1
 
 #EXTINF:0 type="stream" channelId="-1" Group-title="Testing" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLU PLAY 1 HD
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
