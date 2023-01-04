@@ -2,12 +2,7 @@
 
 #EXTINF:-1 Group-title="Testing",NBA TV
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
-#EXTINF:-1 Group-title="Testing",NBA TV 2
-http://95.70.252.86:8000/play/a085
-#EXTINF:-1 Group-title="Testing",EUROSPORT 1
-http://95.70.252.86:8000/play/a083
-#EXTINF:-1 Group-title="Testing",EUROSPORT 2
-http://95.70.252.86:8000/play/a084
+
 #EXTINF:0 type="stream" channelId="-1" Group-title="Testing" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLU PLAY 1 HD
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" Group-title="Testing" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLU PLAY 2 HD
