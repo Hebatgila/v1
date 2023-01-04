@@ -1,6 +1,159 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="USA| PBS KIDS HD" tvg-logo="http://iptvglobal.site:25461/images/4a9adc3ecdbc4a60e0cc33a7ec4dfc1a.png" group-title="DIRECTV USA (HD)",USA| PBS KIDS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87961
+#EXTINF:-1 tvg-id="" tvg-name="USA| NICKELODEON HD" tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif" group-title="DIRECTV USA (HD)",USA| NICKELODEON HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87962
+#EXTINF:-1 tvg-id="" tvg-name="USA| DISNEY JR HD" tvg-logo="https://i.picasion.com/pic92/df1812f643a003097a536093de37b04f.gif" group-title="DIRECTV USA (HD)",USA| DISNEY JR HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87963
+#EXTINF:-1 tvg-id="" tvg-name="USA| NICK JR HD" tvg-logo="https://i.picasion.com/pic92/c3364e42434767a688074346bb66d31a.gif" group-title="DIRECTV USA (HD)",USA| NICK JR HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87964
+#EXTINF:-1 tvg-id="" tvg-name="USA| TEEN NICK HD**" tvg-logo="https://i.picasion.com/pic92/7643767d6d3e5938afcace7ee52876d6.gif" ggroup-title="DIRECTV USA (HD)",USA| TEEN NICK HD**
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87965
+#EXTINF:-1 tvg-id="" tvg-name="USA| DISNEY CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="DIRECTV USA (HD)",USA| DISNEY CHANNEL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87969
+#EXTINF:-1 tvg-id="" tvg-name="USA| CARTOON NETWORK HD" tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="DIRECTV USA (HD)",USA| CARTOON NETWORK HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87970
+#EXTINF:-1 tvg-id="" tvg-name="USA| BOOMERANG HD" tvg-logo="https://i.picasion.com/pic92/62b33b6bb49428d57349ceee2bb424b5.gif" group-title="DIRECTV USA (HD)",USA| BOOMERANG HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87971
+#EXTINF:-1 tvg-id="" tvg-name="USA| BABY TV HD" tvg-logo="https://i.picasion.com/pic92/285258ac0eafdfb930dfef47cbcd8860.gif" group-title="DIRECTV USA (HD)",USA| BABY TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87972
+
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="https://i.picasion.com/pic92/c97ddae425bdcb2b1a69d1a8ee87da4a.gif" group-title="DIRECTV USA (HD)",USA | USA Network
+http://iptvglobal.site:25461/LionTv/r1942G22hz/96384
+#EXTINF:-1 tvg-id="" tvg-name="USA| SYFY HD" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="DIRECTV USA (HD)",USA| SYFY HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87925
+#EXTINF:-1 tvg-id="" tvg-name="USA| TRUTV HD" tvg-logo="https://i.picasion.com/pic92/30179d683077a217f550e144c8124a52.gif" group-title="DIRECTV USA (HD)",USA| TRUTV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87926
+#EXTINF:-1 tvg-id="" tvg-name="USA| FYI HD" tvg-logo="http://iptvglobal.site:25461/images/825e283b29409a5493f1905ce2f20afa.png" group-title="DIRECTV USA (HD)",USA| FYI HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87929
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOOD NETWORK HD" tvg-logo="https://i.picasion.com/pic92/3a27cefe3209fd0821b566cb299be0ea.gif" group-title="DIRECTV USA (HD)",USA| FOOD NETWORK HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87931
+#EXTINF:-1 tvg-id="" tvg-name="USA| DIY PREMIUN HD" tvg-logo="https://i.picasion.com/pic92/91313ae2d5fb0dfc1c96a71fe1af41c5.gif" group-title="DIRECTV USA (HD)",USA| DIY PREMIUN HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87932
+#EXTINF:-1 tvg-id="" tvg-name="USA| OWN CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/bf5d38b0f57dd11a4771eb0803677f36.gif" group-title="DIRECTV USA (HD)",USA| OWN CHANNEL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87933
+#EXTINF:-1 tvg-id="" tvg-name="USA| MAVTV HD" tvg-logo="https://i.picasion.com/pic92/03cbcf6811cda4962f9e7f5b560b0058.gif" group-title="DIRECTV USA (HD)",USA| MAVTV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87937
+#EXTINF:-1 tvg-id="" tvg-name="USA| FREEFORM HD" tvg-logo="https://i.picasion.com/pic92/0ea7e43a12b1fbfb2f2b4d455faae55c.gif" group-title="DIRECTV USA (HD)",USA| FREEFORM HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87938
+#EXTINF:-1 tvg-id="" tvg-name="USA| PARAMOUNT CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/d2ad21dfb131192cce0fc5ec487d5a28.gif" group-title="DIRECTV USA (HD)",USA| PARAMOUNT CHANNEL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87942
+#EXTINF:-1 tvg-id="" tvg-name="USA| FXX HD" tvg-logo="https://i.picasion.com/pic92/adede37edc0c7aafc43d02d7f2fe19d5.gif" group-title="DIRECTV USA (HD)",USA| FXX HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87943
+#EXTINF:-1 tvg-id="" tvg-name="USA| FXM HD" tvg-logo="https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif" group-title="DIRECTV USA (HD)",USA| FXM HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87944
+#EXTINF:-1 tvg-id="" tvg-name="USA| TNT HD" tvg-logo="https://i.picasion.com/pic92/480962e456395c08a01e4a365746dd7b.gif" group-title="DIRECTV USA (HD)",USA| TNT HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87945
+#EXTINF:-1 tvg-id="" tvg-name="USA| TNT HD *" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="DIRECTV USA (HD)",USA| TNT HD *
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87946
+#EXTINF:-1 tvg-id="" tvg-name="USA| PBS HD" tvg-logo="https://i.picasion.com/pic92/20defe0d40e7a803399be0ace16989d2.gif" group-title="DIRECTV USA (HD)",USA| PBS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87947
+#EXTINF:-1 tvg-id="" tvg-name="USA| CW HD" tvg-logo="http://iptvglobal.site:25461/images/1ef7283976a7a9660048dbc7ccf64d09.png" group-title="DIRECTV USA (HD)",USA| CW HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87948
+#EXTINF:-1 tvg-id="" tvg-name="USA| THE BLAZE HD" tvg-logo="http://iptvglobal.site:25461/images/1db0872350cde56eac93f837e1d29ab8.png" group-title="DIRECTV USA (HD)",USA| THE BLAZE HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87951
+
+#EXTINF:-1 tvg-id="" tvg-name="USA| HALMMAR  HD" tvg-logo="https://www.netclipart.com/pp/m/206-2061729_hallmark-logo-png-hallmark-christmas-movies-svg.png" group-title="DIRECTV USA (HD)",USA| HALLMARK  HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87953
+#EXTINF:-1 tvg-id="" tvg-name="USA| TBS HD" tvg-logo="https://i.picasion.com/pic92/217a8e21effcbbe222bea68403185347.gif" group-title="DIRECTV USA (HD)",USA| TBS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87954
+#EXTINF:-1 tvg-id="" tvg-name="USA| SUNDANCE HD" tvg-logo="http://iptvglobal.site:25461/images/e633489f5fd2e12c6de496e5f9ffa75a.png"group-title="DIRECTV USA (HD)",USA| SUNDANCE HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87955
+#EXTINF:-1 tvg-id="" tvg-name="USA| BRAVO TV HD" tvg-logo="http://iptvglobal.site:25461/images/3ff76bf8f5b46a8b0165b89ca48631a5.png" group-title="DIRECTV USA (HD)",USA| BRAVO TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87959
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="https://i.picasion.com/pic92/c97ddae425bdcb2b1a69d1a8ee87da4a.gif" group-title="DIRECTV USA (HD)",USA | USA Network
+http://iptvglobal.site:25461/LionTv/r1942G22hz/96384
+#EXTINF:-1 tvg-id="" tvg-name="USA| SYFY WEST HD**" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="DIRECTV USA (HD)",USA| SYFY WEST HD**
+http://iptvglobal.site:25461/LionTv/r1942G22hz/103983
+#EXTINF:-1 tvg-id="" tvg-name="USA| OXIGEN HD**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="DIRECTV USA (HD)",USA| OXIGEN HD**
+http://iptvglobal.site:25461/LionTv/r1942G22hz/103984
+
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:BRAVO (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:BRAVO (W)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129590
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:HGTV (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:HGTV (W)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129591
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:TLC (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:TLC (W)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129592
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:TNT (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:TNT (W)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129593
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:CNBC" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:CNBC
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129595
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:A&E" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:A&E
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129599
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:BIG TEN NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:BIG TEN NETWORK
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129605
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:BRAVO WEST" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:BRAVO WEST
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129606
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:CARTOON NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:ADULTSWIM
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129607
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:COMEDY CENTRAL EAST" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:COMEDY CENTRAL EAST
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129608
+
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:E! ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:E! ENTERTAINMENT
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129618
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:FOOD NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FOOD NETWORK
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129619
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:FREEFORM | HD" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FREEFORM | HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129620
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:FXM | HD*" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FXM | HD*
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129621
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:FXX" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129622
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:HALLMARK DRAMA" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:HALLMARK DRAMA
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129623
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:Paramount HD" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:Paramount HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129627
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: MSNBC HD" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: MSNBC HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129628
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: ESPN (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: ESPN (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129630
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:ESPN NEWS (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:ESPN NEWS (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129631
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: OUTERMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: OUTERMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129632
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: EPIX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: EPIX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129634
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: HBO (EST) HD (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: HBO (EST) HD (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129635
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: HBO EAST (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: HBO EAST (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129636
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:HBO PLUS (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:HBO PLUS (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129637
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: HBO SIGNATURE (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: HBO SIGNATURE (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129638
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:HBO WEST (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:HBO WEST (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129639
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: HBO ZONE (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: HBO ZONE (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129640
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:PARAMOUNT CHANNEL (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:PARAMOUNT CHANNEL (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129641
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:SHOWTIME BEYOND (US)" tvg-logo="http://zeroxtv.xyz:2082/images/7efd1a4d5603f0971ff6e0b9fa3b52a7.png" group-title="DIRECTV USA (HD)",SKYUS:SHOWTIME BEYOND (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129642
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: SHOWTIME EXTREME (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: SHOWTIME EXTREME (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129643
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: SHOWTIME 2 (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: SHOWTIME 2 (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129644
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: STARZ COMEDY (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: STARZ COMEDY (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129645
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:STARMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:STARMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129646
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: CINEMAX EAST (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: CINEMAX EAST (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129648
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:MOREMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:MOREMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129649
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: ACTIONMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: ACTIONMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129650
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: OUTERMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: OUTERMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129651
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE STARZ KIDS & FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1200px-Starz_Kids_%26_Family_logo.svg.png" group-title="ENGLISH CINEMA (FHD)",USA| VIP MOVIE STARZ KIDS & FAMILY HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/119963
+
+
+
+
 #EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" ,RTHK 31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 
@@ -383,12 +536,6 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:1 group-title="ADT" tvg-logo="https://i.imgur.com/ikorRe8.png", A3BIKINI
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 group-title="ADT" ,ME1
-http://92.242.176.83:8096
-#EXTINF:-1 group-title="ADT" ,ME3
-http://92.242.176.83:8097
-#EXTINF:-1 group-title="ADT" ,ME4
-http://92.242.176.83:8098
 #EXTINF:-1 group-title="ADT" ,Hustler HD 
 http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="ADT" ,Penthouse GOLD
