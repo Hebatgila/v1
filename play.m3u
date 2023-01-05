@@ -3,8 +3,11 @@
 #EXTINF:-1 Group-title="Testing",NBA TV
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX TV" tvg-logo="https://static.g-cdn.app/streams/fox-tr.png" Group-title="Testing",FOX TV
-https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 Group-title="Testing",NBA TV 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ks8i6wtocqqt2za/paramount.png?dl=1" Group-title="Testing",Paramount Network
+https://webdi.openhd.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 Group-title="Testing",CBS USA
 https://no2.openhd.lol/ddy1/premium52/tracks-v1a1/mono.m3u8
@@ -14,6 +17,12 @@ https://no2.openhd.lol/ddy1/premium51/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 Group-title="Testing",FX USA
 https://webudi.openhd.lol/lb/premium317/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2084e3cjes89yv6/eurosport.png?dl=1" Group-title="Testing",Eurosport 1 v2
+https://webdi.openhd.lol/ddy1/premium524/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2084e3cjes89yv6/eurosport.png?dl=1" Group-title="Testing",Eurosport 2 v2
+https://webdi.openhd.lol/ddy1/premium525/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" Group-title="Testing",Eurosport 1
 https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
