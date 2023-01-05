@@ -3,6 +3,18 @@
 #EXTINF:-1 Group-title="Testing",NBA TV
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 
+#EXTINF:-1 tvg-id="" tvg-name="FOX TV" tvg-logo="https://static.g-cdn.app/streams/fox-tr.png" Group-title="Testing",FOX TV
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 Group-title="Testing",CBS USA
+https://no2.openhd.lol/ddy1/premium52/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 Group-title="Testing",ABC USA
+https://no2.openhd.lol/ddy1/premium51/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 Group-title="Testing",FX USA
+https://webudi.openhd.lol/lb/premium317/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" Group-title="Testing",Eurosport 1
 https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
 
