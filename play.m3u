@@ -1,127 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="star.movies.in" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",Star Movies HD
-http://watchindia.net:8880/live/14100/70701/2080.ts
-#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="Star World HD" tvg-logo="https://watchindia.net/images/channels/english/Star_World_HD.png" group-title="English Movies",Star World HD
-http://watchindia.net:8880/live/14100/70701/2191.ts
-#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E Network" tvg-logo="http://watchindia.net/images/channels/usa/A&E.png" group-title="USA Network",A&E Network
-http://watchindia.net:8880/live/14100/70701/2044.ts
-#EXTINF:-1 tvg-id="abc.news.live.us" tvg-name="ABC News" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png" group-title="USA Network",ABC News
-http://watchindia.net:8880/live/14100/70701/2120.ts
-#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="https://watchindia.net/images/channels/usa/AMC.png" group-title="USA Network",AMC
-http://watchindia.net:8880/live/14100/70701/2043.ts
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="USA Network",Animal Planet
-http://watchindia.net:8880/live/14100/70701/2039.ts
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="http://watchindia.net/images/channels/usa/BBC_America.png" group-title="USA Network",BBC America
-http://watchindia.net:8880/live/14100/70701/2055.ts
-#EXTINF:-1 tvg-id="bet.us" tvg-name="BET" tvg-logo="https://watchindia.net/images/channels/usa/BET.png" group-title="USA Network",BET
-http://watchindia.net:8880/live/14100/70701/2063.ts
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="Bloomberg" tvg-logo="https://watchindia.net/images/channels/usa/Bloomberg.png" group-title="USA Network",Bloomberg
-http://watchindia.net:8880/live/14100/70701/2301.ts
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang" tvg-logo="https://watchindia.net/images/channels/kids/Boomerang_HD.png" group-title="USA Network",Boomerang
-http://watchindia.net:8880/live/14100/70701/1295.ts
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo" tvg-logo="http://watchindia.net/images/channels/usa/Bravo.png" group-title="USA Network",Bravo
-http://watchindia.net:8880/live/14100/70701/2305.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="http://watchindia.net/images/channels/usa/Cartoon_Network.png" group-title="USA Network",Cartoon Network
-http://watchindia.net:8880/live/14100/70701/2052.ts
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax" tvg-logo="https://watchindia.net/images/channels/usa/Cinemax.png" group-title="USA Network",Cinemax
-http://watchindia.net:8880/live/14100/70701/2065.ts
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="http://watchindia.net/images/channels/usa/CNBC.png" group-title="USA Network",CNBC
-http://watchindia.net:8880/live/14100/70701/2053.ts
-#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="CNBC World" tvg-logo="http://watchindia.net/images/channels/usa/CNBC_World.png" group-title="USA Network",CNBC World
-http://watchindia.net:8880/live/14100/70701/2326.ts
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png" group-title="USA Network",CNN
-http://watchindia.net:8880/live/14100/70701/2058.ts
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central" tvg-logo="http://watchindia.net/images/channels/usa/Comedy_Central.png" group-title="USA Network",Comedy Central
-http://watchindia.net:8880/live/14100/70701/2056.ts
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" group-title="USA Network",Discovery Channel
-http://watchindia.net:8880/live/14100/70701/2036.ts
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Life" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Life.png" group-title="USA Network",Discovery Life
-http://watchindia.net:8880/live/14100/70701/2124.ts
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="USA Network",Disney Channel
-http://watchindia.net:8880/live/14100/70701/2046.ts
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="Disney Jr." tvg-logo="https://watchindia.net/images/channels/kids/Disney_Junior.png" group-title="USA Network",Disney Jr.
-http://watchindia.net:8880/live/14100/70701/2105.ts
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD" tvg-logo="http://watchindia.net/images/channels/usa/Disney_XD.png" group-title="USA Network",Disney XD
-http://watchindia.net:8880/live/14100/70701/2066.ts
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://watchindia.net/images/channels/usa/ESPN2.png" group-title="USA Network",ESPN2
-http://watchindia.net:8880/live/14100/70701/2307.ts
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network" tvg-logo="http://watchindia.net/images/channels/usa/Food_Network.png" group-title="USA Network",Food Network
-http://watchindia.net:8880/live/14100/70701/2045.ts
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="Fox Business" tvg-logo="http://watchindia.net/images/channels/usa/Fox_Business.png" group-title="USA Network",Fox Business
-http://watchindia.net:8880/live/14100/70701/2201.ts
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="http://watchindia.net/images/channels/usa/Fox_News.png" group-title="USA Network",Fox News
-http://watchindia.net:8880/live/14100/70701/2057.ts
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform" tvg-logo="https://watchindia.net/images/channels/usa/Freeform.png" group-title="USA Network",Freeform
-http://watchindia.net:8880/live/14100/70701/2137.ts
-#EXTINF:-1 tvg-id="fx.us" tvg-name="FX" tvg-logo="https://watchindia.net/images/channels/usa/FX.png" group-title="USA Network",FX
-http://watchindia.net:8880/live/14100/70701/2136.ts
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="Game Show Network" tvg-logo="http://watchindia.net/images/channels/usa/Game_Show_Network.png" group-title="USA Network",Game Show Network
-http://watchindia.net:8880/live/14100/70701/2298.ts
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Hallmark Channel" tvg-logo="http://watchindia.net/images/channels/usa/Hallmark_Channel.png" group-title="USA Network",Hallmark Channel
-http://watchindia.net:8880/live/14100/70701/2302.ts
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="http://watchindia.net/images/channels/usa/HGTV.png" group-title="USA Network",HGTV
-http://watchindia.net:8880/live/14100/70701/2118.ts
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="History" tvg-logo="https://watchindia.net/images/channels/usa/History.png" group-title="USA Network",History
-http://watchindia.net:8880/live/14100/70701/2038.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="Investigation Discovery" tvg-logo="http://watchindia.net/images/channels/usa/Investigation_Discovery.png" group-title="USA Network",Investigation Discovery
-http://watchindia.net:8880/live/14100/70701/2303.ts
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="http://watchindia.net/images/channels/usa/MLB_Network.png" group-title="USA Network",MLB Network
-http://watchindia.net:8880/live/14100/70701/2308.ts
-#EXTINF:-1 tvg-id="motortrend.us" tvg-name="MotorTrend" tvg-logo="http://watchindia.net/images/channels/usa/MotorTrend.png" group-title="USA Network",MotorTrend
-http://watchindia.net:8880/live/14100/70701/2306.ts
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC" tvg-logo="http://watchindia.net/images/channels/usa/MSNBC.png" group-title="USA Network",MSNBC
-http://watchindia.net:8880/live/14100/70701/2060.ts
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="http://watchindia.net/images/channels/usa/MTV.png" group-title="USA Network",MTV
-http://watchindia.net:8880/live/14100/70701/2062.ts
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo Wild" tvg-logo="http://watchindia.net/images/channels/usa/NAT_GEO_Wild.png" group-title="USA Network",Nat Geo Wild
-http://watchindia.net:8880/live/14100/70701/2047.ts
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="USA Network",National Geographic
-http://watchindia.net:8880/live/14100/70701/2037.ts
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" group-title="USA Network",NBA TV
-http://watchindia.net:8880/live/14100/70701/2309.ts
-#EXTINF:-1 tvg-id="newsmax.us" tvg-name="Newsmax TV" tvg-logo="http://watchindia.net/images/channels/usa/Newsmax_TV.png" group-title="USA Network",Newsmax TV
-http://watchindia.net:8880/live/14100/70701/2202.ts
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-logo="http://watchindia.net/images/channels/usa/NFL_Network.png" group-title="USA Network",NFL Network
-http://watchindia.net:8880/live/14100/70701/2165.ts
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL RedZone" tvg-logo="https://watchindia.net/images/channels/usa/NFL_RedZone.png" group-title="USA Network",NFL RedZone
-http://watchindia.net:8880/live/14100/70701/2160.ts
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Jr." tvg-logo="http://watchindia.net/images/channels/usa/Nick_Jr.png" group-title="USA Network",Nick Jr.
-http://watchindia.net:8880/live/14100/70701/2059.ts
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="http://watchindia.net/images/channels/usa/Nickelodeon.png" group-title="USA Network",Nickelodeon
-http://watchindia.net:8880/live/14100/70701/2049.ts
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://watchindia.net/images/channels/usa/Nicktoons.png" group-title="USA Network",Nicktoons
-http://watchindia.net:8880/live/14100/70701/2064.ts
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="One America News" tvg-logo="https://watchindia.net/images/channels/usa/OAN.png" group-title="USA Network",One America News
-http://watchindia.net:8880/live/14100/70701/2138.ts
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel" tvg-logo="http://watchindia.net/images/channels/usa/Outdoor_Channel.png" group-title="USA Network",Outdoor Channel
-http://watchindia.net:8880/live/14100/70701/2119.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paw Patrol" tvg-logo="https://watchindia.net/images/channels/kids/Paw_Patrol.png" group-title="USA Network",Paw Patrol
-http://watchindia.net:8880/live/14100/70701/1297.ts
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://watchindia.net/images/channels/kids/Peppa_Pig.png" group-title="USA Network",Peppa Pig
-http://watchindia.net:8880/live/14100/70701/1298.ts
-#EXTINF:-1 tvg-id="" tvg-name="PJ Masks" tvg-logo="https://watchindia.net/images/channels/kids/PJ_Masks.png" group-title="USA Network",PJ Masks
-http://watchindia.net:8880/live/14100/70701/1299.ts
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime" tvg-logo="http://watchindia.net/images/channels/usa/Showtime.png" group-title="USA Network",Showtime
-http://watchindia.net:8880/live/14100/70701/2054.ts
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="USA Network",Syfy
-http://watchindia.net:8880/live/14100/70701/2127.ts
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS" tvg-logo="http://watchindia.net/images/channels/usa/TBS.png" group-title="USA Network",TBS
-http://watchindia.net:8880/live/14100/70701/2050.ts
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="http://watchindia.net/images/channels/usa/Tennis_Channel.png" group-title="USA Network",Tennis Channel
-http://watchindia.net:8880/live/14100/70701/2358.ts
-#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="The Weather Channel" tvg-logo="https://watchindia.net/images/channels/usa/The_Weather_Channel.png" group-title="USA Network",The Weather Channel
-http://watchindia.net:8880/live/14100/70701/2042.ts
-#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC" tvg-logo="https://watchindia.net/images/channels/usa/TLC.png" group-title="USA Network",TLC
-http://watchindia.net:8880/live/14100/70701/2139.ts
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT" tvg-logo="http://watchindia.net/images/channels/usa/TNT.png" group-title="USA Network",TNT
-http://watchindia.net:8880/live/14100/70701/2051.ts
-#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="Travel Channel" tvg-logo="https://watchindia.net/images/channels/usa/Travel_Channel.png" group-title="USA Network",Travel Channel
-http://watchindia.net:8880/live/14100/70701/2123.ts
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="TV Land" tvg-logo="http://watchindia.net/images/channels/usa/TV_Land.png" group-title="USA Network",TV Land
-http://watchindia.net:8880/live/14100/70701/2304.ts
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="http://watchindia.net/images/channels/usa/VH1.png" group-title="USA Network",VH1
-http://watchindia.net:8880/live/14100/70701/2185.ts
+
 
 
 
@@ -179,6 +58,9 @@ https://webdi.openhd.lol/ddy1/premium525/index.m3u8|referer=https://streamservic
 
 #EXTINF:-1 Group-title="Testing",NBA TV
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+
+#EXTINF:-1 tvg-id="" tvg-name="USA NBA HD NETWORK (L)" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" Group-title="Testing" ,NBA HD NETWORK
+http://dmtn.tv:8080/steveny5997/54332611/370883
 
 #EXTINF:-1 Group-title="Testing",NBA TV 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
