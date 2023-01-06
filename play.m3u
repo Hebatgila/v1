@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="Sport",NBA TV USA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nba.tv.usa.us.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Comedy%20Central%20HD.png" group-title="openhd",Comedy Central East USA (1080p)
 https://webudi.openhd.lol/lb/premium310/index.m3u8|referer=https://streamservicehd.click/
