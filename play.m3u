@@ -1,7 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1,USA | TBS EAST
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/146000
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC4 NY (WNBC)" tvg-logo="https://ib1.hulu.com/v2/artwork/cea81fcd-a082-4ed4-999c-0de3402c8115?base_image_bucket_name=image_manager&base_image=3734e420-e8ca-4ac3-82ed-9ea3f18600db&size=original&format=png" group-title="US",NBC4 NY (WNBC)
+https://v-ny.mybtv.net/live/548/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC7 NY (WABC-TV)" tvg-logo="https://lh3.googleusercontent.com/3cW6WFvbI8UgBK2kg5jx4wJNM_EOHsp42ShynjCwYO9KJTfsb58AvJZkoqQHUthV4Bn1DW5g_0y5bg=v2-s300" group-title="US",ABC7 NY (WABC-TV)
+https://v-ny.mybtv.net/live/554/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS2 NY (WCBS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="US",CBS2 NY (WCBS)
+https://v-ny.mybtv.net/live/545/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX5 NY (WNYW)" tvg-logo="https://assets.brandfetch.io/6f429ba2bd7f483.png" group-title="US",FOX5 NY (WNYW)
+https://v-ny.mybtv.net/live/550/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WPIX.us" tvg-name="PIX11 (WPIX)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="US",PIX11 (WPIX)
+https://v-ny.mybtv.net/live/562/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="https://prod-images.tcm.com/img/global/logo-TCM_white.png" group-title="US",TCM
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="US" tvg-shift="+3",TCM West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="WNYWDT2.us" tvg-name="Movies!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_dark_360w_270h.png" group-title="US",Movies!
+https://v-ny.mybtv.net/live/551/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WJLPDT.us" tvg-name="MeTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="US",MeTV
+https://v-ny.mybtv.net/live/637/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="COZI TV" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" group-title="US",COZI TV
+https://v-ny.mybtv.net/live/549/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="US",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="US",HBO
+https://h1.ustvgo.la/HBO/vipStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMiAyOjMxOjE5IEFNJmhhc2hfdmFsdWU9NEZuV25mamlTeVNHWTRJWGs3cEEvZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="US",TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="US",TBS
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="US",TruTV
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="US",AMC
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="US",IFC
+https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="US",Sundance TV
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassicRerunsTV.us" tvg-name="Classic Reruns TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s118608_dark_360w_270h.png" group-title="US",Classic Reruns TV
+https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
+#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="Rewind TV" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-300x92.png" group-title="US",Rewind TV
+https://v-ny.mybtv.net/live/565/640x480.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNET.us" tvg-name="PBS New York NY (WNET)" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/themes/wnet/libs/images/station-logo-thirteen.png" group-title="US",PBS New York NY (WNET)
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="CBLTCBCToronto(English).ca" tvg-name="CBC Toronto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="US",CBC Toronto
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:-1 tvg-id="WXTV(Spanish).us" tvg-name="Univision NY (WXTV)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="US",Univision NY (WXTV)
+https://v-ny.mybtv.net/live/643/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WKOBLD(Spanish).us" tvg-name="Azteca America (WKOB)" tvg-logo="https://aztecaamerica.com/wp-content/uploads/2021/05/LOGO_AZA_COLOR_BLANCO-2-e1620230157524.png" group-title="US",Azteca America (WKOB)
+https://v-ny.mybtv.net/live/645/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="CHARGE.us" tvg-name="Charge!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102148_dark_360w_270h.png" group-title="US",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="US",Comet
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Redbox Spotlight" tvg-logo="https://logodix.com/logo/1337653.png" group-title="US",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT(Pacific).us" tvg-name="TNT West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s42642_dark_360w_270h.png" group-title="US",TNT West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="TBS(Pacific).us" tvg-name="TBS West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58515_dark_360w_270h.png" group-title="US",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="truTV(Pacific).us" tvg-name="TruTV West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s64490_dark_360w_270h.png" group-title="US",TruTV West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_3_1464000.m3u8
 
 
 
