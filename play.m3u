@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DRmD9dsKTi0/Ys9XhEvF5uI/AAAAAAAAAqM/NSP5eDAuKuAbbcfdah2I4rVpOvdSWahywCNcBGAsYHQ/w480/ver-tbs-en-vivo.jpg" group-title="Argentina" , TBS 
+https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Riqq0wkw9UY/YT5RS6UxToI/AAAAAAAAAOQ/yfkgOB2YSOc_-xEiyvrq96QSYBgcQD8WACLcBGAsYHQ/w480/TCM.png" group-title="Argentina" , TCM 
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyhWjRQbbj9z-e8f_ZdUMB3negMEUlb6q6Rraql-rEHDRIyJTmGUOH5PI3DlCYmUlTy98H68aKLturEdTjDEIGTsytYLV6xBXXLw9etv1ggELuhXd2llW_86v27dpBoDnx9xQkHEcI2I37-q6uVdPcu0Kocm15ApYAoT2-IVIS7UevH2coIZF0vKDG/w480/ver-syfy-en-vivo.jpg" group-title="Argentina" , SYFY 
+https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/02/15/352f4601-c86b-4a90-96ab-cf9cee9ae351/thumbnail/640x274/bdf6b7a51fb96db68b221f8b8a0be974/logo.jpg" group-title="Argentina" , PARAMOUNT 
+https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Comedy%20Central%20HD.png" group-title="openhd",Comedy Central East USA (1080p)
 https://webudi.openhd.lol/lb/premium310/index.m3u8|referer=https://streamservicehd.click/
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Freeform_2022.svg/revision/latest/scale-to-width-down/800?cb=20220902203358" group-title="openhd",Freefrom (720p)
@@ -34,7 +47,7 @@ https://webudi.openhd.lol/lb/premium317/index.m3u8
 https://webdi.openhd.lol/lb/premium404/index.m3u8|referer=https://streamservicehd.click/
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://prtimes.jp/i/6942/382/origin/d6942-382-523584-0.png",NBA
 https://webudi.openhd.lol/cdn/eplayer0e87a84170da4646aa90528abfcbe2a9/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 Group-title="Testing"tvg-logo="https://i.imgur.com/lcpZ5CC.png" ,WWE Network
+#EXTINF:-1 Group-title="openhd"tvg-logo="https://i.imgur.com/lcpZ5CC.png" ,WWE Network
 https://webdi.openhd.lol/lb/premium376/index.m3u8|referer=https://streamservicehd.click/
 #EXTINF:-1 tvg-name="BT SPORT 1" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png" group-title="openhd", BT SPORT 1
 https://webudi.openhd.lol/lb/premium31/index.m3u8|referer=https://streamservicehd.click/
