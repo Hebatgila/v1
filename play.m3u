@@ -2,6 +2,14 @@
 
 #EXTINF:-1,TBS 
 http://190.242.41.219:8000/play/a01o/index.m3u8
+#EXTINF:-1,TNT HD 
+http://190.242.41.219:8000/play/a014/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL 
+http://190.242.41.219:8000/play/a00b/index.m3u8 
+#EXTINF:-1,DISNEY JUNIOR HD 
+http://190.242.41.219:8000/play/a00c/index.m3u8 
+#EXTINF:-1,DREAMWORKS 
+http://190.242.41.219:8000/play/a00d/index.m3u8
 
 
 
