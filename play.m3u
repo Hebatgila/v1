@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="tnt.east.us" tvg-logo="https://i.postimg.cc/439Bp6P5/TNT-Logo.png" tvg-name="TNT East Opt-2 (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",TNT East Opt-2 (US) (Ƭ⫯ⲍƬ⋎)
-http://tve-live-ctl.warnermediacdn.com/hls/live/572089/tnte/aes_slate/master_de.m3u8
+#EXTINF:-1,TBS 
+http://190.242.41.219:8000/play/a01o/index.m3u8
 
 
 
