@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,TBS 
-http://190.242.41.219:8000/play/a01o/index.m3u8
-#EXTINF:-1,TNT HD 
-http://190.242.41.219:8000/play/a014/index.m3u8
-#EXTINF:-1,DISNEY CHANNEL 
-http://190.242.41.219:8000/play/a00b/index.m3u8 
-#EXTINF:-1,DISNEY JUNIOR HD 
-http://190.242.41.219:8000/play/a00c/index.m3u8 
-#EXTINF:-1,DREAMWORKS 
-http://190.242.41.219:8000/play/a00d/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Comedy%20Central%20HD.png" group-title="openhd",Comedy Central East USA (1080p)
