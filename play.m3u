@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/4db99c9b9554362b3960f44523b6980c.png" group-title="Ccr2310",DISNEY CHANNEL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
+#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/098d475f76e6a0860e4da430c897cd64.png" group-title="Ccr2310",DISNEY JR
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE05.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="Ccr2310",BABY FIRST
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE05.m3u
+
+
 #EXTINF:-1 group-title="KIDS" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",Baby First 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
