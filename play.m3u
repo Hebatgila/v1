@@ -1,29 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 75 | Paramount Network
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=528814715&_cdn_timestamp=1673418054&_cdn_token=0786aa97a2c51125734876515fc829635064cb53
-#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 76 | Sony Channel
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=528814755&_cdn_timestamp=1673418069&_cdn_token=45f5219030c41875d9cd455c92300f848a678956
-#EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="PELICULAS Y SERIES", 77 | Sony Movies
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=528815587&_cdn_timestamp=1673418203&_cdn_token=eec2e5f1b502b885dc59a642ada38c543ddb9a28
-#EXTINF:-1 tvg-id="USA | TBS" tvg-name="USA | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="PELICULAS Y SERIES", 86 | TBS
-http://45.179.164.9:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 87 | Studio Universal
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=528815811&_cdn_timestamp=1673418275&_cdn_token=9c8c6457b5696dd54b2b330452bedb0176d24700
-#EXTINF:-1 tvg-id="USA | Syfy" tvg-name="USA | Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/150px-SYFY.svg.png" group-title="PELICULAS Y SERIES", 88 | Syfy
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=528815915&_cdn_timestamp=1673418295&_cdn_token=4f345a537c783aaf58690fc6811e4ff47a36e7c9
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 112 | TNT
-http://45.179.164.9:8000/play/a032/index.m3u8
+#EXTINF:-1  tvg-name="The CW East" tvg-id="WPIXDT1.us" tvg-logo="https://i.imgur.com/envRlhX.png" group-title="Lifestyle & Entertainment",The CW East
+http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
+#EXTINF:-1  tvg-name="TLC" tvg-id="TLC" tvg-logo="https://i.imgur.com/eVWucpL.png" group-title="Lifestyle & Entertainment",TLC (EV)
+http://eaglevision.visualsec.net:8443/live/vT-FqLiT4JZij7eCzZV0QQ/1673208489/214.m3u8
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Lifestyle & Entertainment",TNT
+http://sverigeplay.tv/play/live.php?mac=10:27:be:15:df:31&stream=11580&extension=ts&play_token=YNh8behIPG
 
 
 
-#EXTINF:-1 group-title="Animación" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ns.png",BABY TV
-http://190.92.95.37:8000/play/a0ns/index.m3u8
-#EXTINF:-1 group-title="Animación" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r3.png",BABY FIRST
-http://190.92.95.37:8000/play/a0r3/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",Baby First 1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 group-title="KIDS" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",Baby First 3
 http://190.61.102.67:444/play/a01x
@@ -76,59 +61,6 @@ http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419277
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418044
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/220px-Universal_Kids_2019_Logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: UNIVERSAL KIDS
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418038
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/Comedy%20Central%20HD.png" group-title="openhd",Comedy Central East USA (1080p)
-https://webudi.openhd.lol/lb/premium310/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Freeform_2022.svg/revision/latest/scale-to-width-down/800?cb=20220902203358" group-title="openhd",Freefrom (720p)
-https://webudi.openhd.lol/lb/premium301/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/HBO%20HD.png" group-title="openhd",HBO East (1080p)
-https://webudi.openhd.lol/lb/premium321/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/TBS.png" group-title="openhd",TBS East (1080p)
-https://webudi.openhd.lol/lb/premium336/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/TNT%20HD.png" group-title="openhd",TNT East (1080p)
-https://webudi.openhd.lol/lb/premium338/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/TruTV%20HD.png" group-title="openhd",TruTV (720p)
-https://webudi.openhd.lol/lb/premium341/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/master/TV/.Light/USA%20Network%20HD.png" group-title="openhd",USA Network (720p)
-https://webudi.openhd.lol/lb/premium343/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="openhd",Disney Channel US
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="openhd",Disney XD US
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium314/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ks8i6wtocqqt2za/paramount.png?dl=1" group-title="openhd",Paramount Network
-https://webdi.openhd.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 group-title="openhd",CBS USA
-https://no2.openhd.lol/ddy1/premium52/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="openhd",ABC USA
-https://no2.openhd.lol/ddy1/premium51/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="openhd",FX USA
-https://webudi.openhd.lol/lb/premium317/index.m3u8
-#EXTINF:-1 group-title="openhd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" ,NBA TV Canada
-https://webdi.openhd.lol/lb/premium404/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://prtimes.jp/i/6942/382/origin/d6942-382-523584-0.png",NBA
-https://webudi.openhd.lol/cdn/eplayer0e87a84170da4646aa90528abfcbe2a9/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 Group-title="openhd"tvg-logo="https://i.imgur.com/lcpZ5CC.png" ,WWE Network
-https://webdi.openhd.lol/lb/premium376/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-name="BT SPORT 1" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png" group-title="openhd", BT SPORT 1
-https://webudi.openhd.lol/lb/premium31/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-name="BT SPORT 2" tvg-logo="https://media.info/i/lf/300/1647385004/1540.png" group-title="openhd", BT SPORT 2
-https://webudi.openhd.lol/lb/premium32/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-name="BT SPORT 3" tvg-logo="https://media.info/i/lf/0/1647385037/5712.png" group-title="openhd", BT SPORT 3
-https://webudi.openhd.lol/lb/premium33/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2084e3cjes89yv6/eurosport.png?dl=1" group-title="openhd",Eurosport 1 v2
-https://webdi.openhd.lol/ddy1/premium524/index.m3u8|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2084e3cjes89yv6/eurosport.png?dl=1" group-title="openhd",Eurosport 2 v2
-https://webdi.openhd.lol/ddy1/premium525/index.m3u8|referer=https://streamservicehd.click/
-
-
-
 
 
 
