@@ -1,41 +1,34 @@
 #EXTM3U
 
+#EXTINF:-1 ch-number="42" tvg-id="FXXEast.us" tvg-name="FXX" tvg-logo="https://i.imgur.com/M1SOklC.png" group-title="Movies & Series",[AdoboTV][✓YS] FXX
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg4OQ&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
 
+#EXTINF:-1 ch-number="43" tvg-id="HallmarkChannelEast.us" tvg-name="Hallmark Channel" tvg-logo="https://i.imgur.com/Q7tIT3Y.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Channel
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg5Mg&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
 
+#EXTINF:-1 ch-number="44" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://i.imgur.com/WBWUhmI.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Drama
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMzNQ&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
 
+#EXTINF:-1 ch-number="45" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://i.imgur.com/IyNMmzN.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Movies & Mysteries
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI5NA&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
+
+#EXTINF:-1 ch-number="64" tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="Movies & Series",[AdoboTV][✓YS] Showtime
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMyNw&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
+
+#EXTINF:-1 ch-number="65" tvg-id="StarMoviesIndia.in" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movies & Series",[AdoboTV][✓SM] Star Movies
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTE3&key=c2t5bW92aWVpcHR2QGQwQm8rVkphbnVhcnk2MjAyMw
+
+#EXTINF:-1 ch-number="66" tvg-id="StarMoviesSelectHD.in" tvg-name="Star Movies Select" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movies & Series",[AdoboTV][—EX] Star Movies Select
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAwNi9pbmRleC5tM3U4
 
 #EXTINF:-1  tvg-name="Starz" tvg-id="StarzEast.us" tvg-logo="https://i.imgur.com/lEFr7Rn.png" group-title="Test",Starz
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:B5:0D:7E&stream=9666&extension=ts
-#EXTINF:-1  tvg-name="Star Movies" tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Test",Star Movies
-http://sverigeplay.tv/play/live.php?mac=00:1A:79:B5:0D:7E&stream=136629&extension=ts
 #EXTINF:-1  tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Test",TNT
 http://sverigeplay.tv/play/live.php?mac=10:27:be:15:df:31&stream=11580&extension=ts&play_token=YNh8behIPG
 #EXTINF:-1  tvg-name="Disney Junior" tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.imgur.com/C9IYfga.png" group-title="Test",Disney Junior
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
 #EXTINF:-1  tvg-name="NBA TV" tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="Test",NBA TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
-#EXTINF:-1  tvg-name="CBS" tvg-id="CBSEast.us" tvg-logo="https://i.imgur.com/wxGbfd0.png" group-title="Test",CBS
-http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
-#EXTINF:-1  tvg-name="ABC" tvg-id="ABCEast.us" tvg-logo="https://i.imgur.com/al9Ly6O.png" group-title="Test",ABC
-http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
-#EXTINF:-1  tvg-name="The CW East" tvg-id="WPIXDT1.us" tvg-logo="https://i.imgur.com/envRlhX.png" group-title="Test",The CW East
-http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
-#EXTINF:-1  tvg-name="Dabl" tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/0EbItrr.png" group-title="Test",Dabl
-http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
-#EXTINF:-1  tvg-name="NBC" tvg-id="NBCEast.us" tvg-logo="https://i.imgur.com/EIrJDkt.png" group-title="Test",NBC
-http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-#EXTINF:-1  tvg-name="FOX 29" tvg-id="WTXFDT1.us" tvg-logo="https://i.imgur.com/LZxAS3b.png" group-title="Test",FOX 29
-http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
-#EXTINF:-1  tvg-name="FOX 5" tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/Qa3r2NA.png" group-title="Test",FOX 5
-http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
-#EXTINF:-1  tvg-name="Disney Channel" tvg-id="DisneyChannelEast.us" tvg-logo="https://i.imgur.com/RNfYJb2.png" group-title="Test",Disney Channel
-http://ky-iptv.com:80/live/Peaches1/Peaches1/176246.ts
-#EXTINF:-1  tvg-name="DreamWorks Channel" tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Test",DreamWorks Channel (ss123)
-http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=926185&extension=ts&play_token=9FlZNTmyTJ
-#EXTINF:-1 ch-number="42" tvg-id="StarMoviesSelectHD.in" tvg-name="Star Movies Select" tvg-logo="https://i.imgur.com/9nfdMUO.png" group-title="Test",Star Movies Select
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=862741&extension=ts&play_token=7797Sud1VB
-#EXTINF:-1 ch-number="44" tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Test",Syfy
-http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860317&extension=ts&play_token=qUFDgWsenK
 #EXTINF:-1 group-title="Test" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",Baby First 3
 http://190.61.102.67:444/play/a01x
 
