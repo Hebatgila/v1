@@ -1,22 +1,51 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="Sports", NBA TV USA
-https://m3u-editor.com/serve/tchtviptvplaylist/732177293
-#EXTINF: -1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/8ALe5r3.png" group-title="Sports", ESPN
-https://m3u-editor.com/serve/tchtviptvplaylist/732177285
-#EXTINF: -1 tvg-id="ESPN2.us" tvg-logo="https://i.imgur.com/ZnZQArh.png" group-title="Sports", ESPN 2
-https://m3u-editor.com/serve/tchtviptvplaylist/732177286
+#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="MYSIA/ASTRO",MY018:BERNAMA
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="" group-title="MYSIA/ASTRO",MY007:QUAN JIA
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY008:SHUANG XING" tvg-logo="" group-title="MYSIA/ASTRO",MY008:SHUANG XING
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="" group-title="MYSIA/ASTRO",MY009:Wah Lai Toi
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="" group-title="MYSIA/ASTRO",MY010:HUA HEE DAI
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="" group-title="MYSIA/ASTRO",MY011:AOD
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY012:AEC" tvg-logo="" group-title="MYSIA/ASTRO",MY012:AEC
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY021:XIAO TAI YANG" tvg-logo="" group-title="MYSIA/ASTRO",MY021:XIAO TAI YANG
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY022:SCM Legend" tvg-logo="" group-title="MYSIA/ASTRO",MY022:SCM Legend
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="MYSIA/ASTRO",MY023:TVB CLASSIC
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1712.m3u8
 
-#EXTINF: -1 tvg-id="STAR.Movies.HD.in" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movies", Star Movies
-https://m3u-editor.com/serve/tchtviptvplaylist/732177331
-#EXTINF: -1 tvg-id="STAR.Movies.Select.HD.in" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movies", Star Movies Select
-https://m3u-editor.com/serve/tchtviptvplaylist/732177332
-#EXTINF: -1 tvg-id="SONY.PIX.HD.in" tvg-name="Sony PIx" tvg-logo="https://imgur.com/F7V9Wp8.png" group-title="Movies", Sony Pix
-https://m3u-editor.com/serve/tchtviptvplaylist/732177333
-#EXTINF: -1 tvg-id="STIRRMovies.us" tvg-name="STIRR Movies" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="Movies", STIRR Movies
-https://m3u-editor.com/serve/tchtviptvplaylist/732177334
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ScreamFlix" tvg-chno="35" tvg-logo="https://i.imgur.com/IGiZM7E.png" group-title="Movies", ScreamFlix
-https://m3u-editor.com/serve/tchtviptvplaylist/732177335
+
+#EXTINF:-1 tvg-id="" tvg-name="MY067:WLT | JADE" tvg-logo="" group-title="MYSIA/ASTRO",MY067:WLT | JADE
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY069:CTI ASIA" tvg-logo="" group-title="MYSIA/ASTRO",MY069:CTI ASIA
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY070:TVB E-NEWS" tvg-logo="" group-title="MYSIA/ASTRO",MY070:TVB E-NEWS
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="" group-title="MYSIA/ASTRO",MY071:TVB XING HE HD
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="" group-title="MYSIA/ASTRO",MY072:TVBS ASIA HD
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71045.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY076:AOD 352 HD" tvg-logo="" group-title="MYSIA/ASTRO",MY076:AOD 352 HD
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="" group-title="MYSIA/ASTRO",MY077:AOD 353 HD
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY078:AOD 354 HD" tvg-logo="" group-title="MYSIA/ASTRO",MY078:AOD 354 HD
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY079:AOD 355 HD" tvg-logo="" group-title="MYSIA/ASTRO",MY079:AOD 355 HD
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="MYSIA/ASTRO",MY097:8TV
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="" group-title="MYSIA/ASTRO",MY169:SETi Chinese
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/71139.m3u8
 
 #EXTINF:-1  tvg-name="Starz" tvg-id="StarzEast.us" tvg-logo="https://i.imgur.com/lEFr7Rn.png" group-title="Test",Starz
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:B5:0D:7E&stream=9666&extension=ts
@@ -26,7 +55,7 @@ http://sverigeplay.tv/play/live.php?mac=10:27:be:15:df:31&stream=11580&extension
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
 #EXTINF:-1  tvg-name="NBA TV" tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="Test",NBA TV
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
-#EXTINF:-1 group-title="Test" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",Baby First 3
+#EXTINF:-1 group-title="Test" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",Baby First
 http://190.61.102.67:444/play/a01x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rjr6NK1/BABY-FIRST.png" group-title="USA KIDS 🇺🇸",🇺🇸US: BABY FIRST
