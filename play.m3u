@@ -1,25 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 ch-number="42" tvg-id="FXXEast.us" tvg-name="FXX" tvg-logo="https://i.imgur.com/M1SOklC.png" group-title="Movies & Series",[AdoboTV][✓YS] FXX
-https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg4OQ&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
+#EXTINF: -1 tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="Sports", NBA TV USA
+https://m3u-editor.com/serve/tchtviptvplaylist/732177293
+#EXTINF: -1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/8ALe5r3.png" group-title="Sports", ESPN
+https://m3u-editor.com/serve/tchtviptvplaylist/732177285
+#EXTINF: -1 tvg-id="ESPN2.us" tvg-logo="https://i.imgur.com/ZnZQArh.png" group-title="Sports", ESPN 2
+https://m3u-editor.com/serve/tchtviptvplaylist/732177286
 
-#EXTINF:-1 ch-number="43" tvg-id="HallmarkChannelEast.us" tvg-name="Hallmark Channel" tvg-logo="https://i.imgur.com/Q7tIT3Y.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Channel
-https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxNzg5Mg&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
-
-#EXTINF:-1 ch-number="44" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://i.imgur.com/WBWUhmI.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Drama
-https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMzNQ&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
-
-#EXTINF:-1 ch-number="45" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://i.imgur.com/IyNMmzN.png" group-title="Movies & Series",[AdoboTV][✓YS] Hallmark Movies & Mysteries
-https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODI5NA&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
-
-#EXTINF:-1 ch-number="64" tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="Movies & Series",[AdoboTV][✓YS] Showtime
-https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci95c3VzZXJzLnBocD9jaGFubmVsPTQxODMyNw&key=eXN1c2Vyc0BkMEJvK1ZKYW51YXJ5NjIwMjM
-
-#EXTINF:-1 ch-number="65" tvg-id="StarMoviesIndia.in" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movies & Series",[AdoboTV][✓SM] Star Movies
-https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTE3&key=c2t5bW92aWVpcHR2QGQwQm8rVkphbnVhcnk2MjAyMw
-
-#EXTINF:-1 ch-number="66" tvg-id="StarMoviesSelectHD.in" tvg-name="Star Movies Select" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movies & Series",[AdoboTV][—EX] Star Movies Select
-https://iptv-sniper.herokuapp.com/gatekeeper.php?token=cDlGWVM4Z1FWUFA0R3NJOE5QbEVBRUVQUUM3RDM4OUxrcnpvUU5mUEBkMEJvK1ZKYW51YXJ5NjIwMjM&channel=aHR0cDovLzEwMy4xNjIuMTM2LjIzNTo0NTAwL3BsYXkvYTAwNi9pbmRleC5tM3U4
+#EXTINF: -1 tvg-id="STAR.Movies.HD.in" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movies", Star Movies
+https://m3u-editor.com/serve/tchtviptvplaylist/732177331
+#EXTINF: -1 tvg-id="STAR.Movies.Select.HD.in" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movies", Star Movies Select
+https://m3u-editor.com/serve/tchtviptvplaylist/732177332
+#EXTINF: -1 tvg-id="SONY.PIX.HD.in" tvg-name="Sony PIx" tvg-logo="https://imgur.com/F7V9Wp8.png" group-title="Movies", Sony Pix
+https://m3u-editor.com/serve/tchtviptvplaylist/732177333
+#EXTINF: -1 tvg-id="STIRRMovies.us" tvg-name="STIRR Movies" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="Movies", STIRR Movies
+https://m3u-editor.com/serve/tchtviptvplaylist/732177334
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ScreamFlix" tvg-chno="35" tvg-logo="https://i.imgur.com/IGiZM7E.png" group-title="Movies", ScreamFlix
+https://m3u-editor.com/serve/tchtviptvplaylist/732177335
 
 #EXTINF:-1  tvg-name="Starz" tvg-id="StarzEast.us" tvg-logo="https://i.imgur.com/lEFr7Rn.png" group-title="Test",Starz
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:B5:0D:7E&stream=9666&extension=ts
