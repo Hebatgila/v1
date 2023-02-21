@@ -22,6 +22,20 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz" refresh="3600"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+
+
+
+#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", BEIN 1 (192.168.240.35)
+http://103.167.167.5:8111/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", BEIN 3 (192.168.240.25)
+http://103.167.167.5:8111/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", HAARI DRAMA (192.168.240.9)
+http://103.167.167.5:8111/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", HAARI KIDS (192.168.240.7)
+http://103.167.167.5:8111/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", HAARI MOVIES (192.168.240.8)
+http://103.167.167.5:8111/play/a00h/index.m3u
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="India MPD", Comedy Central  
