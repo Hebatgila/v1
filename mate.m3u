@@ -25,16 +25,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", BEIN 1 (192.168.240.35)
-http://103.167.167.5:8111/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", BEIN 3 (192.168.240.25)
-http://103.167.167.5:8111/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", HAARI DRAMA (192.168.240.9)
-http://103.167.167.5:8111/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", HAARI KIDS (192.168.240.7)
-http://103.167.167.5:8111/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO", HAARI MOVIES (192.168.240.8)
-http://103.167.167.5:8111/play/a00h/index.m3u
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
@@ -658,12 +649,99 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb
 
 
 
-#EXTINF:-1 group-title="Malaysia",Jackie Chan 24/7
-http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-#EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="Malaysia", MY - SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 xui-id="3334154" tvg-id="SPOTV.my" tvg-name="MY: SPOTV" tvg-logo="" group-title="Malaysia",MY - SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",ShuangXing🇲🇾
+https://epg.pw/stream/22b6831804629b29640923b43381773b3d2c248329ac1eb2210ad2adff001432.ctv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",TV•1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/158357
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",TV•2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/158355
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",TV•3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/158360
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",NTV•7
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/174695
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",TV•9
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/171953
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",TV•Alhijrah
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157491
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Warner•TV
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157550
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Astro•Arena
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157485
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•Awani
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157478
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•Ceria
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157481
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Astro•Cricket
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157565
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•Oasis
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157489
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•Ria
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/158347
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•SuperSport 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/146068
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•SuperSport 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157556
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•SuperSport 3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157557
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•SuperSport 4
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157558
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•SuperSport 5
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=918982&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",•AXN
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157542
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",BBC•Earth
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/171979
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",beIN•Sports
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157561
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Boomerang
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/171955
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",BWF TV
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/296415
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Cartoon•Network
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/174684
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Celestial•Movies
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/174687
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Chutti•TV
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157495
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Cinema•World
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/171956
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Discovery•Science
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157530
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Disney•XD
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157544
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Egg•Network
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157484
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",FOXSPORTS 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157488
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",HGTV Asia
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157553
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Hits
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157545
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Now Family Flix
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/296889
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",NATGEO Wild
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/174724
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Nick•Junior
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157546
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",nickelodeon
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157541
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",Media.Corp
+http://103.167.167.5:8111/play/a00y/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",CHANNEL™8
+http://103.167.167.5:8111/play/a016/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",ZHEJIANG
+http://103.167.167.5:8111/play/a01n/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",SET™INT
+http://103.167.167.5:8111/play/a013/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",SET™TV
+http://103.167.167.5:8111/play/a012/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",MING™XE
+http://103.167.167.5:8111/play/a00w/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",FJTV™
+http://103.167.167.5:8111/play/a005/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Malaysia",CETV1™
+http://103.167.167.5:8111/play/a002/index.m3u8
 
 
 
