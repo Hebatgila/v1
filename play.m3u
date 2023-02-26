@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1  tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Test",TNT
 http://sverigeplay.tv/play/live.php?mac=10:27:be:15:df:31&stream=11580&extension=ts&play_token=YNh8behIPG
 #EXTINF:-1  tvg-name="Disney Junior" tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.imgur.com/C9IYfga.png" group-title="Test",Disney Junior
