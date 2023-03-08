@@ -55,52 +55,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX (4K)*" tvg-logo="http://openboxv8s.com/india/sony_pix_in.png" group-title="India MPD",SONY PIX (4K)
-http://xtv.ooo:8080/6833/6833/109966
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://openboxv8s.com/india/movies_now.png" group-title="India MPD",Movies Now (4K)
-http://xtv.ooo:8080/6833/6833/109968
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg" group-title="India MPD",STAR MOVIES (4K)
-http://xtv.ooo:8080/6833/6833/109970
-#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="STAR WORLD (4K)" tvg-logo="http://openboxv8s.com/india/star_world_in_hd.jpg" group-title="India MPD",STAR WORLD (4K)
-http://xtv.ooo:8080/6833/6833/109971
-#EXTINF:-1 tvg-id="starpremierehd.in" tvg-name="STAR WORLD PREM (4K)" tvg-logo="http://openboxv8s.com/india/star_world_premiere_hd_in.jpg" group-title="India MPD",STAR WORLD PREM (4K)
-http://xtv.ooo:8080/6833/6833/109972
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="IN | Movies Now FHD*" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="India MPD",IN | Movies Now FHD*
-http://xtv.ooo:8080/6833/6833/206309
-#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="India MPD",IN | Star World HD
-http://xtv.ooo:8080/6833/6833/66211
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="India MPD",IN | Star Movies FHD
-http://xtv.ooo:8080/6833/6833/66213
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN | Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="India MPD",IN | Sony Pix HD
-http://xtv.ooo:8080/6833/6833/66224
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN | &Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="India MPD",IN | &Prive HD
-http://xtv.ooo:8080/6833/6833/66228
-#EXTINF:-1 tvg-id="axnhd.in" tvg-name="IN | Hbo HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="India MPD",IN | Hbo HD
-http://xtv.ooo:8080/6833/6833/66229
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="India MPD",IN | & Flix HD
-http://xtv.ooo:8080/6833/6833/66236
-#EXTINF:-1 tvg-id="" tvg-name="& Xplorer [FHD] " tvg-logo="" group-title="India MPD",& Xplorer [FHD] 
-http://xtv.ooo:8080/6833/6833/66241
-#EXTINF:-1 tvg-id="" tvg-name="IN | Romdy Now HD @" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="India MPD",IN | Romdy Now HD @
-http://xtv.ooo:8080/6833/6833/66244
-#EXTINF:-1 tvg-id="mnx.in" tvg-name="IN: MNX HD*" tvg-logo="https://static.epg.best/in/MNPlus.in.png" group-title="India MPD",IN: MNX HD*
-http://xtv.ooo:8080/6833/6833/66266
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="IN | Movies Now HD*" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="India MPD",IN | Movies Now HD*
-http://xtv.ooo:8080/6833/6833/66271
-#EXTINF:-1 tvg-id="" tvg-name="IN | BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="India MPD",IN | BBO HD
-http://xtv.ooo:8080/6833/6833/66277
-#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="IN | Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="India MPD",IN | Fox Life FHD
-http://xtv.ooo:8080/6833/6833/66278
-#EXTINF:-1 tvg-id="romedynowhdin.in" tvg-name="IN | Romedy Now*" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="India MPD",IN | Romedy Now*
-http://xtv.ooo:8080/6833/6833/66282
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="IN | Zee Cafe HD*" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="India MPD | Zee Cafe HD*
-http://xtv.ooo:8080/6833/6833/66287
-#EXTINF:-1 tvg-id="" tvg-name="IN | AXN HD" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="India MPD",IN | AXN HD
-http://xtv.ooo:8080/6833/6833/66313
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN | Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="India MPD",IN | Star Movies Select HD
-http://xtv.ooo:8080/6833/6833/66315
-#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="IN | Star World Premier HD*" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" group-title="India MPD",IN | Star World Premier HD*
-http://xtv.ooo:8080/6833/6833/66321
+
 
 
 <----------------------------------- TEMP COUNTRY --------------------------------------->
@@ -1689,11 +1644,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1  tvg-id="SPOTV2.kr" tvg-name="SPOTV2" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png" group-title="SPORTS", SpoTV 2 
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="SPORTS", SPOTV Backup
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPOTV2" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png" group-title="SPORTS", SPOTV2 Backup
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-
 #EXTINF:-1  tvg-id="ext" group-title="SPORTS" tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png",Red Bull TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
@@ -1746,34 +1696,7 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SPORTS",AstroSuperSport_1
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SPORTS",AstroSuperSport_2
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="SPORTS",AstroSuperSport_3
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SPORTS",AstroSuperSport_4
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157558
 
-#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN 2 HD" tvg-logo="https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif" group-title="SPORTS", USA|ESPN 2 HD
-http://iptvglobal.site:25461/LionTv/r1942G22hz/86729
-#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN HD" tvg-logo="https://i.picasion.com/pic92/93bd3253b3569e17d13701625f271013.gif"  group-title="SPORTS", USA|ESPN HD
-http://iptvglobal.site:25461/LionTv/r1942G22hz/86730
-
-#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 1" tvg-logo="https://i.picasion.com/pic92/6b76912db928c5dcb12bde0ed5c42647.gif"  group-title="SPORTS", USA:FOX SPORTS 1
-http://iptvglobal.site:25461/LionTv/r1942G22hz/86814
-#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 2" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title="SPORTS", USA:FOX SPORTS 2
-http://iptvglobal.site:25461/LionTv/r1942G22hz/86815
-
-#EXTINF:-1 tvg-id="" tvg-name="PPVV| NBA TV HD" tvg-logo="https://i.picasion.com/pic92/fb98d559e010ac2eef54d69cc0001638.gif" group-title="SPORTS", NBA TV HD
-http://iptvglobal.site:25461/LionTv/r1942G22hz/86299
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-symbol-png-10.png" group-title="SPORTS",WWE Network
-http://iptvglobal.site:25461/LionTv/r1942G22hz/88732
-
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BT SPORT 1" tvg-logo="http://iptvglobal.site:25461/images/c31c54a6d1e57319a81e48388fd5107e.png" group-title="SPORTS",BT.SPORT 1
-http://iptvglobal.site:25461/LionTv/r1942G22hz/156529
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BT SPORT 3" tvg-logo="http://iptvglobal.site:25461/images/0c48c0c166574ae4b10e94c96612cdda.png" group-title="SPORTS",BT.SPORT 3
-http://iptvglobal.site:25461/LionTv/r1942G22hz/156531
 
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
