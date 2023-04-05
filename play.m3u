@@ -4,6 +4,36 @@
 https://epg.pw/stream/013ebc78bfc7913428e0e76f56102bd84a5b7b9d2d2024c5698db402b3d3d0fd.ctv
 #EXTINF:-1, USA Network
 https://epg.pw/stream/c272143b8ec9319b3f8e176845df00a4d8f4c15263dd6a4c6179fa70f9e6d06b.ctv
+#EXTINF:-1, NBA Premium
+https://epg.pw/stream/b4426017d5f427bb8297be76164cbd02a7f4b9beecb9a310ddce351cf2731796.ctv
+#EXTINF:-1, WWE Network
+https://epg.pw/stream/51f524348f551c450aafc0449f9df2fa593941f5d5841507553cb8f82ad30c17.ctv
+#EXTINF:-1, ESPN
+https://epg.pw/stream/7416cf37010341bc6bf6e611d580174314d591d63b1f2cd6882f91c694051c0c.ctv
+#EXTINF:-1, X-Desire
+https://epg.pw/stream/d4f89b61cf4ddfa45a26b5b5ec38dff9c63bb052a366f42bda7431b01a3d2700.m3u8
+#EXTINF:-1, Playboy TV
+https://epg.pw/stream/0b1a53e4b68a204660b9ee10b8e94a9bc49b42ca8958b175ef3d3bbbaa8b816f.ctv
+#EXTINF:-1, Playboy TV
+https://epg.pw/stream/c734b73536ebbe6f40274702d63c3a517d70a755a0072cc2da7d4f214b4e2f93.m3u8
+#EXTINF:-1, CBS
+https://epg.pw/stream/c430e52d4a5f355e0cc9d5507eb9c54d3b6a6605d279fbe6380cfaf06efd6539.ctv
+#EXTINF:-1, BEAUTY_TV
+https://epg.pw/stream/28b059cf4803e3665eb65fb776d266ab076b005b509a7b9db53ad52b0df42441.ctv
+#EXTINF:-1, Showtime
+https://epg.pw/stream/11121af18c5aa35ca896c149a2a6472e3709834b69ade9cbdc9d91eeac239c08.ctv
+#EXTINF:-1, Star Movies
+https://epg.pw/stream/6c7f6234956111b5faf3a818adf7a92ac20503a47aed8844a47b1fa957ec2bd5.ctv
+#EXTINF:-1, Starz
+https://epg.pw/stream/86c69ceab5a12b814e332e142421260024098c0a02367d6d11adbf62a4185faa.ctv
+#EXTINF:-1, SyFy
+https://epg.pw/stream/b5895b2b84069368684cc8efa1cfcf615126b62162bd7af4863ee1ed82a6e75f.ctv
+#EXTINF:-1, TNT
+https://epg.pw/stream/2f023881000a3bf45b79a99958828ec90302dcaaa30145a3c983be1d0e233734.ctv
+#EXTINF:-1, CBS NETWORK
+https://epg.pw/stream/a81c51b4495e299a25b39208af8437200776690f01d6136ef40987b6f0ac6336.ctv
+
+
 
 
 #EXTINF:-1 tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Test",TNT
