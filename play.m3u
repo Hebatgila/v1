@@ -6,7 +6,7 @@ https://epg.pw/stream/013ebc78bfc7913428e0e76f56102bd84a5b7b9d2d2024c5698db402b3
 https://epg.pw/stream/c272143b8ec9319b3f8e176845df00a4d8f4c15263dd6a4c6179fa70f9e6d06b.ctv
 
 
- tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Test",TNT
+#EXTINF:-1 tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Test",TNT
 http://sverigeplay.tv/play/live.php?mac=10:27:be:15:df:31&stream=11580&extension=ts&play_token=YNh8behIPG
 #EXTINF:-1  tvg-name="Disney Junior" tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.imgur.com/C9IYfga.png" group-title="Test",Disney Junior
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
