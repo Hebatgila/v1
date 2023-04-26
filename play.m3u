@@ -1,77 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, USA Network
-https://epg.pw/stream/56fbdbe8e72f7c2dd91217b2c9320dbc7e8f6b21791ad9feeb8eb4cb864ae86a.ctv
-#EXTINF:-1, USA Network 1
-https://epg.pw/stream/642e6db5fe56dd04cdfe9f58cb3caf08a33da6ae4bd581bc1f531a9ee49249f7.ctv
-#EXTINF:-1, USA Network 2
-https://epg.pw/stream/276251a98d114cdbbfd728d7f6d23c455d8a00662eefabd4ac71d5a9da9d19cf.ctv
-#EXTINF:-1, Freeform
-https://epg.pw/stream/3a83ccf0aeaf7cb6dad0e84d76f52fe86407f61846d5a678d697b6843d0359df.ctv
-#EXTINF:-1, TruTV
-https://epg.pw/stream/f83be7610a97cadc35a8b08fd1795930e43c0eb073e938674bdc3ac4d8e536d8.ctv
 
-#EXTINF:-1, Fight Network
-https://epg.pw/stream/013ebc78bfc7913428e0e76f56102bd84a5b7b9d2d2024c5698db402b3d3d0fd.ctv
-#EXTINF:-1, ESPN Network (SEC)
-https://epg.pw/stream/c272143b8ec9319b3f8e176845df00a4d8f4c15263dd6a4c6179fa70f9e6d06b.ctv
-#EXTINF:-1, ORAGON Sport
-https://epg.pw/stream/f6545da8a84d161e84ad600be7c0a72e4f6a6de307a21c62f7b99f31e4203fbd.ctv
-#EXTINF:-1, FANDUAL TV
-https://epg.pw/stream/2b9d0b4261262da427e1afac55d322866f0b9803860f0b24e6df929a4a81a9c3.ctv
-#EXTINF:-1, MMA
-https://epg.pw/stream/3b3a166dca15667945c06cd7ac1909832680e0d740f4297bcb701ce6789ebe2d.ctv
-#EXTINF:-1, ACCN ESPN
-https://epg.pw/stream/e14f17e2b64d4ce76b8f6a83e2eae4901051b974e92137af4c1e6bc7412983d8.ctv
-#EXTINF:-1, MLB
-https://epg.pw/stream/82f3b66df1d4307289be54cae33ac699c971d888430cf5a80dc47d563bf84233.ctv
-#EXTINF:-1, NHL
-https://epg.pw/stream/2ca1dfd8c2d32c60ab17a659f8a8361394c07c6012b1540a644a6274ec7b9da0.ctv
-#EXTINF:-1, YES
-https://epg.pw/stream/b60b198dda8ea39385e8799eee3f508fa290d74e8a4b49b74ff75e4cf4a7c4db.ctv
-#EXTINF:-1, Magnolia Network
-https://epg.pw/stream/bb516563420372d9501bc74642f111f769d69b40763091540c3cbcd79ac4b39c.ctv
-
-
-#EXTINF:-1, Paramount Network 1
-https://epg.pw/stream/8c8acb77c37ba800c002ed16dd89ca15c252e06741fe4823df38e66e88c5c9ad.ctv
-#EXTINF:-1, Paramount Network 3
-https://epg.pw/stream/98e6abf7a0f91ad5434e935fed2e3ca98a2b123109b4345e5fd960ca4c043726.ctv
-
-#EXTINF:-1, WWE Network
-https://epg.pw/stream/51f524348f551c450aafc0449f9df2fa593941f5d5841507553cb8f82ad30c17.ctv
-#EXTINF:-1, ESPN
-https://epg.pw/stream/7416cf37010341bc6bf6e611d580174314d591d63b1f2cd6882f91c694051c0c.ctv
-#EXTINF:-1, CBS
-https://epg.pw/stream/c430e52d4a5f355e0cc9d5507eb9c54d3b6a6605d279fbe6380cfaf06efd6539.ctv
-#EXTINF:-1, Showtime
-https://epg.pw/stream/11121af18c5aa35ca896c149a2a6472e3709834b69ade9cbdc9d91eeac239c08.ctv
-#EXTINF:-1, Starz
-https://epg.pw/stream/86c69ceab5a12b814e332e142421260024098c0a02367d6d11adbf62a4185faa.ctv
-
-#EXTINF:-1, Playboy TV 1
-https://epg.pw/stream/0b1a53e4b68a204660b9ee10b8e94a9bc49b42ca8958b175ef3d3bbbaa8b816f.ctv
-#EXTINF:-1, Playboy TV 2
-https://epg.pw/stream/c734b73536ebbe6f40274702d63c3a517d70a755a0072cc2da7d4f214b4e2f93.m3u8
-
-#EXTINF:-1, Playboy TV 6
-https://epg.pw/stream/72e51f496009b89f9b34f76f2bff8fcbb912d5bef92a6f0eed333ca45001ac5f.m3u8
-#EXTINF:-1, Playboy TV 9
-https://epg.pw/stream/d8d98b562d02d93c55f96c828adce5c9d567bb0d87ed8d82c685b9abd48ce829.m3u8
-#EXTINF:-1, Playboy TV 11
-https://epg.pw/stream/b1832fdb59d7795c7d90c34a45c2e07f717039aefc87f9ba8d95848f85d42c4f.m3u8
-#EXTINF:-1, Playboy TV 15
-https://epg.pw/stream/9abfb88b660022bb15594d7724eded5893f65bf357d4e2b5ed70df7cbb3b813f.m3u8
-#EXTINF:-1, Playboy TV 16
-https://epg.pw/stream/85868ac8b718857ba9fc204c2c14b3f45edd1f9c4bb9930fde8855fcef2d046e.m3u8
-#EXTINF:-1, Playboy TV 18
-https://epg.pw/stream/20eb6758816efb35f5720ce84b68fe0ca789f8396b15cd4b365556756847c780.m3u8
-#EXTINF:-1, Playboy TV 19
-https://epg.pw/stream/959dcf6fdf5070fbc28fb322a4d4a2772dd3bce935b8a4880fe2858d9fc8b97e.m3u8
-#EXTINF:-1, Playboy TV 20
-https://epg.pw/stream/eabb8a43397f03bc2794242cd3838d0f9fd5a82b67c0021bfa7620901699cae5.m3u8
-#EXTINF:-1, Playboy TV 22
-https://epg.pw/stream/95c77f1d37af4629352a0c7ee7d1a12ba2c50037df524fefd57f86ccf230e2f0.m3u8
 
 
 
@@ -83,83 +12,15 @@ http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
 #EXTINF:-1 group-title="Test" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",Baby First
 http://190.61.102.67:444/play/a01x
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rjr6NK1/BABY-FIRST.png" group-title="USA KIDS 🇺🇸",🇺🇸US: BABY FIRST
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418035
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/cb/cb647cf1e1fc1bc0d0165c36b7ec227d.png" group-title="USA KIDS 🇺🇸",🇺🇸US: BOOMERANG
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418036
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: CARTOON NETWORK
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418037
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Cartoon Network (West)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419270
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_(2014).svg/1200px-Disney_Channel_logo_(2014).svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: DISNEY CHANNEL
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418033
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LzzbVc18-vo/UaIsNVYWrGI/AAAAAAAACkY/gvKSMjbyb4A/s1600/DisneyChannelEARS.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Disney Channel (West)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419271
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="USA KIDS 🇺🇸",🇺🇸US: DISNEY JR.
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418042
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Disney Junior (West)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419272
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6mNMjGy/DISNEY-XD.png" group-title="USA KIDS 🇺🇸",🇺🇸US: DISNEY XD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418034
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6mNMjGy/DISNEY-XD.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Disney XD (West)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419273
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="USA KIDS 🇺🇸",🇺🇸US: HAPPYKIDS
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418045
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="USA KIDS 🇺🇸",🇺🇸US: HAPPYKIDS JR
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418046
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/38/USAK3508716A_20210323T125644.png" group-title="USA KIDS 🇺🇸",🇺🇸US: KIDOODLE.TV
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418041
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: NICK JR
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418031
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Nick Jr (West)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419274
-#EXTINF:-1 tvg-logo="https://clipground.com/images/nickelodeon-clipart-3.png" group-title="USA KIDS 🇺🇸",🇺🇸US: NICKELODEON
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418039
-#EXTINF:-1 tvg-logo="https://clipground.com/images/nickelodeon-clipart-3.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Nickelodeon (West)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419275
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DK68W0z/NICKTOONS.png" group-title="USA KIDS 🇺🇸",🇺🇸US: NICKTOONS
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418032
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DK68W0z/NICKTOONS.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Nicktoons (West)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419276
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: PBS KIDS
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418040
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: TEENNICK
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: TeenNick (West)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419277
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20201028T004919.png" group-title="USA KIDS 🇺🇸",🇺🇸US: THE LEGO CHANNEL
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418044
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/220px-Universal_Kids_2019_Logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: UNIVERSAL KIDS
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418038
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" Group-title="Testing",Eurosport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" Group-title="Test",Eurosport 1
 https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" Group-title="Testing",Eurosport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" Group-title="Test",Eurosport 2
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" Group-title="Testing" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLU PLAY 1 HD
+#EXTINF:0 type="stream" channelId="-1" Group-title="Test" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLU PLAY 1 HD
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" Group-title="Testing" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLU PLAY 2 HD
+#EXTINF:0 type="stream" channelId="-1" Group-title="Test" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLU PLAY 2 HD
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 
-
-#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" ,RTHK 31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-
-#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/RTHK.png/revision/latest/scale-to-width-down/210?cb=20140629082053",RTHK 32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-
-
-#EXTINF:-1 group-title="🇨🇳",中台灣生活網
-http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="🇨🇳",幸福空间居家台
-https://git.io/JgYYF
 
 
 
