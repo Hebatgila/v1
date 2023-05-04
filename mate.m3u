@@ -1510,86 +1510,86 @@ http://rr3.dens.tv/s/s63/index2.m3u8
 http://rr2.dens.tv/s/s38/01.m3u8
 
 <----------------------------------- SPORTS --------------------------------------->
-#EXTINF:-1 tvg-id="MNCSports.id" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/MNCSports_v1.png" ch-number="102",MNC Sports
+#EXTINF:-1 tvg-id="MNCSports.id" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/MNCSports_v1.png" ch-number="102",MNC Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MNCSports-HD
 https://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 
-#EXTINF:-1 tvg-id="MNCSports2.id" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/MNCSports2_v2.png" ch-number="98",MNC Sports 2
+#EXTINF:-1 tvg-id="MNCSports2.id" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/MNCSports2_v2.png" ch-number="98",MNC Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MNCSports2-HD
 https://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-id="MNCSports3.id" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/MNCSports3_v2.png" ch-number="99",MNC Sports 3 
+#EXTINF:-1 tvg-id="MNCSports3.id" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/MNCSports3_v2.png" ch-number="99",MNC Sports 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MNCSports3-HD
 https://anevia114.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 
-#EXTINF:-1 tvg-id="SoccerChannel.id" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/SoccerChannel_v1.png" ch-number="101",Soccer Channel
+#EXTINF:-1 tvg-id="SoccerChannel.id" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/SoccerChannel_v1.png" ch-number="101",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/soccerchannel-HD
 https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id="FightSports" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/FightSports.png" ch-number="304",Fight Sports
+#EXTINF:-1 tvg-id="FightSports" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/FightSports.png" ch-number="304",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/FightSports
 https://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF: -1 tvg-id="SPOTV.id" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="307" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",SPOTV (Indonesia Feed)
+#EXTINF: -1 tvg-id="SPOTV.id" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="307" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",SPOTV (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/SPOTV-HD
 https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="308" tvg-id="SPOTV2.id" tvg-chno="SPOTV2" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 (Indonesia Feed)
+#EXTINF:-1 group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="308" tvg-id="SPOTV2.id" tvg-chno="SPOTV2" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/SPOTV2-HD
 https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="SPOTVAsia" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",SPOTV (Asia Feed)
+#EXTINF:-1 tvg-id="SPOTVAsia" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",SPOTV (Asia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/spotvnow/spotv_asia/
 https://bcovlive-a.akamaihd.net/360fe9a897014bf5b46d629fb471e264/ap-northeast-1/6271486521001/playlist.mpd
 
-#EXTINF:-1 group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-id="SPOTV2" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 (SPOTV NOW Malaysia Feed)
+#EXTINF:-1 group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-id="SPOTV2" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 (SPOTV NOW Malaysia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/spotvnow/spotv2_my/
 https://bcovlive-a.akamaihd.net/7133d2d3d61c47758d6d6f4c181b521a/ap-northeast-1/6271486521001/playlist.mpd
 
-#EXTINF:-1 group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-id="SPOTV2Asia" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 (Asia Feed)
+#EXTINF:-1 group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-id="SPOTV2Asia" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 (Asia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/spotvnow/spotv2_asia/
 https://bcovlive-a.akamaihd.net/dd0e853b56444b5daba0f7f0d9d63788/ap-northeast-1/6271486521001/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/sonyliv/sonysportsten/1
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/180?cb=20221025083646&format=png" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png",Sony Sports Ten 1
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/180?cb=20221025083646&format=png" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png",Sony Sports Ten 1
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/sonyliv/sonysportsten/2
-#EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500&format=png" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png",Sony Sports Ten 2
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500&format=png" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png",Sony Sports Ten 2
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/sonyliv/sonysportsten/3
-#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest?cb=20221025085433&format=png" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png",Sony Sports Ten 3
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest?cb=20221025085433&format=png" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png",Sony Sports Ten 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/sonyliv/sonysportsten/5
-#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest?cb=20221025091902&format=png" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png",Sony Sports Ten 5 HD
+#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest?cb=20221025091902&format=png" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png",Sony Sports Ten 5 HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=b6f0ec073a7aba8cac61cd44fd78bf3f&key=c1ae5fbd637e0f212bf36f7614b629c9
-#EXTINF:-1 tvg-id="CHN" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/VidioEPL.png",Vidio Premier League
+#EXTINF:-1 tvg-id="CHN" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/VidioEPL.png",Vidio Premier League
 https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=df7d346ad39e5df8915ecedb930f17e5&key=d453a05f485678e446a27432b2ec500d
-#EXTINF:-1 tvg-id="CHN" group-title=“SPORTS” group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/NBATV.png",Vidio NBA TV
+#EXTINF:-1 tvg-id="CHN" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/NBATV.png",Vidio NBA TV
 https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94cb695cb1162/index.mpd
 
 
@@ -1692,52 +1692,52 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FN9jUug.png"  group-title="KIDS",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickJr" group-title=""KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/NickJr.png" ch-number="37",Nick Jr (Indonesia Feed)
+#EXTINF:-1 tvg-id="NickJr" group-title="KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/NickJr.png" ch-number="37",Nick Jr (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/NickJr-HDD
 https://anevia114.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-id="MiaoMi.hk" group-title=""KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/MiaoMi.png" ch-number="38",Miao Mi
+#EXTINF:-1 tvg-id="MiaoMi.hk" group-title="KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/MiaoMi.png" ch-number="38",Miao Mi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MiaoMi
 https://anevia114.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:-1 tvg-id="Boomerang" group-title=""KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png?w=213" ch-number="39",Boomerang (Indonesia Feed)
+#EXTINF:-1 tvg-id="Boomerang" group-title="KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png?w=213" ch-number="39",Boomerang (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/Boomerang
 https://anevia114.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:-1 tvg-id="BabyTVAsia.uk" group-title=""KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png" ch-number="40",Baby TV HD (Indonesia Feed)
+#EXTINF:-1 tvg-id="BabyTVAsia.uk" group-title="KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png" ch-number="40",Baby TV HD (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/BabyTV-NewHD
 https://anevia114.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" group-title=""KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" ch-number="41",CBeebies (Indonesia Feed)
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" group-title="KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" ch-number="41",CBeebies (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/Cbeebies
 https://anevia114.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="KidsTV.id" group-title=""KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/KidsTV.png" ch-number="46",Kids TV
+#EXTINF:-1 tvg-id="KidsTV.id" group-title="KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/KidsTV.png" ch-number="46",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/KidsChannel
 https://anevia114.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title=""KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png" ch-number="47",Cartoon Network (Indonesia Feed)
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png" ch-number="47",Cartoon Network (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/CartoonNetwork
 https://anevia114.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title=""KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/Nickelodeon2023.png" ch-number="49",Nickelodeon (Indonesia Feed)
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="KIDS" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/Nickelodeon2023.png" ch-number="49",Nickelodeon (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/Nickelodeon
 https://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="Animax" ch-number="157" group-title=""KIDS" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax (Indonesia Feed)
+#EXTINF:-1 tvg-id="Animax" ch-number="157" group-title="KIDS" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/Animax
 https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title=""KIDS" tvg-logo="https://aqfadtv.xyz/logos/Aniplus.png",Aniplus
+#EXTINF:-1 tvg-id="CHN" group-title="KIDS" tvg-logo="https://aqfadtv.xyz/logos/Aniplus.png",Aniplus
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115609.ts
 
 
