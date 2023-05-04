@@ -14,15 +14,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="AOTG All;Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" ch-number="559",559 National Geographic ID HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TU1NncQb5D9SiklAz2bxTA","kid":"1RmfFROgKG4Dja6PfYIAEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="AOTG All;Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" ch-number="559",559 National Geographic ID HD 1
 https://anevia115.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TU1NncQb5D9SiklAz2bxTA","kid":"1RmfFROgKG4Dja6PfYIAEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="NationalGeographicWild" tvg-name="National Geographic Wild HD" group-title="AOTG All;Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" ch-number="558",558 National Geographic Wild ID HD
-https://anevia115.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 
 
