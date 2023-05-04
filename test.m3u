@@ -1,692 +1,5 @@
 
 
-#EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/TV1.png",101 TV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711
-https://aqfadtv.xyz/live/tv1/index.mpd
-
-#EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/TV2_v2.png",102 TV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027
-https://aqfadtv.xyz/live/tv2/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/TV3.png",103 TV3
-https://aqfadtv.xyz/live/tv3/index.mpd
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" group-logo="https://aqfadtv.xyz/images/astro_v2.png" tvg-logo="https://aqfadtv.xyz/logos/AstroRia.png",104 Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-https://aqfadtv.xyz/live/ria/index.mpd
-
-#EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" group-logo="https://aqfadtv.xyz/images/astro_v2.png" tvg-logo="https://aqfadtv.xyz/logos/AstroPrima.png",105 Astro Prima
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
-https://aqfadtv.xyz/live/prima/index.mpd
-
-#EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://aqfadtv.xyz/logos/DramaSangat.png",Drama Sangat
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
-
-#EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" group-logo="https://aqfadtv.xyz/images/astro_v2.png" tvg-logo="https://aqfadtv.xyz/logos/AstroOasis.png",106 Astro Oasis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505/
-https://aqfadtv.xyz/live/oasis/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://aqfadtv.xyz/logos/AstroWarna.png",107 Astro Warna
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&extension=ts&play_token=1kEm8DbZmS
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700/
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://aqfadtv.xyz/logos/AstroCitra.png" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png",108 Astro Citra
-
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="111" tvg-logo="https://aqfadtv.xyz/logos/SukanRTM.png",111 Sukan RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-id="GoShopBAARU" ch-number="111" group-title="Shopping" group-logo="https://aqfadtv.xyz/images/shopping.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",111 Go Shop
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2508
-https://aqfadtv.xyz/live/gsbaaru/index.mpd
-
-#EXTINF:-1 tvg-id="AstroRania" group-title="Indonesian Favorites" group-logo="https://aqfadtv.xyz/images/indonesian.png" ch-number="112" tvg-logo="https://aqfadtv.xyz/logos/AstroRania.png",112 Astro Rania
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608
-https://aqfadtv.xyz/live/rania/index.mpd
-
-#EXTINF:-1 tvg-id="AstroAura" group-title="Indonesian Favorites" group-logo="https://aqfadtv.xyz/images/indonesian.png" ch-number="113" tvg-logo="https://aqfadtv.xyz/logos/AstroAura.png",113 Astro Aura
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609
-https://aqfadtv.xyz/live/aura/index.mpd
-
-#EXTINF:-1 tvg-id="TV6" group-title="myFreeview" ch-number="113" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/TV6.png",113 TV6
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/TVAlhijrahWhite.png" group-title="myFreeview",114 TV AlHijrah
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113
-https://aqfadtv.xyz/live/alhijrah/index.mpd
-
-#EXTINF:-1 tvg-id="ColorsHD" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" ch-number="116" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png",116 Colors HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2611
-https://aqfadtv.xyz/live/colors/index.mpd
-
-#EXTINF:-1 tvg-id="CHN" ch-number="116" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png" group-title="myFreeview",116 SUKE TV
-# https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
-https://live.mana2.my/SukeTV/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://aqfadtv.xyz/images/unifitv_v2.png" ch-number="116" tvg-id="116" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",116 Sensasi
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
-
-#EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="Shopping" group-logo="https://aqfadtv.xyz/images/shopping.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",118 Go Shop
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2501
-https://aqfadtv.xyz/live/gsruuma/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://aqfadtv.xyz/images/unifitv_v2.png" ch-number="118" tvg-id="118" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",118 Inspirasi
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://aqfadtv.xyz/images/unifitv_v2.png" ch-number="120" tvg-id="120" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",120 DEGUP
-https://aqfadtv.xyz/live/unifitv/degup/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
-#EXTINF:-1 group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="121" tvg-id="121" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",121 SIAR
-https://aqfadtv.xyz/live/unifitv/siar/index.mpd
-
-#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
-https://aqfadtv.xyz/live/tvs/index.mpd
-
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/AwesomeTVWhite.png",123 Awesome TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211/
-https://aqfadtv.xyz/live/awesometv/index.mpd
-
-#EXTINF:-1 tvg-id="BERITARTM" ch-number="123" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/BeritaRTM.png",123 Berita RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
-https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
-#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/OKEY.png",146 OKEY
-https://aqfadtv.xyz/live/okey/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
-#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/DidikTVKPM.png",147 DidikTV KPM
-https://aqfadtv.xyz/live/didiktvkpm/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-#EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV 
-https://aqfadtv.xyz/live/8tv/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://aqfadtv.xyz/logos/TV9.png",149 TV9
-https://aqfadtv.xyz/live/tv9/index.mpd
-
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://aqfadtv.xyz/logos/AstroVinmeen_v1.png",202 Astro Vinmeen
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://aqfadtv.xyz/logos/AstroVellithirai.png",203 Astro Vellithirai
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
-
-#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
-
-#EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Adithya" ch-number="214" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithya
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
-
-#EXTINF:-1 tvg-id="SunNews" ch-number="215" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png",215 Sun News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5087
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
-
-#EXTINF:-1 tvg-id="KTV" ch-number="216" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/KTV.png",216 KTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
-
-#EXTINF:-1 tvg-id="SunLife" ch-number="217" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-Life.png",217 Sun Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
-
-#EXTINF:-1 tvg-id="StarVijay" ch-number="221" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ColorsTamilHD" ch-number="222" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png",222 Colors Tamil HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://aqfadtv.xyz/logos/ZeeTamil.png",223 Zee Tamil HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BoxOfficeThangathirai" ch-number="241" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png",241 ABO Thangathirai
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BollyoneHD" ch-number="251" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png",251 Bollyone HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
-
-#EXTINF:-1 tvg-id="iQIYI" ch-number="300" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/iQIYI_v2.png",300 IQIYI HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
-
-#EXTINF:-1 tvg-id="GoShop2" ch-number="303" group-title="Shopping" group-logo="https://aqfadtv.xyz/images/shopping.png" tvg-logo="https://aqfadtv.xyz/logos/GoShop2.png",303 Go Shop 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1005
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="304" group-title="Kids" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/XiaoTaiYang.png",304 Astro Xiao Tai Yang
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TVBClassic" ch-number="305" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBClassic.png",305 TVB Classic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2400/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2403/
-#EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroShuangXing.png",307 Astro Shuang Xing
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://aqfadtv.xyz/logos/CelestialMovies.png" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png",309 Celestial Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TVBJade" ch-number="310" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBJade.png",310 TVB Jade
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2600
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroAODHD" ch-number="311" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAOD.png", 311 Astro AOD HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2706
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CTIAsia" ch-number="316" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/CTIAsia.png",316 CTI Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5017
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/TVBEntertainmentNews.png",317 TVB Entertainment News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5015
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TVBXingHe" ch-number="319" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBXingHe.png",319 TVB Xing He
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/401
-http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TVBSAsia" ch-number="320" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBSAsia_v1.png",320 TVBS Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/402
-http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CCM" ch-number="321" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/CCM_v1.png",321 CCM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
-http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
-
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",325 Phoenix Chinese Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/400
-http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
-
-#EXTINF:-1 tvg-id="PhoenixInfoNews" ch-number="326" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/PhoenixInfoNews_v1.png",326 Phoenix Info News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5009
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroHuaHeeDai_v2.png",333 Astro Hua Hee Dai
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2308/default.mpd
-
-#EXTINF:-1 tvg-id="CCTV4" ch-number="335" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/CCTV4.png",335 CCTV4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/403
-https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroAOD352" ch-number="352" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAOD.png", 352 Astro AOD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/700
-https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroAOD354" ch-number="354" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAOD.png", 354 Astro AOD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/212
-https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
-
-#EXTINF:-1 tvg-id="KBSWorld" ch-number="392" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KBSWorld.png",392 KBS World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ONE" ch-number="393" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/ONE.png",393 ONE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
-#EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/tvN.png",395 tvN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1001
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
-
-#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KPlus.png",396 K-Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
-
-#EXTINF:-1 tvg-id="NHKWorldPremium" ch-number="398" group-title="Japanese" group-logo="https://aqfadtv.xyz/images/japanese.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png",NHK World Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5018
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
-
-#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png?w=213",401 HITS Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/BOO.png",404 BOO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
-# https://aqfadtv.xyz/boo.mpd
-
-#EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/HBO.png",411 HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-https://aqfadtv.xyz/live/hbo/index.mpd
-
-#EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/ShowcaseMovies.png",413 Showcase Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
-
-#EXTINF:-1 tvg-id="HBOFamily1" ch-number="414" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png?w=213",414 HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
-
-#EXTINF:-1 tvg-id="HBOHits1" ch-number="415" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png?w=213",415 HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
-
-#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/tvNMovies.png",416 tvN Movies 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CGTN" ch-number="503" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/CGTN.png",503 CGTN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5019
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CNN" ch-number="511" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png?w=213",511 CNN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2503
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BBCWorldNews" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/BBCWorldNews.png" ch-number="512",512 BBC World News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1008
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AlJazeera.png" ch-number="513",513 Al Jazeera English
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2110
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
-
-#EXTINF:-1 tvg-id="SkyNews" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/SkyNews.png" ch-number="514",514 Sky News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2102
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CNA" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",515 CNA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/605
-https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CNBCAsia" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" ch-number="516",516 CNBC Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/900
-https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BloombergTV" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/BloombergTV.png" ch-number="517",517 Bloomberg
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear//5020
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ABCAustralia" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ABC_v1.png" ch-number="518",518 ABC Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5075/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
-
-#EXTINF:-1 tvg-id="DW" group-title="GO Exclusive" group-logo="https://aqfadtv.xyz/images/go_v1.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png" ch-number="521",521 DW English
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9984
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_primary.mpd
-
-#EXTINF:-1 tvg-id="France24" group-title="GO Exclusive" group-logo="https://aqfadtv.xyz/images/go_v1.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/France24_v1.png" ch-number="522",522 France 24 English 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9985
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
-
-#EXTINF:-1 tvg-id="LoveNature4K" group-title="Documentaries" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png" ch-number="549",549 Love Nature 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5097
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default.mpd
-
-#EXTINF:-1 tvg-id="LoveNature" group-title="Documentaries" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" ch-number="550",550 Love Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5096
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
-
-#EXTINF:-1 tvg-id="GlobalTrekker" group-title="Documentaries" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" ch-number="551",551 Global Trekker
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
-
-#EXTINF:-1 tvg-id="DiscoveryChannel" group-title="Documentaries" tvg-logo="https://aqfadtv.xyz/logos/Discovery.png" ch-number="552",552 Discovery Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
-
-#EXTINF:-1 tvg-id="DiscoveryAsia" group-title="Documentaries" tvg-logo="https://aqfadtv.xyz/logos/DiscoveryAsia.png" ch-number="553",553 Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
-https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BBCEarth" group-title="Documentaries" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png?w=213" ch-number="554",554 BBC Earth
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
-
-#EXTINF:-1 tvg-id="History" group-title="Documentaries" tvg-logo="https://aqfadtv.xyz/logos/History_v1.png" ch-number="555",555 History
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
-https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AnimalPlanet" group-title="Documentaries" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",556 Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroTutorTVSK" group-title="Education" tvg-logo="https://aqfadtv.xyz/logos/TutorTVSK.png" ch-number="601",601 Astro Tutor TV SK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5070
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroTutorTVSMK" tvg-logo="https://aqfadtv.xyz/logos/TutorTVSMK.png" group-title="Education" ch-number="603",603 Astro Tutor TV SMK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5071
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroCeria" group-title="Kids" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/AstroCeria.png" ch-number="611",611 Astro Ceria 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
-
-#EXTINF:-1 tvg-id="Dreamworks" group-title="Kids" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" ch-number="612",612 DreamWorks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
-
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png" ch-number="615",615 Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
-https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/Nickelodeon2023.png" ch-number="616",616 Nickelodeon 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
-
-#EXTINF:-1 tvg-id="NickJr" group-title="Kids" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/NickJr.png" ch-number="617",617 Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
-
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="Kids" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/MoonbugKids.png" ch-number="618",618 Moonbug Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CBeebies" group-title="Kids" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/CBeebies.png" ch-number="620",620 CBeebies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5093
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
-
-#EXTINF:-1 tvg-id="AXN" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="701",701 AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-id="701" ch-number="701" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/UnifiSports1_v1.png",unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-id="Lifetime"  ch-number="703" tvg-logo="https://aqfadtv.xyz/logos/Lifetime.png" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png",703 Lifetime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Primetime" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/PRIMEtime.png" ch-number="704",704 PRIMEtime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_primary.mpd
-
-#EXTINF:-1 tvg-id="HITS" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITS.png" ch-number="706",706 HITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
-https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TLC" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="707",707 TLC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
-
-#EXTINF:-1 tvg-id="FoodNetwork" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" ch-number="708",708 Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AFN" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://aqfadtv.xyz/logos/AsianFoodNetwork.png" ch-number="709",709 Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
-https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
-
-#EXTINF:-1 tvg-id="WarnerTV" ch-number="712" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/515_1920x1080_HTV.png?w=213",712 Warner TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ParamountNetwork" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png" ch-number="713",713 Paramount Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
-
-#EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Documentaries" tvg-logo="https://aqfadtv.xyz/logos/Crime&Investigaton.png" ch-number="714",714 Crime & Investigation
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
-
-#EXTINF:-1 tvg-id="HGTV" ch-number="715" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",715 HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
-
-#EXTINF:-1 tvg-id="DMAX" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" ch-number="716",716 DMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
-
-#EXTINF:-1 tvg-id="BBCLifestyle"  ch-number="717" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://aqfadtv.xyz/logos/BBCLifestyle.png",717 BBC Lifestyle
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
-
-#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Music" group-logo="https://aqfadtv.xyz/images/music.png" tvg-logo="https://aqfadtv.xyz/logos/MTVLive_v1.png",718 MTV Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroArena" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="801" tvg-logo="https://aqfadtv.xyz/logos/AstroArena.png",801 Astro Arena 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098/
-#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",803 Astro Arena Bola
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1601
-#EXTINF:-1 tvg-id="AstroSupersportUHD" ch-number="805" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSportUHD.png" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png",805 Astro SuperSport UHD 1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
-#EXTINF:-1 tvg-id="SPOTV2" ch-number="810" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",810 SPOTV2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601/
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="811" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport.png",811 Astro SuperSport
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="812" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport2.png",812 Astro SuperSport 2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="813" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport3.png",813 Astro SuperSport 3 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="814" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport4.png",814 Astro SuperSport 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
-
-#EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="815" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport5.png",815 Astro SuperSport 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-
-#EXTINF: -1 tvg-id="SPOTV" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="816" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",816 SPOTV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-
-#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/beINSports2.png",817 beIN Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="818" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png",818 beIN Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-
-#EXTINF:-1 tvg-id="beINSports3" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="819" tvg-logo="https://aqfadtv.xyz/logos/beINSports3.png",819 beIN Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="820" tvg-logo="https://aqfadtv.xyz/logos/Eurosport.png",820 Eurosport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
-
-#EXTINF:-1 tvg-id="WWENetwork" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="821" tvg-logo="https://aqfadtv.xyz/logos/WWENetwork.png",821 WWE Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-
-#EXTINF:-1 tvg-id="GolfChannel" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="822" tvg-logo="https://aqfadtv.xyz/logos/GolfChannel.png",822 Golf Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
-
-#EXTINF:-1 tvg-id="PremierSports" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="823" tvg-logo="https://aqfadtv.xyz/logos/PremierSports.png",823 Premier Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="824" tvg-logo="https://aqfadtv.xyz/logos/AstroCricket.png",824 Astro Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-
 #EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1000" tvg-logo="https://aqfadtv.xyz/logos/IndonesiaChannels.png",Indonesia Channels
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/VisionPrime
@@ -813,7 +126,6 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" group-title="Indonesia - Local" tvg-logo="https://aqfadtv.xyz/logos/RCTI_v1.png" ch-number="80",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/RCTI-DD
-# https://anevia114.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="Indonesia - Local" tvg-logo="https://aqfadtv.xyz/logos/GTV.png" ch-number="81",GTV
@@ -905,14 +217,12 @@ https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/MNCSports_v1.png" ch-number="102",MNC Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MNCSports-HD
-https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" ch-number="103" tvg-logo="https://aqfadtv.xyz/logos/BTV_v1.png",BTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/BeritaSatu
-# https://vidio-aqfad2811.koyeb.app/beritasatu/index.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-# https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1  tvg-id="TawafTV.id" tvg-logo="https://aqfadtv.xyz/logos/TawafTV_v1.png" ch-number="105" group-title="Religion",Tawaf TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -957,7 +267,6 @@ https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/PemersatuBangsa
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-# https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-id="FMN.id" ch-number="150" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/fmn.png",fmn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1179,43 +488,42 @@ https://devds.site/api/v.m3u8?ch=rans
 #EXTINF:-1 tvg-id="TVTempo" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TV_Tempo_Logo.png/revision/latest/scale-to-width-down/250?cb=20211101075005",TV Tempo
 https://devds.site/api/v.m3u8?ch=tempo
 
-#EXTINF:-1 tvg-id="MyCinema" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/MyCinema.png",My Cinema
-# http://210.210.155.37/uq2663/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-id="MyCinemaAsia" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/MyCinemaAsia.png",My Cinema Asia
-# http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" group-title="Movies",KBS World 
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="MyFamilyChannel" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/MyFamilyChannel.png",My Family Channel
-# http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="KDrama.id" tvg-logo="https://i.ibb.co/s6zxL98/K-drama-logo-modified.png" group-title="Movies",K Drama
+http://203.77.246.50:5000/udp/239.1.1.76:5000
 
-#EXTINF:-1 tvg-id="Flik.id" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://user-images.githubusercontent.com/85995579/131098803-5b0077dc-6b03-4ed9-bdae-066d2751c4d5.png",FLIK
-# http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/72
-# https://playlistku.000webhostapp.com/us/movies/flik.m3u8
-# http://103.30.87.238:443/live/Televizio 2/Zul/1213.m3u8
+#EXTINF:-1 tvg-id="NewKidTV.us" group-title="Movies" ,New Kid TV
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://user-images.githubusercontent.com/85995579/131095271-d59ad9c6-0c96-4dc7-a99a-cadb83fa5e66.png" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png",Bioskop Indonesia
-# http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/73
-# https://playlistku.000webhostapp.com/us/movies/biosid.m3u8
-# http://103.30.87.238:443/live/Televizio 2/Zul/1223.m3u8
+#EXTINF:-1 tvg-id="Kplus.sg" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="Movies",KPlus
+http://210.210.155.37/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-id="CitraDrama.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083722-2044596a-0892-41ac-93bc-74ae43197eb4.png",Citra Drama
-# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=cdrama
-# http://103.30.87.238:443/live/Televizio 2/Zul/1203.m3u8
+#EXTINF:-1 tvg-id="Kplus.sg" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="Movies",KPlus
+http://210.210.155.37/session/9af57718-167b-11ed-ba60-8e66997260e4/uq2663/h/h08/02.m3u8
 
-#EXTINF:-1  tvg-id="CitraDangdut.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083944-3bb29182-a680-4d2e-8448-8bae65872daa.png",Citra Dangdut
-# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=citradangdut
-# http://103.30.87.238:443/live/Televizio 2/Zul/1131.m3u8
+#EXTINF:-1  tvg-id="useephoto" group-title="Movies" tvg-logo="https://i.imgur.com/drcIzRz.png",Usee Prime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1  tvg-id="CitraBioskop.id" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://user-images.githubusercontent.com/85995579/131082880-9ff5fb5d-6673-4ced-978e-56ea96701793.png",Citra Bioskop 
-# http://dituduhmaling.xyz/V11710/Citrabioskop.m3u8
-# http://103.30.87.238:443/live/Televizio 2/Zul/1204.m3u8
+#EXTINF:-1  tvg-id="RockEntertainment.sg" group-title="Movies" tvg-logo="https://i.imgur.com/fKNAva5.png",Rock Entertainment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
 
-#EXTINF:-1  tvg-id="CitraDangdut.id" group-title="HD" tvg-logo="https://i.postimg.cc/ZnQMb0Jc/Citra-Entertainment.png",Citra Entertainment
-# http://dituduhmaling.xyz/V11710/Citraentertainment.m3u8
-# http://103.30.87.238:443/live/Televizio 2/Zul/1373.m3u8
+#EXTINF:-1  tvg-id="RockExtreme.sg" group-title="Movies" tvg-logo="https://i.imgur.com/ieudr87.png",Rock Extreme
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Lembaga_Kantor_Berita_Nasional_Antara.png/revision/latest/scale-to-width-down/300?cb=20190923120740" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png",Antara TV
-# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-id="Cinema Europe" tvg-name="" tvg-logo="https://raw.githubusercontent.com/FNtv/Channel/main/Img/Logo%20My%20Cinema%20Europa.png" group-title="Movies",Cinema Europe
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1  tvg-id="MyCinemaAsia.id"tvg-logo="https://drive.google.com/uc?id=1LEWJlkswy9HpOjWyzrWuAtJDVBioDk1f" group-title="Movies" tvg-id="mycinemaasia" tvg-name="My Cinema Asia", My Cinema Asia
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="MyCinema.id" group-title="Movies" tvg-name="My Cinema" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo MYCinema.png?raw=true",My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="Movies" , My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="Anime" tvg-logo="https://aqfadtv.xyz/logos/Aniplus.png",Aniplus
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115609.ts
@@ -1241,12 +549,6 @@ https://devds.site/api/v.m3u8?ch=jtv
 
 #EXTINF:-1 tvg-id="JPMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="Indonesia - Local",JPMTV
 https://devds.site/api/v.m3u8?ch=jpm
-
-#EXTINF:-1 tvg-id="UseeSports.id" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://i.postimg.cc/PxDCyxfj/Usee-Sports.png",Usee Sports
-# https://usee.galleryiptv.my.id/FREE/USP1.m3u8
-
-#EXTINF:-1 tvg-id="UseeSports2.id" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://i.postimg.cc/131Jrn99/Usee-Sports2.png",Usee Sports 2 
-# https://usee.galleryiptv.my.id/FREE/USP2.m3u8
 
 #EXTINF:-1 tvg-id="DaAiTV.tw" group-title="Indonesia - Local" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png/revision/latest/scale-to-width-down/250?cb=20180920095200",DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1300,91 +602,6 @@ https://anevia114.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/XingKongTV
 https://anevia114.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1001" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",SINGAPORE PLAYLIST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
-https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
-
-#EXTINF:-1  tvg-id="Ch 5" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/Channel5_v1.png",Channel 5 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
-https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
-
-#EXTINF:-1 tvg-id="Ch 8" tvg-language="English" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/Channel8_v1.png",Channel 8 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
-https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
-
-#EXTINF:-1 tvg-id="Ch U" tvg-language="English" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/ChannelU_v1.png",Channel U 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
-https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
-
-#EXTINF:-1 tvg-id="Suria" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/Suria_v1.png",Suria 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
-https://aqfadtv.xyz/live/mewatch/suria/index.mpd
-
-#EXTINF:-1 tvg-id="Vasantham" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/Vasantham_v1.png",Vasantham 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
-https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/cna
-#EXTINF:-1 tvg-id="CNA" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=213",CNA (Singapore Feed)
-https://aqfadtv.xyz/live/mewatch/cna/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
-#EXTINF:-1 group-title="Anime" tvg-id="Animax" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD (Singapore Feed)
-https://aqfadtv.xyz/live/mewatch/animax/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/gem
-#EXTINF:-1 group-title="Japanese" group-logo="https://aqfadtv.xyz/images/japanese.png" tvg-id="SGEM.id" ch-number="471" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM (Singapore Feed)
-https://aqfadtv.xyz/live/mewatch/gem/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockentertainment
-#EXTINF:-1 group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-id="473" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment (Singapore Feed)
-https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
-#EXTINF:-1 group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-id="474" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ROCK Action (Singapore Feed)
-https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/globaltrekker
-#EXTINF:-1 group-title="Documentaries" tvg-id="GlobalTrekker" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png",Global Trekker (Singapore Feed)
-https://aqfadtv.xyz/live/mewatch/globaltrekker/index.mpd
-
-#EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1003" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",BACKUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://aqfadtv.xyz/logos/TV1.png",101 TV1 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://aqfadtv.xyz/logos/TV2_v2.png",102 TV2 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-
-#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://aqfadtv.xyz/logos/OKEY.png",146 OKEY (Backup)
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani (Backup)
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA (HD) 
-https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
-
 #EXTINF:-1 tvg-id="tvN" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/tvN.png",tvN (Tonton Feed)
 https://live-sg3.global.ssl.fastly.net/live-hls/tonton6.m3u8
 
@@ -1421,26 +638,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://aqfadtv.xyz/logos/SonyPIX.png" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png",Sony PIX
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png",True Premier Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.imgur.com/yS94g00.png" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png",True Premier Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png",True Premier Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png",True Premier Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png",True Premier Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-ID="CHN" tvg-logo="https://aqfadtv.xyz/logos/ColorsInfinity.png" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png",Colors Infinity
@@ -1471,10 +668,6 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manife
 #EXTINF:-1 tvg-ID="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png/revision/latest/scale-to-width-down/250?cb=20221023220045&format=png" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png",Sony SAB HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="SonyMax2.in" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest?cb=20221026151354&format=png",Sony MAX 2
-#EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=Sony_MAX2
-https://aqfadtv.xyz/live/sonymax2/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=b6f0ec073a7aba8cac61cd44fd78bf3f&key=c1ae5fbd637e0f212bf36f7614b629c9
 #EXTINF:-1 tvg-id="CHN" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/VidioEPL.png",Vidio Premier League
@@ -1485,16 +678,4 @@ https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808
 #EXTINF:-1 tvg-id="CHN" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/NBATV.png",Vidio NBA TV
 https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94cb695cb1162/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
-#EXTINF:-1 tvg-id="BeInSports3.id" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png",Bein Sports 4
-https://aqfadtv.xyz/live/unifitv/beinsports4/index.mpd
 
-#EXTINF:-1 tvg-id="Arirang" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/ArirangTV.png",Arirang TV
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1, group-title="Online TV" ch-number="887" tvg-id="CHN" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SelangorTV" ch-number="888" group-title="Online TV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://aqfadtv.xyz/logos/SelangorTV.png",Selangor TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCldPEJgJgq_Mb6Ndek5RxQg/live
