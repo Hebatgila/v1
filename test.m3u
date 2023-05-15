@@ -22,24 +22,8 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz" refresh="3600"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/IndiHomeTV.xml"
-
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_abcaustralia.png" group-title="IndiHomeTV" tvg-name="ABC-AUSTRALIA", ABC AUSTRALIA
-rtp://@239.1.1.33:8172
-
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_afn.png" group-title="IndiHomeTV" tvg-name="AFN", AFN
-rtp://@239.1.2.12:8046
-
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_afn_hd.png" group-title="IndiHomeTV" tvg-name="AFN-HD", AFN HD
-rtp://@239.1.2.13:8052
-
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_aljazeera.png" group-title="IndiHomeTV" tvg-name="AL-JAZEERA", AL JAZEERA
-rtp://@239.1.1.195:9144
-
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_aljazeera_hd.png" group-title="IndiHomeTV" tvg-name="AL-JAZEERA-HD", AL JAZEERA HD
-rtp://@239.1.2.8:8022
-
-
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="TV MANCANEGARA-FILM",Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
@@ -1050,30 +1034,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c703
 https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
-#EXTINF:-1 tvg-id="HBOSignatureAsia.us" group-title="MOVIES" group-logo="https://aqfadtv.xyz/images/MOVIES.png" ch-number="6" tvg-logo="https://aqfadtv.xyz/logos/HBOSignature.png",HBO Signature (Indonesia Feed)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/HBOSignature2
-https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-
-#EXTINF:-1 tvg-id="HBOAsia.us" group-title="MOVIES" group-logo="https://aqfadtv.xyz/images/MOVIES.png" ch-number="7" tvg-logo="https://aqfadtv.xyz/logos/HBO.png",HBO (Indonesia Feed)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/hbo-2
-https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-#EXTINF:-1 tvg-id="CinemaxAsia.us" group-title="MOVIES" group-logo="https://aqfadtv.xyz/images/MOVIES.png" ch-number="8" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax (Indonesia Feed)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/CinemaxHD2
-https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-
-#EXTINF:-1 tvg-id="HBOFamilyAsia.us" group-title="MOVIES" group-logo="https://aqfadtv.xyz/images/MOVIES.png" ch-number="9" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png?w=213",HBO Family (Indonesia Feed)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/HBOFamily2
-https://anevia114.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#EXTINF:-1 tvg-id="HBOHits.us" group-title="MOVIES" group-logo="https://aqfadtv.xyz/images/MOVIES.png" ch-number="10" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png?w=213",HBO Hits (Indonesia Feed)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/HBOHits
-https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTINF:-1 tvg-id="GALAXYPremium" group-title="MOVIES" group-logo="https://aqfadtv.xyz/images/MOVIES.png" ch-number="12" tvg-logo="https://aqfadtv.xyz/logos/GalaxyPremium.png",GALAXY Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1111,7 +1071,7 @@ https://anevia114.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indon
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/Thrill
 https://anevia114.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="AXN" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="154",AXN (Indonesia Feed)
+#EXTINF:-1 tvg-id="AXN" group-title="MOVIES" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="154",AXN (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/AXN
 https://anevia114.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
@@ -1121,7 +1081,7 @@ https://anevia114.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/KIX
 https://anevia114.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-id="WarnerTV" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/515_1920x1080_HTV.png?w=213" ch-number="163",Warner TV (Indonesia Feed)
+#EXTINF:-1 tvg-id="WarnerTV" group-title="MOVIES" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/515_1920x1080_HTV.png?w=213" ch-number="163",Warner TV (Indonesia Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/WarnerTV
 https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
