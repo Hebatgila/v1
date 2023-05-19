@@ -23,22 +23,6 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz" refresh="3600"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
-#EXTINF:-1 tvg-id="10000000000100000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/9WMgCnfX.png", Star Movies
-http://live.flashtv.com:65010/udp/224.11.2.28:5180
-#EXTINF:-1 tvg-id="10000000075992690" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/aCFOh8ZU.png", Cinemachi Action
-http://live.flashtv.com:65010/udp/224.11.4.29:5180
-#EXTINF:-1 tvg-id="10000000075992691" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cflKTOgd.png", Cinemachi Family
-http://live.flashtv.com:65010/udp/224.11.4.30:5180
-#EXTINF:-1 tvg-id="10000000075992692" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/MZEcioqR.png", Cinemachi Scream
-http://live.flashtv.com:65010/udp/224.11.4.31:5180
-#EXTINF:-1 tvg-id="10000000075992693" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6gbNAVvo.png", Cinemachi Xtra
-http://live.flashtv.com:65010/udp/224.11.4.32:5180
-#EXTINF:-1 tvg-id="10000000027780000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/23983XlO.png", CinemaWorld
-http://live.flashtv.com:65010/udp/224.11.2.33:5180
-#EXTINF:-1 tvg-id="10000000059350000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/34fhJNB3.png", Nflix
-http://live.flashtv.com:65010/udp/224.11.2.34:5180
-#EXTINF:-1 tvg-id="10000000007730000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kq3bLm6x.png", Comedy Central
-http://live.flashtv.com:65010/udp/224.11.2.35:5180
 
 
 #EXTGRP:MOVIES V2
