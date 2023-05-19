@@ -34,7 +34,6 @@
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-
 #EXTGRP:MOVIES V2
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -76,6 +75,29 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true 
+#EXTINF:-1 group-title="MOVIES V2" tvg-id="" tvg-logo="",paramount
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=paramount
+
+
+#EXTINF:-1 group-title="MOVIES V2" , HBO
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
+#EXTINF:-1 group-title="MOVIES V2" ,  HBO
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
+#EXTINF:-1 group-title="MOVIES V2" ,  HBO
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56057&extension=ts&play_token=pqlvbiUAPq
+#EXTINF:-1 group-title="MOVIES V2" ,  HBO HD
+http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 group-title="MOVIES V2" ,  HBO
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 group-title="MOVIES V2" ,  HBO2
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
+#EXTINF:-1 group-title="MOVIES V2" ,  HBO3
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
 
 #EXTINF:-1 group-title="MOVIES V2" tvg-logo="http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Entertainment/FoxMovies.png",FOX Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
@@ -83,31 +105,19 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts
 #EXTINF:-1 group-title="MOVIES V2" tvg-logo="http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Entertainment/FoxMovies.png",Fox Movies Action
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="MOVIES V2" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema (MAX)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES V2",Rock Action (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="MOVIES V2" tvg-id="mycinemaasia.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia (MAX)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5-49c0-bfdf-ad10b1ee356d)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="MOVIES V2" tvg-id="myfamily.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png",My Family Channel (MAX)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1-404c-ba21-df68a1cffcac)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES V2" tvg-id="" tvg-name="",True Korean More
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115422&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES V2" tvg-id="" tvg-name="",True Korean More 2
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115675&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES V2" tvg-id="" tvg-name="",True Chinese More
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115420&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="MOVIES V2",Rock Entertainment (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
 
 #EXTINF:-1 group-title="MOVIES V2",STAR MOVIES
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES V2",Paramount (Mb)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=paramount
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_dreamworks_small1.png" group-title="MOVIES V2",Dreamworks (Mb)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1096,8 +1106,6 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://www.useetv.com/pimages/logo_galaxy_small.png" group-title="MOVIES",Galaxy HD
@@ -1202,6 +1210,10 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:-1  tvg-id="RockExtreme.sg" group-title="MOVIES" tvg-logo="https://i.imgur.com/ieudr87.png",Rock Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="CinemaWorld.my" tvg-name="Cinema World" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/cinemaworld.png" group-title="MOVIES",Cinema World
@@ -1218,6 +1230,21 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" , My Family Channel
 http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_small.png" group-title="MOVIES", My Cinema HD
+http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="MOVIES", My Cinema Asia HD
+http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel HD
+http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
