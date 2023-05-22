@@ -101,6 +101,11 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dreamworks
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dreamworks
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_dreamworks_small1.png" group-title="MOVIES V2",Dreamworks
+https://akm611a-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
 #EXTINF:-1 group-title="MOVIES V2" tvg-logo="http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Entertainment/FoxMovies.png",FOX Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 
