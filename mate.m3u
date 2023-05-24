@@ -1571,6 +1571,8 @@ https://peopletv-plex.akamaized.net/midroll/us_privacy=1---&did=62274240-07e7-5d
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e" tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usweekly_logo_dark.png" group-title="Lifestyle",Us Weekly TV
 https://5e075c7a96014ebb9326fe748ea748ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_USWeeklyTV/playlist.m3u8?ads.wurl_channel=836&ads.wurl_name=USWeeklyTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=60a9d105d162b9002d05a60e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png?zoom=2&resize=222%2C92&ssl=1" group-title="Lifestyle",Inwild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8?ads.wurl_channel%3D689%26ads.wurl_name%3DFashionTV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7
 
 #EXTINF:-1 group-title="Lifestyle",Real Stories
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
@@ -2115,34 +2117,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847111
 
 
 
---------------- Rakuten  -------------------------------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="rakuten", Rakuten Action Movies
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="rakuten", Rakuten Comedy Movies
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="rakuten", Rakuten Family
-http://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten", Family 6 (EU)
-https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten", Family 7 (EU)
-https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten", Family 8 (EU)
-https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten", Family 9 (EU)
-https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten", Family 10 (EU)
-https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten", Family 11 (EU)
-https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten", Family 12 (EU)
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten", Family 13 (EU)
-https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 16 (EU)
-https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://i1.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png?zoom=2&resize=222%2C92&ssl=1" group-title="rakuten",Inwild
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8?ads.wurl_channel%3D689%26ads.wurl_name%3DFashionTV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7
 
 
 ------- Taiwan China -------------------
