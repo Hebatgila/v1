@@ -80,6 +80,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="My Family.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/MyFamily.png " group-title="MOVIES V2",My Family
+https://anevia114.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="My Cinema.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/MyCinema.png" group-title="MOVIES V2",My Cinema
+https://anevia114.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="My Cinema Asia.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/MyCinemaAsia.png " group-title="MOVIES V2",My Cinema Asia
+https://anevia114.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="Paramount Network" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/paramount.png" group-title="MOVIES V2",Paramount Network
+https://anevia114.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="Rock Action.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rock-action-1.png " group-title="MOVIES V2",Rock Action
+https://anevia114.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+
 @@@@@
 #EXTINF:-1 group-title="MOVIES V2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV (alt)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -97,7 +123,6 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="MOVIES V2",Rock Extreme (alt)
 https://kusnadipepenk.github.io/campeign/bluext.m3u8
-
 
 #EXTINF:-1  tvg-id="ext" group-title="MOVIES V2" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
@@ -1662,6 +1687,30 @@ https://stream-delivery.mapalus.xyz/live/tv/group1/chno/065.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tlc.png " group-title="Lifestyle",TLC HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="AsianFoodNetwork.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/afn.png " group-title="Lifestyle",AFN HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg",Asian Food Network (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/afn.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",Food Network (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/foodnetwork.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png",HGTV Asia (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/hgtv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="HGTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/hgtv-1.png " group-title="Lifestyle",HGTV HD
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="Lifestyle",AFN
 https://nxanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
@@ -1885,6 +1934,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="BoomerangSoutheastAsia.hk" group-title="KIDS" tvg-logo="https://i.imgur.com/shYYVk8.png",Zoomoo
 https://nxanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="Zoomoo.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/zoomoo.png " group-title="KIDS",Zoomoo HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="KIDS",Disney Jr (alt)
