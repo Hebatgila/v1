@@ -246,6 +246,27 @@ https://kusnadipepenk.github.io/ntn/bs2.m3u8
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="C-Sports",Bein 3
 https://kusnadipepenk.github.io/ntn/bs3.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvbein1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="C-Sports", beIN Sports 1 Indonesia
+https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvbein3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title="C-Sports", beIN Sports 3 Indonesia
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvnba
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wvBNsdVq/NBA-TV.png" group-title="C-Sports", NBA TV
+https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94cb695cb1162/index.mpd
+
 
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="C-Sports",Champions TV 1
