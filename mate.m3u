@@ -139,9 +139,6 @@ https://kusnadipepenk.github.io/campeign/bluext.m3u8
 #EXTINF:-1  tvg-id="ext" group-title="MOVIES V2" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (FMX)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
 
-#EXTINF:-1  tvg-id="ext" group-title="MOVIES V2" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941635&extension=ts&play_token=ovIlzYCoic
-
 #EXTINF:-1 group-title="MOVIES V2",STAR MOVIES
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
 
@@ -186,6 +183,19 @@ https://webudit.cdnhks.lol/lb/premium343/index.m3u8?|referer=https://widevine.li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium312/index.m3u8?|referer=https://widevine.licenses4.me/
 
+#EXTINF:-1 tvg-id="Sonymoviet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/640px-Sony_Movies_Logo.svg.png"" group-title="MOVIES V2",SONY MOVIES
+http://txm.flysat.live:2089/152040836457494/152000845468169/268294
+
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="MOVIES V2",USA Network 2
+http://txm.flysat.live:2089/152040836457494/152000845468169/268293"},
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="MOVIES V2",TNT 2
+http://txm.flysat.live:2089/152040836457494/152000845468169/268291"},
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="MOVIES V2",TBS 2
+http://txm.flysat.live:2089/152040836457494/152000845468169/268290
+
+
 #EXTINF:0 group-title="MOVIES V2" tvg-logo="https://i.imgur.com/8lERdy9.png",Boomerang (T*)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
@@ -211,6 +221,39 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES V2",Disney CH
 http://208.86.19.13:81/14.stream/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429" group-title="MOVIES V2",TVB JADE
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png" group-title="MOVIES V2",TVB Pearl
+https://pull-l3-cny.douyincdn.com/live/stream-19882782022122523487.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tvb1.png" group-title="MOVIES V2",TVB1
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153396
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1721826975.rsc.cdn77.org/wp-content/uploads/2021/12/15101445/Logo_TVBJ1_3D_Black.pn" group-title="MOVIES V2",TVB J1
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153395
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332" group-title="MOVIES V2",TVB J2
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/tvbyule.jpg" group-title="MOVIES V2",TVB Entertainment News
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBD-logo.png" group-title="MOVIES V2",TVB Drama
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153400
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="MOVIES V2",TVB Classic HD
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg" group-title="MOVIES V2",TVB Xing He
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202001/14/131351sp4jteuve04j4m00.png" group-title="MOVIES V2",HUB娱家
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941634&extension=ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202001/14/131355ifek112wwef5ghtw.png" group-title="MOVIES V2",HUB都会
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941632&extension=ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -242,7 +285,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aI5VvPq.png" group-title="India MPD", Sony Ten 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
-
 
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1
 https://kusnadipepenk.github.io/ntn/bs1.m3u8
@@ -2090,6 +2132,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u
 #EXTINF:0 tvg-id="AnimaxAsia.sg" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/animax.png" group-title="KIDS",Animax
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#EXTINF:-1 tvg-id="AniPlus.th" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/6JGP61f/aniplus-home-tv.png" group-title="KIDS",Aniplus
+http://210.210.155.37/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_aniplus_small1.png" group-title="MOVIES",Aniplus
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png", Aniplus HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="KIDS",Baby TV
@@ -2099,9 +2149,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="http://dusktill.masuk.web.id/img/kidstv.png" group-title="KIDS",Kids Channel
 https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-#EXTINF:-1 tvg-id="AniPlus.th" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/6JGP61f/aniplus-home-tv.png" group-title="KIDS",Aniplus
-http://210.210.155.37/dr9445/h/h02/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -2136,6 +2183,11 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
 #EXTINF:-1  tvg-id="ext" group-title="KIDS" tvg-logo="https://i.imgur.com/Hsaer7w.png",My KiDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="", My Kidz HD
+http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="KIDS",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
