@@ -14,6 +14,9 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz"
 
+#EXTM3U# x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml", 
+#EXTM3U# x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml", 
+
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz"
 
@@ -22,6 +25,9 @@
 
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz" refresh="3600"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://bit.ly/3itZsSm, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://ip
+tv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" refresh="3600"
 
 
 #EXTINF:0 group-title="MOVIES V2" tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cinemax.jpg",CINEMAX
