@@ -159,6 +159,13 @@ https://anevia114.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #EXTINF:0 tvg-id"rockentertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest?cb=20210911032942" group-title="MOVIES V2",Rock Entertainment
 https://anevia114.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
+
+
+#EXTINF:-1 group-title="MOVIES V2" tvg-id="" tvg-logo="", Test 1
+http://159.75.85.63:35455/douyu/747764|shareext@douyumovie64.m3u8
+#EXTINF:-1 group-title="MOVIES V2" tvg-id="" tvg-logo="", Test 2
+http://epg.112114.xyz/huya/11602044|shareext@huyamovie44.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Xqf12P/Kplus.png?v=1.0.0.1" group-title="MOVIES V2" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus
@@ -2713,6 +2720,13 @@ http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3 
 #EXTINF:-1 group-title="Taiwan|China",HBO 2台 
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 group-title="Taiwan|China" tvg-id="" tvg-logo="", Test 1
+https://siwazywcdn2.com:5278/zhongwenzimu/uaBLxknS/index.m3u8|shareext@japan18+
+#EXTINF:-1 group-title="Taiwan|China" tvg-id="" tvg-logo="", Test 2
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8|shareext@japan18+ysn-566
+#EXTINF:-1 group-title="Taiwan|China" tvg-id="" tvg-logo="", Test 3
+https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lj/ve/2d/rn/c64b512189904112940b5b4888f4393a.m3u8?|shareext@japan18+msd-070
 
 
 
