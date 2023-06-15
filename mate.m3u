@@ -2721,12 +2721,7 @@ http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=1839
 #EXTINF:-1 group-title="Taiwan|China",HBO 2台 
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 group-title="Taiwan|China" tvg-id="" tvg-logo="", Test 1
-https://siwazywcdn2.com:5278/zhongwenzimu/uaBLxknS/index.m3u8|shareext@japan18+
-#EXTINF:-1 group-title="Taiwan|China" tvg-id="" tvg-logo="", Test 2
-https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8|shareext@japan18+ysn-566
-#EXTINF:-1 group-title="Taiwan|China" tvg-id="" tvg-logo="", Test 3
-https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lj/ve/2d/rn/c64b512189904112940b5b4888f4393a.m3u8?|shareext@japan18+msd-070
+
 
 
 
