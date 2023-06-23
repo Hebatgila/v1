@@ -72,6 +72,21 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 
 
+#EXTINF:-1  tvg-logo="" group-title="MOVIES V2",Formosa
+https://kusnadipepenk.github.io/campeign/formosa.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--gBrQRyxY--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1434689610/hallmark-channel-logo.jpg" group-title="MOVIES V2",Hallmark
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 tvg-chno="247" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="MOVIES V2",Hallmark Drama
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 tvg-chno="248" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46710_dark_360w_270h.png" group-title="MOVIES V2",Hallmark Movies & Mysteries
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES V2",PixL
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 #EXTINF:0 group-title="MOVIES V2" tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cinemax.jpg",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -160,11 +175,6 @@ https://anevia114.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 https://anevia114.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 
-
-#EXTINF:-1 group-title="MOVIES V2" tvg-id="" tvg-logo="", Test 1
-http://159.75.85.63:35455/douyu/747764|shareext@douyumovie64.m3u8
-#EXTINF:-1 group-title="MOVIES V2" tvg-id="" tvg-logo="", Test 2
-http://epg.112114.xyz/huya/11602044|shareext@huyamovie44.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -280,23 +290,7 @@ https://kusnadipepenk.github.io/ntn/bs2.m3u8
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="C-Sports",Bein 3
 https://kusnadipepenk.github.io/ntn/bs3.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="C-Sports",Fox Sport 1 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
-#EXTINF:-1 tvg-id="ext" group-title="C-Sports",Fox Sport 2 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-
-#EXTINF:-1 tvg-id="ext" group-title="C-Sports",Fox Sport 3 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
