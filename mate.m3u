@@ -312,6 +312,11 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
 
+#EXTINF:-1 group-title="MOVIES V2",USA Syfy HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/20013
+#EXTINF:-1 group-title="MOVIES V2",USA TNT HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/16448
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/abstract-letter-k-logo-negative-260nw-403225240.jpg" group-title="MOVIES V2",K-Cinema
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
