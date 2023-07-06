@@ -211,7 +211,6 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/abstract-letter-k-logo-negative-260nw-403225240.jpg" group-title="MOVIES V2",K-Cinema
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
@@ -262,8 +261,13 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES V2",Disney CH
 http://208.86.19.13:81/14.stream/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif" group-title="C-Sports",Eurosport
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497672
 
-
+#EXTINF:-1  tvg-logo="https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif" group-title="C-Sports",SPOTV
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497719
+#EXTINF:-1  tvg-logo="https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif" group-title="C-Sports",SPOTV2
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497721
 
 
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1
