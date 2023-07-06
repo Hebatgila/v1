@@ -261,13 +261,6 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES V2",Disney CH
 http://208.86.19.13:81/14.stream/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif" group-title="C-Sports",Eurosport
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497672
-
-#EXTINF:-1  tvg-logo="https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif" group-title="C-Sports",SPOTV
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497719
-#EXTINF:-1  tvg-logo="https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif" group-title="C-Sports",SPOTV2
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497721
 
 
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1
@@ -276,6 +269,15 @@ https://kusnadipepenk.github.io/ntn/bs1.m3u8
 https://kusnadipepenk.github.io/ntn/bs2.m3u8
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="C-Sports",Bein 3
 https://kusnadipepenk.github.io/ntn/bs3.m3u8
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png" group-title="C-Sports",BEIN SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W1Be149381.png" group-title="C-Sports",BEIN SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
