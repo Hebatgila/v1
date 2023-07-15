@@ -72,7 +72,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="MOVIES V2" ,Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--gBrQRyxY--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1434689610/hallmark-channel-logo.jpg" group-title="MOVIES V2",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
@@ -84,6 +83,65 @@ https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playl
 
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="MOVIES V2",PixL
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=MzBkMjgyMjkxYjU5ZjY4YktGVE1iTVdId011em52SGxYQU4yYUxHM1BTN09JRzdQeUEwdkNMWG9rc0NHeHphZnAzREZnbElCYThsOWNLaEdSY3dKNlZaUHM2WU5telkwd3pvMVhxaUhIdFZ1MG5tTjM5ZWp6aHcwaWZRZktIc0tYSm1IT3BpWWp2cVdOUWxH
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/banner_xxhdpi.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="MOVIES V2",HBO (Maxtream)
+http://watchlive.my.id/live/hbo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=YWViOWZiOTVkOGNlYzQxY1ducDdNNEZ0VFdLL2sySlJQY3hNMldJWHFpUGE0WTUyMC91VTcvUHY3UnVkZnVEdmJmR3lRemlnS1VyU205NndxNjVXdHNQc2hnTHZJbVp6QVhEQXBHR1luSHFNclRzdlRvVHozVXRtdEtoYzVGRVByRGk5VFpld1kzS2M0VGFH
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/banner_xxhdpi.jpg" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="MOVIES V2",HBO Signature (Maxtream)
+http://watchlive.my.id/live/hbosignature/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=YjI3NTg2NTdjMjViNTFiZEJyNXRKd1h4VGdmSTRCSnpSdFZ5MlhUa0hEZ0IvekhueGVlNlV3MERFQVJuSWpxUE5lTjZYU2ZCL1VwUHptRjhRaDlZaVYrbVJyM0pvUk9WbngraFAvNURTaUgwYStrMmlBaU8waFNOa05kTFBNUFlLY3RyYU1nMVBlUERzeTUv
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/banner_xxhdpi.jpg" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="MOVIES V2",HBO Hits (Maxtream)
+http://watchlive.my.id/live/hbohits/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ODVhMGQwZGZjYWEzNjdiYWgzbGthMU9NQ3NBY3V3cytjamFhbThWYWlFSVR0cVFuRGRKZzBhLzZ2RkJIT3hDTFEvcXVITk1mOGE4Z2REZXE4ZWIrRDBVMUxwVDFOVHdIWE1tYTJSUkYxOHVIRHl5OG9YTlpseG1xcThNdjJzQzlkcU44TWtKMCthVkRPbmh3
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_xxhdpi.jpg" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="MOVIES V2",HBO Family (Maxtream)
+http://watchlive.my.id/live/hbofamily/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=NGY2NTMzZjk2NTI4N2MyYklraHVYYWxjeXdLaTR3ZTFBa1o2MXVHYWlIMFBXWEZONUp5YUtlNkZkMTNVdUFaZVF5VkFjS1NXNXJpQmo2V3A0UVVTMnA3dmtnSGpLS1VlTjdjeGNOUlZzLyt2UkZjQmdlK3JZQktYM2hGbmZnUE5vWXZLNTdOTVp3VEdXTk1r
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/banner_xxhdpi.jpg" tvg-id="HBOCinemax.id" tvg-name="HBO Cinemax" group-title="MOVIES V2",HBO Cinemax (Maxtream)
+http://watchlive.my.id/live/cinemax/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://i.ibb.co/fM0qKD4/Hbo-hometv.png" group-title="MOVIES V2",HBO HD 
+http://watchlive.my.id/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.ibb.co/mJLjBQQ/Hbo-hits.png" group-title="MOVIES V2",HBO HITS HD
+http://watchlive.my.id/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/8ct62yr/Hbo-sign-hometv.png" group-title="MOVIES V2",HBO SIGNATURE HD
+http://watchlive.my.id/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/rMNNVyD/Hbo-fam-hometv.png" group-title="MOVIES V2",HBO FAMILY HD
+http://watchlive.my.id/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/n1pnvB2/Cinemax-hometv.png" group-title="MOVIES V2",CINEMAX HD
+http://watchlive.my.id/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+
 
 
 #EXTINF:0 group-title="MOVIES V2" tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cinemax.jpg",CINEMAX
@@ -271,29 +329,21 @@ https://kusnadipepenk.github.io/ntn/bs2.m3u8
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="C-Sports",Bein 3
 https://kusnadipepenk.github.io/ntn/bs3.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png" group-title="C-Sports",BEIN SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
-
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/W1Be149381.png" group-title="C-Sports",BEIN SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|Referer=https://dooball2you.com/tvonline/
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"pallycon-customdata-v2": "eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTI4MzI5NDUwIiwiY2lkIjoiODhiNmU3NTZmZDZlIiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb3ZnbHVHd2lPTjNxMjdpQXVLU0F6cW96UnFaenppdTM5ZS95MEFYd3lLZnUiLCJ0aW1lc3RhbXAiOiIyMDIzLTA3LTA0VDA2OjMxOjU3WiIsImhhc2giOiJueStiMEQrbHoyYTlQeWQ3dTZqVnlYVmZoQWJZM2piM1NGeDRuM2ladkxRPSIsImtleV9yb3RhdGlvbiI6ZmFsc2V9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-global.pallycon.com/ri/licenseManager.do?
+#EXTINF:-1 group-title="C-Sports" tvg-logo="https://i.postimg.cc/NFzZf23k/retro-tv-test-pattern-marianna-mills.jpg",BEIN 1
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvbein1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="C-Sports", beIN Sports 1 Indonesia
-https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvbein3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title="C-Sports", beIN Sports 3 Indonesia
-https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+#EXTHTTP:{"pallycon-customdata-v2": "eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTI4MzI5NDUwIiwiY2lkIjoiMzI0NzAwNDg2Y2ZmIiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb3ZnbHVHd2lPTjNxMjdpQXVLU0F6cW96UnFaenppdTM5ZS95MEFYd3lLZnUiLCJ0aW1lc3RhbXAiOiIyMDIzLTA3LTA0VDA2OjMyOjIwWiIsImhhc2giOiI0cEdXSnFQMnBmQUpyV2FEbXI4a0l3M0VuOGtxMTkvWCtiT3RGKytiOUQ4PSIsImtleV9yb3RhdGlvbiI6ZmFsc2V9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-global.pallycon.com/ri/licenseManager.do?
+#EXTINF:-1 group-title="C-Sports" tvg-logo="https://i.postimg.cc/NFzZf23k/retro-tv-test-pattern-marianna-mills.jpg",BEIN 3
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
 
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="C-Sports",Champions TV 1
