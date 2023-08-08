@@ -140,27 +140,47 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 https://kusnadipepenk.github.io/campeign/kplus.m3u8
 
 #EXTINF:-1 group-title="MOVIES V2" tvg-id="KBSWorld.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/kbsw.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
 
 #EXTINF:-1 group-title="MOVIES V2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV (alt)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES V2",Paramount (FMX)
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES V2",Paramount (alt)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES V2",Paramount (FMX)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES V2",Rock Action (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="MOVIES V2",Rock Entertainment (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="MOVIES V2",Rock Extreme (alt)
 https://kusnadipepenk.github.io/campeign/bluext.m3u8
 
 #EXTINF:-1  tvg-id="ext" group-title="MOVIES V2" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846163f6883d8f/10ae9df09dad4f7eb8c1639600faed27.png" group-title="MOVIES V2",Sony GEM (alt)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="MOVIES V2",Sony Max (FMX)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sonymax.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="MOVIES V2",Sony TV (F*)
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/sonytv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="MOVIES V2",Citra Entertainment (FMX)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES V2",Citra Drama (FMX)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES V2",Star Movie (alt) 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
@@ -252,7 +272,7 @@ https://kusnadipepenk.github.io/ntn/daz2.m3u8
 https://kusnadipepenk.github.io/ntn/eurospo.m3u8
 
 #EXTINF:-1 group-title="C-Sports" tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" ,Eurosport (F*)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/eurosport
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/eurosport.m3u8
 
 #EXTINF:-1 group-title="C-Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORTS 1 DZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2406,6 +2426,15 @@ http://210.210.155.35/qwr9ew/s/s21/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="Taiwan|China",TDM Macau
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+
+#EXTINF:-1 group-title="Taiwan|China" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Zhejiang%20TV%20SD-FirstMedia-Chl-208.jpg",Zhejiang TV (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zhejiang.m3u8
+#EXTINF:-1 group-title="Taiwan|China" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20Asia%20SD-FirstMedia-Chl-211.jpg",TVBS Asia (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
+#EXTINF:-1 group-title="Taiwan|China" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20News%20SD-FirstMedia-Chl-212.jpg",TVBS News (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsnews.m3u8
+#EXTINF:-1 group-title="Taiwan|China" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg",TVB Xing He (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbxinghe.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png" group-title="Taiwan|China" ,民視第一台
