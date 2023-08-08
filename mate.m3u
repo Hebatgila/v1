@@ -47,8 +47,6 @@ https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?h
 
 
 
-
-
 #EXTINF:0 group-title="MOVIES V2" tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cinemax.jpg",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
@@ -240,7 +238,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
 https://kusnadipepenk.github.io/ntn/cn.m3u8
 
 #EXTINF:-1 group-title="MOVIES V2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonnetwork.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES V2",Disney CH
 http://208.86.19.13:81/14.stream/index.m3u8
@@ -948,18 +946,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb
 
 
 
-
-
-<------ Malaysia Temp -------->
-
-
-
-<------ USA Temp -------->
-
-
-
-
-
 <----------------------------------- Trial Channel --------------------------------------->
 
 #EXTINF:-1 group-title="TRIAL CHANNEL", VSIN
@@ -1298,7 +1284,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png" group-title="MOVIES",Paramount Plus Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
-
 #EXTINF:-1 tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES",Movie SPhere US
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 
@@ -1317,7 +1302,6 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 @@@@
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits
@@ -1384,8 +1368,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:0 tvg-id="Paramount Network" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES",Paramount Network
 https://anevia114.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES",Paramount (FMX)
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES",Paramount (alt)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES",Paramount (FMX)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -1398,14 +1385,25 @@ https://anevia114.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 https://anevia114.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES",Rock Action (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/rockact.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="MOVIES",Rock Entertainment (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="MOVIES",Rock Extreme (alt)
 https://kusnadipepenk.github.io/campeign/bluext.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="MOVIES",Sony Max (FMX)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sonymax.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="MOVIES V2",Sony TV (F*)
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/sonytv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="MOVIES",Citra Entertainment (FMX)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Citra Drama (FMX)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
 
 @@@@@
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV (V)
@@ -1444,10 +1442,15 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
 
 #EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846163f6883d8f/10ae9df09dad4f7eb8c1639600faed27.png" group-title="MOVIES",Sony GEM (alt)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1463,7 +1466,7 @@ http://210.210.155.37/session/9af57718-167b-11ed-ba60-8e66997260e4/uq2663/h/h08/
 https://kusnadipepenk.github.io/campeign/kplus.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="KBSWorld.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/kbsw.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
 
 #EXTINF:-1 tvg-url="http://strimz.my.id/epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="MOVIES",KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
@@ -1801,6 +1804,10 @@ https://stream-delivery.mapalus.xyz/live/tv/group1/chno/065.m3u8
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tlc.png " group-title="Lifestyle",TLC HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC (FMX)
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/tlc.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="AsianFoodNetwork.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/afn.png " group-title="Lifestyle",AFN HD
@@ -1812,14 +1819,14 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u
 
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg",Asian Food Network (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/afn.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",Food Network (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/foodnetwork.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png",HGTV Asia (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/hgtv.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -2029,7 +2036,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u
 https://kusnadipepenk.github.io/ntn/cn.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonnetwork.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8lERdy9.png" group-title="KIDS",Boomerang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
