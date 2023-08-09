@@ -168,11 +168,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="MOVIES V2",Sony Max (FMX)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sonymax.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="MOVIES V2",Sony TV (F*)
-https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/sonytv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="MOVIES V2",Citra Entertainment (FMX)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
@@ -252,16 +247,6 @@ https://kusnadipepenk.github.io/ntn/bs2.m3u8
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="C-Sports",Bein 3
 https://kusnadipepenk.github.io/ntn/bs3.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"pallycon-customdata-v2": "eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTI4MzI5NDUwIiwiY2lkIjoiODhiNmU3NTZmZDZlIiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb3ZnbHVHd2lPTjNxMjdpQXVLU0F6cW96UnFaenppdTM5ZS95MEFYd3lLZnUiLCJ0aW1lc3RhbXAiOiIyMDIzLTA3LTA0VDA2OjMxOjU3WiIsImhhc2giOiJueStiMEQrbHoyYTlQeWQ3dTZqVnlYVmZoQWJZM2piM1NGeDRuM2ladkxRPSIsImtleV9yb3RhdGlvbiI6ZmFsc2V9"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-global.pallycon.com/ri/licenseManager.do?
-#EXTINF:-1 group-title="C-Sports" tvg-logo="https://i.postimg.cc/NFzZf23k/retro-tv-test-pattern-marianna-mills.jpg",BEIN 1
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd
-
-
-
 #EXTINF:-1  tvg-logo="" group-title="C-Sports",Dazn 1 Sport
 https://kusnadipepenk.github.io/ntn/daz1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="C-Sports",Dazn 2 Sport
@@ -291,7 +276,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="C-Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU",BEIN SPORTS 3 DZ
+#EXTINF:-1 group-title="C-Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU",BEIN SPORTS 3 
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="C-Sports",Astro SuperSport 1
@@ -1396,12 +1381,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="MOVIES",Rock Extreme (alt)
 https://kusnadipepenk.github.io/campeign/bluext.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="MOVIES",Sony Max (FMX)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sonymax.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="MOVIES V2",Sony TV (F*)
-https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/sonytv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="MOVIES",Citra Entertainment (FMX)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
