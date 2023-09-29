@@ -1,11 +1,68 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://i.imgur.com/kk7gXPr.png" tvg-name="AsianCrush" group-title="USA",Asian Crush
-https://dmr-asiancrush-1-ca.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA PLEX" tvg-chno="590" tvg-id="493e88" tvg-logo="https://i.imgur.com/kk7gXPr.png" tvg-name="AsianCrush" group-title="USA",Asian Crush Roku
-https://8107345ba2a94d8cb314b0afeb197917.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku-ca_AsianCrush/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - ABC SPARK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/abcspark.jpg" group-title="|NA| USA KIDS",KIDS - ABC SPARK HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479208
+#EXTINF:-1 tvg-id="US-Baby First TV" tvg-name="KIDS - BABY FIRST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BABY-FIRST-HD.png" group-title="|NA| USA KIDS",KIDS - BABY FIRST HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479209
+#EXTINF:-1 tvg-id="BABYUS Baby TV US" tvg-name="KIDS - BABY TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BABY-TV-HD.png" group-title="|NA| USA KIDS",KIDS - BABY TV HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479210
+#EXTINF:-1 tvg-id="US-Boomerang" tvg-name="KIDS - BOOMERANG HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/boomeranghd.png" group-title="|NA| USA KIDS",KIDS - BOOMERANG HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479211
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - CARTOON NETWORK EAST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cartoonnetworkhd.png" group-title="|NA| USA KIDS",KIDS - CARTOON NETWORK EAST HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479212
+#EXTINF:-1 tvg-id="US-Cartoon Network USA - Pacific Feed" tvg-name="KIDS - CARTOON NETWORK WEST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cartoonnetworkhd.png" group-title="|NA| USA KIDS",KIDS - CARTOON NETWORK WEST HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479213
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - CBEEBIES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbeebieshd.png" group-title="|NA| USA KIDS",KIDS - CBEEBIES HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479214
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - COMEDY CENTRAL EXTRA" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralextra.png" group-title="|NA| USA KIDS",KIDS - COMEDY CENTRAL EXTRA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479215
+#EXTINF:-1 tvg-id="US-Comedy Central (US) - Eastern Feed" tvg-name="KIDS - COMEDY CENTRAL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralhd.png" group-title="|NA| USA KIDS",KIDS - COMEDY CENTRAL HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479216
+#EXTINF:-1 tvg-id="US-Disney - Eastern Feed" tvg-name="KIDS - DISNEY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneychannelhd.png" group-title="|NA| USA KIDS",KIDS - DISNEY CHANNEL HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479217
+#EXTINF:-1 tvg-id="US-Disney - Pacific Feed" tvg-name="KIDS - DISNEY CHANNEL WEST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneychannelhd.png" group-title="|NA| USA KIDS",KIDS - DISNEY CHANNEL WEST HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479218
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - DISNEY JR EAST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-JUNIOR-HD.png" group-title="|NA| USA KIDS",KIDS - DISNEY JR EAST HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479219
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - DISNEY XD EAST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-XD-HD.png" group-title="|NA| USA KIDS",KIDS - DISNEY XD EAST HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479220
+#EXTINF:-1 tvg-id="US-Disney XD USA - Eastern Feed" tvg-name="KIDS - DISNEY XD HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneyxdhd.png" group-title="|NA| USA KIDS",KIDS - DISNEY XD HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479221
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - FAMILY CHRGD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FAMILY-JUNIOR-HD.png" group-title="|NA| USA KIDS",KIDS - FAMILY CHRGD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479222
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - FAMILY EAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/FAMILY-JUNIOR-HD.png" group-title="|NA| USA KIDS",KIDS - FAMILY EAST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479223
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - FAMILY JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/FAMILY-JUNIOR-HD.png" group-title="|NA| USA KIDS",KIDS - FAMILY JR
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479224
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - FAMILY WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/FAMILY-JUNIOR-HD.png" group-title="|NA| USA KIDS",KIDS - FAMILY WEST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479225
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - JIM JAM" tvg-logo="http://logo.protv.cc/picons-dino/logos/jimjam.png" group-title="|NA| USA KIDS",KIDS - JIM JAM
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479226
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="KIDS - JUNIOR" tvg-logo="http://logo.protv.cc/picons-dino/logos/junior.png" group-title="|NA| USA KIDS",KIDS - JUNIOR
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479227
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - KINO FAMILY HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/kinotv.png" group-title="|NA| USA KIDS",KIDS - KINO FAMILY HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479228
+#EXTINF:-1 tvg-id="US-Nickelodeon USA - East Feed" tvg-name="KIDS - NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeonhd.png" group-title="|NA| USA KIDS",KIDS - NICKELODEON HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479229
+#EXTINF:-1 tvg-id="US-Nick Jr. - East" tvg-name="KIDS - NICK JR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICK-JR-HD.png" group-title="|NA| USA KIDS",KIDS - NICK JR HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479230
+#EXTINF:-1 tvg-id="US-Nicktoons - East" tvg-name="KIDS - NICK TOONS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICK-TOONS-HD.png" group-title="|NA| USA KIDS",KIDS - NICK TOONS HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479231
+#EXTINF:-1 tvg-id="US-PBS (KCTS) Seattle, WA" tvg-name="KIDS - PBS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PBS-HD.png" group-title="|NA| USA KIDS",KIDS - PBS HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479232
+#EXTINF:-1 tvg-id="US-PBS Kids (KCTS-TV2) Seattle, WA" tvg-name="KIDS - PBS KIDS" tvg-logo="http://logo.protv.cc/picons-dino/logos/PBS-KIDS.jpg" group-title="|NA| USA KIDS",KIDS - PBS KIDS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479233
+#EXTINF:-1 tvg-id="US-TeenNick - Eastern" tvg-name="KIDS - TEEN NICK" tvg-logo="http://logo.protv.cc/picons-dino/logos/TEEN-NICK.jpg" group-title="|NA| USA KIDS",KIDS - TEEN NICK
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479234
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - TREEHOUSE" tvg-logo="http://logo.protv.cc/picons-dino/logos/treehouse.jpg" group-title="|NA| USA KIDS",KIDS - TREEHOUSE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479235
+#EXTINF:-1 tvg-id="Universal Kids" tvg-name="KIDS - UNIVERSAL KIDS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/UNIVERSAL-KIDS-HD.png" group-title="|NA| USA KIDS",KIDS - UNIVERSAL KIDS HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479236
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - YTV EAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/ytv.png" group-title="|NA| USA KIDS",KIDS - YTV EAST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479237
+#EXTINF:-1 tvg-id="" tvg-name="KIDS - YTV WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/ytv.png" group-title="|NA| USA KIDS",KIDS - YTV WEST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/479238
 
 
 
