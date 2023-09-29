@@ -1,9 +1,69 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://i.imgur.com/kk7gXPr.png" tvg-name="AsianCrush" group-title="USA",Asian Crush
+https://ac-samsung-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA PLEX" tvg-chno="590" tvg-id="493e88" tvg-logo="https://i.imgur.com/kk7gXPr.png" tvg-name="AsianCrush" group-title="USA",Asian Crush plex
+https://ac-samsung.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://icon-library.com/images/cbs-icon/cbs-icon-19.jpg" group-title="USA",CBS
+http://appleiptv.com:80/1240/1240/27752
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/American_Broadcasting_Company_Logo_2013.png" group-title="USA",ABC
+http://appleiptv.com:80/1240/1240/28059
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc_us_central.png" group-title="USA",NBC
+http://appleiptv.com:80/1240/1240/28001
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/fox.png" group-title="USA",Fox
+http://appleiptv.com:80/1240/1240/27860
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/usa.png" group-title="USA",USA Network West
+http://appleiptv.com:80/1240/1240/27573
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT (East)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="USA",TNT (East)
+http://appleiptv.com:80/1240/1240/27537
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS (East)" tvg-country="US" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png" group-title="USA",TBS (East)
+http://appleiptv.com:80/1240/1240/27538
+#EXTINF:-1 tvg-chno="167" tvg-id="SyfyEast.us" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="Movies",SYFY
+http://appleiptv.com:80/1240/1240/27546
+#EXTINF:-1 tvg-chno="212" tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA",Paramount Network
+http://appleiptv.com:80/1240/1240/27566
 
 
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SkB7tj3L2nM91pWNEpNKMDXZyKlt5epyZg&usqp=CAU",HBO SIGNATURE HD
+http://89.187.175.143:80/3014/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",HBO ZONE HD
+http://89.187.175.143:80/3090/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://ky-iptv.com:80/images/55fe26db5a5dd86acbdb79b6efd8707e.png",Crime & Investigation HD
+http://89.187.175.143:80/3088/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HD
+http://89.187.175.143:80/3058/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE HD
+http://89.187.175.143:80/3102/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",STARZ KIDS & FAMILY HD
+http://89.187.175.143:80/3043/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ HD
+http://89.187.175.143:80/3035/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",STARZ CINEMA HD
+http://89.187.175.143:80/3103/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",STARZ COMEDY HD
+http://89.187.175.143:80/3041/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
+http://89.187.175.143:80/3012/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png",THRILLERMAX HD
+http://89.187.175.143:80/3032/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png",CINEMAX MOVIEMAX
+http://89.187.175.143:80/4169/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/OuterMax_2011.svg/revision/latest/scale-to-width-down/639?cb=20160721192522",CINEMAX OUTERMAX
+http://89.187.175.143:80/4170/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Epix.png",EPIX HD
+http://89.187.175.143:80/3020/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/EPIX-2-on-DISH.png",EPIX 2
+http://89.187.175.143:80/4173/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/d4/6b/f0/d46bf04bc630a3ba1addd7d0aa35a743.jpg",FX HD
+http://89.187.175.143:80/3006/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC HD
+http://89.187.175.143:80/3002/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",SYFY HD
+http://89.187.175.143:80/3105/index.m3u8
 
 
 ------- Taiwan China -------------------
