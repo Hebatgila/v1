@@ -13,22 +13,8 @@ https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us",Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="ElRey.us",El Rey Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elrey-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="Farscape.us",Farscape
-https://a8d3367c658948afb1901efdd9babe5b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_Farscape/playlist.m3u8
-#EXTINF:-1 tvg-id="JohnnyCarsonTV.us",Johnny Carson TV
-https://amg00163-shoutfactory-johnnycarson-dmr-xydqu.amagi.tv/playlist/amg00163-shoutfactory-johnnycarson-dmr/playlist.m3u8
-#EXTINF:-1 tvg-id="LoneStar.us",Lone Star
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="MidnightPulp.us",Midnight Pulp
-https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="MST3K.us",Mystery Science Theater 3000 (MST3K)
-https://amg00163-shoutfactory-mst3k-dmr-gdk46.amagi.tv/playlist/amg00163-shoutfactory-mst3k-dmr/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",QwestTV
-https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es",RealMadrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us",Retro Crush
@@ -38,52 +24,19 @@ https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-s
 
 #EXTINF:-1 tvg-id="AWE.us",AWE (720p)
 https://cdn.klowdtv.net/803B48A/awe_aws_ms/AWE.m3u8
-#EXTINF:-1 tvg-id="AWE.us",AWE (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us",Cine Sony (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="HSN.us",HSN (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us",OAN (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SonyMovies.us",Sony Movie Channel (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us",Sony Movies (Sony Movie Channel)
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us",SportsGrid (720p)
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us",Absolute Reality by WE TV (1080p)
-https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCPresents.us",AMC Presents (1080p)
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="IFCFilmsPicks.us",IFC Films Picks (1080p)
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RushbyAMC.us",Rush by AMC (1080p)
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="SlightlyOffIFC.us",Slightly Off by IFC (1080p)
-https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AFV.us",AFV (720p)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us",AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us",Comedy Dynamics (1080p)
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Crackle.us",Crackle (720p)
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DarkMatterTV.us",Dark Matter TV (720p)
-https://dmtv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Docurama.us",Docurama (1080p)
-https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="DoveChannel.us",Dove Channel (1080p)
-https://dove-channel.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk",EDGEsport (1080p)
-https://edgesports-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us",Estrella News (1080p)
-https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us",Estrella TV East (1080p)
-https://estrellatv-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HiYAH.us",Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="IGN.us",IGN (1080p)
@@ -96,39 +49,18 @@ https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=263&ads.wurl_name=MidnightPulp
 #EXTINF:-1 tvg-id="MovieSphere.us",MovieSphere (1080p)
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MuseumTVFast.us",Museum TV Fast (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us",Newsmax (1080p)
-https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlayWorks.us",Play.Works (720p)
-https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https://app.plex.tv&ads.consent=0&ads.gdpr=1&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.ua=Mozilla/5.0+(Windows+NT+6.1;+rv:83.0)+Gecko/20100101+Firefox/83.0&ads.us_privacy=1---&ads.wurl_channel=512&ads.wurl_name=PlayWorks
-#EXTINF:-1 tvg-id="RetroCrush.us",RetroCrush TV (1080p)
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush
-#EXTINF:-1 tvg-id="ReutersTV.us",Reuters (1080p)
-https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ReutersTV.us",Reuters TV
-https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Revry.us",Revry (720p) [Not 24/7]
-https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RevryNews.us",Revry News (720p) [Not 24/7]
-https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us",SportsGrid (1080p)
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us",Tastemade (1080p)
 https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TheFilmDetective.us",The Film Detective (720p)
-https://filmdetective-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/master.m3u8
-#EXTINF:-1 tvg-id="TheFilmDetective.us",The Film Detective (720p)
-https://filmdetective-plex.amagi.tv/index.m3u8
+
 #EXTINF:-1 tvg-id="Timeline.us",Timeline (1080p)
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UsWeeklyTV.us",US Weekly TV
 https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk",Wonder (1080p)
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YahooFinance.us",Yahoo! Finance (1080p)
-https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us",Yahoo! Finance (1080p)
 https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cocoro.us",Cocoro (1080p)
@@ -148,8 +80,6 @@ https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AWEEncore.us",AWE Encore (720p)
 https://aweencore-vizio.amagi.tv/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="TMZ.us",TMZ (720p)
