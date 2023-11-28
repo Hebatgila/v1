@@ -7,11 +7,14 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/warner.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ANIPLUS_HD
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS (2)
+http://210.210.155.35/uq2663/h/h114/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ANIPLUS_HD
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Kidz_HD
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
