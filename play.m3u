@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Warner-TV-HD-FirstMedia-Chl-313.png" group-title="ENTERTAINMENT",Warner TV
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Warner-TV-HD-FirstMedia-Chl-313.png" group-title="ENTERTAINMENT",Warner TV(mimi)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/warner.m3u8
-
 
 #EXTINF:-1 group-title="ENTERTAINMENT" ,Euro Sports 1
 https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_29.m3u8
@@ -12,7 +11,6 @@ https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/i
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="ENTERTAINMENT",Euro Sport 3
 https://gdlmovies.tech/Discovery+/api/Eurosport.m3u8
-
 
 
 #EXTINF:-1 tvg-url=""tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="ENTERTAINMENT",Warner TV (M)
@@ -25,6 +23,123 @@ http://208.115.225.174:14132
 http://50.7.137.106:8080/FOX/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1c044d8eee920f7fe5bf0a8f21808612.png" group-title="ENTERTAINMENT",SYFY (*)
 http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", KIDS
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", HITS
+https://op-group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg", HITS MOVIES
+https://op-group2-swiftservehd-1.dens.tv/h/h38/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg", ROCK ENTERTAINMENT
+https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg", ROCK ACTION
+https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg", KIX
+https://op-group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg", K+
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg", TVN
+https://op-group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg", TVN MOVIES
+https://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg", CELESTIAL MOVIES
+https://op-group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg", CCM
+https://op-group2-swiftservesd-1.dens.tv/s/s31/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg", MY CINEMA ASIA
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", THRILL
+https://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502961_tvchannels_v1.jpg", CINEMA WORLD
+https://op-group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg", MY CINEMA
+https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", MY CIBEMA EUROPE
+https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg", MY FAMILY CHANNEL
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL SD" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS Korean HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",PARAMOUNT NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ACTION
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",HITSMOVIE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TVNMOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",KBSWORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+
+#EXTINF:-1 group-title="FIRSTMEDIA",DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/eurosports2.webp" group-title="OLAHRAGA",Eurosport 2 UK
+https://webudit.hlsjs.ru/lb/premium42/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://i.imgur.com/CmdxyXk.png" group-title="MOVIES V2",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webudit.hlsjs.ru/lb/premium310/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="MOVIES V2",TBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webudit.hlsjs.ru/lb/premium336/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="MOVIES V2",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webudit.hlsjs.ru/lb/premium338/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="MOVIES V2",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium343/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="MOVIES V2",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium312/index.m3u8?|referer=https://weblivehdplay.ru/
 
 
 
