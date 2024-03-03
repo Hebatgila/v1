@@ -1,76 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="UnivisionEast.us",Univision East
-http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
-#EXTINF:-1 tvg-id="USANetworkEast.us",USA Network
+#EXTINF:-1 group-title="USA",BOOMERANG
+http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
+#EXTINF:-1 group-title="USA",TBS
+http://livex.pop-app.live/s4n/poplive/ch212/playlist.m3u8
+#EXTINF:-1 group-title="USA",TNT
+http://livex.pop-app.live/s4n/poplive/ch337/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="USANetworkEast.us",USA Network
 http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
-#EXTINF:-1 tvg-id="OxygenEast.us",Oxygen True Crime
+#EXTINF:-1 group-title="USA" tvg-id="OxygenEast.us",Oxygen True Crime
 http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us",Tennis Channel
-http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
-#EXTINF:-1 tvg-id="ParamountNetworkEast.us",Paramount Network
-http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us",Outdoor Channel
-http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us",NFL Network
-http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATV.us",NBA TV
+#EXTINF:-1 group-title="USA" tvg-id="NBATV.us",NBA TV
 http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicEast.us",National Geographic
-http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us",MLB Network
-http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
-#EXTINF:-1 tvg-id="MeTV.us",MeTV
-http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
-#EXTINF:-1 tvg-id="LifetimeEast.us",Lifetime
+#EXTINF:-1 group-title="USA" tvg-id="LifetimeEast.us",Lifetime
 http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
-#EXTINF:-1 tvg-id="IONTVEast.us",ION Television
-http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryEast.us",History Channel
-http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannelEast.us",Hallmark Channel
+#EXTINF:-1 group-title="USA" tvg-id="HallmarkChannelEast.us",Hallmark Channel
 http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
-#EXTINF:-1 tvg-id="Grit.us",Grit
-http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us",NBC Golf
-http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
-#EXTINF:-1 tvg-id="FXXEast.us",FXX
+#EXTINF:-1 group-title="USA" tvg-id="FXXEast.us",FXX
 http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us",FOX Sports 2
+#EXTINF:-1 group-title="USA" tvg-id="FoxSports2.us",FOX Sports 2
 http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us",FOX Sports 1
+#EXTINF:-1 group-title="USA" tvg-id="FoxSports1.us",FOX Sports 1
 http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
-#EXTINF:-1 tvg-id="KRIVDT1.us",FOX 26 Houston
-http://livex.pop-app.live/s4n/poplive/ch228/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us",FOX Deportes
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTINF:-1 tvg-id="BigTenNetwork.us",BIG 10 Network
-http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
-#EXTINF:-1 tvg-id="EEast.us",E!
+#EXTINF:-1 group-title="USA" tvg-id="EEast.us",E!
 http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network
-http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
-#EXTINF:-1 tvg-id="BravoEast.us",Bravo
+#EXTINF:-1 group-title="USA" tvg-id="BravoEast.us",Bravo
 http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us",ACC Network
-http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
-#EXTINF:-1 tvg-id="KSATDT1.us",ABC 12 San Antonio
-http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
-#EXTINF:-1 tvg-id="AWEEncore.us",AWE Encore (720p) [Geo-blocked]
-https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
-#EXTINF:-1 tvg-id="AWE.us",AWE (720p)
-https://cdn.klowdtv.net/803B48A/awe_aws_ms/AWE.m3u8
-#EXTINF:-1 tvg-id="AWE.us",AWE (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXDEast.us",Disney XD
-http://38.96.178.201:80/live/DisneyXD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelEast.us",Disney Channel
-http://38.96.178.201/live/Disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.jp",Disney Channel Japan (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 tvg-id="DisneyJunior.jp",Disney Junior (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="USA", CARTOONITO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+#EXTINF:-1 group-title="USA", CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 group-title="USA", DK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
+#EXTINF:-1  group-title="USA", DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
+#EXTINF:-1  group-title="USA", DISNEY JR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
+#EXTINF:-1 group-title="USA", NICK JR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
+
+#EXTINF:-1 group-title="USA", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 group-title="USA", TOON TUBERS
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 group-title="USA", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 group-title="USA", DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1 group-title="USA", DISNEY JUNIOR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1 group-title="USA" DISNEY XD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1 group-title=""USA", NATGEO KIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+
+
+#EXTINF:-1 group-title="USA",Disney HD 2
+http://190.90.154.73:8080/play/a01u/index.m3u8
+#EXTINF:-1 group-title="USA",Disney Junior 2
+http://190.90.154.73:8080/play/a019/index.m3u8
+
+#EXTINF:-1  group-title="USA"tvg-logo="https://i.ibb.co/5jWbsKD/1.png",Disney 
+http://metatvpro.com:25461/live/Q5023/5286/275.m3u8
+
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="beIN SPORTS 1.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,38 +140,8 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
 #KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
 
-#EXTINF:-1 tvg-id="CCTV5Plus.cn",CCTV5+
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
-#EXTINF:-1 tvg-id="HOYTV.hk",HOY TV開電視
-https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8
-#EXTINF:-1 tvg-id="",HOY資訊台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
-#EXTINF:-1 tvg-id="J2.hk",J2
-https://pull-f5-spe.ixigua.com/yeslivetv.com/6027316-581799927/index.m3u8
-#EXTINF:-1 tvg-id="ViuTV.hk",ViuTV
-https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
-#EXTINF:-1 tvg-id="ViuTVsix.hk",ViuTV Six
-https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
-#EXTINF:-1 tvg-id="",博斯高球台
-https://yeslivetv.com/twiptv/litv-longturn05/index.m3u8
-#EXTINF:-1 tvg-id="",無綫新聞台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8
-#EXTINF:-1 tvg-id="",無綫財經·體育·資訊台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
-#EXTINF:-1 tvg-id="",翡翠台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
-#EXTINF:-1 tvg-id="",香港國際財經台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
-#EXTINF:-1 tvg-id="",鳳凰中文
-https://pull-f5-spe.ixigua.com/yeslivetv.com/592947253-711982631/index.m3u8
-#EXTINF:-1 tvg-id="",鳳凰資訊
-https://pull-f5-spe.ixigua.com/yeslivetv.com/303328069-581799927/index.m3u8
 
 
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Usᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HerSphereLionsgate.png",Her Sphere by Lionsgate 🇺🇸 🟤
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Usᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphere 🇺🇸 🟤
-https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PN7FL5/SPOTV-logo.png"  group-title="Usᴀ", SPOTV
