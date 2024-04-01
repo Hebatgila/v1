@@ -11,6 +11,22 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 
+#EXTINF:-1  group-title="US", Comedy Central | (US)
+https://dai.google.com/linear/hls/event/BAO5IIgoQ7SKbSH_ww-rkA/master.m3u8
+
+#EXTINF:-1  group-title="US", MTV | (US)
+https://dai.google.com/linear/hls/event/sD3A_DrQSgW6Y7NnVl5ioQ/master.m3u8
+
+#EXTINF:-1  group-title="US", BET | (US)
+https://dai.google.com/linear/hls/event/5lqWhJiPQHiu4MdsBs_Uvw/master.m3u8
+
+#EXTINF:-1  group-title="US", VH1 | (US)
+https://dai.google.com/linear/hls/event/1y0cp2AXQQSHpFOs8LjCUA/master.m3u8
+
+#EXTINF:-1  group-title="US", Paramount Network | (US)
+https://dai.google.com/linear/hls/event/_P1-pj5tRB2p-LniOQUhUg/master.m3u8
+
+
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
 https://dai.google.com/linear/hls/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony",Sony TEN 2
