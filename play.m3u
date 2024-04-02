@@ -1,30 +1,141 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BeIN Asia" tvg-logo="https://thumbor.prod.vidiocdn.com/dS3K8RCdjAW7kafOjw0e_q_Ij7Q=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6299/bein-1-cover-9bb03e.jpg", Bein 1 ID IndiHomeTV
+#EXTINF:-1 group-title="Indihometv" tvg-logo="https://thumbor.prod.vidiocdn.com/dS3K8RCdjAW7kafOjw0e_q_Ij7Q=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6299/bein-1-cover-9bb03e.jpg", Bein 1 ID IndiHomeTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:-1 group-title="BeIN Asia" tvg-logo="https://thumbor.prod.vidiocdn.com/iev_K9n48v6UvFL-k08ILpJKUmo=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6317/bein-3-cover-24025c.jpg", Bein 3 ID IndiHomeTV
+#EXTINF:-1 group-title="Indihometv" tvg-logo="https://thumbor.prod.vidiocdn.com/iev_K9n48v6UvFL-k08ILpJKUmo=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6317/bein-3-cover-24025c.jpg", Bein 3 ID IndiHomeTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
+#EXTINF:-1 group-title="Indihometv"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
-#EXTINF:-1  group-title="US", Comedy Central | (US)
-https://dai.google.com/linear/hls/event/BAO5IIgoQ7SKbSH_ww-rkA/master.m3u8
+#EXTINF:-1 group-title="Indihometv"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
 
-#EXTINF:-1  group-title="US", MTV | (US)
-https://dai.google.com/linear/hls/event/sD3A_DrQSgW6Y7NnVl5ioQ/master.m3u8
+#EXTINF:-1 tvg-id="Zhe Jiang" tvg-name="Zhe Jiang" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_zhejiang_small.png", ZHEJIANG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 
-#EXTINF:-1  group-title="US", BET | (US)
-https://dai.google.com/linear/hls/event/5lqWhJiPQHiu4MdsBs_Uvw/master.m3u8
+#EXTINF:-1 tvg-id="Shenzen" tvg-name="Shenzen" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_shenzen_small.png", SHENZEN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
-#EXTINF:-1  group-title="US", VH1 | (US)
-https://dai.google.com/linear/hls/event/1y0cp2AXQQSHpFOs8LjCUA/master.m3u8
+#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13", CHINESE DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 
-#EXTINF:-1  group-title="US", Paramount Network | (US)
-https://dai.google.com/linear/hls/event/_P1-pj5tRB2p-LniOQUhUg/master.m3u8
+#EXTINF:-1 tvg-id="Lingua" tvg-name="Lingua" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_lingua_small.png", LINGUA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
+
+#EXTINF:-1, tvg-id="SGEM" tvg-name="SGEM" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_sgem_small.png?v=2.0.0.13", GEM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="Asian Food Network" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_afc_ver1.png", ASIAN FOOD NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eat and Go" tvg-name="Eat and Go" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_eatgo_small1.png?v=2.0.0.13", EAT & GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_lifetime_small.png", Lifetime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA", USA Network (East)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA", USA Network (West)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd" group-title="USA", NBC USA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA", CBS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
+https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd
+
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://i.imgur.com/CmdxyXk.png" group-title="USA",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium310/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium336/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium338/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium343/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="USA",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium312/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",Disney XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium314/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-name="Disney JR" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",Disney JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium652/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-name="FOX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="DADDY LIVE HD",FOX USA
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium54/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-name="FX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="DADDY LIVE HD",FX USA
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium317/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-name="FXX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="DADDY LIVE HD",FXX USA
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium298/index.m3u8?|referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="DADDY LIVE HD",Freeform
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+https://webhdrus.onlinehdhls.ru/lb/premium301/index.m3u8?|referer=https://weblivehdplay.ru/
+
+
+
 
 
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
@@ -164,8 +275,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
-
-8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PN7FL5/SPOTV-logo.png"  group-title="SPOTV", SPOTV
