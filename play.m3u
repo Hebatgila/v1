@@ -8,7 +8,7 @@ https://cors-proxy.elfsight.com/cdn08jtedge.indihometv.com/dassdvr/133/beib1/man
 #EXTINF:-1 group-title="Indihometv" tvg-logo="https://thumbor.prod.vidiocdn.com/iev_K9n48v6UvFL-k08ILpJKUmo=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6317/bein-3-cover-24025c.jpg", Bein 3 ID IndiHomeTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 group-title="Indihometv"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -125,23 +125,21 @@ https://webhdrus.onlinehdhls.ru/lb/premium314/index.m3u8?|referer=https://webliv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium652/index.m3u8?|referer=https://weblivehdplay.ru/
 
-#EXTINF:-1 tvg-name="FOX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="DADDY LIVE HD",FOX USA
+#EXTINF:-1 tvg-name="FOX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",FOX USA
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
 https://webhdrus.onlinehdhls.ru/lb/premium54/index.m3u8?|referer=https://weblivehdplay.ru/
 
-#EXTINF:-1 tvg-name="FX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="DADDY LIVE HD",FX USA
+#EXTINF:-1 tvg-name="FX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",FX USA
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
 https://webhdrus.onlinehdhls.ru/lb/premium317/index.m3u8?|referer=https://weblivehdplay.ru/
 
-#EXTINF:-1 tvg-name="FXX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="DADDY LIVE HD",FXX USA
+#EXTINF:-1 tvg-name="FXX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",FXX USA
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
 https://webhdrus.onlinehdhls.ru/lb/premium298/index.m3u8?|referer=https://weblivehdplay.ru/
 
-#EXTINF:-1 tvg-name="Freeform" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="DADDY LIVE HD",Freeform
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",Freeform
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
 https://webhdrus.onlinehdhls.ru/lb/premium301/index.m3u8?|referer=https://weblivehdplay.ru/
-
-
 
 
 
@@ -219,15 +217,27 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=aJouEnzh",GEM
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/244_GEM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="TH - WARNER" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="AIS PLAY", Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
+
+
 #EXTINF:-1 ch-number="111" tvg-name="Paramount Network" tvg-id="Paramount Network.th"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//ParamountNetwork.png" group-title="AIS PLAY", Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0185/DASH/V0185.mpd
+#EXTINF:-0 tvg-id="ParamountNetwork.sg" tvg-name="Paramount Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png" group-title="AIS PLAY",Paramount Network (New)
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0185/HLS/V0185.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b3d02daa48fede0ffe7ca39eeed1090f&chunkHttps=true&tmid=B0007&tpbk=lHhyoWgjc7LgOPvF&rrt=1675852062&tmod=rfk&rsid=add04440-436a-4003-b45a-291fb7db4e6c&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1675938461
+
+
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="hbo.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH Ais Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
@@ -251,16 +261,24 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
 #EXTINF:-1 tvg-id="Hits.sg" tvg-name="Hits" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="AIS PLAY", Hits Ais Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=947a5fdf30b55968f25dce4e80074e4d:ec10530ba2e6861bdb6b18881aadff46
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0137/DASH/V0137.mpd
-#EXTINF:-1 tvg-id="Hits.sg" tvg-name="Hits" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="AIS PLAY", Hits AISPLAY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=947a5fdf30b55968f25dce4e80074e4d:ec10530ba2e6861bdb6b18881aadff46
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0137/DASH/V0137.mpd
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0137/HLS/V0137.m3u8
+
+#EXTINF:-0 tvg-id="AIS-HITS" tvg-name="HITS" tvg-logo="https://gdplayer.tv/assets/img/logo/hits.png" group-title="AIS PLAY",HITS (AISPlay)
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0137/HLS/V0137.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b3d02daa48fede0ffe7ca39eeed1090f&chunkHttps=true&tmid=B0007&tpbk=lHhyoWgjc7LgOPvF&rrt=1675852062&tmod=rfk&rsid=add04440-436a-4003-b45a-291fb7db4e6c&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1675938461
+
+
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="HITS Movies" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="AIS PLAY",HITS-Movies AISPLAY
 #http://playtv.my.id/play/hitsmovie.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=addb5987eda9963ed765295d835b8cc5:7a2df5920917f98f667aed830c92f084
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0138/DASH/V0138.mpd
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0138/HLS/V0138.m3u8
+
+#EXTINF:-0 tvg-id="AIS-HITS Movies" tvg-name="HITS Movies" tvg-logo="https://images.hdpri.me/images/tv/png/th-hitsmovies.png" group-title="AIS PLAY",HITS Movies(AISPlay)
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0138/HLS/V0138.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b3d02daa48fede0ffe7ca39eeed1090f&chunkHttps=true&tmid=B0007&tpbk=lHhyoWgjc7LgOPvF&rrt=1675852062&tmod=rfk&rsid=add04440-436a-4003-b45a-291fb7db4e6c&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1675938461
+
+
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="AIS PLAY",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
@@ -284,6 +302,13 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
 
 
+#EXTINF:-0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/hd-spotv.png" group-title="SPOTV",TH SPOTV
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
+#EXTINF:-0 tvg-id="SPOTV2.kr" tvg-name="SpoTV2" tvg-logo="https://images.livebox.co/images/tv/png/hd-spotv2.png" group-title="SPOTV",TH - TH - SPOTV2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PN7FL5/SPOTV-logo.png"  group-title="SPOTV", SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -299,14 +324,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Lavf/58.1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="Sports",SPOTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPOTV",SPOTV (Backup)
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Lavf/58.1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="Sports",SPOTV 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPOTV",SPOTV 2 (Backup)
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="FIRSTMEDIA",AXN
