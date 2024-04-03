@@ -61,6 +61,26 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/eatg
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 
 
+#EXTINF:-1 group-title="DISCOVERY" ,Discovrey Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Animal Planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_16.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Investigatio
+https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_15.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovey Travel
+https://food-dlvr-ott.akamaized.net/primary/3/76c422fdc309498c9e66920149d0c7c4/index_14.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Food
+https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_15.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Kids
+https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_21.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Euro Sports
+https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_29.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -217,16 +237,12 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=aJouEnzh",GEM
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/244_GEM/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="TH - WARNER" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="AIS PLAY", Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
-
 
 #EXTINF:-1 ch-number="111" tvg-name="Paramount Network" tvg-id="Paramount Network.th"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//ParamountNetwork.png" group-title="AIS PLAY", Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -264,12 +280,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0137/DASH/V0137.mpd
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="HITS Movies" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="AIS PLAY",Hits Movies
-#http://playtv.my.id/play/hitsmovie.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=addb5987eda9963ed765295d835b8cc5:7a2df5920917f98f667aed830c92f084
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0138/DASH/V0138.mpd
-
-
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="AIS PLAY",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
