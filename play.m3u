@@ -66,23 +66,32 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/eatg
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 
-
-#EXTINF:-1 group-title="DISCOVERY" ,Discovrey Science
-https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Disney
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Channel
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disc.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Max
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/Dmax.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Asia
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discasia.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Science
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discien.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Animal Planet
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_16.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/animal.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,TLC
-https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/tlc.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Discovery Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 group-title="DISCOVERY" ,Discovery Investigatio
-https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_15.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disturbo.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Discovery Investigation
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscID.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Discovey Travel
-https://food-dlvr-ott.akamaized.net/primary/3/76c422fdc309498c9e66920149d0c7c4/index_14.m3u8
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/trvl.m3u8
+#EXTINF:-1 group-title="DISCOVERY" ,Food network
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/foodNet.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Discovery Food
 https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_15.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Discovery Kids
-https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_21.m3u8
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscKids.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Euro Sports
 https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_29.m3u8
 
