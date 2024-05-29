@@ -1,5 +1,124 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CinemaChi.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemachi.png " group-title="MOVIES ",CinemaChi
+https://testfunctionlive.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CinemaChi Kids.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemachi-kids.png " group-title=" MOVIES ",CinemaChi Kids
+https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CinemaChi Xtra.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemachi-extra.png " group-title="MOVIES ",CinemaChi Xtra
+https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CinemaChi Max.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemachi-max.png" group-title=" MOVIES ",CinemaChi Max
+https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CinemaChi Action.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/cinemachi-action.png" group-title="MOVIES  ",CinemaChi Action
+https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Thrill.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/thrill.png " group-title="MOVIES ",Thrill
+https://testfunctionlive.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="HitsMovies.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/hits-movies.png" group-title=" MOVIES",HITS Movies
+https://testfunctionlive.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CinemaWorld.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemaworld-1.png " group-title="MOVIES ",Cinema World
+https://testfunctionlive.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CelestialMovies.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/celestial-movies.png " group-title="MOVIES ",Celestial 
+https://testfunctionlive.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CelestialClassicMovie.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/celestial-classic.png " group-title="MOVIES ",Celestial Classic
+https://testfunctionlive.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="tvNMovies.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tvn-movies.png " group-title=" MOVIES",tvN Movies
+https://testfunctionlive.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="ZeeBioskop.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/zee-bioskop.png " group-title=" MOVIES",ZEE BIOSKOP
+https://testfunctionlive.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="GalaxyPremium.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Galaxy-Premium-Hd.png " group-title="MOVIES ",Galaxy Premium
+https://testfunctionlive.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Galaxy.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/galaxy.png " group-title="MOVIES ",Galaxy
+https://testfunctionlive.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="IMC.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/imc.png " group-title="MOVIES ",IMC
+https://testfunctionlive.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="My Family.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/MyFamily.png " group-title="MOVIES ",My Family
+https://testfunctionlive.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="My Cinema.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/MyCinema.png" group-title="MOVIES ",My Cinema
+https://testfunctionlive.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="My Cinema Asia.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/MyCinemaAsia.png " group-title="MOVIES ",My Cinema Asia
+https://testfunctionlive.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Paramount Network" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/paramount.png" group-title=" MOVIES ",Paramount Network
+https://testfunctionlive.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CinemaWorld.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemaworld-1.png " group-title=" MOVIES ",Cinema World
+https://testfunctionlive.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES V2",Star Movie (alt) 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
@@ -197,135 +316,130 @@ https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="beIN SPORTS 1.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 #EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="AIS PLAY",BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="AIS PLAY", BEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 #EXTINF:-1 ch-number="314" tvg-name="beIN SPORTS 4" tvg-id="beIN SPORTS 4.th"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="AIS PLAY", beIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 #EXTINF:-1 ch-number="315" tvg-name="beIN SPORTS 5" tvg-id="beIN SPORTS 5.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png" group-title="AIS PLAY", beIN SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 #EXTINF:-1 ch-number="316" tvg-name="beIN SPORTS 6" tvg-id="beIN SPORTS 6.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png" group-title="AIS PLAY", beIN SPORTS 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 #EXTINF:-1 ch-number="317" tvg-name="beIN SPORTS 7" tvg-id="beIN SPORTS 7.th" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png" group-title="AIS PLAY", beIN SPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="Cartoonito.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="Boomerang" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png", Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
 #EXTINF:-1 ch-number="403" tvg-name="Nickelodeon" tvg-id="Nickelodeon.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/Nickelodeon-Main.backdrop_2.jpg" group-title="AIS PLAY", Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
 #EXTINF:-1 ch-number="404" tvg-name="Nick Jr." tvg-id="Nick Jr..th"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/NickJr-Main_NEW.backdrop.jpg" group-title="AIS PLAY", Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
 #EXTINF:-1 ch-number="402" tvg-name="Cartoon Network" tvg-id="Cartoon Network.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/CartoonNetwork.backdrop.jpg" group-title="AIS PLAY", Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
 
 
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="TH - WARNER" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="AIS PLAY", Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
 
 #EXTINF:-1 ch-number="111" tvg-name="Paramount Network" tvg-id="Paramount Network.th"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//ParamountNetwork.png" group-title="AIS PLAY", Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
 
 #EXTINF:-1 ch-number="111" tvg-name="Paramount Network" tvg-id="Paramount Network.th"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//ParamountNetwork.png" group-title="AIS PLAY", Paramount Network (Back Up)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="hbo.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH Ais Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="HBOFamily.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="HBOHits.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png", HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="hbosignature.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png", HBO Signature Ais Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="cinemaxasia.sg" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX Ais Movies 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
 #EXTINF:-1 tvg-id="Hits.sg" tvg-name="Hits" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="AIS PLAY", Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=947a5fdf30b55968f25dce4e80074e4d:ec10530ba2e6861bdb6b18881aadff46
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0137/DASH/V0137.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0137/DASH/V0137.mpd
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="HITS Movies" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="AIS PLAY",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=addb5987eda9963ed765295d835b8cc5:7a2df5920917f98f667aed830c92f084
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0138/DASH/V0138.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0138/DASH/V0138.mpd
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="AIS PLAY",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="AIS PLAY",Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7372347ddf65ab1594ee35362240dafa:4d78d33c15d1098214b3d3cd3bb7c2a4
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0162/DASH/V0162.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0162/DASH/V0162.mpd
 #EXTINF:-1 ch-number="207" tvg-name="TLC" tvg-id="TLC.th"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="AIS PLAY", TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
 
 #EXTINF:-0 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="AIS PLAY",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Extreme" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="AIS PLAY",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
 
 
-#EXTINF:-0 tvg-id="SPOTV.kr" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/hd-spotv.png" group-title="SPOTV",TH SPOTV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
-#EXTINF:-0 tvg-id="SPOTV2.kr" tvg-name="SpoTV2" tvg-logo="https://images.livebox.co/images/tv/png/hd-spotv2.png" group-title="SPOTV",TH - TH - SPOTV2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PN7FL5/SPOTV-logo.png"  group-title="SPOTV", SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tq9jh3B/spotv2.png"  group-title=""SPOTV", SPOTV 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -345,6 +459,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Lavf/58.1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPOTV",SPOTV 2 (Backup)
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="SPOTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/spotv.png " group-title="SPOTV",SPOTV (Backup1)
+https://testfunctionlive.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="SPOTV2.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/spotv-2.png " group-title="SPOTV",SPOTV 2 (Backup1)
+https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="FIRSTMEDIA",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
