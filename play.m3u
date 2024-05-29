@@ -2,7 +2,9 @@
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="C-Sports",EUROSport
-https://github.com/kusnadipepenk/ntn/blob/master/eurospo.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/eurospo.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="C-Sports",Discovery
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disc.m3u8
 
 #EXTINF:-1 group-title="Indihometv" tvg-logo="https://thumbor.prod.vidiocdn.com/dS3K8RCdjAW7kafOjw0e_q_Ij7Q=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6299/bein-1-cover-9bb03e.jpg", Bein 1 ID IndiHomeTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
