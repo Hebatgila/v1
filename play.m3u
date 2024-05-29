@@ -1,6 +1,34 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES V2",Star Movie (alt) 
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg" group-title="MOVIES V2",Movies Now
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="MOVIES V2",MN Plus
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIES V2",AndPrive
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg" group-title="MOVIES V2",AndFlix
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="MOVIES V2",Disney Jr (alt)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="MOVIES V2",Cartoon Network (alt)
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES V2",Disney CH
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/disch.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES V2",Movie SPhere UK
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES V2",Movie SPhere US
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="C-Sports",EUROSport
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/eurospo.m3u8
 
@@ -144,7 +172,7 @@ https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spec
 
 
 #EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony",Sony PIX
-https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony",Sony TEN 2
