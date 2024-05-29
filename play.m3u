@@ -3,8 +3,6 @@
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="C-Sports",EUROSport
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/eurospo.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="C-Sports",Discovery
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disc.m3u8
 
 #EXTINF:-1 group-title="Indihometv" tvg-logo="https://thumbor.prod.vidiocdn.com/dS3K8RCdjAW7kafOjw0e_q_Ij7Q=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6299/bein-1-cover-9bb03e.jpg", Bein 1 ID IndiHomeTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,12 +86,9 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscID.m3u8
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/trvl.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Food network
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/foodNet.m3u8
-#EXTINF:-1 group-title="DISCOVERY" ,Discovery Food
-https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_15.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Discovery Kids
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscKids.m3u8
-#EXTINF:-1 group-title="DISCOVERY" ,Euro Sports
-https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_29.m3u8
+
 
 
 
@@ -125,6 +120,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
+#EXTINF:-1  tvg-id="ksport1hd" group-title="USA", WWE USA 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA", CBS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -132,72 +134,37 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #KODIPROP:inputstream.adaptive.license_key=c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
 https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd
 
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://i.imgur.com/CmdxyXk.png" group-title="USA",Comedy Central
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium310/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium336/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium338/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium343/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="USA",Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium312/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-name="Disney XD" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",Disney XD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium314/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-name="Disney JR" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",Disney JR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium652/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-name="FOX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",FOX USA
-#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrus.onlinehdhls.ru/lb/premium54/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-name="FX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",FX USA
-#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrus.onlinehdhls.ru/lb/premium317/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-name="FXX USA" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",FXX USA
-#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrus.onlinehdhls.ru/lb/premium298/index.m3u8?|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-name="Freeform" tvg-logo="http://omzolix.elementfx.com/logo/deddy.png" group-title="USA",Freeform
-#EXTHTTP:{"Origin": "https://weblivehdplay.ru/", "Referer": "https://weblivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrus.onlinehdhls.ru/lb/premium301/index.m3u8?|referer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/ACC-logo.png", tvg-id="ksport1hd" group-title="USA", ACC ESPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a329c3bfce3d4d85811b1c69bca39593:16dee7376eff742408e7b5b6fd55b913
+https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ACC_24525/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony",Sony PIX
+https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
-https://dai.google.com/linear/hls/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony",Sony TEN 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+https://dai.google.com/linear/hls/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sony",Sony TEN 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+https://dai.google.com/linear/hls/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sony",Sony TEN 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sony",Sony TEN 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+https://dai.google.com/linear/hls/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sony",Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sony",Sony  TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sony",Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+https://dai.google.com/linear/hls/event/mQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony",Sony TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="beIN SPORTS 1.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
