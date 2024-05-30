@@ -137,7 +137,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="MOVIES V2",Cartoon Network (alt)
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonnetwork.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES V2",Disney CH
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/disch.m3u8
@@ -150,68 +150,11 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES V2",Movie SPhere US
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="C-Sports",EUROSport
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/eurospo.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/eurosport.m3u8
 
-#EXTINF:-1 group-title="Indihometv" tvg-logo="https://thumbor.prod.vidiocdn.com/dS3K8RCdjAW7kafOjw0e_q_Ij7Q=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6299/bein-1-cover-9bb03e.jpg", Bein 1 ID IndiHomeTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:-1 group-title="Indihometv" tvg-logo="https://thumbor.prod.vidiocdn.com/iev_K9n48v6UvFL-k08ILpJKUmo=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/6317/bein-3-cover-24025c.jpg", Bein 3 ID IndiHomeTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-
-#EXTINF:-1 group-title="Indihometv"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-
-#EXTINF:-1 group-title="Indihometv"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Zhe Jiang" tvg-name="Zhe Jiang" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_zhejiang_small.png", ZHEJIANG TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
-
-#EXTINF:-1 tvg-id="Shenzen" tvg-name="Shenzen" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_shenzen_small.png", SHENZEN TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
-
-#EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13", CHINESE DRAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
-
-#EXTINF:-1 tvg-id="Lingua" tvg-name="Lingua" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_lingua_small.png", LINGUA 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
-
-#EXTINF:-1, tvg-id="SGEM" tvg-name="SGEM" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_sgem_small.png?v=2.0.0.13", GEM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
-
-#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="Asian Food Network" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_afc_ver1.png", ASIAN FOOD NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
-
-#EXTINF:-1 tvg-id="Eat and Go" tvg-name="Eat and Go" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_eatgo_small1.png?v=2.0.0.13", EAT & GO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" group-title="Indihometv" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_lifetime_small.png", Lifetime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 
 #EXTINF:-1 group-title="DISCOVERY" ,Disney
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
@@ -237,8 +180,6 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/trvl.m3u8
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/foodNet.m3u8
 #EXTINF:-1 group-title="DISCOVERY" ,Discovery Kids
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscKids.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA", USA Network (East)
