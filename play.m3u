@@ -4,11 +4,13 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="INDIAN SPORTS" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+
+
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png"group-title="INDIAN SPORTS",StarMovies
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32
+
 #EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://iili.io/Jmo9uJp.png" group-title="INDIAN SPORTS",Sony Pix 2
 https://raw.githubusercontent.com/tivigratis/tv/main/SonyPix.m3u8
-
-#EXTINF:-1 group-title="INDIAN SPORTS",Sony Pix 3
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://iili.io/JbnBO3N.png" group-title="INDIAN SPORTS",Sony Ten 1
 https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
