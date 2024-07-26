@@ -1,9 +1,26 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="INDIAN SPORTS" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://iili.io/Jmo9uJp.png" group-title="INDIAN SPORTS",Sony Pix 2
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyPix.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://iili.io/JbnBO3N.png" group-title="INDIAN SPORTS",Sony Ten 1
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://iili.io/JbnBjGR.png" group-title="INDIAN SPORTS",Sony Ten 2
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://iili.io/JbnBhCv.png" group-title="INDIAN SPORTS",Sony Ten 3
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
+ 
+#EXTINF:-1 tvg-id="62289" tvg-logo="https://iili.io/JbnBeaI.png" group-title="INDIAN SPORTS",Sony Ten 4
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="https://iili.io/JbnBSun.png" group-title="INDIAN SPORTS",Sony Ten 5
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES V2",Star Movie (alt) 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
