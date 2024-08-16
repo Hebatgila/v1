@@ -153,28 +153,31 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
-#EXTINF:-1 group-title="FIRSTMEDIA",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 tvg-name="Cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlBCM2reG8Y_usUhw2g3ZG1hP1pxUhlhNFha4-LgKGvxHJgw9ajIU33ye&s=10" group-title="FIRSTMEDIA",AI Cinemax (FM) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+#EXTINF:0 tvg-name="HBO" tvg-logo="https://thumbor.prod.vidiocdn.com/6VhsDQP0TrZMdhsjhRmrO9kk-xI=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/526139/hbo-saturday-night-premiere-38c227.jpg" group-title="FIRSTMEDIA",Ai HBO (FM) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
-
+#EXTINF:0 tvg-name="HBO Family" tvg-logo="https://i.ytimg.com/vi/VzIVH9319zM/maxresdefault.jpg" group-title="FIRSTMEDIA",Ai HBO Family  (FM) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT0ZhbWlseUhEIiwic2lnbmF0dXJlS2V5IjoiNDUwZWQ5NWIyNWViNDBhOTU1ZjA0MTI0NWM1YjMyZTgiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjE5NjM3MDd9
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png",HBO Family (FMXIPTV))
-https://atemeshield1-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
-
+#EXTINF:0 tvg-name="HBO Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-K5FL6AOc7Jay4TKHqUYi2UaYKMDcXYA5Kqu0KyZkuJDgM7fmLVfEQg&s=10" group-title="FIRSTMEDIA",Ai HBO Hits (FM) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT0hpdHNIRCIsInNpZ25hdHVyZUtleSI6ImU5ZDliNzYwMzZlYzBiMDU5YmFlOWNhN2MwMzBlNWRkIiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIxOTYzNzA4fQ
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://iptvsystem.my.id/img/hbohits.png",HBO Hits (FMXIPTV)
-https://atemeshield1-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
+#EXTINF:0 tvg-name="HBO Signature" tvg-logo="https://i.ytimg.com/vi/WWQSTqnf2Tc/maxresdefault.jpg" group-title="CHANNEL",Ai HBO Signature (FM) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT1NpZ25hdHVyZUhEIiwic2lnbmF0dXJlS2V5IjoiOWRmOWI5MTFjNTQ2OTA1NTMwNGU5YTFhN2EwNTFiNjQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjE5NjM3MDd9
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://iptvsystem.my.id/img/hbosig.png",HBO Signature (FMXIPTV)
-https://atemeshield1-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+http://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
 #EXTINF:-1 group-title="FIRSTMEDIA",ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -183,19 +186,18 @@ https://atemeshield1-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IlR2TkhEIiwic2lnbmF0dXJlS2V5IjoiYTE1Mjg2M2U0MDQwZWUyOTE2NzRlOWQ5YWIxMjA0NDQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjE5NjM3MDZ9
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" ,TVN (FMXIPTV)
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IlR2TkhEIiwic2lnbmF0dXJlS2V5IjoiYTE1Mjg2M2U0MDQwZWUyOTE2NzRlOWQ5YWIxMjA0NDQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjI1ODQ1MDV9
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" group-title="FIRSTMEDIA",TVN (FMXIPTV)
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IlR2Tk1vdmllc0hEIiwic2lnbmF0dXJlS2V5IjoiY2JlMTZhOTk1MDZjOTg3YTdmNGM0YzdkMjU0YTI4ZGMiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjE5NjM3MDh9
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",Tvn Movies (FMXIPTV)
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IlR2Tk1vdmllc0hEIiwic2lnbmF0dXJlS2V5IjoiY2JlMTZhOTk1MDZjOTg3YTdmNGM0YzdkMjU0YTI4ZGMiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjI1ODQ1MDh9
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png" group-title="FIRSTMEDIA",Tvn Movies (FMXIPTV)
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkNlbGVzdGlhbE1vdmllc0hEIiwic2lnbmF0dXJlS2V5IjoiNDg2Y2MyZDQ3NDk3OGUxNWQzMTRhYTlkYjY1MTYwNjciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjE5NjM3MDl9
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" ,Celestial Movie (FMXIPTV)
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkNlbGVzdGlhbE1vdmllc0hEIiwic2lnbmF0dXJlS2V5IjoiNDg2Y2MyZDQ3NDk3OGUxNWQzMTRhYTlkYjY1MTYwNjciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjI1ODQ1MDl9
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="FIRSTMEDIA",Celestial Movie (FMXIPTV)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 #EXTINF:-1 group-title="FIRSTMEDIA",Rock Action
