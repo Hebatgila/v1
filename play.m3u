@@ -2,34 +2,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png"group-title="INDIAN SPORTS",StarMovies
-http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="INDIAN SPORTS" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
-
-
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://iili.io/Jmo9uJp.png" group-title="INDIAN SPORTS",Sony Pix 2
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyPix.m3u8
 
 #EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://iili.io/Jmo9uJp.png" group-title="INDIAN SPORTS",Sony Pix 2
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1116481&extension=ts&play_token=4NbfbqP58v
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://iili.io/JbnBO3N.png" group-title="INDIAN SPORTS",Sony Ten 1
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://iili.io/JbnBjGR.png" group-title="INDIAN SPORTS",Sony Ten 2
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://iili.io/JbnBhCv.png" group-title="INDIAN SPORTS",Sony Ten 3
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
- 
-#EXTINF:-1 tvg-id="62289" tvg-logo="https://iili.io/JbnBeaI.png" group-title="INDIAN SPORTS",Sony Ten 4
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="https://iili.io/JbnBSun.png" group-title="INDIAN SPORTS",Sony Ten 5
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES V2",Star Movie (alt) 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
@@ -53,15 +31,6 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/disch.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES V2",Movie SPhere UK
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES V2",Movie SPhere US
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="C-Sports",EUROSport
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/eurosport.m3u8
 
 
 
@@ -141,34 +110,7 @@ https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spec
 https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ACC_24525/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony",Sony PIX
-https://toxicify.pro/sliv/stream.php?id=sony-pix-hd&e=.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-name="" group-title="Sony" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony",Sony TEN 2
-https://dai.google.com/linear/hls/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sony",Sony TEN 3
-https://dai.google.com/linear/hls/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sony",Sony TEN 4
-https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sony",Sony TEN 5
-https://dai.google.com/linear/hls/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sony",Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sony",Sony  TEN 2 HD
-https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sony",Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/mQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony",Sony TEN 4 HD
-https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PN7FL5/SPOTV-logo.png"  group-title="SPOTV", SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -217,20 +159,22 @@ https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT0ZhbWlseUhEIiwic2lnbmF0dXJlS2V5IjoiNDUwZWQ5NWIyNWViNDBhOTU1ZjA0MTI0NWM1YjMyZTgiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjE5NjM3MDd9
 #EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png",HBO Family (FMXIPTV))
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT0hpdHNIRCIsInNpZ25hdHVyZUtleSI6ImU5ZDliNzYwMzZlYzBiMDU5YmFlOWNhN2MwMzBlNWRkIiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIxOTYzNzA4fQ
 #EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://iptvsystem.my.id/img/hbohits.png",HBO Hits (FMXIPTV)
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT1NpZ25hdHVyZUhEIiwic2lnbmF0dXJlS2V5IjoiOWRmOWI5MTFjNTQ2OTA1NTMwNGU5YTFhN2EwNTFiNjQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjE5NjM3MDd9
 #EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://iptvsystem.my.id/img/hbosig.png",HBO Signature (FMXIPTV)
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
 #EXTINF:-1 group-title="FIRSTMEDIA",ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -259,6 +203,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueant_small.png?v=2.5" group-title="FIRSTMEDIA",Rock Entertainment (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
@@ -366,6 +315,11 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j4ZMR46PRR2B5caEByNww", "kid":"BctLvZHjTYWPaSHnGW93lQ" } ], "type":"temporary" }
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
+#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://iili.io/JmozxBR.png" group-title="FIRSTMEDIA",Eurosport Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
 
