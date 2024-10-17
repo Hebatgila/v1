@@ -1,78 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png", DaAi 1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png", DaAi 2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png", Dali TV
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="EBCYOYO.tw" tvg-logo="https://i.imgur.com/k4fhcPl.png", EBC YOYO
-https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
-#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/fEUmRST.png", CTi News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-
-#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png", 民視
-https://pkj99.github.io/YTLive/民視.m3u8
-#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png", FTV News
-https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png", FTV One
-https://pkj99.github.io/YTLive/民視第一台.m3u8
-
-#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png", 民视综艺台
-https://pkj99.github.io/YTLive/民視綜藝台.m3u8
-#EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/Q1Mrvjj.png", Global News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png", SET iNews
-https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png", TTV News
-https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1 tvg-id="mnews.tw" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw", mnews
-https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 tvg-id="ETMall60.tw" tvg-logo="https://i.imgur.com/jkOgbLw.png", ET Mall 60
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-14/69bbb859523176a445b587d2e6f0e281.png" tvg-name="东森幼幼台", 东森幼幼台
-https://pkj99.github.io/YTLive/東森幼幼台.m3u8
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/momo-shop-live.jpg" tvg-name="MOMO购物1", MOMO购物1
-https://pkj99.github.io/YTLive/MOMO購物一台.m3u8
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/momo-shop-live.jpg" tvg-name="MOMO购物2", MOMO购物2
-https://pkj99.github.io/YTLive/MOMO購物二台.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivatv.com.tw/common/images/header/logo.png" tvg-name="美好购物1台", 美好购物1台
-https://pkj99.github.io/YTLive/美好購物1台.m3u8
-#EXTINF:-1 tvg-logo="http://images.1111.com.tw/news/news60594.jpg" tvg-name="美好购物2台", 美好购物2台
-https://pkj99.github.io/YTLive/美好購物2台.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" tvg-name="三立新闻台", 三立新闻台
-https://pkj99.github.io/YTLive/三立新闻台.m3u8
-#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-12/b4555f5a3a2c872195304987e9f4f324.png" tvg-name="TVBS新闻台", TVBS新闻台
-https://pkj99.github.io/YTLive/TVBS新聞.m3u8
-#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-05-15/20804acec838b898ce1d7c285ba0b620.png" tvg-name="东森财经新闻台", 东森财经新闻台
-https://pkj99.github.io/YTLive/東森財經新聞.m3u8
-#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-18/db88abb55834d8b0864ba681c3f4d80a.png" tvg-name="大爱一台", 大爱一台
-https://pkj99.github.io/YTLive/大愛一台.m3u8
-#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-12/3047fff0f5a07dd0c3a4fc9958f24335.png" tvg-name="大爱二台", 大爱二台
-https://pkj99.github.io/YTLive/大愛二台.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JVocS7Yftw8/hq720.jpg" tvg-name="KPOP", KPOP
-https://pkj99.github.io/YTLive/KPOP.m3u8
-#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-12/b4555f5a3a2c872195304987e9f4f324.png" tvg-name="TVBS新闻台", TVBS新闻台
-https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" tvg-name="三立新闻台", 三立新闻台
-https://ythls.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-05-15/20804acec838b898ce1d7c285ba0b620.png" tvg-name="东森财经新闻台", 东森财经新闻台
-https://ythls.onrender.com/channel/UCuzqko_GKcj9922M1gUo__w.m3u8
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" tvg-name="中天新闻台", 中天新闻台
-https://ythls.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" tvg-name="中视新闻", 中视新闻
-https://ythls.onrender.com/channel/UCmH4q-YjeazayYCVHHkGAMA.m3u8
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" tvg-name="台视新闻台", 台视新闻台
-https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" tvg-name="寰宇新闻", 寰宇新闻
-https://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" tvg-name="民视新闻台", 民视新闻台
-https://pkj99.github.io/YTLive/民視新聞台.m3u8
-
-
 
 #EXTINF:-1 group-title="DISCOVERY" ,Disney
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
@@ -6525,56 +6452,6 @@ https://www.dropbox.com/s/ognj3694t3pb3pd/vid_60m32.mp4?dl=1
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Anal(18+)
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_ArabGirls(18+)
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_AsianGirls(18+)
-http://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Big_Ass_Girls(18+)
-http://live.mycamtv.com/bigass.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_BigTits_Girls (18+)
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Blonde_Girls(18+)
-http://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Blowjob(18+)
-http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Brunette_Girls(18+)
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Ebony_Girls(18+)
-http://live.mycamtv.com/ebony.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Girls_Squirt(18+)
-http://live.mycamtv.com/squirt.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Latina_Girls(18+)
-http://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_MILF(18+)
-http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Mature(18+)
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_Medium_Girls(18+)
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_SkinnyGirls(18+)
-http://live.mycamtv.com/skinny.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_TeenGirls(18+)
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_WhiteGirls(18+)
-http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",CamTV_YoungGirls(18+)
-http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",Shemale_TubeTV(18+)
-https://www.ast.tv/stream/1/low.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",Shemale_TubeTV HD(18+)
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",Shemale_TubeTV 2(18+)
-https://www.ast.tv/stream/2/low.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",Shemale_TubeTV 2 HD(18+)
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",Superone (18+)
-http://185.96.176.139:8080/superone/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5CBPJqH/IMG-20210718-104315.png” group-title="MyCamTv_18+",VISIT-X TV HD (18+)
-http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
-
-
 
 
 
@@ -7017,62 +6894,6 @@ https://www.dropbox.com/s/chjf6o24bi3pt28/webcam%20japanese%20094shareext21%2B.m
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="A3Bikini.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="XXX",A3Bikini(720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Anal(720p)
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Asian(720p)
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Big Ass(720p)
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Big Dick(720p)
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Big Tits(720p)
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Blonde(720p)
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Blowjob(720p)
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Brunette(720p)
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Compilation(720p)
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Cuckold(720p)
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Fetish(720p)
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",AdultIPTV.net Gangbang(720p)
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGay.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",LiveCams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",POV 
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRough.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Teen 
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Threesome 
-http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetWoman.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/hPgdTssp/IMG-20210724-092217.png" group-title="XXX",Woman 
 http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-id="ASTTV1.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV1
@@ -7623,3 +7444,4 @@ https://t6s.cdn2020.com/video/m3u8/2021/02/03/a9f96269/index.m3u8
 https://t6s.cdn2020.com/video/m3u8/2021/01/26/7559eadf/index.m3u8
 #EXTINF:-1 group-title="会员频道2",mifd-070永瀬
 https://t5s.cdn2020.com/video/m3u8/2020/12/04/6e452bb6/index.m3u8
+
