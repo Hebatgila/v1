@@ -205,25 +205,26 @@ https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
-#EXTINF:0 tvg-name="HBO" tvg-logo="https://thumbor.prod.vidiocdn.com/6VhsDQP0TrZMdhsjhRmrO9kk-xI=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/526139/hbo-saturday-night-premiere-38c227.jpg" group-title="FIRSTMEDIA",Ai HBO (FM) 
+#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"49LkhD_631EPbJFmigPhgw", "kid":"If_KEIEFQq-XNLgvQADCdA" } ], "type":"temporary" }
+https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
-#EXTINF:0 tvg-name="HBO Family" tvg-logo="https://i.ytimg.com/vi/VzIVH9319zM/maxresdefault.jpg" group-title="FIRSTMEDIA",Ai HBO Family  (FM) 
+#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSEJPRmFtaWx5SEQiLCJzaWduYXR1cmVLZXkiOiI0NTBlZDk1YjI1ZWI0MGE5NTVmMDQxMjQ1YzViMzJlOCIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMjI0Mjk1NH0
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
-#EXTINF:0 tvg-name="HBO Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-K5FL6AOc7Jay4TKHqUYi2UaYKMDcXYA5Kqu0KyZkuJDgM7fmLVfEQg&s=10" group-title="FIRSTMEDIA",Ai HBO Hits (FM) 
+#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSEJPSGl0c0hEIiwic2lnbmF0dXJlS2V5IjoiZTlkOWI3NjAzNmVjMGIwNTliYWU5Y2E3YzAzMGU1ZGQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjIyNDI5NTR9
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
-#EXTINF:0 tvg-name="HBO Signature" tvg-logo="https://i.ytimg.com/vi/WWQSTqnf2Tc/maxresdefault.jpg" group-title="CHANNEL",Ai HBO Signature (FM) 
+#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-http://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSEJPU2lnbmF0dXJlSEQiLCJzaWduYXR1cmVLZXkiOiI5ZGY5YjkxMWM1NDY5MDU1MzA0ZTlhMWE3YTA1MWI2NCIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMjI0Mjk1NH0
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
 #EXTINF:-1 group-title="FIRSTMEDIA",ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
