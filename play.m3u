@@ -113,9 +113,6 @@ https://pkj99.github.io/YTLive/民視新聞台.m3u8
 
 #EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://iili.io/Jmo9uJp.png" group-title="INDIAN SPORTS",Sony Pix 2
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1116481&extension=ts&play_token=4NbfbqP58v
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES V2",Star Movie (alt) 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg" group-title="MOVIES V2",Movies Now
@@ -267,8 +264,6 @@ https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spec
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a329c3bfce3d4d85811b1c69bca39593:16dee7376eff742408e7b5b6fd55b913
 https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ACC_24525/manifest.mpd
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PN7FL5/SPOTV-logo.png"  group-title="SPOTV", SPOTV
