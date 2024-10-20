@@ -2062,6 +2062,83 @@ https://live.hkdvb.com/hls/live/99.m3u8?token=631170156178264
 #EXTINF:-1 group-title="Taiwan|China",Viu TV6
 https://live.hkdvb.com/hls/live/96.m3u8?token=631170156178264
 
+#EXTINF:-1 group-title="Taiwan|China",三立INEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="Taiwan|China",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="Taiwan|China"东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="Taiwan|China",运通财经
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 group-title="Taiwan|China",信大
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 group-title="Taiwan|China",DW NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 group-title="Taiwan|China",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="Taiwan|China",K-POP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1 group-title="Taiwan|China",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="Taiwan|China",CCTV4中文国际
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 group-title="Taiwan|China",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="Taiwan|China",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="Taiwan|China",天才冲冲冲「综艺」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="Taiwan|China",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="Taiwan|China"Tokyo Shibuya「东京涩谷」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+#EXTINF:-1 group-title="Taiwan|China",大爱
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="Taiwan|China",TVBS网路新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="Taiwan|China",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+
+#EXTINF:-1 group-title="Taiwan|China",凤凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="Taiwan|China",TBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1 group-title="Taiwan|China",大爱2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 group-title="Taiwan|China",ANN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 group-title="Taiwan|China",中天新闻「循环直播」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 group-title="Taiwan|China",CNA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 group-title="Taiwan|China",HTB NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 group-title="Taiwan|China",国会频道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 group-title="Taiwan|China",国会频道2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1 group-title="Taiwan|China",123 GO LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 group-title="Taiwan|China",半岛新闻「英语]
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+
+#EXTINF:-1 group-title="Taiwan|China",东森幼幼歌曲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1 group-title="Taiwan|China",猪佩奇「动画」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+#EXTINF:-1 group-title="Taiwan|China",动画1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1 group-title="Taiwan|China",动画2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1 group-title="Taiwan|China",儿童歌曲1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1 group-title="Taiwan|China",儿童歌曲2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1 group-title="Taiwan|China",镜新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="Taiwan|China",Taiwan+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png" group-title="Taiwan|China" ,民視第一台
 http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab	
