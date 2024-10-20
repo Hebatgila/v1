@@ -27,11 +27,24 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
-
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://iili.io/JbnBO3N.png" group-title="INDIAN SPORTS",Sony Ten 1
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://iili.io/JbnBjGR.png" group-title="INDIAN SPORTS",Sony Ten 2
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://iili.io/JbnBhCv.png" group-title="INDIAN SPORTS",Sony Ten 3
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
+ 
+#EXTINF:-1 tvg-id="62289" tvg-logo="https://iili.io/JbnBeaI.png" group-title="INDIAN SPORTS",Sony Ten 4
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="https://iili.io/JbnBSun.png" group-title="INDIAN SPORTS",Sony Ten 5
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="MOVIES V2" ,Sony PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyPix.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Hallmark_Channel.svg" group-title="MOVIES V2",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -2026,7 +2039,28 @@ http://210.210.155.35/qwr9ew/s/s21/index.m3u8
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Taiwan|China",Pearl 明珠台
+https://live.hkdvb.com/hls/live/84.m3u8?token=631170156178264
 
+#EXTINF:-1 group-title="Taiwan|China",HOYTV资讯台
+https://live.hkdvb.com/hls/live/78.m3u8?token=631170156178264
+
+#EXTINF:-1 group-title="Taiwan|China",NOW新闻台
+https://live.hkdvb.com/hls/live/332.m3u8?token=631170156178264
+
+#EXTINF:-1 group-title="Taiwan|China",TVBJ1
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+
+#EXTINF:-1 group-title="Taiwan|China",RTHK31
+https://live.hkdvb.com/hls/live/31.m3u8?token=631170156178264
+#EXTINF:-1 group-title="Taiwan|China",RTHK32
+https://live.hkdvb.com/hls/live/32.m3u8?token=631170156178264
+#EXTINF:-1 group-title="Taiwan|China",RTHK36
+https://live.hkdvb.com/hls/live/36.m3u8?token=631170156178264
+#EXTINF:-1 group-title="Taiwan|China",Viu TV
+https://live.hkdvb.com/hls/live/99.m3u8?token=631170156178264
+#EXTINF:-1 group-title="Taiwan|China",Viu TV6
+https://live.hkdvb.com/hls/live/96.m3u8?token=631170156178264
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png" group-title="Taiwan|China" ,民視第一台
