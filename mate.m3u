@@ -1032,17 +1032,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cin
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_163.png" group-title="MOVIES",Paramount Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
-https://d1abp075u76pbq.cloudfront.net/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://guki.my.id/logo/movie/paramount.png" , PARAMOUNT
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
-
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png" group-title="MOVIES",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
@@ -1127,7 +1116,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 group-title=MOVIES" tvg-name="TV Movies" tvg-country="ID" tvg-logo="",ID | Hits Movies HD ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title='MOVIES" tvg-name="TV Movies" tvg-country="ID" tvg-logo="",ID | Hits Movies HD ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
@@ -1143,7 +1132,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd|Referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-name="TV Movies" tvg-country="ID" tvg-logo="",ID | tvN HD ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="MOVIES" tvg-name="TV Movies" tvg-country="ID" tvg-logo="",ID | tvN HD ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
 https://atemeshield1-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
@@ -1155,7 +1144,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-name="TV Movies" tvg-country="ID" tvg-logo="",ID | tvN Movies HD ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="MOVIES" tvg-name="TV Movies" tvg-country="ID" tvg-logo="",ID | tvN Movies HD ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
@@ -1367,10 +1356,6 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="Knowledge",Biznet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://i.pinimg.com/originals/9b/d7/b3/9bd7b36b0ecfa827d38e5be37bb0d993.jpg" group-title="Knowledge",InWonder
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwondercanada/playlist.m3u8?
 //https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwondercanada/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -1402,56 +1387,6 @@ https://xplore-plex.amagi.tv/playlist.m3u8
 
 <----------------------------------- Lifestyle --------------------------------------->
 
-#EXTINF:-1 group-title="Lifestyle", TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="Lifestyle", SO YUMMY
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6041643175c115002dc5125d" tvg-id="5e20b730f2f8d5003d739db7-6041643175c115002dc5125d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SoYummy_logo_Dark.png" group-title="Lifestyle",So Yummy
-https://firstmedia-soyummy-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Rs19sdFRTfJdn9Wyxa4f&channelId=6041643175c115002dc5125d&uid=1gan12kip-e3kr-p1g-k5xg-qjerpa4vo5l/hls/amagi_hls_data_plexAAAAA-so-yummy-plex/CDN/playlist.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/thedesignnetwork_tdn_5.png" group-title="Lifestyle",The Design Network
-https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:0 group-title="Lifestyle",Tastemade Aus
-https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60bfcd2c7c60b7002c9765dc" tvg-id="5e20b730f2f8d5003d739db7-60bfcd2c7c60b7002c9765dc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/peopleTV_logo_dark.png" group-title="Lifestyle",PeopleTV
-https://peopletv-plex.akamaized.net/midroll/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Rs19sdFRTfJdn9Wyxa4f&channelId=60bfcd2c7c60b7002c9765dc/amagi_hls_data_peopletvA-peopletv-plex/CDN/playlist.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e" tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usweekly_logo_dark.png" group-title="Lifestyle",Us Weekly TV
-https://5e075c7a96014ebb9326fe748ea748ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_USWeeklyTV/playlist.m3u8?ads.wurl_channel=836&ads.wurl_name=USWeeklyTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=60a9d105d162b9002d05a60e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png?zoom=2&resize=222%2C92&ssl=1" group-title="Lifestyle",Inwild
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8?ads.wurl_channel%3D689%26ads.wurl_name%3DFashionTV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7
-
-#EXTINF:-1 group-title="Lifestyle",Real Stories
-https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Lifestyle",Time Line
-https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Lifestyle",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Lifestyle",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Lifestyle",Tastemade International
-https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Lifestyle" tvg-logo="",iFood
-https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Lifestyle",FoodChannel
-https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Lifestyle", TasteMade Travel
-https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Lifestyle", Eat & Go
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/065.m3u8
 
 #EXTINF:-1 group-title="FLifestyle" tvg-name="" tvg-country="ID" tvg-logo="",ID | Food Network HD ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1514,6 +1449,58 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd|Referer=https://www.visionplus.id/
+
+
+#EXTINF:-1 group-title="Lifestyle", TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle", SO YUMMY
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6041643175c115002dc5125d" tvg-id="5e20b730f2f8d5003d739db7-6041643175c115002dc5125d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SoYummy_logo_Dark.png" group-title="Lifestyle",So Yummy
+https://firstmedia-soyummy-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Rs19sdFRTfJdn9Wyxa4f&channelId=6041643175c115002dc5125d&uid=1gan12kip-e3kr-p1g-k5xg-qjerpa4vo5l/hls/amagi_hls_data_plexAAAAA-so-yummy-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/thedesignnetwork_tdn_5.png" group-title="Lifestyle",The Design Network
+https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:0 group-title="Lifestyle",Tastemade Aus
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60bfcd2c7c60b7002c9765dc" tvg-id="5e20b730f2f8d5003d739db7-60bfcd2c7c60b7002c9765dc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/peopleTV_logo_dark.png" group-title="Lifestyle",PeopleTV
+https://peopletv-plex.akamaized.net/midroll/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Rs19sdFRTfJdn9Wyxa4f&channelId=60bfcd2c7c60b7002c9765dc/amagi_hls_data_peopletvA-peopletv-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e" tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usweekly_logo_dark.png" group-title="Lifestyle",Us Weekly TV
+https://5e075c7a96014ebb9326fe748ea748ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_USWeeklyTV/playlist.m3u8?ads.wurl_channel=836&ads.wurl_name=USWeeklyTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=60a9d105d162b9002d05a60e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png?zoom=2&resize=222%2C92&ssl=1" group-title="Lifestyle",Inwild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8?ads.wurl_channel%3D689%26ads.wurl_name%3DFashionTV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7
+
+#EXTINF:-1 group-title="Lifestyle",Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle",Time Line
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle",Tastemade International
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle" tvg-logo="",iFood
+https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Lifestyle",FoodChannel
+https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle", TasteMade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle", Eat & Go
+https://stream-delivery.mapalus.xyz/live/tv/group1/chno/065.m3u8
 
 
 
@@ -1688,12 +1675,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
-#EXTINF:-1 tvg-id="612.astro" tvg-logo="https://iili.io/JmoBktR.png" group-title="KIDS",Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
-
 #EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-logo="https://iili.io/JmoB1ZQ.png" group-title="KIDS",MyKidz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
@@ -1730,7 +1711,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-name="TV Anak" tvg-country="ID" tvg-logo="",ID | Nickelodeon ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="KIDS" tvg-name="TV Anak" tvg-country="ID" tvg-logo="",ID | Nickelodeon ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
 https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
@@ -1741,7 +1722,7 @@ https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-name="" tvg-country="ID" tvg-logo="",ID | Nick Jr ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="KIDS" tvg-name="" tvg-country="ID" tvg-logo="",ID | Nick Jr ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
 https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
@@ -1758,7 +1739,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-name="TV Anak" tvg-country="ID" tvg-logo="",ID | Dream Works HD ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="KIDS" tvg-name="TV Anak" tvg-country="ID" tvg-logo="",ID | Dream Works HD ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
@@ -1984,7 +1965,6 @@ http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 group-title="Taiwan|China" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Celestial Classic Movies
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -2071,28 +2051,7 @@ http://210.210.155.35/qwr9ew/s/s21/index.m3u8
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Taiwan|China",Pearl 明珠台
-https://live.hkdvb.com/hls/live/84.m3u8?token=631170156178264
 
-#EXTINF:-1 group-title="Taiwan|China",HOYTV资讯台
-https://live.hkdvb.com/hls/live/78.m3u8?token=631170156178264
-
-#EXTINF:-1 group-title="Taiwan|China",NOW新闻台
-https://live.hkdvb.com/hls/live/332.m3u8?token=631170156178264
-
-#EXTINF:-1 group-title="Taiwan|China",TVBJ1
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-
-#EXTINF:-1 group-title="Taiwan|China",RTHK31
-https://live.hkdvb.com/hls/live/31.m3u8?token=631170156178264
-#EXTINF:-1 group-title="Taiwan|China",RTHK32
-https://live.hkdvb.com/hls/live/32.m3u8?token=631170156178264
-#EXTINF:-1 group-title="Taiwan|China",RTHK36
-https://live.hkdvb.com/hls/live/36.m3u8?token=631170156178264
-#EXTINF:-1 group-title="Taiwan|China",Viu TV
-https://live.hkdvb.com/hls/live/99.m3u8?token=631170156178264
-#EXTINF:-1 group-title="Taiwan|China",Viu TV6
-https://live.hkdvb.com/hls/live/96.m3u8?token=631170156178264
 
 #EXTINF:-1 group-title="Taiwan|China",三立INEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
