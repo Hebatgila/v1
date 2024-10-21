@@ -1101,7 +1101,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 group-title='MOVIES" tvg-name="TV Movies" tvg-country="ID" tvg-logo="",ID | Hits Movies HD ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="MOVIES" tvg-name="TV Movies" tvg-country="ID" tvg-logo="",ID | Hits Movies HD ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
@@ -1373,7 +1373,7 @@ https://xplore-plex.amagi.tv/playlist.m3u8
 <----------------------------------- Lifestyle --------------------------------------->
 
 
-#EXTINF:-1 group-title="FLifestyle" tvg-name="" tvg-country="ID" tvg-logo="",ID | Food Network HD ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="Lifestyle" tvg-name="" tvg-country="ID" tvg-logo="",ID | Food Network HD ᶠᶦʳˢᵗ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
@@ -2274,23 +2274,6 @@ http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=
 http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=907472da94c4b947513e7befdce8071b
 
 
-#EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="Taiwan|China",SET 三立iNews
-https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="Taiwan|China",Taiwan News HD 
-https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/台視新聞.m3u8
-
-#EXTINF:-1 tvg-id="7176" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="Taiwan|China", 中視新聞 HD
-https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/中視新聞.m3u8
-
-#EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="Taiwan|China", 中天新聞 HD
-https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/中天新聞.m3u8
-
-#EXTINF:-1 tvg-id="6171" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png" group-title="Taiwan|China", 寰宇新聞台
-https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/寰宇新聞.m3u8
-
-#EXTINF:-1 tvg-id="6171" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="Taiwan|China", 鏡新聞
-https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/鏡新聞.m3u8
 
 
 
