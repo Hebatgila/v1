@@ -27,24 +27,11 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://iili.io/JbnBO3N.png" group-title="INDIAN SPORTS",Sony Ten 1
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://iili.io/JbnBjGR.png" group-title="INDIAN SPORTS",Sony Ten 2
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://iili.io/JbnBhCv.png" group-title="INDIAN SPORTS",Sony Ten 3
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
- 
-#EXTINF:-1 tvg-id="62289" tvg-logo="https://iili.io/JbnBeaI.png" group-title="INDIAN SPORTS",Sony Ten 4
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="https://iili.io/JbnBSun.png" group-title="INDIAN SPORTS",Sony Ten 5
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="MOVIES V2" ,Sony PIX
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyPix.m3u8
+http://50.7.234.10:8278/sonypix_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2400c47878967957999b5c142336d58b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Hallmark_Channel.svg" group-title="MOVIES V2",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -2131,21 +2118,22 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 
-#EXTINF:-1 tvg-name="FTV One (民視第一台)" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-id="FTVOne.tw" group-title="Taiwan|China",FTV One (民視第一台) 1
-http://php.jdshipin.com:8880/xsj.php?id=ftv-one
 
-#EXTINF:-1 tvg-name="FTV One (民視第一台)" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-id="FTVOne.tw" group-title="Taiwan|China",FTV One (民視第一台) 2
-http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn
 
-#EXTINF:-1 tvg-name="FTV One (民視第一台)" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-id="FTVOne.tw" group-title="Taiwan|China",FTV One (民視第一台) 3
-http://seb.sason.top/ptv/ftv.php?id=dy
-
-#EXTINF:-1 tvg-name="FTV One (民視第一台)" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-id="FTVOne.tw" group-title="Taiwan|China",FTV One (民視第一台) 4
-http://106.107.177.216:5000/litv/4gtv-4gtv003
+#EXTINF:-1 group-title="Taiwan|China",民視
+http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8742eae9e34ff529729460b85da292c8
+#EXTINF:-1 group-title="Taiwan|China",民視第一台
+http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=036b899d76f305b70c91acb1ecbe20f0
+#EXTINF:-1 group-title="Taiwan|China",民視台灣台
+http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6b406a3e29a0d6a467a9daf7e2c53c93
+#EXTINF:-1 group-title="Taiwan|China",民視新聞台
+http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9787063f7ed8e759418ccc1220dffe5f
+#EXTINF:-1 group-title="Taiwan|China",台視
+http://50.7.234.10:8278/ttv_taiwan  /playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0126ebb171df0f2c4fac8327ae7b549b
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png" group-title="Taiwan|China" ,民視第一台
-http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab	
+http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=036b899d76f305b70c91acb1ecbe20f0
 
 #EXTINF:0 group-title="Taiwan|China" tvg-logo="https://lh3.googleusercontent.com/--LjxdM2YyhA/Y0KqSAh8OgI/AAAAAAAAB1o/KBYeXNi2tlo2fOAP7ZPVWz_MEikDEsWHACNcBGAsYHQ/s1600/1665313350332554-1.png" group-title="Taiwan|China",FTV General 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
