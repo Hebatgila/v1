@@ -27,30 +27,31 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
-#EXTINF:-1 tvg-logo="http://gg.gg/HerSphereByLionsgate_png" group-title="MOVIES WORLD",Her Sphere by Lionsgate
+#EXTINF:-1 tvg-logo="http://gg.gg/HerSphereByLionsgate_png" group-title="HBO",Her Sphere by Lionsgate
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/Hbo_png" group-title="MOVIES WORLD", HBO (thailand) Ori
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-#EXTINF:-1 tvg-logo="http://gg.gg/Hbo_png" group-title="MOVIES WORLD", HBO (thailand) Ori Server: 2
+
+#EXTINF:-1 tvg-logo="http://gg.gg/Hbo_png" group-title="HBO", HBO  (thailand)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
-#EXTINF:-1 tvg-logo="http://gg.gg/HboFamily_png" group-title="MOVIES WORLD", HBO Family (thailand) Ori
+#EXTINF:-1 tvg-logo="http://gg.gg/Hbo_png" group-title="HBO", HBO 2 (thailand)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTINF:-1 tvg-logo="http://gg.gg/HboFamily_png" group-title="HBO", HBO Family (thailand)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-#EXTINF:-1 tvg-logo="http://gg.gg/HboHits_png" group-title="MOVIES WORLD", HBO Hits (thailand) Ori
+#EXTINF:-1 tvg-logo="http://gg.gg/HboHits_png" group-title="HBO", HBO Hits  (thailand)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://cnt1-streamer17.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="MOVIES V2" ,Sony PIX
-http://50.7.234.10:8278/sonypix_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2400c47878967957999b5c142336d58b
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Hallmark_Channel.svg" group-title="MOVIES V2",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -1111,11 +1112,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd|Referer=h
 #KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
 https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="MOVIES",Hits Now
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
 
 #EXTINF:-1 tvg-id="401.astro" tvg-logo="https://iili.io/Jmo9V72.png" group-title="MOVIES",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1352,7 +1348,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInv
 #EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Knowledge",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-
 #EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://i.pinimg.com/originals/9b/d7/b3/9bd7b36b0ecfa827d38e5be37bb0d993.jpg" group-title="Knowledge",InWonder
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwondercanada/playlist.m3u8?
 //https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwondercanada/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -1397,7 +1392,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title=""Lifestyle",HGTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Lifestyle",HGTV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
@@ -1414,7 +1409,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
-
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1645,8 +1639,6 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes
 
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-
-
 
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
