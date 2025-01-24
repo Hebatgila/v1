@@ -27,6 +27,53 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA", FS1
+https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Fx" tvg-name="FX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-If4W7_ltrIqTps-iR_ysuKYmsqzs3TD-yQ&s" group-title="USA", FX
+https://fl6.moveonjoy.com/FX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FxMovie" tvg-name="FX MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj1xQJoqK_fPbZgUm95ttTm6Lt3e-cvkEiay2EB5VqoDex0S9CtKIvSts&s" group-title="USA", FX Movie
+https://fl6.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NATGEOWILD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4lqtj1TlYrTO0HVQ8zYg4fwIfsx2-9mh_kdr1qSi5k00ai1ym3iaOgA&s" group-title="USA", NatGeo Wild
+https://fl5.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN_2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="USA", ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="USA", ESPNews
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png' group-title="USA", ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="USA",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS_SPORTS_NETWORK" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="USA", CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="USA",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="USA",.BET
+http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET_GOSPEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="USA",BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="USA", BET Her East
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET_SOUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343" group-title="USA", BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="USA", Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="USA", ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="USA", MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="Syfy" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/syfy-new-black-logo-featured.jpg?w=200" group-title="USA", SYfy
+https://fl5.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/cinemax-movie-max.png?w=200" group-title="USA", Cinemax
+https://fl1.moveonjoy.com/CINEMAX_WEST/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/Hallmark-Channel-free-live-stream.png?w=200" group-title="USA", Hallmark
+https://fl2.moveonjoy.com/HALLMARK_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Mysteri" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/HALLMARK-MOVIES-MYSTERIES-free-live-stream.png?w=200" group-title="USA", Hallmark Mysteri
+https://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hbo 1 usa" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/HBO-1.png?w=200" group-title="USA", Hbo 1Usa
+https://fl1.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hbo 2 usa" tvg-logo="https://i1.wp.com/redditsport.cc/imgs/HBO-1.png?w=200" group-title="USA", Hbo 2Usa
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://gg.gg/HerSphereByLionsgate_png" group-title="HBO",Her Sphere by Lionsgate
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
 
@@ -50,32 +97,6 @@ https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://cnt1-streamer17.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
-#EXTINF:-1 tvg-id="1411" group-title="HBO" tvg-logo="http://i.ibb.co/L9rY2tN/hbo.png" group-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movies-5324840-4442730.png",HBO ᵐᵉᵈⁱᵃ ᶜᵒʳᵖ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OvtTomQ5Oc1xKPp87e1TOg", "kid":"pAdHnwdNQ9eYR4wSEtlYdg" } ], "type":"temporary" }
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-
-#EXTINF:-1 tvg-id="2902" group-title="HBO" tvg-logo="http://i.ibb.co/0GWjcWV/hbofamily.png",HBO Family ᵐᵉᵈⁱᵃ ᶜᵒʳᵖ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"psbvyrAHbVcuVzL7ZFHRnA", "kid":"NjtVGRMSTWuAB0yilbJRKQ" } ], "type":"temporary" }
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-
-#EXTINF:-1 tvg-id="2903" group-title="HBO" tvg-logo="http://i.ibb.co/8mgc3qG/hbohits.png",HBO Hits ᵐᵉᵈⁱᵃ ᶜᵒʳᵖ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EHKx5hIGw4WWB5hPhy5UnA", "kid":"Rz+r3AWsTZuU/TTzP3M5Tw" } ], "type":"temporary" }
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-
-#EXTINF:-1 tvg-id="2901" group-title="HBO" tvg-logo="http://i.ibb.co/4TFkw0B/hbosignature.png",HBO Signature ᵐᵉᵈⁱᵃ ᶜᵒʳᵖ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tk+IfSSAvK6pksLwgmRJqQ", "kid":"kEgPVx9dQQiR163XEDwehA" } ], "type":"temporary" }
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-
-#EXTINF:-1 tvg-id="1412" group-title="HBO" tvg-logo="http://i.ibb.co/WfRpvsJ/cinemax.png",CINEMAX ᵐᵉᵈⁱᵃ ᶜᵒʳᵖ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UNO57EnhVwYh1FgikjYH9w", "kid":"Mrwu5oaRRLiL7jur8gL4jg" } ], "type":"temporary" }
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Hallmark_Channel.svg" group-title="MOVIES V2",Hallmark
@@ -91,75 +112,90 @@ https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES V2",HBO (Sg)
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES V2",HBO Hits (Sg)
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES V2",HBO Family (Sg)
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES V2",HBO Signature (Sg)
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES V2",Cinemax (Sg)
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
-
 #EXTINF:-1 tvg-id="Animax" group-title="MOVIES V2" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD (SGP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="GEM" group-title="MOVIES V2" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM (SGP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"3a9c1f25f4e001a64a99edb452117c88":"9fb744b2e1ff54a1b7a9702f5db8d8e1","7ef57f7f3e8cf0efe4f3d5772a7cbb35":"0ac6d617095fbe0ca7f4c9ae72fa5f51"}
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/cartoon-network.png" group-title="MOVIES V2",Cartoon Network
+https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
-#EXTINF:-1 group-title="MOVIES V2" tvg-logo="https://i.imgur.com/EVwkZ8w.png",ROCK ACTION (SGP)
-https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="MOVIES V2",Disney Channel
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
-#EXTINF:-1 group-title="MOVIES V2" tvg-logo="https://i.imgur.com/HtUCnAB.png",ROCK ENTERTAINMENT (SGP)
-https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
+#EXTINF:-1 tvg-id="disneyjunior" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-junior.png" group-title="MOVIES V2",Disney Junior
+https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+#EXTINF:-1 tvg-id="disneyxd" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-xd.png" group-title="MOVIES V2",Disney XD
+https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
+
+
+
 
 
 
 #EXTINF:-1 group-title="C-Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 1 ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+https://cdn09jtedge.indihometv.com/joss/134/beib1/manifest.mpd
 
 #EXTINF:-1 group-title="C-Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 3 ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+https://cdn09jtedge.indihometv.com/joss/134/beib2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-#EXTINF:-1 group-title="C-Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", beIN SPORTS (My)
-https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/408/default.mpd
 
+#EXTINF:-1 group-title="C-Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 1/ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-#EXTINF:-1 group-title="C-Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", beIN SPORTS 2 (My)
-https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5066/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn09jtedge.indihometv.com/joss/133/beib1/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/astro.php?id=2705
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#EXTINF:-1 group-title="C-Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png", bEIN SPORTS 3 (My)
-https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2705/default.mpd
+#EXTINF:-1 group-title="C-Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 3/ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn09jtedge.indihometv.com/joss/133/beib2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="beINSports" group-title="C-Sports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="beINSports2" group-title="C-Sports" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="beINSports3" group-title="C-Sports" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="beINSports4" group-title="C-Sports" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="beINSports5" group-title="C-Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
 
 ======================================================================================
 
@@ -1024,20 +1060,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="Animax" group-title="MOVIES" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD (SGP)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/EVwkZ8w.png",ROCK ACTION (SGP)
-https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/HtUCnAB.png",ROCK ENTERTAINMENT (SGP)
-https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_7.png" group-title="MOVIES",Cinemachi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1262,8 +1285,6 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Family Flik
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",Hallmark Mysteries
-https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 #EXTINF:-1 group-title="MOVIES",MY TIME Movies
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
@@ -1665,8 +1686,7 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
-#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
 
 #EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-name="Pluto TV IMPACT Wrestling" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="SPORTS",Pluto TV IMPACT Wrestling (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
@@ -1749,7 +1769,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
- 
+
  
 #EXTINF:-1 tvg-id="616.astro" tvg-logo="https://iili.io/JmoBluj.png" group-title="KIDS",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
