@@ -1093,14 +1093,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png" group-title="MOVIES",Paramount Plus Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
+#EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="140" group-title="MOVIES" , MovieSphere by Lionsgate
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES",Movie SPhere UK
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="140" group-title="MOVIES" , MovieSphere
+https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8
 
 #EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png/revision/latest?cb=20190917114804" group-title="MOVIES",Crackle (720p)
 https://crackle-plex.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 
 ======================================
@@ -1557,7 +1560,8 @@ https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ygtv_logo_dark.png" group-title="MOVIES",YG TV PLEX
 https://4e7d4e92cd344185b927ab5c730550dd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_YGTV/playlist.m3u8?ads.wurl_channel=900&ads.wurl_name=YGTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=60d4ede2b2fdec002c14113b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-chno="1296" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20210909T003532.png" group-title="MOVIES",NEW KPOP v2
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES", CRIME MOVIES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
