@@ -26,6 +26,10 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz" refresh="3600"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg", Warner
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 #EXTINF:-1  tvg-id="tap-movies-hd" tvg-logo="https://i.imgur.com/lVNcCFq.png" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg",Tap Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1955,7 +1959,6 @@ https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
-
 
 
 #EXTINF:-1 tvg-id="ArirangTV.id" tvg-logo="https://iili.io/Jmo2lu2.png" group-title="MOVIES", Arirang TV
