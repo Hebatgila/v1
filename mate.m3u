@@ -80,11 +80,11 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="HBOHits" group-title="SHBO (inditv)" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits (inditv)
+#EXTINF:-1 tvg-id="HBOHits" group-title="HBO (inditv)" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits (inditv)
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="HBOFamily" group-title="SHBO (inditv)" tvg-logo="https://iili.io/Ju79otR.png",HBO Family (inditv)
+#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO (inditv)" tvg-logo="https://iili.io/Ju79otR.png",HBO Family (inditv)
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
