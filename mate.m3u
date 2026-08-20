@@ -29,8 +29,263 @@
 
 
 ======================================================================================
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan-economic-tv-cn.png",HUNAN ECONOMIC TV
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnjs
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan-elderly-cn.png",HUNAN ELDERLY
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hngg
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan-city-cn.png",HUNAN CITY
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnds
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan-city-cn.png",HUNAN MOVIES
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hndy
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan-entertainment-cn.png",HUNAN ENTERTAINMENT
+##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnyl
+http://107.150.60.122/live/hnyl.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu-satellite-tv-cn.png",JIANGSU SATELLITE TV
+http://69.30.246.194/live/jsws.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/youman_cartoon_channel_cn.png",YOU MAN CARTOON CHANNEL
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hebei-tv-cn.png",HEBEI TV
+http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",ZHEJIANG SATELLITE TV
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-qianjiang-channel-cn.png",ZHEJIANG QIANJIANG CHANNEL
+http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-economic-and-life-cn.png",ZHEJIANG ECONOMIC & LIFE
+http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-educational-science-and-plays-cn.png",ZHEJIANG EDUCATIONAL SCIENCE & PLAY
+http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-educational-science-and-plays-cn.png",ZHEJIANG TV 4K
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-peoples-livelihood-and-leisure-cn.png",ZHEJIANG PEOPLE'S LIVELIHOOD & LEISURE 
+http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-news-cn.png",ZHEJIANG NEWS
+http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-children-cn.png",ZHEJIANG CHILDREN
+http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-satellite-tv-international-cn.png",ZHEJIANG SATELLITE TV INTERNATIONAL
+http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-haoyigou-cn.png",ZHEJIANG HAOYIGOU
+http://ali-xwl.cztv.com/live/channel11720Plxw.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-zhijiang-documentary-cn.png",ZHEJIANG ZHIJIANG DOCUMENTARY
+http://ali-xwl.cztv.com/live/channel12720Plxw.m3u8
 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/anhui-satellite-tv-cn.png",ANHUI SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beijing-satellite-tv-cn.png",BEIJING SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-kaku-cn.png",BRTV KAKU
+http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-documentary-science-and-education-cn.png",BRTV DOCUMENTARY SCIENCE & EDUCATION
+http://38.75.136.137:98/gslb/dsdqpub/btv3.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-literature-cn.png",BRTV LITERATURE
+http://114.242.62.109:888/hls/18/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-films-cn.png",BRTV FILMS
+http://114.242.62.109:888/hls/20/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-finance-cn.png",BRTV FINANCE
+http://114.242.62.109:888/hls/21/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-finance-cn.png",BRTV SPORTS LEISURE
+http://114.242.62.109:888/hls/22/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-ilife-cn.png",BRTV ILIFE
+http://114.242.62.109:888/hls/23/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-news-cn.png",BRTV NEWS
+http://114.242.62.109:888/hls/25/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-international-cn.png",BRTV INTERNATIONAL
+http://114.242.62.109:888/hls/27/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bingtuan_tv_cn.png",BINGTUAN TV
+http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shenzhen-satellite-tv-cn.png",SHENZEN SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shandong-satellite-tv-cn.png",SHANDONG SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shaanxi-satellite-tv-cn.png",SHAANXI SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sichuan-tv-1-cn.png",SICHUAN TV 1
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qinghai-tv-cn.png",QINGHAI TV
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xizang-tv-chinese-cn.png",XIZHANG TV CHINESE
+http://107.150.60.122/live/xzws.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong_cn_satellite.png",GUANGDONG SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-finance-cn.png",GUANGDONG TV 4K
+http://115.29.208.41:34567/gd.php?id=2567
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-finance-cn.png",GUANGDONG 4K ULTRA HD
+http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhujiang-tv-cn.png",GUANGDONG PEARL RIVER
+http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-sports-cn.png",GUANGDONG SPORTS
+http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-news-cn.png",GUANGDONG NEWS
+http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-film-and-tv-cn.png",GUANGDONG FILM & TV
+http://115.29.208.41:34567/gd.php?id=53
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-greater-bay-area-satellite-tv-cn.png",GUANGDONG GREATER BAY AREA SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-greater-bay-area-satellite-tv-cn.png",GUANGDONG GREATER BAY AREA TV OVERSEAS
+http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-peoples-livelihood-cn.png",GUANGDONG PEOPLE'S LIVELIHOOD
+http://115.29.208.41:34567/gd.php?id=48
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-mobile-cn.png",GUANGDONG MOBILE
+http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-children-cn.png",GUANGDONG CHILDREN
+http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiajia-cartoon-cn.png",JIAJIA CARTOON
+http://38.75.136.137:98/gslb/dsdqpub/gdjjkt.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-lingnan-opera-cn.png",GUANGDONG LINGNAN OPERA
+http://115.29.208.41:34567/gd.php?id=15
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/heilongjiang-tv-cn.png",HELIONGJIANG TV
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/henan-tv-cn.png",HENAN TV
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xiamen-star-tv-china-cn.png",XIAMEN STAR TV
+http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/PqvfYqs5/ezgif-1c4a9adefab6276d.png",JILIN CITY CHANNEL
+http://107.150.60.122/live/jlds.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/pV5ydXk6/ezgif-8b49fee11b5e2394.png",JILIN VARIETY CULTURE CHANNEL
+http://107.150.60.122/live/jlfz.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/zBSW2z6N/ezgif-8b584162f163ebef.png",JILIN LIFECYCLE CHANNEL
+http://107.150.60.122/live/jlsh.m3u8 
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jilin-tv-satellite-cn.png",JILIN TV SATELLITE
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tianjin_tv_cn.png",TIANJIN TV
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/02PKPhfW/ezgif-7c1f8aa390ad2d81.png",TIANJIN TV 1 NEWS
+http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/hjbgsDYQ/ezgif-1418ba280e2ea7ce.png",TIANJIN TV 2 ART
+http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/zDt4rHK4/ezgif-123b4e0aea40864c.png",TIANJIN TV 3 DRAMA
+http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/dQgPCT3f/ezgif-1be8fe51cb8f9fdc.png",TIANJIN TV 4 CITY
+http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/3r4z3J1F/ezgif-1edfb3794b4a36f7.png",TIANJIN TV 5 SPORTS
+http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/hG8Py1zS/ezgif-18b9972a320fbfd4.png",TIANJIN TV 6 SCIENCE AND EDUCATION
+http://38.75.136.137:98/gslb/dsdqpub/tjtv6.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ningxia-satellite-tv-cn.png",NINGXIA SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hu_bei_tv_cn.png",HUBEI SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hubei-economic-cn.png",HUBEI ECONOMIC
+http://38.75.136.137:98/gslb/dsdqpub/hbjs.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hubei-film-and-tv-cn.png",HUBEI FILM & TV
+http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hubei-life-cn.png",HUBEI LIFE
+http://38.75.136.137:98/gslb/dsdqpub/hbty.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hubei-education-cn.png",HUBEI EDUCATION
+http://38.75.136.137:98/gslb/dsdqpub/hbjy.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hubei-comprehensive-cn.png",HUBEI COMPREHENSIVE
+http://107.150.60.122/live/hbzh.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hubei-longshang-cn.png",HUBEI LONGSHANG
+http://107.150.60.122/live/hbls.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangxi-tv-cn.png",JIANGXI SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/Z5BhPR8t/ezgif-34b95304da95521e.png",JIANGXI 2 CITY
+http://107.150.60.122/live/jxtv2.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/HndpBgpR/ezgif-3799ca401e386378.png",JIANGXI 3 ECONOMY & LIFE
+http://107.150.60.122/live/jxtv3.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/FKh5MZtY/ezgif-3378a764061f4913.png",JIANGXI 5 PUBLIC & AGRICULTURE
+http://107.150.60.122/live/jxtv5.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/SxMG7hSk/ezgif-808ae9631feab7fe.png",JIANGXI 6 KIDS
+http://107.150.60.122/live/jxtv6.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/1RF6jHxq/ezgif-83b6ffe3129b83bb.png",JIANGXI 7 NEWS
+http://107.150.60.122/live/jxtv7.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/X7gZMsmy/ezgif-3000092eda78d78e.png",JIANGXI 8 MOBILE TV
+http://107.150.60.122/live/jxtv8.m3u8 
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shanxi-tv-satellite-cn.png",SHANXI TV SATELLITE
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gansu-tv-cn.png",GANSU TV
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guizhou-tv-cn.png",GUIZHOU TV
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tianyuan-go-cn.png",TIANYUAN GO
+http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/liaoning_tv_cn.png",LIAONING TV
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/9X16c1KT/ezgif-5ac9e94efbe7390b.png",LIAONING TV CITY
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnds
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/D0YpLp3N/ezgif-50533c44573b0473.png",LIAONING TV MOVIE & SERIES
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnys
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/BL1Txg2y/ezgif-513b59bcf221df74.png",LIAONING TV LIFE
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnsh
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/HL4bybkk/ezgif-78eb8914d99f9f0f.png",LIAONING TV SPORTS & LEISURE
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnty
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/9MDLVt7T/north.png",LIAONING TV NORTH
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnbf
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chongqing-satellite-tv-cn.png",CHONGQING SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nei-monggol-chinese-tv-cn.png",NEI MONGGOL CHINESE TV
+http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xinjiang-tv-1-cn.png",XINJIANG TV 1
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xinjiang-tv-2-cn.png",XINJIANG TV 2
+https://slstplay.xjtvs.com.cn/xjtv2/xjtv2stream.m3u8?auth_key=1773304296-0-0-6b6afc7c601f4cde15a3fdb9e60fad28&aliyun_uuid=15f1c012-1ef8-4235-ba15-2dbd76a73181
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xinjiang-tv-3-cn.png",XINJIANG TV 3
+https://slstplay.xjtvs.com.cn/xjtv3/xjtv3stream.m3u8?auth_key=1773303809-0-0-80f83028a5c0138109ec832514748a9b&aliyun_uuid=4ec209e0-1005-4ec9-a6b3-b7b2c9b354d0
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xinjiang-tv-4-cn.png",XINJIANG TV 4
+https://slstplay.xjtvs.com.cn/xjtv4/xjtv4stream.m3u8?auth_key=1773303781-2-2-bd926b462c0f45f399e4532b5a822917&aliyun_uuid=efcf4533-0584-49e9-b2c5-6a7581738ddb
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xinjiang-tv-5-cn.png",XINJIANG TV 5
+https://slstplay.xjtvs.com.cn/xjtv5/xjtv5stream.m3u8?auth_key=1773304214-5-5-d273172654a623ecd0acd114b75e4022&aliyun_uuid=d3c2078a-9ee4-4c44-9faa-213714d6ed61
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xinjiang-tv-6-cn.png",XINJIANG TV 6
+##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjtv6
+http://107.150.60.122/live/xjtv6.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xinjiang-tv-7-cn.png",XINJIANG TV 7
+##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjtv7
+http://107.150.60.122/live/xjtv7.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/xx/xinjiang-tv-8-cn.png",XINJIANG TV 8
+##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjtv8
+http://107.150.60.122/live/xjtv8.m3u8 
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guoxue-channel-cn.png",GOUXUE CHANNEL
+http://38.75.136.137:98/gslb/dsdqpub/gxpd.m3u8?auth=testpub
+##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxpd
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yunnan-tv-1-cn.png",YUNNAN TV 1
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shanghai-city-tv-cn.png",SHANGHAI CITY TV
+http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangxi-tv-cn.png",GUANGXI SATELLITE TV
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangxi-international-channel-cn.png",GUANGXI INTERNATIONAL CHANNEL
+http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangxi-news-channel-cn.png",GUANGXI NEWS CHANNEL
+http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangxi-urban-channel-cn.png",GUANGXI URBAN CHANNEL
+http://38.75.136.137:98/gslb/dsdqpub/gxds.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangxi-mobile-channel-cn.png",GUANGXI MOBILE CHANNEL
+http://38.75.136.137:98/gslb/dsdqpub/gxyd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangxi-variety-travel-channel-cn.png",GUANGXI VARIETY TRAVEL CHANNEL
+http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangxi-movie-channel-cn.png",GUANGXI MOVIE CHANNEL
+http://107.150.60.122/live/gxys.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/QCJrc1mF/ezgif-85783bed035ffb50.png",GUANGZHOU TV COMPREHENSIVE
+http://tencentplaygsm.gztv.com/live/zonghes.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/3NmXKChC/ezgif-824de648f817970c.png",GUANGZHOU TV NEWS
+https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sansha_tv_cn.png",SANSHA TV
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fujian-south-east-tv-cn.png",FUJIAN SOUTHEAST TV
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-action-cn.png",CHC ACTION MOVIES
+http://69.30.245.50/live/chcdz.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-home-theater-cn.png",CHC HOME THEATER
+http://69.30.245.50/live/chcjt.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-fan-movies-cn.png",CHC FAN MOVIES
+http://69.30.245.50/live/chchd.m3u8
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/reviewing-classic-channel-cn.png",CHONGWEN CLASSIC CHANNEL
+http://69.30.246.194/live/cwjd.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
